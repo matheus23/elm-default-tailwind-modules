@@ -23,4 +23,4 @@ This package already comes with some configuration:
 
 If you still need to customize the generated css utilities functions (for example for adjusting the colors to your brand), you can do so by providing a tailwind configuration file. However, then you'll need to generate the elm files yourself using [`elm-tailwind-modules`](https://github.com/matheus23/elm-tailwind-modules).
 
-If you want to know how this works, take a look at the [code to generate](https://github.com/matheus23/elm-tailwind-modules/blob/main/generate.js) this package.
+If you want to know how this works, take a look at the [code to generate](https://github.com/matheus23/elm-default-tailwind-modules/blob/main/generate.js) this package.
