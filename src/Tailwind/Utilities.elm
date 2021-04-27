@@ -7782,7 +7782,7 @@ globalStyles =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 absolute : Css.Style
 absolute =
@@ -7793,7 +7793,7 @@ absolute =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_baseline : Css.Style
 align_baseline =
@@ -7804,7 +7804,7 @@ align_baseline =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_bottom : Css.Style
 align_bottom =
@@ -7815,7 +7815,7 @@ align_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_middle : Css.Style
 align_middle =
@@ -7826,7 +7826,7 @@ align_middle =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_text_bottom : Css.Style
 align_text_bottom =
@@ -7837,7 +7837,7 @@ align_text_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_text_top : Css.Style
 align_text_top =
@@ -7848,7 +7848,7 @@ align_text_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 align_top : Css.Style
 align_top =
@@ -7859,7 +7859,7 @@ align_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 animate_bounce : Css.Style
 animate_bounce =
@@ -7905,7 +7905,7 @@ animate_bounce =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 animate_none : Css.Style
 animate_none =
@@ -7919,7 +7919,7 @@ animate_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 animate_ping : Css.Style
 animate_ping =
@@ -7951,7 +7951,7 @@ animate_ping =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 animate_pulse : Css.Style
 animate_pulse =
@@ -7981,7 +7981,7 @@ animate_pulse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 animate_spin : Css.Style
 animate_spin =
@@ -8011,7 +8011,7 @@ animate_spin =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 antialiased : Css.Style
 antialiased =
@@ -8025,7 +8025,7 @@ antialiased =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 appearance_none : Css.Style
 appearance_none =
@@ -8040,7 +8040,7 @@ appearance_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_1 : Css.Style
 aspect_h_1 =
@@ -8051,7 +8051,7 @@ aspect_h_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_10 : Css.Style
 aspect_h_10 =
@@ -8062,7 +8062,7 @@ aspect_h_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_11 : Css.Style
 aspect_h_11 =
@@ -8073,7 +8073,7 @@ aspect_h_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_12 : Css.Style
 aspect_h_12 =
@@ -8084,7 +8084,7 @@ aspect_h_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_13 : Css.Style
 aspect_h_13 =
@@ -8095,7 +8095,7 @@ aspect_h_13 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_14 : Css.Style
 aspect_h_14 =
@@ -8106,7 +8106,7 @@ aspect_h_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_15 : Css.Style
 aspect_h_15 =
@@ -8117,7 +8117,7 @@ aspect_h_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_16 : Css.Style
 aspect_h_16 =
@@ -8128,7 +8128,7 @@ aspect_h_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_2 : Css.Style
 aspect_h_2 =
@@ -8139,7 +8139,7 @@ aspect_h_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_3 : Css.Style
 aspect_h_3 =
@@ -8150,7 +8150,7 @@ aspect_h_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_4 : Css.Style
 aspect_h_4 =
@@ -8161,7 +8161,7 @@ aspect_h_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_5 : Css.Style
 aspect_h_5 =
@@ -8172,7 +8172,7 @@ aspect_h_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_6 : Css.Style
 aspect_h_6 =
@@ -8183,7 +8183,7 @@ aspect_h_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_7 : Css.Style
 aspect_h_7 =
@@ -8194,7 +8194,7 @@ aspect_h_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_8 : Css.Style
 aspect_h_8 =
@@ -8205,7 +8205,7 @@ aspect_h_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_h_9 : Css.Style
 aspect_h_9 =
@@ -8216,7 +8216,7 @@ aspect_h_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_none : Css.Style
 aspect_none =
@@ -8241,7 +8241,7 @@ aspect_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_1 : Css.Style
 aspect_w_1 =
@@ -8267,7 +8267,7 @@ aspect_w_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_10 : Css.Style
 aspect_w_10 =
@@ -8293,7 +8293,7 @@ aspect_w_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_11 : Css.Style
 aspect_w_11 =
@@ -8319,7 +8319,7 @@ aspect_w_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_12 : Css.Style
 aspect_w_12 =
@@ -8345,7 +8345,7 @@ aspect_w_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_13 : Css.Style
 aspect_w_13 =
@@ -8371,7 +8371,7 @@ aspect_w_13 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_14 : Css.Style
 aspect_w_14 =
@@ -8397,7 +8397,7 @@ aspect_w_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_15 : Css.Style
 aspect_w_15 =
@@ -8423,7 +8423,7 @@ aspect_w_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_16 : Css.Style
 aspect_w_16 =
@@ -8449,7 +8449,7 @@ aspect_w_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_2 : Css.Style
 aspect_w_2 =
@@ -8475,7 +8475,7 @@ aspect_w_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_3 : Css.Style
 aspect_w_3 =
@@ -8501,7 +8501,7 @@ aspect_w_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_4 : Css.Style
 aspect_w_4 =
@@ -8527,7 +8527,7 @@ aspect_w_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_5 : Css.Style
 aspect_w_5 =
@@ -8553,7 +8553,7 @@ aspect_w_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_6 : Css.Style
 aspect_w_6 =
@@ -8579,7 +8579,7 @@ aspect_w_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_7 : Css.Style
 aspect_w_7 =
@@ -8605,7 +8605,7 @@ aspect_w_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_8 : Css.Style
 aspect_w_8 =
@@ -8631,7 +8631,7 @@ aspect_w_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 aspect_w_9 : Css.Style
 aspect_w_9 =
@@ -8657,7 +8657,7 @@ aspect_w_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_cols_auto : Css.Style
 auto_cols_auto =
@@ -8668,7 +8668,7 @@ auto_cols_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_cols_fr : Css.Style
 auto_cols_fr =
@@ -8679,7 +8679,7 @@ auto_cols_fr =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_cols_max : Css.Style
 auto_cols_max =
@@ -8693,7 +8693,7 @@ auto_cols_max =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_cols_min : Css.Style
 auto_cols_min =
@@ -8707,7 +8707,7 @@ auto_cols_min =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_rows_auto : Css.Style
 auto_rows_auto =
@@ -8718,7 +8718,7 @@ auto_rows_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_rows_fr : Css.Style
 auto_rows_fr =
@@ -8729,7 +8729,7 @@ auto_rows_fr =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_rows_max : Css.Style
 auto_rows_max =
@@ -8743,7 +8743,7 @@ auto_rows_max =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 auto_rows_min : Css.Style
 auto_rows_min =
@@ -8757,7 +8757,7 @@ auto_rows_min =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur : Css.Style
 backdrop_blur =
@@ -8768,7 +8768,7 @@ backdrop_blur =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_0 : Css.Style
 backdrop_blur_0 =
@@ -8779,7 +8779,7 @@ backdrop_blur_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_2xl : Css.Style
 backdrop_blur_2xl =
@@ -8790,7 +8790,7 @@ backdrop_blur_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_3xl : Css.Style
 backdrop_blur_3xl =
@@ -8801,7 +8801,7 @@ backdrop_blur_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_lg : Css.Style
 backdrop_blur_lg =
@@ -8812,7 +8812,7 @@ backdrop_blur_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_md : Css.Style
 backdrop_blur_md =
@@ -8823,7 +8823,7 @@ backdrop_blur_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_sm : Css.Style
 backdrop_blur_sm =
@@ -8834,7 +8834,7 @@ backdrop_blur_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_blur_xl : Css.Style
 backdrop_blur_xl =
@@ -8845,7 +8845,7 @@ backdrop_blur_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_0 : Css.Style
 backdrop_brightness_0 =
@@ -8856,7 +8856,7 @@ backdrop_brightness_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_100 : Css.Style
 backdrop_brightness_100 =
@@ -8867,7 +8867,7 @@ backdrop_brightness_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_105 : Css.Style
 backdrop_brightness_105 =
@@ -8878,7 +8878,7 @@ backdrop_brightness_105 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_110 : Css.Style
 backdrop_brightness_110 =
@@ -8889,7 +8889,7 @@ backdrop_brightness_110 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_125 : Css.Style
 backdrop_brightness_125 =
@@ -8900,7 +8900,7 @@ backdrop_brightness_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_150 : Css.Style
 backdrop_brightness_150 =
@@ -8911,7 +8911,7 @@ backdrop_brightness_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_200 : Css.Style
 backdrop_brightness_200 =
@@ -8922,7 +8922,7 @@ backdrop_brightness_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_50 : Css.Style
 backdrop_brightness_50 =
@@ -8933,7 +8933,7 @@ backdrop_brightness_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_75 : Css.Style
 backdrop_brightness_75 =
@@ -8944,7 +8944,7 @@ backdrop_brightness_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_90 : Css.Style
 backdrop_brightness_90 =
@@ -8955,7 +8955,7 @@ backdrop_brightness_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_brightness_95 : Css.Style
 backdrop_brightness_95 =
@@ -8966,7 +8966,7 @@ backdrop_brightness_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_0 : Css.Style
 backdrop_contrast_0 =
@@ -8977,7 +8977,7 @@ backdrop_contrast_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_100 : Css.Style
 backdrop_contrast_100 =
@@ -8988,7 +8988,7 @@ backdrop_contrast_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_125 : Css.Style
 backdrop_contrast_125 =
@@ -8999,7 +8999,7 @@ backdrop_contrast_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_150 : Css.Style
 backdrop_contrast_150 =
@@ -9010,7 +9010,7 @@ backdrop_contrast_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_200 : Css.Style
 backdrop_contrast_200 =
@@ -9021,7 +9021,7 @@ backdrop_contrast_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_50 : Css.Style
 backdrop_contrast_50 =
@@ -9032,7 +9032,7 @@ backdrop_contrast_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_contrast_75 : Css.Style
 backdrop_contrast_75 =
@@ -9043,7 +9043,7 @@ backdrop_contrast_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_filter : Css.Style
 backdrop_filter =
@@ -9066,7 +9066,7 @@ backdrop_filter =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_filter_none : Css.Style
 backdrop_filter_none =
@@ -9080,7 +9080,7 @@ backdrop_filter_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_grayscale : Css.Style
 backdrop_grayscale =
@@ -9091,7 +9091,7 @@ backdrop_grayscale =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_grayscale_0 : Css.Style
 backdrop_grayscale_0 =
@@ -9102,7 +9102,7 @@ backdrop_grayscale_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_0 : Css.Style
 backdrop_hue_rotate_0 =
@@ -9113,7 +9113,7 @@ backdrop_hue_rotate_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_15 : Css.Style
 backdrop_hue_rotate_15 =
@@ -9124,7 +9124,7 @@ backdrop_hue_rotate_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_180 : Css.Style
 backdrop_hue_rotate_180 =
@@ -9135,7 +9135,7 @@ backdrop_hue_rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_30 : Css.Style
 backdrop_hue_rotate_30 =
@@ -9146,7 +9146,7 @@ backdrop_hue_rotate_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_60 : Css.Style
 backdrop_hue_rotate_60 =
@@ -9157,7 +9157,7 @@ backdrop_hue_rotate_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_hue_rotate_90 : Css.Style
 backdrop_hue_rotate_90 =
@@ -9168,7 +9168,7 @@ backdrop_hue_rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_invert : Css.Style
 backdrop_invert =
@@ -9179,7 +9179,7 @@ backdrop_invert =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_invert_0 : Css.Style
 backdrop_invert_0 =
@@ -9190,7 +9190,7 @@ backdrop_invert_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_0 : Css.Style
 backdrop_opacity_0 =
@@ -9201,7 +9201,7 @@ backdrop_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_10 : Css.Style
 backdrop_opacity_10 =
@@ -9212,7 +9212,7 @@ backdrop_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_100 : Css.Style
 backdrop_opacity_100 =
@@ -9223,7 +9223,7 @@ backdrop_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_20 : Css.Style
 backdrop_opacity_20 =
@@ -9234,7 +9234,7 @@ backdrop_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_25 : Css.Style
 backdrop_opacity_25 =
@@ -9245,7 +9245,7 @@ backdrop_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_30 : Css.Style
 backdrop_opacity_30 =
@@ -9256,7 +9256,7 @@ backdrop_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_40 : Css.Style
 backdrop_opacity_40 =
@@ -9267,7 +9267,7 @@ backdrop_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_5 : Css.Style
 backdrop_opacity_5 =
@@ -9278,7 +9278,7 @@ backdrop_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_50 : Css.Style
 backdrop_opacity_50 =
@@ -9289,7 +9289,7 @@ backdrop_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_60 : Css.Style
 backdrop_opacity_60 =
@@ -9300,7 +9300,7 @@ backdrop_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_70 : Css.Style
 backdrop_opacity_70 =
@@ -9311,7 +9311,7 @@ backdrop_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_75 : Css.Style
 backdrop_opacity_75 =
@@ -9322,7 +9322,7 @@ backdrop_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_80 : Css.Style
 backdrop_opacity_80 =
@@ -9333,7 +9333,7 @@ backdrop_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_90 : Css.Style
 backdrop_opacity_90 =
@@ -9344,7 +9344,7 @@ backdrop_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_opacity_95 : Css.Style
 backdrop_opacity_95 =
@@ -9355,7 +9355,7 @@ backdrop_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_saturate_0 : Css.Style
 backdrop_saturate_0 =
@@ -9366,7 +9366,7 @@ backdrop_saturate_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_saturate_100 : Css.Style
 backdrop_saturate_100 =
@@ -9377,7 +9377,7 @@ backdrop_saturate_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_saturate_150 : Css.Style
 backdrop_saturate_150 =
@@ -9388,7 +9388,7 @@ backdrop_saturate_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_saturate_200 : Css.Style
 backdrop_saturate_200 =
@@ -9399,7 +9399,7 @@ backdrop_saturate_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_saturate_50 : Css.Style
 backdrop_saturate_50 =
@@ -9410,7 +9410,7 @@ backdrop_saturate_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_sepia : Css.Style
 backdrop_sepia =
@@ -9421,7 +9421,7 @@ backdrop_sepia =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 backdrop_sepia_0 : Css.Style
 backdrop_sepia_0 =
@@ -9432,7 +9432,7 @@ backdrop_sepia_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_auto : Css.Style
 bg_auto =
@@ -9443,7 +9443,7 @@ bg_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_black : Css.Style
 bg_black =
@@ -9457,7 +9457,7 @@ bg_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_color : Css.Style
 bg_blend_color =
@@ -9468,7 +9468,7 @@ bg_blend_color =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_color_burn : Css.Style
 bg_blend_color_burn =
@@ -9479,7 +9479,7 @@ bg_blend_color_burn =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_color_dodge : Css.Style
 bg_blend_color_dodge =
@@ -9490,7 +9490,7 @@ bg_blend_color_dodge =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_darken : Css.Style
 bg_blend_darken =
@@ -9501,7 +9501,7 @@ bg_blend_darken =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_difference : Css.Style
 bg_blend_difference =
@@ -9512,7 +9512,7 @@ bg_blend_difference =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_exclusion : Css.Style
 bg_blend_exclusion =
@@ -9523,7 +9523,7 @@ bg_blend_exclusion =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_hard_light : Css.Style
 bg_blend_hard_light =
@@ -9534,7 +9534,7 @@ bg_blend_hard_light =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_hue : Css.Style
 bg_blend_hue =
@@ -9545,7 +9545,7 @@ bg_blend_hue =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_lighten : Css.Style
 bg_blend_lighten =
@@ -9556,7 +9556,7 @@ bg_blend_lighten =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_luminosity : Css.Style
 bg_blend_luminosity =
@@ -9567,7 +9567,7 @@ bg_blend_luminosity =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_multiply : Css.Style
 bg_blend_multiply =
@@ -9578,7 +9578,7 @@ bg_blend_multiply =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_normal : Css.Style
 bg_blend_normal =
@@ -9589,7 +9589,7 @@ bg_blend_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_overlay : Css.Style
 bg_blend_overlay =
@@ -9600,7 +9600,7 @@ bg_blend_overlay =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_saturation : Css.Style
 bg_blend_saturation =
@@ -9611,7 +9611,7 @@ bg_blend_saturation =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_screen : Css.Style
 bg_blend_screen =
@@ -9622,7 +9622,7 @@ bg_blend_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blend_soft_light : Css.Style
 bg_blend_soft_light =
@@ -9633,7 +9633,7 @@ bg_blend_soft_light =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_100 : Css.Style
 bg_blue_100 =
@@ -9647,7 +9647,7 @@ bg_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_200 : Css.Style
 bg_blue_200 =
@@ -9661,7 +9661,7 @@ bg_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_300 : Css.Style
 bg_blue_300 =
@@ -9675,7 +9675,7 @@ bg_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_400 : Css.Style
 bg_blue_400 =
@@ -9689,7 +9689,7 @@ bg_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_50 : Css.Style
 bg_blue_50 =
@@ -9703,7 +9703,7 @@ bg_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_500 : Css.Style
 bg_blue_500 =
@@ -9717,7 +9717,7 @@ bg_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_600 : Css.Style
 bg_blue_600 =
@@ -9731,7 +9731,7 @@ bg_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_700 : Css.Style
 bg_blue_700 =
@@ -9745,7 +9745,7 @@ bg_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_800 : Css.Style
 bg_blue_800 =
@@ -9759,7 +9759,7 @@ bg_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_blue_900 : Css.Style
 bg_blue_900 =
@@ -9773,7 +9773,7 @@ bg_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_bottom : Css.Style
 bg_bottom =
@@ -9784,7 +9784,7 @@ bg_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_center : Css.Style
 bg_center =
@@ -9795,7 +9795,7 @@ bg_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_clip_border : Css.Style
 bg_clip_border =
@@ -9806,7 +9806,7 @@ bg_clip_border =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_clip_content : Css.Style
 bg_clip_content =
@@ -9817,7 +9817,7 @@ bg_clip_content =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_clip_padding : Css.Style
 bg_clip_padding =
@@ -9828,7 +9828,7 @@ bg_clip_padding =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_clip_text : Css.Style
 bg_clip_text =
@@ -9842,7 +9842,7 @@ bg_clip_text =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_contain : Css.Style
 bg_contain =
@@ -9853,7 +9853,7 @@ bg_contain =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_cover : Css.Style
 bg_cover =
@@ -9864,7 +9864,7 @@ bg_cover =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_current : Css.Style
 bg_current =
@@ -9875,7 +9875,7 @@ bg_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_fixed : Css.Style
 bg_fixed =
@@ -9886,7 +9886,7 @@ bg_fixed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_b : Css.Style
 bg_gradient_to_b =
@@ -9897,7 +9897,7 @@ bg_gradient_to_b =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_bl : Css.Style
 bg_gradient_to_bl =
@@ -9908,7 +9908,7 @@ bg_gradient_to_bl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_br : Css.Style
 bg_gradient_to_br =
@@ -9919,7 +9919,7 @@ bg_gradient_to_br =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_l : Css.Style
 bg_gradient_to_l =
@@ -9930,7 +9930,7 @@ bg_gradient_to_l =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_r : Css.Style
 bg_gradient_to_r =
@@ -9941,7 +9941,7 @@ bg_gradient_to_r =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_t : Css.Style
 bg_gradient_to_t =
@@ -9952,7 +9952,7 @@ bg_gradient_to_t =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_tl : Css.Style
 bg_gradient_to_tl =
@@ -9963,7 +9963,7 @@ bg_gradient_to_tl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gradient_to_tr : Css.Style
 bg_gradient_to_tr =
@@ -9974,7 +9974,7 @@ bg_gradient_to_tr =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_100 : Css.Style
 bg_gray_100 =
@@ -9988,7 +9988,7 @@ bg_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_200 : Css.Style
 bg_gray_200 =
@@ -10002,7 +10002,7 @@ bg_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_300 : Css.Style
 bg_gray_300 =
@@ -10016,7 +10016,7 @@ bg_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_400 : Css.Style
 bg_gray_400 =
@@ -10030,7 +10030,7 @@ bg_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_50 : Css.Style
 bg_gray_50 =
@@ -10044,7 +10044,7 @@ bg_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_500 : Css.Style
 bg_gray_500 =
@@ -10058,7 +10058,7 @@ bg_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_600 : Css.Style
 bg_gray_600 =
@@ -10072,7 +10072,7 @@ bg_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_700 : Css.Style
 bg_gray_700 =
@@ -10086,7 +10086,7 @@ bg_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_800 : Css.Style
 bg_gray_800 =
@@ -10100,7 +10100,7 @@ bg_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_gray_900 : Css.Style
 bg_gray_900 =
@@ -10114,7 +10114,7 @@ bg_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_100 : Css.Style
 bg_green_100 =
@@ -10128,7 +10128,7 @@ bg_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_200 : Css.Style
 bg_green_200 =
@@ -10142,7 +10142,7 @@ bg_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_300 : Css.Style
 bg_green_300 =
@@ -10156,7 +10156,7 @@ bg_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_400 : Css.Style
 bg_green_400 =
@@ -10170,7 +10170,7 @@ bg_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_50 : Css.Style
 bg_green_50 =
@@ -10184,7 +10184,7 @@ bg_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_500 : Css.Style
 bg_green_500 =
@@ -10198,7 +10198,7 @@ bg_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_600 : Css.Style
 bg_green_600 =
@@ -10212,7 +10212,7 @@ bg_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_700 : Css.Style
 bg_green_700 =
@@ -10226,7 +10226,7 @@ bg_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_800 : Css.Style
 bg_green_800 =
@@ -10240,7 +10240,7 @@ bg_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_green_900 : Css.Style
 bg_green_900 =
@@ -10254,7 +10254,7 @@ bg_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_100 : Css.Style
 bg_indigo_100 =
@@ -10268,7 +10268,7 @@ bg_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_200 : Css.Style
 bg_indigo_200 =
@@ -10282,7 +10282,7 @@ bg_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_300 : Css.Style
 bg_indigo_300 =
@@ -10296,7 +10296,7 @@ bg_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_400 : Css.Style
 bg_indigo_400 =
@@ -10310,7 +10310,7 @@ bg_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_50 : Css.Style
 bg_indigo_50 =
@@ -10324,7 +10324,7 @@ bg_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_500 : Css.Style
 bg_indigo_500 =
@@ -10338,7 +10338,7 @@ bg_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_600 : Css.Style
 bg_indigo_600 =
@@ -10352,7 +10352,7 @@ bg_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_700 : Css.Style
 bg_indigo_700 =
@@ -10366,7 +10366,7 @@ bg_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_800 : Css.Style
 bg_indigo_800 =
@@ -10380,7 +10380,7 @@ bg_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_indigo_900 : Css.Style
 bg_indigo_900 =
@@ -10394,7 +10394,7 @@ bg_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_left : Css.Style
 bg_left =
@@ -10405,7 +10405,7 @@ bg_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_left_bottom : Css.Style
 bg_left_bottom =
@@ -10416,7 +10416,7 @@ bg_left_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_left_top : Css.Style
 bg_left_top =
@@ -10427,7 +10427,7 @@ bg_left_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_local : Css.Style
 bg_local =
@@ -10438,7 +10438,7 @@ bg_local =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_no_repeat : Css.Style
 bg_no_repeat =
@@ -10449,7 +10449,7 @@ bg_no_repeat =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_none : Css.Style
 bg_none =
@@ -10460,7 +10460,7 @@ bg_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_0 : Css.Style
 bg_opacity_0 =
@@ -10471,7 +10471,7 @@ bg_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_10 : Css.Style
 bg_opacity_10 =
@@ -10482,7 +10482,7 @@ bg_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_100 : Css.Style
 bg_opacity_100 =
@@ -10493,7 +10493,7 @@ bg_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_20 : Css.Style
 bg_opacity_20 =
@@ -10504,7 +10504,7 @@ bg_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_25 : Css.Style
 bg_opacity_25 =
@@ -10515,7 +10515,7 @@ bg_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_30 : Css.Style
 bg_opacity_30 =
@@ -10526,7 +10526,7 @@ bg_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_40 : Css.Style
 bg_opacity_40 =
@@ -10537,7 +10537,7 @@ bg_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_5 : Css.Style
 bg_opacity_5 =
@@ -10548,7 +10548,7 @@ bg_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_50 : Css.Style
 bg_opacity_50 =
@@ -10559,7 +10559,7 @@ bg_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_60 : Css.Style
 bg_opacity_60 =
@@ -10570,7 +10570,7 @@ bg_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_70 : Css.Style
 bg_opacity_70 =
@@ -10581,7 +10581,7 @@ bg_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_75 : Css.Style
 bg_opacity_75 =
@@ -10592,7 +10592,7 @@ bg_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_80 : Css.Style
 bg_opacity_80 =
@@ -10603,7 +10603,7 @@ bg_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_90 : Css.Style
 bg_opacity_90 =
@@ -10614,7 +10614,7 @@ bg_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_opacity_95 : Css.Style
 bg_opacity_95 =
@@ -10625,7 +10625,7 @@ bg_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_100 : Css.Style
 bg_pink_100 =
@@ -10639,7 +10639,7 @@ bg_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_200 : Css.Style
 bg_pink_200 =
@@ -10653,7 +10653,7 @@ bg_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_300 : Css.Style
 bg_pink_300 =
@@ -10667,7 +10667,7 @@ bg_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_400 : Css.Style
 bg_pink_400 =
@@ -10681,7 +10681,7 @@ bg_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_50 : Css.Style
 bg_pink_50 =
@@ -10695,7 +10695,7 @@ bg_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_500 : Css.Style
 bg_pink_500 =
@@ -10709,7 +10709,7 @@ bg_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_600 : Css.Style
 bg_pink_600 =
@@ -10723,7 +10723,7 @@ bg_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_700 : Css.Style
 bg_pink_700 =
@@ -10737,7 +10737,7 @@ bg_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_800 : Css.Style
 bg_pink_800 =
@@ -10751,7 +10751,7 @@ bg_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_pink_900 : Css.Style
 bg_pink_900 =
@@ -10765,7 +10765,7 @@ bg_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_100 : Css.Style
 bg_purple_100 =
@@ -10779,7 +10779,7 @@ bg_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_200 : Css.Style
 bg_purple_200 =
@@ -10793,7 +10793,7 @@ bg_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_300 : Css.Style
 bg_purple_300 =
@@ -10807,7 +10807,7 @@ bg_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_400 : Css.Style
 bg_purple_400 =
@@ -10821,7 +10821,7 @@ bg_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_50 : Css.Style
 bg_purple_50 =
@@ -10835,7 +10835,7 @@ bg_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_500 : Css.Style
 bg_purple_500 =
@@ -10849,7 +10849,7 @@ bg_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_600 : Css.Style
 bg_purple_600 =
@@ -10863,7 +10863,7 @@ bg_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_700 : Css.Style
 bg_purple_700 =
@@ -10877,7 +10877,7 @@ bg_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_800 : Css.Style
 bg_purple_800 =
@@ -10891,7 +10891,7 @@ bg_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_purple_900 : Css.Style
 bg_purple_900 =
@@ -10905,7 +10905,7 @@ bg_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_100 : Css.Style
 bg_red_100 =
@@ -10919,7 +10919,7 @@ bg_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_200 : Css.Style
 bg_red_200 =
@@ -10933,7 +10933,7 @@ bg_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_300 : Css.Style
 bg_red_300 =
@@ -10947,7 +10947,7 @@ bg_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_400 : Css.Style
 bg_red_400 =
@@ -10961,7 +10961,7 @@ bg_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_50 : Css.Style
 bg_red_50 =
@@ -10975,7 +10975,7 @@ bg_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_500 : Css.Style
 bg_red_500 =
@@ -10989,7 +10989,7 @@ bg_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_600 : Css.Style
 bg_red_600 =
@@ -11003,7 +11003,7 @@ bg_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_700 : Css.Style
 bg_red_700 =
@@ -11017,7 +11017,7 @@ bg_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_800 : Css.Style
 bg_red_800 =
@@ -11031,7 +11031,7 @@ bg_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_red_900 : Css.Style
 bg_red_900 =
@@ -11045,7 +11045,7 @@ bg_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_repeat : Css.Style
 bg_repeat =
@@ -11056,7 +11056,7 @@ bg_repeat =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_repeat_round : Css.Style
 bg_repeat_round =
@@ -11067,7 +11067,7 @@ bg_repeat_round =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_repeat_space : Css.Style
 bg_repeat_space =
@@ -11078,7 +11078,7 @@ bg_repeat_space =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_repeat_x : Css.Style
 bg_repeat_x =
@@ -11089,7 +11089,7 @@ bg_repeat_x =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_repeat_y : Css.Style
 bg_repeat_y =
@@ -11100,7 +11100,7 @@ bg_repeat_y =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_right : Css.Style
 bg_right =
@@ -11111,7 +11111,7 @@ bg_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_right_bottom : Css.Style
 bg_right_bottom =
@@ -11122,7 +11122,7 @@ bg_right_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_right_top : Css.Style
 bg_right_top =
@@ -11133,7 +11133,7 @@ bg_right_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_scroll : Css.Style
 bg_scroll =
@@ -11144,7 +11144,7 @@ bg_scroll =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_top : Css.Style
 bg_top =
@@ -11155,7 +11155,7 @@ bg_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_transparent : Css.Style
 bg_transparent =
@@ -11166,7 +11166,7 @@ bg_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_white : Css.Style
 bg_white =
@@ -11180,7 +11180,7 @@ bg_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_100 : Css.Style
 bg_yellow_100 =
@@ -11194,7 +11194,7 @@ bg_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_200 : Css.Style
 bg_yellow_200 =
@@ -11208,7 +11208,7 @@ bg_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_300 : Css.Style
 bg_yellow_300 =
@@ -11222,7 +11222,7 @@ bg_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_400 : Css.Style
 bg_yellow_400 =
@@ -11236,7 +11236,7 @@ bg_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_50 : Css.Style
 bg_yellow_50 =
@@ -11250,7 +11250,7 @@ bg_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_500 : Css.Style
 bg_yellow_500 =
@@ -11264,7 +11264,7 @@ bg_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_600 : Css.Style
 bg_yellow_600 =
@@ -11278,7 +11278,7 @@ bg_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_700 : Css.Style
 bg_yellow_700 =
@@ -11292,7 +11292,7 @@ bg_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_800 : Css.Style
 bg_yellow_800 =
@@ -11306,7 +11306,7 @@ bg_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bg_yellow_900 : Css.Style
 bg_yellow_900 =
@@ -11320,7 +11320,7 @@ bg_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 block : Css.Style
 block =
@@ -11331,7 +11331,7 @@ block =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur : Css.Style
 blur =
@@ -11342,7 +11342,7 @@ blur =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_0 : Css.Style
 blur_0 =
@@ -11353,7 +11353,7 @@ blur_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_2xl : Css.Style
 blur_2xl =
@@ -11364,7 +11364,7 @@ blur_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_3xl : Css.Style
 blur_3xl =
@@ -11375,7 +11375,7 @@ blur_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_lg : Css.Style
 blur_lg =
@@ -11386,7 +11386,7 @@ blur_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_md : Css.Style
 blur_md =
@@ -11397,7 +11397,7 @@ blur_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_sm : Css.Style
 blur_sm =
@@ -11408,7 +11408,7 @@ blur_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 blur_xl : Css.Style
 blur_xl =
@@ -11419,7 +11419,7 @@ blur_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border : Css.Style
 border =
@@ -11430,7 +11430,7 @@ border =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_0 : Css.Style
 border_0 =
@@ -11441,7 +11441,7 @@ border_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_2 : Css.Style
 border_2 =
@@ -11452,7 +11452,7 @@ border_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_4 : Css.Style
 border_4 =
@@ -11463,7 +11463,7 @@ border_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_8 : Css.Style
 border_8 =
@@ -11474,7 +11474,7 @@ border_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_b : Css.Style
 border_b =
@@ -11485,7 +11485,7 @@ border_b =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_b_0 : Css.Style
 border_b_0 =
@@ -11496,7 +11496,7 @@ border_b_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_b_2 : Css.Style
 border_b_2 =
@@ -11507,7 +11507,7 @@ border_b_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_b_4 : Css.Style
 border_b_4 =
@@ -11518,7 +11518,7 @@ border_b_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_b_8 : Css.Style
 border_b_8 =
@@ -11529,7 +11529,7 @@ border_b_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_black : Css.Style
 border_black =
@@ -11543,7 +11543,7 @@ border_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_100 : Css.Style
 border_blue_100 =
@@ -11557,7 +11557,7 @@ border_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_200 : Css.Style
 border_blue_200 =
@@ -11571,7 +11571,7 @@ border_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_300 : Css.Style
 border_blue_300 =
@@ -11585,7 +11585,7 @@ border_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_400 : Css.Style
 border_blue_400 =
@@ -11599,7 +11599,7 @@ border_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_50 : Css.Style
 border_blue_50 =
@@ -11613,7 +11613,7 @@ border_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_500 : Css.Style
 border_blue_500 =
@@ -11627,7 +11627,7 @@ border_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_600 : Css.Style
 border_blue_600 =
@@ -11641,7 +11641,7 @@ border_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_700 : Css.Style
 border_blue_700 =
@@ -11655,7 +11655,7 @@ border_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_800 : Css.Style
 border_blue_800 =
@@ -11669,7 +11669,7 @@ border_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_blue_900 : Css.Style
 border_blue_900 =
@@ -11683,7 +11683,7 @@ border_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_collapse : Css.Style
 border_collapse =
@@ -11694,7 +11694,7 @@ border_collapse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_current : Css.Style
 border_current =
@@ -11705,7 +11705,7 @@ border_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_dashed : Css.Style
 border_dashed =
@@ -11716,7 +11716,7 @@ border_dashed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_dotted : Css.Style
 border_dotted =
@@ -11727,7 +11727,7 @@ border_dotted =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_double : Css.Style
 border_double =
@@ -11738,7 +11738,7 @@ border_double =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_100 : Css.Style
 border_gray_100 =
@@ -11752,7 +11752,7 @@ border_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_200 : Css.Style
 border_gray_200 =
@@ -11766,7 +11766,7 @@ border_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_300 : Css.Style
 border_gray_300 =
@@ -11780,7 +11780,7 @@ border_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_400 : Css.Style
 border_gray_400 =
@@ -11794,7 +11794,7 @@ border_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_50 : Css.Style
 border_gray_50 =
@@ -11808,7 +11808,7 @@ border_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_500 : Css.Style
 border_gray_500 =
@@ -11822,7 +11822,7 @@ border_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_600 : Css.Style
 border_gray_600 =
@@ -11836,7 +11836,7 @@ border_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_700 : Css.Style
 border_gray_700 =
@@ -11850,7 +11850,7 @@ border_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_800 : Css.Style
 border_gray_800 =
@@ -11864,7 +11864,7 @@ border_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_gray_900 : Css.Style
 border_gray_900 =
@@ -11878,7 +11878,7 @@ border_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_100 : Css.Style
 border_green_100 =
@@ -11892,7 +11892,7 @@ border_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_200 : Css.Style
 border_green_200 =
@@ -11906,7 +11906,7 @@ border_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_300 : Css.Style
 border_green_300 =
@@ -11920,7 +11920,7 @@ border_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_400 : Css.Style
 border_green_400 =
@@ -11934,7 +11934,7 @@ border_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_50 : Css.Style
 border_green_50 =
@@ -11948,7 +11948,7 @@ border_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_500 : Css.Style
 border_green_500 =
@@ -11962,7 +11962,7 @@ border_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_600 : Css.Style
 border_green_600 =
@@ -11976,7 +11976,7 @@ border_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_700 : Css.Style
 border_green_700 =
@@ -11990,7 +11990,7 @@ border_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_800 : Css.Style
 border_green_800 =
@@ -12004,7 +12004,7 @@ border_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_green_900 : Css.Style
 border_green_900 =
@@ -12018,7 +12018,7 @@ border_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_100 : Css.Style
 border_indigo_100 =
@@ -12032,7 +12032,7 @@ border_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_200 : Css.Style
 border_indigo_200 =
@@ -12046,7 +12046,7 @@ border_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_300 : Css.Style
 border_indigo_300 =
@@ -12060,7 +12060,7 @@ border_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_400 : Css.Style
 border_indigo_400 =
@@ -12074,7 +12074,7 @@ border_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_50 : Css.Style
 border_indigo_50 =
@@ -12088,7 +12088,7 @@ border_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_500 : Css.Style
 border_indigo_500 =
@@ -12102,7 +12102,7 @@ border_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_600 : Css.Style
 border_indigo_600 =
@@ -12116,7 +12116,7 @@ border_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_700 : Css.Style
 border_indigo_700 =
@@ -12130,7 +12130,7 @@ border_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_800 : Css.Style
 border_indigo_800 =
@@ -12144,7 +12144,7 @@ border_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_indigo_900 : Css.Style
 border_indigo_900 =
@@ -12158,7 +12158,7 @@ border_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_l : Css.Style
 border_l =
@@ -12169,7 +12169,7 @@ border_l =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_l_0 : Css.Style
 border_l_0 =
@@ -12180,7 +12180,7 @@ border_l_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_l_2 : Css.Style
 border_l_2 =
@@ -12191,7 +12191,7 @@ border_l_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_l_4 : Css.Style
 border_l_4 =
@@ -12202,7 +12202,7 @@ border_l_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_l_8 : Css.Style
 border_l_8 =
@@ -12213,7 +12213,7 @@ border_l_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_none : Css.Style
 border_none =
@@ -12224,7 +12224,7 @@ border_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_0 : Css.Style
 border_opacity_0 =
@@ -12235,7 +12235,7 @@ border_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_10 : Css.Style
 border_opacity_10 =
@@ -12246,7 +12246,7 @@ border_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_100 : Css.Style
 border_opacity_100 =
@@ -12257,7 +12257,7 @@ border_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_20 : Css.Style
 border_opacity_20 =
@@ -12268,7 +12268,7 @@ border_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_25 : Css.Style
 border_opacity_25 =
@@ -12279,7 +12279,7 @@ border_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_30 : Css.Style
 border_opacity_30 =
@@ -12290,7 +12290,7 @@ border_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_40 : Css.Style
 border_opacity_40 =
@@ -12301,7 +12301,7 @@ border_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_5 : Css.Style
 border_opacity_5 =
@@ -12312,7 +12312,7 @@ border_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_50 : Css.Style
 border_opacity_50 =
@@ -12323,7 +12323,7 @@ border_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_60 : Css.Style
 border_opacity_60 =
@@ -12334,7 +12334,7 @@ border_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_70 : Css.Style
 border_opacity_70 =
@@ -12345,7 +12345,7 @@ border_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_75 : Css.Style
 border_opacity_75 =
@@ -12356,7 +12356,7 @@ border_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_80 : Css.Style
 border_opacity_80 =
@@ -12367,7 +12367,7 @@ border_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_90 : Css.Style
 border_opacity_90 =
@@ -12378,7 +12378,7 @@ border_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_opacity_95 : Css.Style
 border_opacity_95 =
@@ -12389,7 +12389,7 @@ border_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_100 : Css.Style
 border_pink_100 =
@@ -12403,7 +12403,7 @@ border_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_200 : Css.Style
 border_pink_200 =
@@ -12417,7 +12417,7 @@ border_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_300 : Css.Style
 border_pink_300 =
@@ -12431,7 +12431,7 @@ border_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_400 : Css.Style
 border_pink_400 =
@@ -12445,7 +12445,7 @@ border_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_50 : Css.Style
 border_pink_50 =
@@ -12459,7 +12459,7 @@ border_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_500 : Css.Style
 border_pink_500 =
@@ -12473,7 +12473,7 @@ border_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_600 : Css.Style
 border_pink_600 =
@@ -12487,7 +12487,7 @@ border_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_700 : Css.Style
 border_pink_700 =
@@ -12501,7 +12501,7 @@ border_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_800 : Css.Style
 border_pink_800 =
@@ -12515,7 +12515,7 @@ border_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_pink_900 : Css.Style
 border_pink_900 =
@@ -12529,7 +12529,7 @@ border_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_100 : Css.Style
 border_purple_100 =
@@ -12543,7 +12543,7 @@ border_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_200 : Css.Style
 border_purple_200 =
@@ -12557,7 +12557,7 @@ border_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_300 : Css.Style
 border_purple_300 =
@@ -12571,7 +12571,7 @@ border_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_400 : Css.Style
 border_purple_400 =
@@ -12585,7 +12585,7 @@ border_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_50 : Css.Style
 border_purple_50 =
@@ -12599,7 +12599,7 @@ border_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_500 : Css.Style
 border_purple_500 =
@@ -12613,7 +12613,7 @@ border_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_600 : Css.Style
 border_purple_600 =
@@ -12627,7 +12627,7 @@ border_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_700 : Css.Style
 border_purple_700 =
@@ -12641,7 +12641,7 @@ border_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_800 : Css.Style
 border_purple_800 =
@@ -12655,7 +12655,7 @@ border_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_purple_900 : Css.Style
 border_purple_900 =
@@ -12669,7 +12669,7 @@ border_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_r : Css.Style
 border_r =
@@ -12680,7 +12680,7 @@ border_r =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_r_0 : Css.Style
 border_r_0 =
@@ -12691,7 +12691,7 @@ border_r_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_r_2 : Css.Style
 border_r_2 =
@@ -12702,7 +12702,7 @@ border_r_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_r_4 : Css.Style
 border_r_4 =
@@ -12713,7 +12713,7 @@ border_r_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_r_8 : Css.Style
 border_r_8 =
@@ -12724,7 +12724,7 @@ border_r_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_100 : Css.Style
 border_red_100 =
@@ -12738,7 +12738,7 @@ border_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_200 : Css.Style
 border_red_200 =
@@ -12752,7 +12752,7 @@ border_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_300 : Css.Style
 border_red_300 =
@@ -12766,7 +12766,7 @@ border_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_400 : Css.Style
 border_red_400 =
@@ -12780,7 +12780,7 @@ border_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_50 : Css.Style
 border_red_50 =
@@ -12794,7 +12794,7 @@ border_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_500 : Css.Style
 border_red_500 =
@@ -12808,7 +12808,7 @@ border_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_600 : Css.Style
 border_red_600 =
@@ -12822,7 +12822,7 @@ border_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_700 : Css.Style
 border_red_700 =
@@ -12836,7 +12836,7 @@ border_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_800 : Css.Style
 border_red_800 =
@@ -12850,7 +12850,7 @@ border_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_red_900 : Css.Style
 border_red_900 =
@@ -12864,7 +12864,7 @@ border_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_separate : Css.Style
 border_separate =
@@ -12875,7 +12875,7 @@ border_separate =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_solid : Css.Style
 border_solid =
@@ -12886,7 +12886,7 @@ border_solid =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_t : Css.Style
 border_t =
@@ -12897,7 +12897,7 @@ border_t =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_t_0 : Css.Style
 border_t_0 =
@@ -12908,7 +12908,7 @@ border_t_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_t_2 : Css.Style
 border_t_2 =
@@ -12919,7 +12919,7 @@ border_t_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_t_4 : Css.Style
 border_t_4 =
@@ -12930,7 +12930,7 @@ border_t_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_t_8 : Css.Style
 border_t_8 =
@@ -12941,7 +12941,7 @@ border_t_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_transparent : Css.Style
 border_transparent =
@@ -12952,7 +12952,7 @@ border_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_white : Css.Style
 border_white =
@@ -12966,7 +12966,7 @@ border_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_100 : Css.Style
 border_yellow_100 =
@@ -12980,7 +12980,7 @@ border_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_200 : Css.Style
 border_yellow_200 =
@@ -12994,7 +12994,7 @@ border_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_300 : Css.Style
 border_yellow_300 =
@@ -13008,7 +13008,7 @@ border_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_400 : Css.Style
 border_yellow_400 =
@@ -13022,7 +13022,7 @@ border_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_50 : Css.Style
 border_yellow_50 =
@@ -13036,7 +13036,7 @@ border_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_500 : Css.Style
 border_yellow_500 =
@@ -13050,7 +13050,7 @@ border_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_600 : Css.Style
 border_yellow_600 =
@@ -13064,7 +13064,7 @@ border_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_700 : Css.Style
 border_yellow_700 =
@@ -13078,7 +13078,7 @@ border_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_800 : Css.Style
 border_yellow_800 =
@@ -13092,7 +13092,7 @@ border_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 border_yellow_900 : Css.Style
 border_yellow_900 =
@@ -13106,7 +13106,7 @@ border_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_0 : Css.Style
 bottom_0 =
@@ -13117,7 +13117,7 @@ bottom_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_0_dot_5 : Css.Style
 bottom_0_dot_5 =
@@ -13128,7 +13128,7 @@ bottom_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_1 : Css.Style
 bottom_1 =
@@ -13139,7 +13139,7 @@ bottom_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_10 : Css.Style
 bottom_10 =
@@ -13150,7 +13150,7 @@ bottom_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_11 : Css.Style
 bottom_11 =
@@ -13161,7 +13161,7 @@ bottom_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_12 : Css.Style
 bottom_12 =
@@ -13172,7 +13172,7 @@ bottom_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_14 : Css.Style
 bottom_14 =
@@ -13183,7 +13183,7 @@ bottom_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_16 : Css.Style
 bottom_16 =
@@ -13194,7 +13194,7 @@ bottom_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_1_dot_5 : Css.Style
 bottom_1_dot_5 =
@@ -13205,7 +13205,7 @@ bottom_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_1over2 : Css.Style
 bottom_1over2 =
@@ -13216,7 +13216,7 @@ bottom_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_1over3 : Css.Style
 bottom_1over3 =
@@ -13227,7 +13227,7 @@ bottom_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_1over4 : Css.Style
 bottom_1over4 =
@@ -13238,7 +13238,7 @@ bottom_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_2 : Css.Style
 bottom_2 =
@@ -13249,7 +13249,7 @@ bottom_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_20 : Css.Style
 bottom_20 =
@@ -13260,7 +13260,7 @@ bottom_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_24 : Css.Style
 bottom_24 =
@@ -13271,7 +13271,7 @@ bottom_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_28 : Css.Style
 bottom_28 =
@@ -13282,7 +13282,7 @@ bottom_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_2_dot_5 : Css.Style
 bottom_2_dot_5 =
@@ -13293,7 +13293,7 @@ bottom_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_2over3 : Css.Style
 bottom_2over3 =
@@ -13304,7 +13304,7 @@ bottom_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_2over4 : Css.Style
 bottom_2over4 =
@@ -13315,7 +13315,7 @@ bottom_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_3 : Css.Style
 bottom_3 =
@@ -13326,7 +13326,7 @@ bottom_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_32 : Css.Style
 bottom_32 =
@@ -13337,7 +13337,7 @@ bottom_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_36 : Css.Style
 bottom_36 =
@@ -13348,7 +13348,7 @@ bottom_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_3_dot_5 : Css.Style
 bottom_3_dot_5 =
@@ -13359,7 +13359,7 @@ bottom_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_3over4 : Css.Style
 bottom_3over4 =
@@ -13370,7 +13370,7 @@ bottom_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_4 : Css.Style
 bottom_4 =
@@ -13381,7 +13381,7 @@ bottom_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_40 : Css.Style
 bottom_40 =
@@ -13392,7 +13392,7 @@ bottom_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_44 : Css.Style
 bottom_44 =
@@ -13403,7 +13403,7 @@ bottom_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_48 : Css.Style
 bottom_48 =
@@ -13414,7 +13414,7 @@ bottom_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_5 : Css.Style
 bottom_5 =
@@ -13425,7 +13425,7 @@ bottom_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_52 : Css.Style
 bottom_52 =
@@ -13436,7 +13436,7 @@ bottom_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_56 : Css.Style
 bottom_56 =
@@ -13447,7 +13447,7 @@ bottom_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_6 : Css.Style
 bottom_6 =
@@ -13458,7 +13458,7 @@ bottom_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_60 : Css.Style
 bottom_60 =
@@ -13469,7 +13469,7 @@ bottom_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_64 : Css.Style
 bottom_64 =
@@ -13480,7 +13480,7 @@ bottom_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_7 : Css.Style
 bottom_7 =
@@ -13491,7 +13491,7 @@ bottom_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_72 : Css.Style
 bottom_72 =
@@ -13502,7 +13502,7 @@ bottom_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_8 : Css.Style
 bottom_8 =
@@ -13513,7 +13513,7 @@ bottom_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_80 : Css.Style
 bottom_80 =
@@ -13524,7 +13524,7 @@ bottom_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_9 : Css.Style
 bottom_9 =
@@ -13535,7 +13535,7 @@ bottom_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_96 : Css.Style
 bottom_96 =
@@ -13546,7 +13546,7 @@ bottom_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_auto : Css.Style
 bottom_auto =
@@ -13557,7 +13557,7 @@ bottom_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_full : Css.Style
 bottom_full =
@@ -13568,7 +13568,7 @@ bottom_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 bottom_px : Css.Style
 bottom_px =
@@ -13579,7 +13579,7 @@ bottom_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 box_border : Css.Style
 box_border =
@@ -13590,7 +13590,7 @@ box_border =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 box_content : Css.Style
 box_content =
@@ -13601,7 +13601,7 @@ box_content =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 break_all : Css.Style
 break_all =
@@ -13612,7 +13612,7 @@ break_all =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 break_normal : Css.Style
 break_normal =
@@ -13626,7 +13626,7 @@ break_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 break_words : Css.Style
 break_words =
@@ -13637,7 +13637,7 @@ break_words =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_0 : Css.Style
 brightness_0 =
@@ -13648,7 +13648,7 @@ brightness_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_100 : Css.Style
 brightness_100 =
@@ -13659,7 +13659,7 @@ brightness_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_105 : Css.Style
 brightness_105 =
@@ -13670,7 +13670,7 @@ brightness_105 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_110 : Css.Style
 brightness_110 =
@@ -13681,7 +13681,7 @@ brightness_110 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_125 : Css.Style
 brightness_125 =
@@ -13692,7 +13692,7 @@ brightness_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_150 : Css.Style
 brightness_150 =
@@ -13703,7 +13703,7 @@ brightness_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_200 : Css.Style
 brightness_200 =
@@ -13714,7 +13714,7 @@ brightness_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_50 : Css.Style
 brightness_50 =
@@ -13725,7 +13725,7 @@ brightness_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_75 : Css.Style
 brightness_75 =
@@ -13736,7 +13736,7 @@ brightness_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_90 : Css.Style
 brightness_90 =
@@ -13747,7 +13747,7 @@ brightness_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 brightness_95 : Css.Style
 brightness_95 =
@@ -13758,7 +13758,7 @@ brightness_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 capitalize : Css.Style
 capitalize =
@@ -13769,7 +13769,7 @@ capitalize =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 clear_both : Css.Style
 clear_both =
@@ -13780,7 +13780,7 @@ clear_both =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 clear_left : Css.Style
 clear_left =
@@ -13791,7 +13791,7 @@ clear_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 clear_none : Css.Style
 clear_none =
@@ -13802,7 +13802,7 @@ clear_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 clear_right : Css.Style
 clear_right =
@@ -13813,7 +13813,7 @@ clear_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_auto : Css.Style
 col_auto =
@@ -13824,7 +13824,7 @@ col_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_1 : Css.Style
 col_end_1 =
@@ -13835,7 +13835,7 @@ col_end_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_10 : Css.Style
 col_end_10 =
@@ -13846,7 +13846,7 @@ col_end_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_11 : Css.Style
 col_end_11 =
@@ -13857,7 +13857,7 @@ col_end_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_12 : Css.Style
 col_end_12 =
@@ -13868,7 +13868,7 @@ col_end_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_13 : Css.Style
 col_end_13 =
@@ -13879,7 +13879,7 @@ col_end_13 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_2 : Css.Style
 col_end_2 =
@@ -13890,7 +13890,7 @@ col_end_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_3 : Css.Style
 col_end_3 =
@@ -13901,7 +13901,7 @@ col_end_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_4 : Css.Style
 col_end_4 =
@@ -13912,7 +13912,7 @@ col_end_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_5 : Css.Style
 col_end_5 =
@@ -13923,7 +13923,7 @@ col_end_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_6 : Css.Style
 col_end_6 =
@@ -13934,7 +13934,7 @@ col_end_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_7 : Css.Style
 col_end_7 =
@@ -13945,7 +13945,7 @@ col_end_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_8 : Css.Style
 col_end_8 =
@@ -13956,7 +13956,7 @@ col_end_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_9 : Css.Style
 col_end_9 =
@@ -13967,7 +13967,7 @@ col_end_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_end_auto : Css.Style
 col_end_auto =
@@ -13978,7 +13978,7 @@ col_end_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_1 : Css.Style
 col_span_1 =
@@ -13989,7 +13989,7 @@ col_span_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_10 : Css.Style
 col_span_10 =
@@ -14000,7 +14000,7 @@ col_span_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_11 : Css.Style
 col_span_11 =
@@ -14011,7 +14011,7 @@ col_span_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_12 : Css.Style
 col_span_12 =
@@ -14022,7 +14022,7 @@ col_span_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_2 : Css.Style
 col_span_2 =
@@ -14033,7 +14033,7 @@ col_span_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_3 : Css.Style
 col_span_3 =
@@ -14044,7 +14044,7 @@ col_span_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_4 : Css.Style
 col_span_4 =
@@ -14055,7 +14055,7 @@ col_span_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_5 : Css.Style
 col_span_5 =
@@ -14066,7 +14066,7 @@ col_span_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_6 : Css.Style
 col_span_6 =
@@ -14077,7 +14077,7 @@ col_span_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_7 : Css.Style
 col_span_7 =
@@ -14088,7 +14088,7 @@ col_span_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_8 : Css.Style
 col_span_8 =
@@ -14099,7 +14099,7 @@ col_span_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_9 : Css.Style
 col_span_9 =
@@ -14110,7 +14110,7 @@ col_span_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_span_full : Css.Style
 col_span_full =
@@ -14121,7 +14121,7 @@ col_span_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_1 : Css.Style
 col_start_1 =
@@ -14132,7 +14132,7 @@ col_start_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_10 : Css.Style
 col_start_10 =
@@ -14143,7 +14143,7 @@ col_start_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_11 : Css.Style
 col_start_11 =
@@ -14154,7 +14154,7 @@ col_start_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_12 : Css.Style
 col_start_12 =
@@ -14165,7 +14165,7 @@ col_start_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_13 : Css.Style
 col_start_13 =
@@ -14176,7 +14176,7 @@ col_start_13 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_2 : Css.Style
 col_start_2 =
@@ -14187,7 +14187,7 @@ col_start_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_3 : Css.Style
 col_start_3 =
@@ -14198,7 +14198,7 @@ col_start_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_4 : Css.Style
 col_start_4 =
@@ -14209,7 +14209,7 @@ col_start_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_5 : Css.Style
 col_start_5 =
@@ -14220,7 +14220,7 @@ col_start_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_6 : Css.Style
 col_start_6 =
@@ -14231,7 +14231,7 @@ col_start_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_7 : Css.Style
 col_start_7 =
@@ -14242,7 +14242,7 @@ col_start_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_8 : Css.Style
 col_start_8 =
@@ -14253,7 +14253,7 @@ col_start_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_9 : Css.Style
 col_start_9 =
@@ -14264,7 +14264,7 @@ col_start_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 col_start_auto : Css.Style
 col_start_auto =
@@ -14275,7 +14275,7 @@ col_start_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 container : Css.Style
 container =
@@ -14303,7 +14303,7 @@ container =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_around : Css.Style
 content_around =
@@ -14314,7 +14314,7 @@ content_around =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_between : Css.Style
 content_between =
@@ -14325,7 +14325,7 @@ content_between =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_center : Css.Style
 content_center =
@@ -14336,7 +14336,7 @@ content_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_end : Css.Style
 content_end =
@@ -14347,7 +14347,7 @@ content_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_evenly : Css.Style
 content_evenly =
@@ -14358,7 +14358,7 @@ content_evenly =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 content_start : Css.Style
 content_start =
@@ -14369,7 +14369,7 @@ content_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contents : Css.Style
 contents =
@@ -14380,7 +14380,7 @@ contents =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_0 : Css.Style
 contrast_0 =
@@ -14391,7 +14391,7 @@ contrast_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_100 : Css.Style
 contrast_100 =
@@ -14402,7 +14402,7 @@ contrast_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_125 : Css.Style
 contrast_125 =
@@ -14413,7 +14413,7 @@ contrast_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_150 : Css.Style
 contrast_150 =
@@ -14424,7 +14424,7 @@ contrast_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_200 : Css.Style
 contrast_200 =
@@ -14435,7 +14435,7 @@ contrast_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_50 : Css.Style
 contrast_50 =
@@ -14446,7 +14446,7 @@ contrast_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 contrast_75 : Css.Style
 contrast_75 =
@@ -14457,7 +14457,7 @@ contrast_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_auto : Css.Style
 cursor_auto =
@@ -14468,7 +14468,7 @@ cursor_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_default : Css.Style
 cursor_default =
@@ -14479,7 +14479,7 @@ cursor_default =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_help : Css.Style
 cursor_help =
@@ -14490,7 +14490,7 @@ cursor_help =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_move : Css.Style
 cursor_move =
@@ -14501,7 +14501,7 @@ cursor_move =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_not_allowed : Css.Style
 cursor_not_allowed =
@@ -14512,7 +14512,7 @@ cursor_not_allowed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_pointer : Css.Style
 cursor_pointer =
@@ -14523,7 +14523,7 @@ cursor_pointer =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_text : Css.Style
 cursor_text =
@@ -14534,7 +14534,7 @@ cursor_text =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 cursor_wait : Css.Style
 cursor_wait =
@@ -14545,7 +14545,7 @@ cursor_wait =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 decoration_clone : Css.Style
 decoration_clone =
@@ -14559,7 +14559,7 @@ decoration_clone =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 decoration_slice : Css.Style
 decoration_slice =
@@ -14573,7 +14573,7 @@ decoration_slice =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_100 : Css.Style
 delay_100 =
@@ -14584,7 +14584,7 @@ delay_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_1000 : Css.Style
 delay_1000 =
@@ -14595,7 +14595,7 @@ delay_1000 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_150 : Css.Style
 delay_150 =
@@ -14606,7 +14606,7 @@ delay_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_200 : Css.Style
 delay_200 =
@@ -14617,7 +14617,7 @@ delay_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_300 : Css.Style
 delay_300 =
@@ -14628,7 +14628,7 @@ delay_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_500 : Css.Style
 delay_500 =
@@ -14639,7 +14639,7 @@ delay_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_700 : Css.Style
 delay_700 =
@@ -14650,7 +14650,7 @@ delay_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 delay_75 : Css.Style
 delay_75 =
@@ -14661,7 +14661,7 @@ delay_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 diagonal_fractions : Css.Style
 diagonal_fractions =
@@ -14680,7 +14680,7 @@ diagonal_fractions =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_black : Css.Style
 divide_black =
@@ -14698,7 +14698,7 @@ divide_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_100 : Css.Style
 divide_blue_100 =
@@ -14716,7 +14716,7 @@ divide_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_200 : Css.Style
 divide_blue_200 =
@@ -14734,7 +14734,7 @@ divide_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_300 : Css.Style
 divide_blue_300 =
@@ -14752,7 +14752,7 @@ divide_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_400 : Css.Style
 divide_blue_400 =
@@ -14770,7 +14770,7 @@ divide_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_50 : Css.Style
 divide_blue_50 =
@@ -14788,7 +14788,7 @@ divide_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_500 : Css.Style
 divide_blue_500 =
@@ -14806,7 +14806,7 @@ divide_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_600 : Css.Style
 divide_blue_600 =
@@ -14824,7 +14824,7 @@ divide_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_700 : Css.Style
 divide_blue_700 =
@@ -14842,7 +14842,7 @@ divide_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_800 : Css.Style
 divide_blue_800 =
@@ -14860,7 +14860,7 @@ divide_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_blue_900 : Css.Style
 divide_blue_900 =
@@ -14878,7 +14878,7 @@ divide_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_current : Css.Style
 divide_current =
@@ -14895,7 +14895,7 @@ divide_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_dashed : Css.Style
 divide_dashed =
@@ -14912,7 +14912,7 @@ divide_dashed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_dotted : Css.Style
 divide_dotted =
@@ -14929,7 +14929,7 @@ divide_dotted =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_double : Css.Style
 divide_double =
@@ -14946,7 +14946,7 @@ divide_double =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_100 : Css.Style
 divide_gray_100 =
@@ -14964,7 +14964,7 @@ divide_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_200 : Css.Style
 divide_gray_200 =
@@ -14982,7 +14982,7 @@ divide_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_300 : Css.Style
 divide_gray_300 =
@@ -15000,7 +15000,7 @@ divide_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_400 : Css.Style
 divide_gray_400 =
@@ -15018,7 +15018,7 @@ divide_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_50 : Css.Style
 divide_gray_50 =
@@ -15036,7 +15036,7 @@ divide_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_500 : Css.Style
 divide_gray_500 =
@@ -15054,7 +15054,7 @@ divide_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_600 : Css.Style
 divide_gray_600 =
@@ -15072,7 +15072,7 @@ divide_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_700 : Css.Style
 divide_gray_700 =
@@ -15090,7 +15090,7 @@ divide_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_800 : Css.Style
 divide_gray_800 =
@@ -15108,7 +15108,7 @@ divide_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_gray_900 : Css.Style
 divide_gray_900 =
@@ -15126,7 +15126,7 @@ divide_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_100 : Css.Style
 divide_green_100 =
@@ -15144,7 +15144,7 @@ divide_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_200 : Css.Style
 divide_green_200 =
@@ -15162,7 +15162,7 @@ divide_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_300 : Css.Style
 divide_green_300 =
@@ -15180,7 +15180,7 @@ divide_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_400 : Css.Style
 divide_green_400 =
@@ -15198,7 +15198,7 @@ divide_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_50 : Css.Style
 divide_green_50 =
@@ -15216,7 +15216,7 @@ divide_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_500 : Css.Style
 divide_green_500 =
@@ -15234,7 +15234,7 @@ divide_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_600 : Css.Style
 divide_green_600 =
@@ -15252,7 +15252,7 @@ divide_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_700 : Css.Style
 divide_green_700 =
@@ -15270,7 +15270,7 @@ divide_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_800 : Css.Style
 divide_green_800 =
@@ -15288,7 +15288,7 @@ divide_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_green_900 : Css.Style
 divide_green_900 =
@@ -15306,7 +15306,7 @@ divide_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_100 : Css.Style
 divide_indigo_100 =
@@ -15324,7 +15324,7 @@ divide_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_200 : Css.Style
 divide_indigo_200 =
@@ -15342,7 +15342,7 @@ divide_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_300 : Css.Style
 divide_indigo_300 =
@@ -15360,7 +15360,7 @@ divide_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_400 : Css.Style
 divide_indigo_400 =
@@ -15378,7 +15378,7 @@ divide_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_50 : Css.Style
 divide_indigo_50 =
@@ -15396,7 +15396,7 @@ divide_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_500 : Css.Style
 divide_indigo_500 =
@@ -15414,7 +15414,7 @@ divide_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_600 : Css.Style
 divide_indigo_600 =
@@ -15432,7 +15432,7 @@ divide_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_700 : Css.Style
 divide_indigo_700 =
@@ -15450,7 +15450,7 @@ divide_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_800 : Css.Style
 divide_indigo_800 =
@@ -15468,7 +15468,7 @@ divide_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_indigo_900 : Css.Style
 divide_indigo_900 =
@@ -15486,7 +15486,7 @@ divide_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_none : Css.Style
 divide_none =
@@ -15503,7 +15503,7 @@ divide_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_0 : Css.Style
 divide_opacity_0 =
@@ -15520,7 +15520,7 @@ divide_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_10 : Css.Style
 divide_opacity_10 =
@@ -15537,7 +15537,7 @@ divide_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_100 : Css.Style
 divide_opacity_100 =
@@ -15554,7 +15554,7 @@ divide_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_20 : Css.Style
 divide_opacity_20 =
@@ -15571,7 +15571,7 @@ divide_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_25 : Css.Style
 divide_opacity_25 =
@@ -15588,7 +15588,7 @@ divide_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_30 : Css.Style
 divide_opacity_30 =
@@ -15605,7 +15605,7 @@ divide_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_40 : Css.Style
 divide_opacity_40 =
@@ -15622,7 +15622,7 @@ divide_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_5 : Css.Style
 divide_opacity_5 =
@@ -15639,7 +15639,7 @@ divide_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_50 : Css.Style
 divide_opacity_50 =
@@ -15656,7 +15656,7 @@ divide_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_60 : Css.Style
 divide_opacity_60 =
@@ -15673,7 +15673,7 @@ divide_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_70 : Css.Style
 divide_opacity_70 =
@@ -15690,7 +15690,7 @@ divide_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_75 : Css.Style
 divide_opacity_75 =
@@ -15707,7 +15707,7 @@ divide_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_80 : Css.Style
 divide_opacity_80 =
@@ -15724,7 +15724,7 @@ divide_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_90 : Css.Style
 divide_opacity_90 =
@@ -15741,7 +15741,7 @@ divide_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_opacity_95 : Css.Style
 divide_opacity_95 =
@@ -15758,7 +15758,7 @@ divide_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_100 : Css.Style
 divide_pink_100 =
@@ -15776,7 +15776,7 @@ divide_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_200 : Css.Style
 divide_pink_200 =
@@ -15794,7 +15794,7 @@ divide_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_300 : Css.Style
 divide_pink_300 =
@@ -15812,7 +15812,7 @@ divide_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_400 : Css.Style
 divide_pink_400 =
@@ -15830,7 +15830,7 @@ divide_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_50 : Css.Style
 divide_pink_50 =
@@ -15848,7 +15848,7 @@ divide_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_500 : Css.Style
 divide_pink_500 =
@@ -15866,7 +15866,7 @@ divide_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_600 : Css.Style
 divide_pink_600 =
@@ -15884,7 +15884,7 @@ divide_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_700 : Css.Style
 divide_pink_700 =
@@ -15902,7 +15902,7 @@ divide_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_800 : Css.Style
 divide_pink_800 =
@@ -15920,7 +15920,7 @@ divide_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_pink_900 : Css.Style
 divide_pink_900 =
@@ -15938,7 +15938,7 @@ divide_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_100 : Css.Style
 divide_purple_100 =
@@ -15956,7 +15956,7 @@ divide_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_200 : Css.Style
 divide_purple_200 =
@@ -15974,7 +15974,7 @@ divide_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_300 : Css.Style
 divide_purple_300 =
@@ -15992,7 +15992,7 @@ divide_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_400 : Css.Style
 divide_purple_400 =
@@ -16010,7 +16010,7 @@ divide_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_50 : Css.Style
 divide_purple_50 =
@@ -16028,7 +16028,7 @@ divide_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_500 : Css.Style
 divide_purple_500 =
@@ -16046,7 +16046,7 @@ divide_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_600 : Css.Style
 divide_purple_600 =
@@ -16064,7 +16064,7 @@ divide_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_700 : Css.Style
 divide_purple_700 =
@@ -16082,7 +16082,7 @@ divide_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_800 : Css.Style
 divide_purple_800 =
@@ -16100,7 +16100,7 @@ divide_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_purple_900 : Css.Style
 divide_purple_900 =
@@ -16118,7 +16118,7 @@ divide_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_100 : Css.Style
 divide_red_100 =
@@ -16136,7 +16136,7 @@ divide_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_200 : Css.Style
 divide_red_200 =
@@ -16154,7 +16154,7 @@ divide_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_300 : Css.Style
 divide_red_300 =
@@ -16172,7 +16172,7 @@ divide_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_400 : Css.Style
 divide_red_400 =
@@ -16190,7 +16190,7 @@ divide_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_50 : Css.Style
 divide_red_50 =
@@ -16208,7 +16208,7 @@ divide_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_500 : Css.Style
 divide_red_500 =
@@ -16226,7 +16226,7 @@ divide_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_600 : Css.Style
 divide_red_600 =
@@ -16244,7 +16244,7 @@ divide_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_700 : Css.Style
 divide_red_700 =
@@ -16262,7 +16262,7 @@ divide_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_800 : Css.Style
 divide_red_800 =
@@ -16280,7 +16280,7 @@ divide_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_red_900 : Css.Style
 divide_red_900 =
@@ -16298,7 +16298,7 @@ divide_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_solid : Css.Style
 divide_solid =
@@ -16315,7 +16315,7 @@ divide_solid =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_transparent : Css.Style
 divide_transparent =
@@ -16332,7 +16332,7 @@ divide_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_white : Css.Style
 divide_white =
@@ -16350,7 +16350,7 @@ divide_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x : Css.Style
 divide_x =
@@ -16369,7 +16369,7 @@ divide_x =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x_0 : Css.Style
 divide_x_0 =
@@ -16388,7 +16388,7 @@ divide_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x_2 : Css.Style
 divide_x_2 =
@@ -16407,7 +16407,7 @@ divide_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x_4 : Css.Style
 divide_x_4 =
@@ -16426,7 +16426,7 @@ divide_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x_8 : Css.Style
 divide_x_8 =
@@ -16445,7 +16445,7 @@ divide_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_x_reverse : Css.Style
 divide_x_reverse =
@@ -16462,7 +16462,7 @@ divide_x_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y : Css.Style
 divide_y =
@@ -16481,7 +16481,7 @@ divide_y =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y_0 : Css.Style
 divide_y_0 =
@@ -16500,7 +16500,7 @@ divide_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y_2 : Css.Style
 divide_y_2 =
@@ -16519,7 +16519,7 @@ divide_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y_4 : Css.Style
 divide_y_4 =
@@ -16538,7 +16538,7 @@ divide_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y_8 : Css.Style
 divide_y_8 =
@@ -16557,7 +16557,7 @@ divide_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_y_reverse : Css.Style
 divide_y_reverse =
@@ -16574,7 +16574,7 @@ divide_y_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_100 : Css.Style
 divide_yellow_100 =
@@ -16592,7 +16592,7 @@ divide_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_200 : Css.Style
 divide_yellow_200 =
@@ -16610,7 +16610,7 @@ divide_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_300 : Css.Style
 divide_yellow_300 =
@@ -16628,7 +16628,7 @@ divide_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_400 : Css.Style
 divide_yellow_400 =
@@ -16646,7 +16646,7 @@ divide_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_50 : Css.Style
 divide_yellow_50 =
@@ -16664,7 +16664,7 @@ divide_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_500 : Css.Style
 divide_yellow_500 =
@@ -16682,7 +16682,7 @@ divide_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_600 : Css.Style
 divide_yellow_600 =
@@ -16700,7 +16700,7 @@ divide_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_700 : Css.Style
 divide_yellow_700 =
@@ -16718,7 +16718,7 @@ divide_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_800 : Css.Style
 divide_yellow_800 =
@@ -16736,7 +16736,7 @@ divide_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 divide_yellow_900 : Css.Style
 divide_yellow_900 =
@@ -16754,7 +16754,7 @@ divide_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow : Css.Style
 drop_shadow =
@@ -16765,7 +16765,7 @@ drop_shadow =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_2xl : Css.Style
 drop_shadow_2xl =
@@ -16776,7 +16776,7 @@ drop_shadow_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_lg : Css.Style
 drop_shadow_lg =
@@ -16787,7 +16787,7 @@ drop_shadow_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_md : Css.Style
 drop_shadow_md =
@@ -16798,7 +16798,7 @@ drop_shadow_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_none : Css.Style
 drop_shadow_none =
@@ -16809,7 +16809,7 @@ drop_shadow_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_sm : Css.Style
 drop_shadow_sm =
@@ -16820,7 +16820,7 @@ drop_shadow_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 drop_shadow_xl : Css.Style
 drop_shadow_xl =
@@ -16831,7 +16831,7 @@ drop_shadow_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_100 : Css.Style
 duration_100 =
@@ -16842,7 +16842,7 @@ duration_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_1000 : Css.Style
 duration_1000 =
@@ -16853,7 +16853,7 @@ duration_1000 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_150 : Css.Style
 duration_150 =
@@ -16864,7 +16864,7 @@ duration_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_200 : Css.Style
 duration_200 =
@@ -16875,7 +16875,7 @@ duration_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_300 : Css.Style
 duration_300 =
@@ -16886,7 +16886,7 @@ duration_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_500 : Css.Style
 duration_500 =
@@ -16897,7 +16897,7 @@ duration_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_700 : Css.Style
 duration_700 =
@@ -16908,7 +16908,7 @@ duration_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 duration_75 : Css.Style
 duration_75 =
@@ -16919,7 +16919,7 @@ duration_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ease_in : Css.Style
 ease_in =
@@ -16930,7 +16930,7 @@ ease_in =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ease_in_out : Css.Style
 ease_in_out =
@@ -16941,7 +16941,7 @@ ease_in_out =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ease_linear : Css.Style
 ease_linear =
@@ -16952,7 +16952,7 @@ ease_linear =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ease_out : Css.Style
 ease_out =
@@ -16963,7 +16963,7 @@ ease_out =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 fill_current : Css.Style
 fill_current =
@@ -16974,7 +16974,7 @@ fill_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 filter : Css.Style
 filter =
@@ -16996,7 +16996,7 @@ filter =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 filter_none : Css.Style
 filter_none =
@@ -17007,7 +17007,7 @@ filter_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 fixed : Css.Style
 fixed =
@@ -17018,7 +17018,7 @@ fixed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex : Css.Style
 flex =
@@ -17029,7 +17029,7 @@ flex =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_1 : Css.Style
 flex_1 =
@@ -17040,7 +17040,7 @@ flex_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_auto : Css.Style
 flex_auto =
@@ -17051,7 +17051,7 @@ flex_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_col : Css.Style
 flex_col =
@@ -17062,7 +17062,7 @@ flex_col =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_col_reverse : Css.Style
 flex_col_reverse =
@@ -17073,7 +17073,7 @@ flex_col_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_grow : Css.Style
 flex_grow =
@@ -17084,7 +17084,7 @@ flex_grow =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_grow_0 : Css.Style
 flex_grow_0 =
@@ -17095,7 +17095,7 @@ flex_grow_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_initial : Css.Style
 flex_initial =
@@ -17106,7 +17106,7 @@ flex_initial =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_none : Css.Style
 flex_none =
@@ -17117,7 +17117,7 @@ flex_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_nowrap : Css.Style
 flex_nowrap =
@@ -17128,7 +17128,7 @@ flex_nowrap =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_row : Css.Style
 flex_row =
@@ -17139,7 +17139,7 @@ flex_row =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_row_reverse : Css.Style
 flex_row_reverse =
@@ -17150,7 +17150,7 @@ flex_row_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_shrink : Css.Style
 flex_shrink =
@@ -17161,7 +17161,7 @@ flex_shrink =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_shrink_0 : Css.Style
 flex_shrink_0 =
@@ -17172,7 +17172,7 @@ flex_shrink_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_wrap : Css.Style
 flex_wrap =
@@ -17183,7 +17183,7 @@ flex_wrap =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flex_wrap_reverse : Css.Style
 flex_wrap_reverse =
@@ -17194,7 +17194,7 @@ flex_wrap_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 float_left : Css.Style
 float_left =
@@ -17205,7 +17205,7 @@ float_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 float_none : Css.Style
 float_none =
@@ -17216,7 +17216,7 @@ float_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 float_right : Css.Style
 float_right =
@@ -17227,7 +17227,7 @@ float_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 flow_root : Css.Style
 flow_root =
@@ -17238,7 +17238,7 @@ flow_root =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_black : Css.Style
 font_black =
@@ -17249,7 +17249,7 @@ font_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_bold : Css.Style
 font_bold =
@@ -17260,7 +17260,7 @@ font_bold =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_extrabold : Css.Style
 font_extrabold =
@@ -17271,7 +17271,7 @@ font_extrabold =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_extralight : Css.Style
 font_extralight =
@@ -17282,7 +17282,7 @@ font_extralight =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_light : Css.Style
 font_light =
@@ -17293,7 +17293,7 @@ font_light =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_medium : Css.Style
 font_medium =
@@ -17304,7 +17304,7 @@ font_medium =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_mono : Css.Style
 font_mono =
@@ -17315,7 +17315,7 @@ font_mono =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_normal : Css.Style
 font_normal =
@@ -17326,7 +17326,7 @@ font_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_sans : Css.Style
 font_sans =
@@ -17337,7 +17337,7 @@ font_sans =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_semibold : Css.Style
 font_semibold =
@@ -17348,7 +17348,7 @@ font_semibold =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_serif : Css.Style
 font_serif =
@@ -17359,7 +17359,7 @@ font_serif =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 font_thin : Css.Style
 font_thin =
@@ -17370,7 +17370,7 @@ font_thin =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_checkbox : Css.Style
 form_checkbox =
@@ -17454,7 +17454,7 @@ form_checkbox =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_input : Css.Style
 form_input =
@@ -17509,7 +17509,7 @@ form_input =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_multiselect : Css.Style
 form_multiselect =
@@ -17546,7 +17546,7 @@ form_multiselect =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_radio : Css.Style
 form_radio =
@@ -17610,7 +17610,7 @@ form_radio =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_select : Css.Style
 form_select =
@@ -17654,7 +17654,7 @@ form_select =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 form_textarea : Css.Style
 form_textarea =
@@ -17703,7 +17703,7 @@ form_textarea =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_black : Css.Style
 from_black =
@@ -17717,7 +17717,7 @@ from_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_100 : Css.Style
 from_blue_100 =
@@ -17731,7 +17731,7 @@ from_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_200 : Css.Style
 from_blue_200 =
@@ -17745,7 +17745,7 @@ from_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_300 : Css.Style
 from_blue_300 =
@@ -17759,7 +17759,7 @@ from_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_400 : Css.Style
 from_blue_400 =
@@ -17773,7 +17773,7 @@ from_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_50 : Css.Style
 from_blue_50 =
@@ -17787,7 +17787,7 @@ from_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_500 : Css.Style
 from_blue_500 =
@@ -17801,7 +17801,7 @@ from_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_600 : Css.Style
 from_blue_600 =
@@ -17815,7 +17815,7 @@ from_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_700 : Css.Style
 from_blue_700 =
@@ -17829,7 +17829,7 @@ from_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_800 : Css.Style
 from_blue_800 =
@@ -17843,7 +17843,7 @@ from_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_blue_900 : Css.Style
 from_blue_900 =
@@ -17857,7 +17857,7 @@ from_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_current : Css.Style
 from_current =
@@ -17871,7 +17871,7 @@ from_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_100 : Css.Style
 from_gray_100 =
@@ -17885,7 +17885,7 @@ from_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_200 : Css.Style
 from_gray_200 =
@@ -17899,7 +17899,7 @@ from_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_300 : Css.Style
 from_gray_300 =
@@ -17913,7 +17913,7 @@ from_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_400 : Css.Style
 from_gray_400 =
@@ -17927,7 +17927,7 @@ from_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_50 : Css.Style
 from_gray_50 =
@@ -17941,7 +17941,7 @@ from_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_500 : Css.Style
 from_gray_500 =
@@ -17955,7 +17955,7 @@ from_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_600 : Css.Style
 from_gray_600 =
@@ -17969,7 +17969,7 @@ from_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_700 : Css.Style
 from_gray_700 =
@@ -17983,7 +17983,7 @@ from_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_800 : Css.Style
 from_gray_800 =
@@ -17997,7 +17997,7 @@ from_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_gray_900 : Css.Style
 from_gray_900 =
@@ -18011,7 +18011,7 @@ from_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_100 : Css.Style
 from_green_100 =
@@ -18025,7 +18025,7 @@ from_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_200 : Css.Style
 from_green_200 =
@@ -18039,7 +18039,7 @@ from_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_300 : Css.Style
 from_green_300 =
@@ -18053,7 +18053,7 @@ from_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_400 : Css.Style
 from_green_400 =
@@ -18067,7 +18067,7 @@ from_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_50 : Css.Style
 from_green_50 =
@@ -18081,7 +18081,7 @@ from_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_500 : Css.Style
 from_green_500 =
@@ -18095,7 +18095,7 @@ from_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_600 : Css.Style
 from_green_600 =
@@ -18109,7 +18109,7 @@ from_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_700 : Css.Style
 from_green_700 =
@@ -18123,7 +18123,7 @@ from_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_800 : Css.Style
 from_green_800 =
@@ -18137,7 +18137,7 @@ from_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_green_900 : Css.Style
 from_green_900 =
@@ -18151,7 +18151,7 @@ from_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_100 : Css.Style
 from_indigo_100 =
@@ -18165,7 +18165,7 @@ from_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_200 : Css.Style
 from_indigo_200 =
@@ -18179,7 +18179,7 @@ from_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_300 : Css.Style
 from_indigo_300 =
@@ -18193,7 +18193,7 @@ from_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_400 : Css.Style
 from_indigo_400 =
@@ -18207,7 +18207,7 @@ from_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_50 : Css.Style
 from_indigo_50 =
@@ -18221,7 +18221,7 @@ from_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_500 : Css.Style
 from_indigo_500 =
@@ -18235,7 +18235,7 @@ from_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_600 : Css.Style
 from_indigo_600 =
@@ -18249,7 +18249,7 @@ from_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_700 : Css.Style
 from_indigo_700 =
@@ -18263,7 +18263,7 @@ from_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_800 : Css.Style
 from_indigo_800 =
@@ -18277,7 +18277,7 @@ from_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_indigo_900 : Css.Style
 from_indigo_900 =
@@ -18291,7 +18291,7 @@ from_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_100 : Css.Style
 from_pink_100 =
@@ -18305,7 +18305,7 @@ from_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_200 : Css.Style
 from_pink_200 =
@@ -18319,7 +18319,7 @@ from_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_300 : Css.Style
 from_pink_300 =
@@ -18333,7 +18333,7 @@ from_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_400 : Css.Style
 from_pink_400 =
@@ -18347,7 +18347,7 @@ from_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_50 : Css.Style
 from_pink_50 =
@@ -18361,7 +18361,7 @@ from_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_500 : Css.Style
 from_pink_500 =
@@ -18375,7 +18375,7 @@ from_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_600 : Css.Style
 from_pink_600 =
@@ -18389,7 +18389,7 @@ from_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_700 : Css.Style
 from_pink_700 =
@@ -18403,7 +18403,7 @@ from_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_800 : Css.Style
 from_pink_800 =
@@ -18417,7 +18417,7 @@ from_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_pink_900 : Css.Style
 from_pink_900 =
@@ -18431,7 +18431,7 @@ from_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_100 : Css.Style
 from_purple_100 =
@@ -18445,7 +18445,7 @@ from_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_200 : Css.Style
 from_purple_200 =
@@ -18459,7 +18459,7 @@ from_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_300 : Css.Style
 from_purple_300 =
@@ -18473,7 +18473,7 @@ from_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_400 : Css.Style
 from_purple_400 =
@@ -18487,7 +18487,7 @@ from_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_50 : Css.Style
 from_purple_50 =
@@ -18501,7 +18501,7 @@ from_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_500 : Css.Style
 from_purple_500 =
@@ -18515,7 +18515,7 @@ from_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_600 : Css.Style
 from_purple_600 =
@@ -18529,7 +18529,7 @@ from_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_700 : Css.Style
 from_purple_700 =
@@ -18543,7 +18543,7 @@ from_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_800 : Css.Style
 from_purple_800 =
@@ -18557,7 +18557,7 @@ from_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_purple_900 : Css.Style
 from_purple_900 =
@@ -18571,7 +18571,7 @@ from_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_100 : Css.Style
 from_red_100 =
@@ -18585,7 +18585,7 @@ from_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_200 : Css.Style
 from_red_200 =
@@ -18599,7 +18599,7 @@ from_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_300 : Css.Style
 from_red_300 =
@@ -18613,7 +18613,7 @@ from_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_400 : Css.Style
 from_red_400 =
@@ -18627,7 +18627,7 @@ from_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_50 : Css.Style
 from_red_50 =
@@ -18641,7 +18641,7 @@ from_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_500 : Css.Style
 from_red_500 =
@@ -18655,7 +18655,7 @@ from_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_600 : Css.Style
 from_red_600 =
@@ -18669,7 +18669,7 @@ from_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_700 : Css.Style
 from_red_700 =
@@ -18683,7 +18683,7 @@ from_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_800 : Css.Style
 from_red_800 =
@@ -18697,7 +18697,7 @@ from_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_red_900 : Css.Style
 from_red_900 =
@@ -18711,7 +18711,7 @@ from_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_transparent : Css.Style
 from_transparent =
@@ -18725,7 +18725,7 @@ from_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_white : Css.Style
 from_white =
@@ -18739,7 +18739,7 @@ from_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_100 : Css.Style
 from_yellow_100 =
@@ -18753,7 +18753,7 @@ from_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_200 : Css.Style
 from_yellow_200 =
@@ -18767,7 +18767,7 @@ from_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_300 : Css.Style
 from_yellow_300 =
@@ -18781,7 +18781,7 @@ from_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_400 : Css.Style
 from_yellow_400 =
@@ -18795,7 +18795,7 @@ from_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_50 : Css.Style
 from_yellow_50 =
@@ -18809,7 +18809,7 @@ from_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_500 : Css.Style
 from_yellow_500 =
@@ -18823,7 +18823,7 @@ from_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_600 : Css.Style
 from_yellow_600 =
@@ -18837,7 +18837,7 @@ from_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_700 : Css.Style
 from_yellow_700 =
@@ -18851,7 +18851,7 @@ from_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_800 : Css.Style
 from_yellow_800 =
@@ -18865,7 +18865,7 @@ from_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 from_yellow_900 : Css.Style
 from_yellow_900 =
@@ -18879,7 +18879,7 @@ from_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_0 : Css.Style
 gap_0 =
@@ -18890,7 +18890,7 @@ gap_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_0_dot_5 : Css.Style
 gap_0_dot_5 =
@@ -18901,7 +18901,7 @@ gap_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_1 : Css.Style
 gap_1 =
@@ -18912,7 +18912,7 @@ gap_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_10 : Css.Style
 gap_10 =
@@ -18923,7 +18923,7 @@ gap_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_11 : Css.Style
 gap_11 =
@@ -18934,7 +18934,7 @@ gap_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_12 : Css.Style
 gap_12 =
@@ -18945,7 +18945,7 @@ gap_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_14 : Css.Style
 gap_14 =
@@ -18956,7 +18956,7 @@ gap_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_16 : Css.Style
 gap_16 =
@@ -18967,7 +18967,7 @@ gap_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_1_dot_5 : Css.Style
 gap_1_dot_5 =
@@ -18978,7 +18978,7 @@ gap_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_2 : Css.Style
 gap_2 =
@@ -18989,7 +18989,7 @@ gap_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_20 : Css.Style
 gap_20 =
@@ -19000,7 +19000,7 @@ gap_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_24 : Css.Style
 gap_24 =
@@ -19011,7 +19011,7 @@ gap_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_28 : Css.Style
 gap_28 =
@@ -19022,7 +19022,7 @@ gap_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_2_dot_5 : Css.Style
 gap_2_dot_5 =
@@ -19033,7 +19033,7 @@ gap_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_3 : Css.Style
 gap_3 =
@@ -19044,7 +19044,7 @@ gap_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_32 : Css.Style
 gap_32 =
@@ -19055,7 +19055,7 @@ gap_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_36 : Css.Style
 gap_36 =
@@ -19066,7 +19066,7 @@ gap_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_3_dot_5 : Css.Style
 gap_3_dot_5 =
@@ -19077,7 +19077,7 @@ gap_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_4 : Css.Style
 gap_4 =
@@ -19088,7 +19088,7 @@ gap_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_40 : Css.Style
 gap_40 =
@@ -19099,7 +19099,7 @@ gap_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_44 : Css.Style
 gap_44 =
@@ -19110,7 +19110,7 @@ gap_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_48 : Css.Style
 gap_48 =
@@ -19121,7 +19121,7 @@ gap_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_5 : Css.Style
 gap_5 =
@@ -19132,7 +19132,7 @@ gap_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_52 : Css.Style
 gap_52 =
@@ -19143,7 +19143,7 @@ gap_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_56 : Css.Style
 gap_56 =
@@ -19154,7 +19154,7 @@ gap_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_6 : Css.Style
 gap_6 =
@@ -19165,7 +19165,7 @@ gap_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_60 : Css.Style
 gap_60 =
@@ -19176,7 +19176,7 @@ gap_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_64 : Css.Style
 gap_64 =
@@ -19187,7 +19187,7 @@ gap_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_7 : Css.Style
 gap_7 =
@@ -19198,7 +19198,7 @@ gap_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_72 : Css.Style
 gap_72 =
@@ -19209,7 +19209,7 @@ gap_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_8 : Css.Style
 gap_8 =
@@ -19220,7 +19220,7 @@ gap_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_80 : Css.Style
 gap_80 =
@@ -19231,7 +19231,7 @@ gap_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_9 : Css.Style
 gap_9 =
@@ -19242,7 +19242,7 @@ gap_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_96 : Css.Style
 gap_96 =
@@ -19253,7 +19253,7 @@ gap_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_px : Css.Style
 gap_px =
@@ -19264,7 +19264,7 @@ gap_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_0 : Css.Style
 gap_x_0 =
@@ -19278,7 +19278,7 @@ gap_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_0_dot_5 : Css.Style
 gap_x_0_dot_5 =
@@ -19292,7 +19292,7 @@ gap_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_1 : Css.Style
 gap_x_1 =
@@ -19306,7 +19306,7 @@ gap_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_10 : Css.Style
 gap_x_10 =
@@ -19320,7 +19320,7 @@ gap_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_11 : Css.Style
 gap_x_11 =
@@ -19334,7 +19334,7 @@ gap_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_12 : Css.Style
 gap_x_12 =
@@ -19348,7 +19348,7 @@ gap_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_14 : Css.Style
 gap_x_14 =
@@ -19362,7 +19362,7 @@ gap_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_16 : Css.Style
 gap_x_16 =
@@ -19376,7 +19376,7 @@ gap_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_1_dot_5 : Css.Style
 gap_x_1_dot_5 =
@@ -19390,7 +19390,7 @@ gap_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_2 : Css.Style
 gap_x_2 =
@@ -19404,7 +19404,7 @@ gap_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_20 : Css.Style
 gap_x_20 =
@@ -19418,7 +19418,7 @@ gap_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_24 : Css.Style
 gap_x_24 =
@@ -19432,7 +19432,7 @@ gap_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_28 : Css.Style
 gap_x_28 =
@@ -19446,7 +19446,7 @@ gap_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_2_dot_5 : Css.Style
 gap_x_2_dot_5 =
@@ -19460,7 +19460,7 @@ gap_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_3 : Css.Style
 gap_x_3 =
@@ -19474,7 +19474,7 @@ gap_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_32 : Css.Style
 gap_x_32 =
@@ -19488,7 +19488,7 @@ gap_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_36 : Css.Style
 gap_x_36 =
@@ -19502,7 +19502,7 @@ gap_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_3_dot_5 : Css.Style
 gap_x_3_dot_5 =
@@ -19516,7 +19516,7 @@ gap_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_4 : Css.Style
 gap_x_4 =
@@ -19530,7 +19530,7 @@ gap_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_40 : Css.Style
 gap_x_40 =
@@ -19544,7 +19544,7 @@ gap_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_44 : Css.Style
 gap_x_44 =
@@ -19558,7 +19558,7 @@ gap_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_48 : Css.Style
 gap_x_48 =
@@ -19572,7 +19572,7 @@ gap_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_5 : Css.Style
 gap_x_5 =
@@ -19586,7 +19586,7 @@ gap_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_52 : Css.Style
 gap_x_52 =
@@ -19600,7 +19600,7 @@ gap_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_56 : Css.Style
 gap_x_56 =
@@ -19614,7 +19614,7 @@ gap_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_6 : Css.Style
 gap_x_6 =
@@ -19628,7 +19628,7 @@ gap_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_60 : Css.Style
 gap_x_60 =
@@ -19642,7 +19642,7 @@ gap_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_64 : Css.Style
 gap_x_64 =
@@ -19656,7 +19656,7 @@ gap_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_7 : Css.Style
 gap_x_7 =
@@ -19670,7 +19670,7 @@ gap_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_72 : Css.Style
 gap_x_72 =
@@ -19684,7 +19684,7 @@ gap_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_8 : Css.Style
 gap_x_8 =
@@ -19698,7 +19698,7 @@ gap_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_80 : Css.Style
 gap_x_80 =
@@ -19712,7 +19712,7 @@ gap_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_9 : Css.Style
 gap_x_9 =
@@ -19726,7 +19726,7 @@ gap_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_96 : Css.Style
 gap_x_96 =
@@ -19740,7 +19740,7 @@ gap_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_x_px : Css.Style
 gap_x_px =
@@ -19754,7 +19754,7 @@ gap_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_0 : Css.Style
 gap_y_0 =
@@ -19765,7 +19765,7 @@ gap_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_0_dot_5 : Css.Style
 gap_y_0_dot_5 =
@@ -19776,7 +19776,7 @@ gap_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_1 : Css.Style
 gap_y_1 =
@@ -19787,7 +19787,7 @@ gap_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_10 : Css.Style
 gap_y_10 =
@@ -19798,7 +19798,7 @@ gap_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_11 : Css.Style
 gap_y_11 =
@@ -19809,7 +19809,7 @@ gap_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_12 : Css.Style
 gap_y_12 =
@@ -19820,7 +19820,7 @@ gap_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_14 : Css.Style
 gap_y_14 =
@@ -19831,7 +19831,7 @@ gap_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_16 : Css.Style
 gap_y_16 =
@@ -19842,7 +19842,7 @@ gap_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_1_dot_5 : Css.Style
 gap_y_1_dot_5 =
@@ -19853,7 +19853,7 @@ gap_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_2 : Css.Style
 gap_y_2 =
@@ -19864,7 +19864,7 @@ gap_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_20 : Css.Style
 gap_y_20 =
@@ -19875,7 +19875,7 @@ gap_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_24 : Css.Style
 gap_y_24 =
@@ -19886,7 +19886,7 @@ gap_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_28 : Css.Style
 gap_y_28 =
@@ -19897,7 +19897,7 @@ gap_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_2_dot_5 : Css.Style
 gap_y_2_dot_5 =
@@ -19908,7 +19908,7 @@ gap_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_3 : Css.Style
 gap_y_3 =
@@ -19919,7 +19919,7 @@ gap_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_32 : Css.Style
 gap_y_32 =
@@ -19930,7 +19930,7 @@ gap_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_36 : Css.Style
 gap_y_36 =
@@ -19941,7 +19941,7 @@ gap_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_3_dot_5 : Css.Style
 gap_y_3_dot_5 =
@@ -19952,7 +19952,7 @@ gap_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_4 : Css.Style
 gap_y_4 =
@@ -19963,7 +19963,7 @@ gap_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_40 : Css.Style
 gap_y_40 =
@@ -19974,7 +19974,7 @@ gap_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_44 : Css.Style
 gap_y_44 =
@@ -19985,7 +19985,7 @@ gap_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_48 : Css.Style
 gap_y_48 =
@@ -19996,7 +19996,7 @@ gap_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_5 : Css.Style
 gap_y_5 =
@@ -20007,7 +20007,7 @@ gap_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_52 : Css.Style
 gap_y_52 =
@@ -20018,7 +20018,7 @@ gap_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_56 : Css.Style
 gap_y_56 =
@@ -20029,7 +20029,7 @@ gap_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_6 : Css.Style
 gap_y_6 =
@@ -20040,7 +20040,7 @@ gap_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_60 : Css.Style
 gap_y_60 =
@@ -20051,7 +20051,7 @@ gap_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_64 : Css.Style
 gap_y_64 =
@@ -20062,7 +20062,7 @@ gap_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_7 : Css.Style
 gap_y_7 =
@@ -20073,7 +20073,7 @@ gap_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_72 : Css.Style
 gap_y_72 =
@@ -20084,7 +20084,7 @@ gap_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_8 : Css.Style
 gap_y_8 =
@@ -20095,7 +20095,7 @@ gap_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_80 : Css.Style
 gap_y_80 =
@@ -20106,7 +20106,7 @@ gap_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_9 : Css.Style
 gap_y_9 =
@@ -20117,7 +20117,7 @@ gap_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_96 : Css.Style
 gap_y_96 =
@@ -20128,7 +20128,7 @@ gap_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 gap_y_px : Css.Style
 gap_y_px =
@@ -20139,7 +20139,7 @@ gap_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grayscale : Css.Style
 grayscale =
@@ -20150,7 +20150,7 @@ grayscale =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grayscale_0 : Css.Style
 grayscale_0 =
@@ -20161,7 +20161,7 @@ grayscale_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid : Css.Style
 grid =
@@ -20172,7 +20172,7 @@ grid =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_1 : Css.Style
 grid_cols_1 =
@@ -20183,7 +20183,7 @@ grid_cols_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_10 : Css.Style
 grid_cols_10 =
@@ -20194,7 +20194,7 @@ grid_cols_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_11 : Css.Style
 grid_cols_11 =
@@ -20205,7 +20205,7 @@ grid_cols_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_12 : Css.Style
 grid_cols_12 =
@@ -20216,7 +20216,7 @@ grid_cols_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_2 : Css.Style
 grid_cols_2 =
@@ -20227,7 +20227,7 @@ grid_cols_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_3 : Css.Style
 grid_cols_3 =
@@ -20238,7 +20238,7 @@ grid_cols_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_4 : Css.Style
 grid_cols_4 =
@@ -20249,7 +20249,7 @@ grid_cols_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_5 : Css.Style
 grid_cols_5 =
@@ -20260,7 +20260,7 @@ grid_cols_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_6 : Css.Style
 grid_cols_6 =
@@ -20271,7 +20271,7 @@ grid_cols_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_7 : Css.Style
 grid_cols_7 =
@@ -20282,7 +20282,7 @@ grid_cols_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_8 : Css.Style
 grid_cols_8 =
@@ -20293,7 +20293,7 @@ grid_cols_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_9 : Css.Style
 grid_cols_9 =
@@ -20304,7 +20304,7 @@ grid_cols_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_cols_none : Css.Style
 grid_cols_none =
@@ -20315,7 +20315,7 @@ grid_cols_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_flow_col : Css.Style
 grid_flow_col =
@@ -20326,7 +20326,7 @@ grid_flow_col =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_flow_col_dense : Css.Style
 grid_flow_col_dense =
@@ -20337,7 +20337,7 @@ grid_flow_col_dense =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_flow_row : Css.Style
 grid_flow_row =
@@ -20348,7 +20348,7 @@ grid_flow_row =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_flow_row_dense : Css.Style
 grid_flow_row_dense =
@@ -20359,7 +20359,7 @@ grid_flow_row_dense =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_1 : Css.Style
 grid_rows_1 =
@@ -20370,7 +20370,7 @@ grid_rows_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_2 : Css.Style
 grid_rows_2 =
@@ -20381,7 +20381,7 @@ grid_rows_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_3 : Css.Style
 grid_rows_3 =
@@ -20392,7 +20392,7 @@ grid_rows_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_4 : Css.Style
 grid_rows_4 =
@@ -20403,7 +20403,7 @@ grid_rows_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_5 : Css.Style
 grid_rows_5 =
@@ -20414,7 +20414,7 @@ grid_rows_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_6 : Css.Style
 grid_rows_6 =
@@ -20425,7 +20425,7 @@ grid_rows_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 grid_rows_none : Css.Style
 grid_rows_none =
@@ -20436,7 +20436,7 @@ grid_rows_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_0 : Css.Style
 h_0 =
@@ -20447,7 +20447,7 @@ h_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_0_dot_5 : Css.Style
 h_0_dot_5 =
@@ -20458,7 +20458,7 @@ h_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1 : Css.Style
 h_1 =
@@ -20469,7 +20469,7 @@ h_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_10 : Css.Style
 h_10 =
@@ -20480,7 +20480,7 @@ h_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_11 : Css.Style
 h_11 =
@@ -20491,7 +20491,7 @@ h_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_12 : Css.Style
 h_12 =
@@ -20502,7 +20502,7 @@ h_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_14 : Css.Style
 h_14 =
@@ -20513,7 +20513,7 @@ h_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_16 : Css.Style
 h_16 =
@@ -20524,7 +20524,7 @@ h_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1_dot_5 : Css.Style
 h_1_dot_5 =
@@ -20535,7 +20535,7 @@ h_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1over2 : Css.Style
 h_1over2 =
@@ -20546,7 +20546,7 @@ h_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1over3 : Css.Style
 h_1over3 =
@@ -20557,7 +20557,7 @@ h_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1over4 : Css.Style
 h_1over4 =
@@ -20568,7 +20568,7 @@ h_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1over5 : Css.Style
 h_1over5 =
@@ -20579,7 +20579,7 @@ h_1over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_1over6 : Css.Style
 h_1over6 =
@@ -20590,7 +20590,7 @@ h_1over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2 : Css.Style
 h_2 =
@@ -20601,7 +20601,7 @@ h_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_20 : Css.Style
 h_20 =
@@ -20612,7 +20612,7 @@ h_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_24 : Css.Style
 h_24 =
@@ -20623,7 +20623,7 @@ h_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_28 : Css.Style
 h_28 =
@@ -20634,7 +20634,7 @@ h_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2_dot_5 : Css.Style
 h_2_dot_5 =
@@ -20645,7 +20645,7 @@ h_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2over3 : Css.Style
 h_2over3 =
@@ -20656,7 +20656,7 @@ h_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2over4 : Css.Style
 h_2over4 =
@@ -20667,7 +20667,7 @@ h_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2over5 : Css.Style
 h_2over5 =
@@ -20678,7 +20678,7 @@ h_2over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_2over6 : Css.Style
 h_2over6 =
@@ -20689,7 +20689,7 @@ h_2over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_3 : Css.Style
 h_3 =
@@ -20700,7 +20700,7 @@ h_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_32 : Css.Style
 h_32 =
@@ -20711,7 +20711,7 @@ h_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_36 : Css.Style
 h_36 =
@@ -20722,7 +20722,7 @@ h_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_3_dot_5 : Css.Style
 h_3_dot_5 =
@@ -20733,7 +20733,7 @@ h_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_3over4 : Css.Style
 h_3over4 =
@@ -20744,7 +20744,7 @@ h_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_3over5 : Css.Style
 h_3over5 =
@@ -20755,7 +20755,7 @@ h_3over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_3over6 : Css.Style
 h_3over6 =
@@ -20766,7 +20766,7 @@ h_3over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_4 : Css.Style
 h_4 =
@@ -20777,7 +20777,7 @@ h_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_40 : Css.Style
 h_40 =
@@ -20788,7 +20788,7 @@ h_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_44 : Css.Style
 h_44 =
@@ -20799,7 +20799,7 @@ h_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_48 : Css.Style
 h_48 =
@@ -20810,7 +20810,7 @@ h_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_4over5 : Css.Style
 h_4over5 =
@@ -20821,7 +20821,7 @@ h_4over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_4over6 : Css.Style
 h_4over6 =
@@ -20832,7 +20832,7 @@ h_4over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_5 : Css.Style
 h_5 =
@@ -20843,7 +20843,7 @@ h_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_52 : Css.Style
 h_52 =
@@ -20854,7 +20854,7 @@ h_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_56 : Css.Style
 h_56 =
@@ -20865,7 +20865,7 @@ h_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_5over6 : Css.Style
 h_5over6 =
@@ -20876,7 +20876,7 @@ h_5over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_6 : Css.Style
 h_6 =
@@ -20887,7 +20887,7 @@ h_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_60 : Css.Style
 h_60 =
@@ -20898,7 +20898,7 @@ h_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_64 : Css.Style
 h_64 =
@@ -20909,7 +20909,7 @@ h_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_7 : Css.Style
 h_7 =
@@ -20920,7 +20920,7 @@ h_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_72 : Css.Style
 h_72 =
@@ -20931,7 +20931,7 @@ h_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_8 : Css.Style
 h_8 =
@@ -20942,7 +20942,7 @@ h_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_80 : Css.Style
 h_80 =
@@ -20953,7 +20953,7 @@ h_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_9 : Css.Style
 h_9 =
@@ -20964,7 +20964,7 @@ h_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_96 : Css.Style
 h_96 =
@@ -20975,7 +20975,7 @@ h_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_auto : Css.Style
 h_auto =
@@ -20986,7 +20986,7 @@ h_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_full : Css.Style
 h_full =
@@ -20997,7 +20997,7 @@ h_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_px : Css.Style
 h_px =
@@ -21008,7 +21008,7 @@ h_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 h_screen : Css.Style
 h_screen =
@@ -21019,7 +21019,7 @@ h_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hidden : Css.Style
 hidden =
@@ -21030,7 +21030,7 @@ hidden =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_0 : Css.Style
 hue_rotate_0 =
@@ -21041,7 +21041,7 @@ hue_rotate_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_15 : Css.Style
 hue_rotate_15 =
@@ -21052,7 +21052,7 @@ hue_rotate_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_180 : Css.Style
 hue_rotate_180 =
@@ -21063,7 +21063,7 @@ hue_rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_30 : Css.Style
 hue_rotate_30 =
@@ -21074,7 +21074,7 @@ hue_rotate_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_60 : Css.Style
 hue_rotate_60 =
@@ -21085,7 +21085,7 @@ hue_rotate_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 hue_rotate_90 : Css.Style
 hue_rotate_90 =
@@ -21096,7 +21096,7 @@ hue_rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inline : Css.Style
 inline =
@@ -21107,7 +21107,7 @@ inline =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inline_block : Css.Style
 inline_block =
@@ -21118,7 +21118,7 @@ inline_block =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inline_flex : Css.Style
 inline_flex =
@@ -21129,7 +21129,7 @@ inline_flex =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inline_grid : Css.Style
 inline_grid =
@@ -21140,7 +21140,7 @@ inline_grid =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inline_table : Css.Style
 inline_table =
@@ -21151,7 +21151,7 @@ inline_table =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_0 : Css.Style
 inset_0 =
@@ -21167,7 +21167,7 @@ inset_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_0_dot_5 : Css.Style
 inset_0_dot_5 =
@@ -21183,7 +21183,7 @@ inset_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_1 : Css.Style
 inset_1 =
@@ -21199,7 +21199,7 @@ inset_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_10 : Css.Style
 inset_10 =
@@ -21215,7 +21215,7 @@ inset_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_11 : Css.Style
 inset_11 =
@@ -21231,7 +21231,7 @@ inset_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_12 : Css.Style
 inset_12 =
@@ -21247,7 +21247,7 @@ inset_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_14 : Css.Style
 inset_14 =
@@ -21263,7 +21263,7 @@ inset_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_16 : Css.Style
 inset_16 =
@@ -21279,7 +21279,7 @@ inset_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_1_dot_5 : Css.Style
 inset_1_dot_5 =
@@ -21295,7 +21295,7 @@ inset_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_1over2 : Css.Style
 inset_1over2 =
@@ -21311,7 +21311,7 @@ inset_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_1over3 : Css.Style
 inset_1over3 =
@@ -21327,7 +21327,7 @@ inset_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_1over4 : Css.Style
 inset_1over4 =
@@ -21343,7 +21343,7 @@ inset_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_2 : Css.Style
 inset_2 =
@@ -21359,7 +21359,7 @@ inset_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_20 : Css.Style
 inset_20 =
@@ -21375,7 +21375,7 @@ inset_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_24 : Css.Style
 inset_24 =
@@ -21391,7 +21391,7 @@ inset_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_28 : Css.Style
 inset_28 =
@@ -21407,7 +21407,7 @@ inset_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_2_dot_5 : Css.Style
 inset_2_dot_5 =
@@ -21423,7 +21423,7 @@ inset_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_2over3 : Css.Style
 inset_2over3 =
@@ -21439,7 +21439,7 @@ inset_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_2over4 : Css.Style
 inset_2over4 =
@@ -21455,7 +21455,7 @@ inset_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_3 : Css.Style
 inset_3 =
@@ -21471,7 +21471,7 @@ inset_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_32 : Css.Style
 inset_32 =
@@ -21487,7 +21487,7 @@ inset_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_36 : Css.Style
 inset_36 =
@@ -21503,7 +21503,7 @@ inset_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_3_dot_5 : Css.Style
 inset_3_dot_5 =
@@ -21519,7 +21519,7 @@ inset_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_3over4 : Css.Style
 inset_3over4 =
@@ -21535,7 +21535,7 @@ inset_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_4 : Css.Style
 inset_4 =
@@ -21551,7 +21551,7 @@ inset_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_40 : Css.Style
 inset_40 =
@@ -21567,7 +21567,7 @@ inset_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_44 : Css.Style
 inset_44 =
@@ -21583,7 +21583,7 @@ inset_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_48 : Css.Style
 inset_48 =
@@ -21599,7 +21599,7 @@ inset_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_5 : Css.Style
 inset_5 =
@@ -21615,7 +21615,7 @@ inset_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_52 : Css.Style
 inset_52 =
@@ -21631,7 +21631,7 @@ inset_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_56 : Css.Style
 inset_56 =
@@ -21647,7 +21647,7 @@ inset_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_6 : Css.Style
 inset_6 =
@@ -21663,7 +21663,7 @@ inset_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_60 : Css.Style
 inset_60 =
@@ -21679,7 +21679,7 @@ inset_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_64 : Css.Style
 inset_64 =
@@ -21695,7 +21695,7 @@ inset_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_7 : Css.Style
 inset_7 =
@@ -21711,7 +21711,7 @@ inset_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_72 : Css.Style
 inset_72 =
@@ -21727,7 +21727,7 @@ inset_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_8 : Css.Style
 inset_8 =
@@ -21743,7 +21743,7 @@ inset_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_80 : Css.Style
 inset_80 =
@@ -21759,7 +21759,7 @@ inset_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_9 : Css.Style
 inset_9 =
@@ -21775,7 +21775,7 @@ inset_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_96 : Css.Style
 inset_96 =
@@ -21791,7 +21791,7 @@ inset_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_auto : Css.Style
 inset_auto =
@@ -21807,7 +21807,7 @@ inset_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_full : Css.Style
 inset_full =
@@ -21823,7 +21823,7 @@ inset_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_px : Css.Style
 inset_px =
@@ -21839,7 +21839,7 @@ inset_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_0 : Css.Style
 inset_x_0 =
@@ -21853,7 +21853,7 @@ inset_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_0_dot_5 : Css.Style
 inset_x_0_dot_5 =
@@ -21867,7 +21867,7 @@ inset_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_1 : Css.Style
 inset_x_1 =
@@ -21881,7 +21881,7 @@ inset_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_10 : Css.Style
 inset_x_10 =
@@ -21895,7 +21895,7 @@ inset_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_11 : Css.Style
 inset_x_11 =
@@ -21909,7 +21909,7 @@ inset_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_12 : Css.Style
 inset_x_12 =
@@ -21923,7 +21923,7 @@ inset_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_14 : Css.Style
 inset_x_14 =
@@ -21937,7 +21937,7 @@ inset_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_16 : Css.Style
 inset_x_16 =
@@ -21951,7 +21951,7 @@ inset_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_1_dot_5 : Css.Style
 inset_x_1_dot_5 =
@@ -21965,7 +21965,7 @@ inset_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_1over2 : Css.Style
 inset_x_1over2 =
@@ -21979,7 +21979,7 @@ inset_x_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_1over3 : Css.Style
 inset_x_1over3 =
@@ -21993,7 +21993,7 @@ inset_x_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_1over4 : Css.Style
 inset_x_1over4 =
@@ -22007,7 +22007,7 @@ inset_x_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_2 : Css.Style
 inset_x_2 =
@@ -22021,7 +22021,7 @@ inset_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_20 : Css.Style
 inset_x_20 =
@@ -22035,7 +22035,7 @@ inset_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_24 : Css.Style
 inset_x_24 =
@@ -22049,7 +22049,7 @@ inset_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_28 : Css.Style
 inset_x_28 =
@@ -22063,7 +22063,7 @@ inset_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_2_dot_5 : Css.Style
 inset_x_2_dot_5 =
@@ -22077,7 +22077,7 @@ inset_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_2over3 : Css.Style
 inset_x_2over3 =
@@ -22091,7 +22091,7 @@ inset_x_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_2over4 : Css.Style
 inset_x_2over4 =
@@ -22105,7 +22105,7 @@ inset_x_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_3 : Css.Style
 inset_x_3 =
@@ -22119,7 +22119,7 @@ inset_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_32 : Css.Style
 inset_x_32 =
@@ -22133,7 +22133,7 @@ inset_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_36 : Css.Style
 inset_x_36 =
@@ -22147,7 +22147,7 @@ inset_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_3_dot_5 : Css.Style
 inset_x_3_dot_5 =
@@ -22161,7 +22161,7 @@ inset_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_3over4 : Css.Style
 inset_x_3over4 =
@@ -22175,7 +22175,7 @@ inset_x_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_4 : Css.Style
 inset_x_4 =
@@ -22189,7 +22189,7 @@ inset_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_40 : Css.Style
 inset_x_40 =
@@ -22203,7 +22203,7 @@ inset_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_44 : Css.Style
 inset_x_44 =
@@ -22217,7 +22217,7 @@ inset_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_48 : Css.Style
 inset_x_48 =
@@ -22231,7 +22231,7 @@ inset_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_5 : Css.Style
 inset_x_5 =
@@ -22245,7 +22245,7 @@ inset_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_52 : Css.Style
 inset_x_52 =
@@ -22259,7 +22259,7 @@ inset_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_56 : Css.Style
 inset_x_56 =
@@ -22273,7 +22273,7 @@ inset_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_6 : Css.Style
 inset_x_6 =
@@ -22287,7 +22287,7 @@ inset_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_60 : Css.Style
 inset_x_60 =
@@ -22301,7 +22301,7 @@ inset_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_64 : Css.Style
 inset_x_64 =
@@ -22315,7 +22315,7 @@ inset_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_7 : Css.Style
 inset_x_7 =
@@ -22329,7 +22329,7 @@ inset_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_72 : Css.Style
 inset_x_72 =
@@ -22343,7 +22343,7 @@ inset_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_8 : Css.Style
 inset_x_8 =
@@ -22357,7 +22357,7 @@ inset_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_80 : Css.Style
 inset_x_80 =
@@ -22371,7 +22371,7 @@ inset_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_9 : Css.Style
 inset_x_9 =
@@ -22385,7 +22385,7 @@ inset_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_96 : Css.Style
 inset_x_96 =
@@ -22399,7 +22399,7 @@ inset_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_auto : Css.Style
 inset_x_auto =
@@ -22413,7 +22413,7 @@ inset_x_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_full : Css.Style
 inset_x_full =
@@ -22427,7 +22427,7 @@ inset_x_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_x_px : Css.Style
 inset_x_px =
@@ -22441,7 +22441,7 @@ inset_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_0 : Css.Style
 inset_y_0 =
@@ -22455,7 +22455,7 @@ inset_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_0_dot_5 : Css.Style
 inset_y_0_dot_5 =
@@ -22469,7 +22469,7 @@ inset_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_1 : Css.Style
 inset_y_1 =
@@ -22483,7 +22483,7 @@ inset_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_10 : Css.Style
 inset_y_10 =
@@ -22497,7 +22497,7 @@ inset_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_11 : Css.Style
 inset_y_11 =
@@ -22511,7 +22511,7 @@ inset_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_12 : Css.Style
 inset_y_12 =
@@ -22525,7 +22525,7 @@ inset_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_14 : Css.Style
 inset_y_14 =
@@ -22539,7 +22539,7 @@ inset_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_16 : Css.Style
 inset_y_16 =
@@ -22553,7 +22553,7 @@ inset_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_1_dot_5 : Css.Style
 inset_y_1_dot_5 =
@@ -22567,7 +22567,7 @@ inset_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_1over2 : Css.Style
 inset_y_1over2 =
@@ -22581,7 +22581,7 @@ inset_y_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_1over3 : Css.Style
 inset_y_1over3 =
@@ -22595,7 +22595,7 @@ inset_y_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_1over4 : Css.Style
 inset_y_1over4 =
@@ -22609,7 +22609,7 @@ inset_y_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_2 : Css.Style
 inset_y_2 =
@@ -22623,7 +22623,7 @@ inset_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_20 : Css.Style
 inset_y_20 =
@@ -22637,7 +22637,7 @@ inset_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_24 : Css.Style
 inset_y_24 =
@@ -22651,7 +22651,7 @@ inset_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_28 : Css.Style
 inset_y_28 =
@@ -22665,7 +22665,7 @@ inset_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_2_dot_5 : Css.Style
 inset_y_2_dot_5 =
@@ -22679,7 +22679,7 @@ inset_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_2over3 : Css.Style
 inset_y_2over3 =
@@ -22693,7 +22693,7 @@ inset_y_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_2over4 : Css.Style
 inset_y_2over4 =
@@ -22707,7 +22707,7 @@ inset_y_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_3 : Css.Style
 inset_y_3 =
@@ -22721,7 +22721,7 @@ inset_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_32 : Css.Style
 inset_y_32 =
@@ -22735,7 +22735,7 @@ inset_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_36 : Css.Style
 inset_y_36 =
@@ -22749,7 +22749,7 @@ inset_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_3_dot_5 : Css.Style
 inset_y_3_dot_5 =
@@ -22763,7 +22763,7 @@ inset_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_3over4 : Css.Style
 inset_y_3over4 =
@@ -22777,7 +22777,7 @@ inset_y_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_4 : Css.Style
 inset_y_4 =
@@ -22791,7 +22791,7 @@ inset_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_40 : Css.Style
 inset_y_40 =
@@ -22805,7 +22805,7 @@ inset_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_44 : Css.Style
 inset_y_44 =
@@ -22819,7 +22819,7 @@ inset_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_48 : Css.Style
 inset_y_48 =
@@ -22833,7 +22833,7 @@ inset_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_5 : Css.Style
 inset_y_5 =
@@ -22847,7 +22847,7 @@ inset_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_52 : Css.Style
 inset_y_52 =
@@ -22861,7 +22861,7 @@ inset_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_56 : Css.Style
 inset_y_56 =
@@ -22875,7 +22875,7 @@ inset_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_6 : Css.Style
 inset_y_6 =
@@ -22889,7 +22889,7 @@ inset_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_60 : Css.Style
 inset_y_60 =
@@ -22903,7 +22903,7 @@ inset_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_64 : Css.Style
 inset_y_64 =
@@ -22917,7 +22917,7 @@ inset_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_7 : Css.Style
 inset_y_7 =
@@ -22931,7 +22931,7 @@ inset_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_72 : Css.Style
 inset_y_72 =
@@ -22945,7 +22945,7 @@ inset_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_8 : Css.Style
 inset_y_8 =
@@ -22959,7 +22959,7 @@ inset_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_80 : Css.Style
 inset_y_80 =
@@ -22973,7 +22973,7 @@ inset_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_9 : Css.Style
 inset_y_9 =
@@ -22987,7 +22987,7 @@ inset_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_96 : Css.Style
 inset_y_96 =
@@ -23001,7 +23001,7 @@ inset_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_auto : Css.Style
 inset_y_auto =
@@ -23015,7 +23015,7 @@ inset_y_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_full : Css.Style
 inset_y_full =
@@ -23029,7 +23029,7 @@ inset_y_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 inset_y_px : Css.Style
 inset_y_px =
@@ -23043,7 +23043,7 @@ inset_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 invert : Css.Style
 invert =
@@ -23054,7 +23054,7 @@ invert =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 invert_0 : Css.Style
 invert_0 =
@@ -23065,7 +23065,7 @@ invert_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 invisible : Css.Style
 invisible =
@@ -23076,7 +23076,7 @@ invisible =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 isolate : Css.Style
 isolate =
@@ -23087,7 +23087,7 @@ isolate =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 isolation_auto : Css.Style
 isolation_auto =
@@ -23098,7 +23098,7 @@ isolation_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 italic : Css.Style
 italic =
@@ -23109,7 +23109,7 @@ italic =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 items_baseline : Css.Style
 items_baseline =
@@ -23120,7 +23120,7 @@ items_baseline =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 items_center : Css.Style
 items_center =
@@ -23131,7 +23131,7 @@ items_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 items_end : Css.Style
 items_end =
@@ -23142,7 +23142,7 @@ items_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 items_start : Css.Style
 items_start =
@@ -23153,7 +23153,7 @@ items_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 items_stretch : Css.Style
 items_stretch =
@@ -23164,7 +23164,7 @@ items_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_around : Css.Style
 justify_around =
@@ -23175,7 +23175,7 @@ justify_around =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_between : Css.Style
 justify_between =
@@ -23186,7 +23186,7 @@ justify_between =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_center : Css.Style
 justify_center =
@@ -23197,7 +23197,7 @@ justify_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_end : Css.Style
 justify_end =
@@ -23208,7 +23208,7 @@ justify_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_evenly : Css.Style
 justify_evenly =
@@ -23219,7 +23219,7 @@ justify_evenly =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_items_center : Css.Style
 justify_items_center =
@@ -23230,7 +23230,7 @@ justify_items_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_items_end : Css.Style
 justify_items_end =
@@ -23241,7 +23241,7 @@ justify_items_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_items_start : Css.Style
 justify_items_start =
@@ -23252,7 +23252,7 @@ justify_items_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_items_stretch : Css.Style
 justify_items_stretch =
@@ -23263,7 +23263,7 @@ justify_items_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_self_auto : Css.Style
 justify_self_auto =
@@ -23274,7 +23274,7 @@ justify_self_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_self_center : Css.Style
 justify_self_center =
@@ -23285,7 +23285,7 @@ justify_self_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_self_end : Css.Style
 justify_self_end =
@@ -23296,7 +23296,7 @@ justify_self_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_self_start : Css.Style
 justify_self_start =
@@ -23307,7 +23307,7 @@ justify_self_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_self_stretch : Css.Style
 justify_self_stretch =
@@ -23318,7 +23318,7 @@ justify_self_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 justify_start : Css.Style
 justify_start =
@@ -23329,7 +23329,7 @@ justify_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_10 : Css.Style
 leading_10 =
@@ -23340,7 +23340,7 @@ leading_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_3 : Css.Style
 leading_3 =
@@ -23351,7 +23351,7 @@ leading_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_4 : Css.Style
 leading_4 =
@@ -23362,7 +23362,7 @@ leading_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_5 : Css.Style
 leading_5 =
@@ -23373,7 +23373,7 @@ leading_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_6 : Css.Style
 leading_6 =
@@ -23384,7 +23384,7 @@ leading_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_7 : Css.Style
 leading_7 =
@@ -23395,7 +23395,7 @@ leading_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_8 : Css.Style
 leading_8 =
@@ -23406,7 +23406,7 @@ leading_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_9 : Css.Style
 leading_9 =
@@ -23417,7 +23417,7 @@ leading_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_loose : Css.Style
 leading_loose =
@@ -23428,7 +23428,7 @@ leading_loose =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_none : Css.Style
 leading_none =
@@ -23439,7 +23439,7 @@ leading_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_normal : Css.Style
 leading_normal =
@@ -23450,7 +23450,7 @@ leading_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_relaxed : Css.Style
 leading_relaxed =
@@ -23461,7 +23461,7 @@ leading_relaxed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_snug : Css.Style
 leading_snug =
@@ -23472,7 +23472,7 @@ leading_snug =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 leading_tight : Css.Style
 leading_tight =
@@ -23483,7 +23483,7 @@ leading_tight =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_0 : Css.Style
 left_0 =
@@ -23494,7 +23494,7 @@ left_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_0_dot_5 : Css.Style
 left_0_dot_5 =
@@ -23505,7 +23505,7 @@ left_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_1 : Css.Style
 left_1 =
@@ -23516,7 +23516,7 @@ left_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_10 : Css.Style
 left_10 =
@@ -23527,7 +23527,7 @@ left_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_11 : Css.Style
 left_11 =
@@ -23538,7 +23538,7 @@ left_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_12 : Css.Style
 left_12 =
@@ -23549,7 +23549,7 @@ left_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_14 : Css.Style
 left_14 =
@@ -23560,7 +23560,7 @@ left_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_16 : Css.Style
 left_16 =
@@ -23571,7 +23571,7 @@ left_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_1_dot_5 : Css.Style
 left_1_dot_5 =
@@ -23582,7 +23582,7 @@ left_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_1over2 : Css.Style
 left_1over2 =
@@ -23593,7 +23593,7 @@ left_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_1over3 : Css.Style
 left_1over3 =
@@ -23604,7 +23604,7 @@ left_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_1over4 : Css.Style
 left_1over4 =
@@ -23615,7 +23615,7 @@ left_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_2 : Css.Style
 left_2 =
@@ -23626,7 +23626,7 @@ left_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_20 : Css.Style
 left_20 =
@@ -23637,7 +23637,7 @@ left_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_24 : Css.Style
 left_24 =
@@ -23648,7 +23648,7 @@ left_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_28 : Css.Style
 left_28 =
@@ -23659,7 +23659,7 @@ left_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_2_dot_5 : Css.Style
 left_2_dot_5 =
@@ -23670,7 +23670,7 @@ left_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_2over3 : Css.Style
 left_2over3 =
@@ -23681,7 +23681,7 @@ left_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_2over4 : Css.Style
 left_2over4 =
@@ -23692,7 +23692,7 @@ left_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_3 : Css.Style
 left_3 =
@@ -23703,7 +23703,7 @@ left_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_32 : Css.Style
 left_32 =
@@ -23714,7 +23714,7 @@ left_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_36 : Css.Style
 left_36 =
@@ -23725,7 +23725,7 @@ left_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_3_dot_5 : Css.Style
 left_3_dot_5 =
@@ -23736,7 +23736,7 @@ left_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_3over4 : Css.Style
 left_3over4 =
@@ -23747,7 +23747,7 @@ left_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_4 : Css.Style
 left_4 =
@@ -23758,7 +23758,7 @@ left_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_40 : Css.Style
 left_40 =
@@ -23769,7 +23769,7 @@ left_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_44 : Css.Style
 left_44 =
@@ -23780,7 +23780,7 @@ left_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_48 : Css.Style
 left_48 =
@@ -23791,7 +23791,7 @@ left_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_5 : Css.Style
 left_5 =
@@ -23802,7 +23802,7 @@ left_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_52 : Css.Style
 left_52 =
@@ -23813,7 +23813,7 @@ left_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_56 : Css.Style
 left_56 =
@@ -23824,7 +23824,7 @@ left_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_6 : Css.Style
 left_6 =
@@ -23835,7 +23835,7 @@ left_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_60 : Css.Style
 left_60 =
@@ -23846,7 +23846,7 @@ left_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_64 : Css.Style
 left_64 =
@@ -23857,7 +23857,7 @@ left_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_7 : Css.Style
 left_7 =
@@ -23868,7 +23868,7 @@ left_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_72 : Css.Style
 left_72 =
@@ -23879,7 +23879,7 @@ left_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_8 : Css.Style
 left_8 =
@@ -23890,7 +23890,7 @@ left_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_80 : Css.Style
 left_80 =
@@ -23901,7 +23901,7 @@ left_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_9 : Css.Style
 left_9 =
@@ -23912,7 +23912,7 @@ left_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_96 : Css.Style
 left_96 =
@@ -23923,7 +23923,7 @@ left_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_auto : Css.Style
 left_auto =
@@ -23934,7 +23934,7 @@ left_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_full : Css.Style
 left_full =
@@ -23945,7 +23945,7 @@ left_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 left_px : Css.Style
 left_px =
@@ -23956,7 +23956,7 @@ left_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 line_through : Css.Style
 line_through =
@@ -23967,7 +23967,7 @@ line_through =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 lining_nums : Css.Style
 lining_nums =
@@ -23986,7 +23986,7 @@ lining_nums =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_decimal : Css.Style
 list_decimal =
@@ -23997,7 +23997,7 @@ list_decimal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_disc : Css.Style
 list_disc =
@@ -24008,7 +24008,7 @@ list_disc =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_inside : Css.Style
 list_inside =
@@ -24019,7 +24019,7 @@ list_inside =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_item : Css.Style
 list_item =
@@ -24030,7 +24030,7 @@ list_item =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_none : Css.Style
 list_none =
@@ -24041,7 +24041,7 @@ list_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 list_outside : Css.Style
 list_outside =
@@ -24052,7 +24052,7 @@ list_outside =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 lowercase : Css.Style
 lowercase =
@@ -24063,7 +24063,7 @@ lowercase =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_0 : Css.Style
 m_0 =
@@ -24074,7 +24074,7 @@ m_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_0_dot_5 : Css.Style
 m_0_dot_5 =
@@ -24085,7 +24085,7 @@ m_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_1 : Css.Style
 m_1 =
@@ -24096,7 +24096,7 @@ m_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_10 : Css.Style
 m_10 =
@@ -24107,7 +24107,7 @@ m_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_11 : Css.Style
 m_11 =
@@ -24118,7 +24118,7 @@ m_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_12 : Css.Style
 m_12 =
@@ -24129,7 +24129,7 @@ m_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_14 : Css.Style
 m_14 =
@@ -24140,7 +24140,7 @@ m_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_16 : Css.Style
 m_16 =
@@ -24151,7 +24151,7 @@ m_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_1_dot_5 : Css.Style
 m_1_dot_5 =
@@ -24162,7 +24162,7 @@ m_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_2 : Css.Style
 m_2 =
@@ -24173,7 +24173,7 @@ m_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_20 : Css.Style
 m_20 =
@@ -24184,7 +24184,7 @@ m_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_24 : Css.Style
 m_24 =
@@ -24195,7 +24195,7 @@ m_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_28 : Css.Style
 m_28 =
@@ -24206,7 +24206,7 @@ m_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_2_dot_5 : Css.Style
 m_2_dot_5 =
@@ -24217,7 +24217,7 @@ m_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_3 : Css.Style
 m_3 =
@@ -24228,7 +24228,7 @@ m_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_32 : Css.Style
 m_32 =
@@ -24239,7 +24239,7 @@ m_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_36 : Css.Style
 m_36 =
@@ -24250,7 +24250,7 @@ m_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_3_dot_5 : Css.Style
 m_3_dot_5 =
@@ -24261,7 +24261,7 @@ m_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_4 : Css.Style
 m_4 =
@@ -24272,7 +24272,7 @@ m_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_40 : Css.Style
 m_40 =
@@ -24283,7 +24283,7 @@ m_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_44 : Css.Style
 m_44 =
@@ -24294,7 +24294,7 @@ m_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_48 : Css.Style
 m_48 =
@@ -24305,7 +24305,7 @@ m_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_5 : Css.Style
 m_5 =
@@ -24316,7 +24316,7 @@ m_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_52 : Css.Style
 m_52 =
@@ -24327,7 +24327,7 @@ m_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_56 : Css.Style
 m_56 =
@@ -24338,7 +24338,7 @@ m_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_6 : Css.Style
 m_6 =
@@ -24349,7 +24349,7 @@ m_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_60 : Css.Style
 m_60 =
@@ -24360,7 +24360,7 @@ m_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_64 : Css.Style
 m_64 =
@@ -24371,7 +24371,7 @@ m_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_7 : Css.Style
 m_7 =
@@ -24382,7 +24382,7 @@ m_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_72 : Css.Style
 m_72 =
@@ -24393,7 +24393,7 @@ m_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_8 : Css.Style
 m_8 =
@@ -24404,7 +24404,7 @@ m_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_80 : Css.Style
 m_80 =
@@ -24415,7 +24415,7 @@ m_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_9 : Css.Style
 m_9 =
@@ -24426,7 +24426,7 @@ m_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_96 : Css.Style
 m_96 =
@@ -24437,7 +24437,7 @@ m_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_auto : Css.Style
 m_auto =
@@ -24448,7 +24448,7 @@ m_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 m_px : Css.Style
 m_px =
@@ -24459,7 +24459,7 @@ m_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_0 : Css.Style
 max_h_0 =
@@ -24470,7 +24470,7 @@ max_h_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_0_dot_5 : Css.Style
 max_h_0_dot_5 =
@@ -24481,7 +24481,7 @@ max_h_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_1 : Css.Style
 max_h_1 =
@@ -24492,7 +24492,7 @@ max_h_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_10 : Css.Style
 max_h_10 =
@@ -24503,7 +24503,7 @@ max_h_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_11 : Css.Style
 max_h_11 =
@@ -24514,7 +24514,7 @@ max_h_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_12 : Css.Style
 max_h_12 =
@@ -24525,7 +24525,7 @@ max_h_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_14 : Css.Style
 max_h_14 =
@@ -24536,7 +24536,7 @@ max_h_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_16 : Css.Style
 max_h_16 =
@@ -24547,7 +24547,7 @@ max_h_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_1_dot_5 : Css.Style
 max_h_1_dot_5 =
@@ -24558,7 +24558,7 @@ max_h_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_2 : Css.Style
 max_h_2 =
@@ -24569,7 +24569,7 @@ max_h_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_20 : Css.Style
 max_h_20 =
@@ -24580,7 +24580,7 @@ max_h_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_24 : Css.Style
 max_h_24 =
@@ -24591,7 +24591,7 @@ max_h_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_28 : Css.Style
 max_h_28 =
@@ -24602,7 +24602,7 @@ max_h_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_2_dot_5 : Css.Style
 max_h_2_dot_5 =
@@ -24613,7 +24613,7 @@ max_h_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_3 : Css.Style
 max_h_3 =
@@ -24624,7 +24624,7 @@ max_h_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_32 : Css.Style
 max_h_32 =
@@ -24635,7 +24635,7 @@ max_h_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_36 : Css.Style
 max_h_36 =
@@ -24646,7 +24646,7 @@ max_h_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_3_dot_5 : Css.Style
 max_h_3_dot_5 =
@@ -24657,7 +24657,7 @@ max_h_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_4 : Css.Style
 max_h_4 =
@@ -24668,7 +24668,7 @@ max_h_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_40 : Css.Style
 max_h_40 =
@@ -24679,7 +24679,7 @@ max_h_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_44 : Css.Style
 max_h_44 =
@@ -24690,7 +24690,7 @@ max_h_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_48 : Css.Style
 max_h_48 =
@@ -24701,7 +24701,7 @@ max_h_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_5 : Css.Style
 max_h_5 =
@@ -24712,7 +24712,7 @@ max_h_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_52 : Css.Style
 max_h_52 =
@@ -24723,7 +24723,7 @@ max_h_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_56 : Css.Style
 max_h_56 =
@@ -24734,7 +24734,7 @@ max_h_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_6 : Css.Style
 max_h_6 =
@@ -24745,7 +24745,7 @@ max_h_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_60 : Css.Style
 max_h_60 =
@@ -24756,7 +24756,7 @@ max_h_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_64 : Css.Style
 max_h_64 =
@@ -24767,7 +24767,7 @@ max_h_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_7 : Css.Style
 max_h_7 =
@@ -24778,7 +24778,7 @@ max_h_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_72 : Css.Style
 max_h_72 =
@@ -24789,7 +24789,7 @@ max_h_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_8 : Css.Style
 max_h_8 =
@@ -24800,7 +24800,7 @@ max_h_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_80 : Css.Style
 max_h_80 =
@@ -24811,7 +24811,7 @@ max_h_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_9 : Css.Style
 max_h_9 =
@@ -24822,7 +24822,7 @@ max_h_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_96 : Css.Style
 max_h_96 =
@@ -24833,7 +24833,7 @@ max_h_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_full : Css.Style
 max_h_full =
@@ -24844,7 +24844,7 @@ max_h_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_px : Css.Style
 max_h_px =
@@ -24855,7 +24855,7 @@ max_h_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_h_screen : Css.Style
 max_h_screen =
@@ -24866,7 +24866,7 @@ max_h_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_0 : Css.Style
 max_w_0 =
@@ -24877,7 +24877,7 @@ max_w_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_2xl : Css.Style
 max_w_2xl =
@@ -24888,7 +24888,7 @@ max_w_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_3xl : Css.Style
 max_w_3xl =
@@ -24899,7 +24899,7 @@ max_w_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_4xl : Css.Style
 max_w_4xl =
@@ -24910,7 +24910,7 @@ max_w_4xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_5xl : Css.Style
 max_w_5xl =
@@ -24921,7 +24921,7 @@ max_w_5xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_6xl : Css.Style
 max_w_6xl =
@@ -24932,7 +24932,7 @@ max_w_6xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_7xl : Css.Style
 max_w_7xl =
@@ -24943,7 +24943,7 @@ max_w_7xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_full : Css.Style
 max_w_full =
@@ -24954,7 +24954,7 @@ max_w_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_lg : Css.Style
 max_w_lg =
@@ -24965,7 +24965,7 @@ max_w_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_max : Css.Style
 max_w_max =
@@ -24980,7 +24980,7 @@ max_w_max =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_md : Css.Style
 max_w_md =
@@ -24991,7 +24991,7 @@ max_w_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_min : Css.Style
 max_w_min =
@@ -25006,7 +25006,7 @@ max_w_min =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_none : Css.Style
 max_w_none =
@@ -25017,7 +25017,7 @@ max_w_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_prose : Css.Style
 max_w_prose =
@@ -25028,7 +25028,7 @@ max_w_prose =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_screen_2xl : Css.Style
 max_w_screen_2xl =
@@ -25039,7 +25039,7 @@ max_w_screen_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_screen_lg : Css.Style
 max_w_screen_lg =
@@ -25050,7 +25050,7 @@ max_w_screen_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_screen_md : Css.Style
 max_w_screen_md =
@@ -25061,7 +25061,7 @@ max_w_screen_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_screen_sm : Css.Style
 max_w_screen_sm =
@@ -25072,7 +25072,7 @@ max_w_screen_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_screen_xl : Css.Style
 max_w_screen_xl =
@@ -25083,7 +25083,7 @@ max_w_screen_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_sm : Css.Style
 max_w_sm =
@@ -25094,7 +25094,7 @@ max_w_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_xl : Css.Style
 max_w_xl =
@@ -25105,7 +25105,7 @@ max_w_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 max_w_xs : Css.Style
 max_w_xs =
@@ -25116,7 +25116,7 @@ max_w_xs =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_0 : Css.Style
 mb_0 =
@@ -25127,7 +25127,7 @@ mb_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_0_dot_5 : Css.Style
 mb_0_dot_5 =
@@ -25138,7 +25138,7 @@ mb_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_1 : Css.Style
 mb_1 =
@@ -25149,7 +25149,7 @@ mb_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_10 : Css.Style
 mb_10 =
@@ -25160,7 +25160,7 @@ mb_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_11 : Css.Style
 mb_11 =
@@ -25171,7 +25171,7 @@ mb_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_12 : Css.Style
 mb_12 =
@@ -25182,7 +25182,7 @@ mb_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_14 : Css.Style
 mb_14 =
@@ -25193,7 +25193,7 @@ mb_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_16 : Css.Style
 mb_16 =
@@ -25204,7 +25204,7 @@ mb_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_1_dot_5 : Css.Style
 mb_1_dot_5 =
@@ -25215,7 +25215,7 @@ mb_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_2 : Css.Style
 mb_2 =
@@ -25226,7 +25226,7 @@ mb_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_20 : Css.Style
 mb_20 =
@@ -25237,7 +25237,7 @@ mb_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_24 : Css.Style
 mb_24 =
@@ -25248,7 +25248,7 @@ mb_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_28 : Css.Style
 mb_28 =
@@ -25259,7 +25259,7 @@ mb_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_2_dot_5 : Css.Style
 mb_2_dot_5 =
@@ -25270,7 +25270,7 @@ mb_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_3 : Css.Style
 mb_3 =
@@ -25281,7 +25281,7 @@ mb_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_32 : Css.Style
 mb_32 =
@@ -25292,7 +25292,7 @@ mb_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_36 : Css.Style
 mb_36 =
@@ -25303,7 +25303,7 @@ mb_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_3_dot_5 : Css.Style
 mb_3_dot_5 =
@@ -25314,7 +25314,7 @@ mb_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_4 : Css.Style
 mb_4 =
@@ -25325,7 +25325,7 @@ mb_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_40 : Css.Style
 mb_40 =
@@ -25336,7 +25336,7 @@ mb_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_44 : Css.Style
 mb_44 =
@@ -25347,7 +25347,7 @@ mb_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_48 : Css.Style
 mb_48 =
@@ -25358,7 +25358,7 @@ mb_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_5 : Css.Style
 mb_5 =
@@ -25369,7 +25369,7 @@ mb_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_52 : Css.Style
 mb_52 =
@@ -25380,7 +25380,7 @@ mb_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_56 : Css.Style
 mb_56 =
@@ -25391,7 +25391,7 @@ mb_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_6 : Css.Style
 mb_6 =
@@ -25402,7 +25402,7 @@ mb_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_60 : Css.Style
 mb_60 =
@@ -25413,7 +25413,7 @@ mb_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_64 : Css.Style
 mb_64 =
@@ -25424,7 +25424,7 @@ mb_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_7 : Css.Style
 mb_7 =
@@ -25435,7 +25435,7 @@ mb_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_72 : Css.Style
 mb_72 =
@@ -25446,7 +25446,7 @@ mb_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_8 : Css.Style
 mb_8 =
@@ -25457,7 +25457,7 @@ mb_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_80 : Css.Style
 mb_80 =
@@ -25468,7 +25468,7 @@ mb_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_9 : Css.Style
 mb_9 =
@@ -25479,7 +25479,7 @@ mb_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_96 : Css.Style
 mb_96 =
@@ -25490,7 +25490,7 @@ mb_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_auto : Css.Style
 mb_auto =
@@ -25501,7 +25501,7 @@ mb_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mb_px : Css.Style
 mb_px =
@@ -25512,7 +25512,7 @@ mb_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_h_0 : Css.Style
 min_h_0 =
@@ -25523,7 +25523,7 @@ min_h_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_h_full : Css.Style
 min_h_full =
@@ -25534,7 +25534,7 @@ min_h_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_h_screen : Css.Style
 min_h_screen =
@@ -25545,7 +25545,7 @@ min_h_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_w_0 : Css.Style
 min_w_0 =
@@ -25556,7 +25556,7 @@ min_w_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_w_full : Css.Style
 min_w_full =
@@ -25567,7 +25567,7 @@ min_w_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_w_max : Css.Style
 min_w_max =
@@ -25582,7 +25582,7 @@ min_w_max =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 min_w_min : Css.Style
 min_w_min =
@@ -25597,7 +25597,7 @@ min_w_min =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_color : Css.Style
 mix_blend_color =
@@ -25608,7 +25608,7 @@ mix_blend_color =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_color_burn : Css.Style
 mix_blend_color_burn =
@@ -25619,7 +25619,7 @@ mix_blend_color_burn =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_color_dodge : Css.Style
 mix_blend_color_dodge =
@@ -25630,7 +25630,7 @@ mix_blend_color_dodge =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_darken : Css.Style
 mix_blend_darken =
@@ -25641,7 +25641,7 @@ mix_blend_darken =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_difference : Css.Style
 mix_blend_difference =
@@ -25652,7 +25652,7 @@ mix_blend_difference =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_exclusion : Css.Style
 mix_blend_exclusion =
@@ -25663,7 +25663,7 @@ mix_blend_exclusion =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_hard_light : Css.Style
 mix_blend_hard_light =
@@ -25674,7 +25674,7 @@ mix_blend_hard_light =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_hue : Css.Style
 mix_blend_hue =
@@ -25685,7 +25685,7 @@ mix_blend_hue =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_lighten : Css.Style
 mix_blend_lighten =
@@ -25696,7 +25696,7 @@ mix_blend_lighten =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_luminosity : Css.Style
 mix_blend_luminosity =
@@ -25707,7 +25707,7 @@ mix_blend_luminosity =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_multiply : Css.Style
 mix_blend_multiply =
@@ -25718,7 +25718,7 @@ mix_blend_multiply =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_normal : Css.Style
 mix_blend_normal =
@@ -25729,7 +25729,7 @@ mix_blend_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_overlay : Css.Style
 mix_blend_overlay =
@@ -25740,7 +25740,7 @@ mix_blend_overlay =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_saturation : Css.Style
 mix_blend_saturation =
@@ -25751,7 +25751,7 @@ mix_blend_saturation =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_screen : Css.Style
 mix_blend_screen =
@@ -25762,7 +25762,7 @@ mix_blend_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mix_blend_soft_light : Css.Style
 mix_blend_soft_light =
@@ -25773,7 +25773,7 @@ mix_blend_soft_light =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_0 : Css.Style
 ml_0 =
@@ -25784,7 +25784,7 @@ ml_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_0_dot_5 : Css.Style
 ml_0_dot_5 =
@@ -25795,7 +25795,7 @@ ml_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_1 : Css.Style
 ml_1 =
@@ -25806,7 +25806,7 @@ ml_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_10 : Css.Style
 ml_10 =
@@ -25817,7 +25817,7 @@ ml_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_11 : Css.Style
 ml_11 =
@@ -25828,7 +25828,7 @@ ml_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_12 : Css.Style
 ml_12 =
@@ -25839,7 +25839,7 @@ ml_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_14 : Css.Style
 ml_14 =
@@ -25850,7 +25850,7 @@ ml_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_16 : Css.Style
 ml_16 =
@@ -25861,7 +25861,7 @@ ml_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_1_dot_5 : Css.Style
 ml_1_dot_5 =
@@ -25872,7 +25872,7 @@ ml_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_2 : Css.Style
 ml_2 =
@@ -25883,7 +25883,7 @@ ml_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_20 : Css.Style
 ml_20 =
@@ -25894,7 +25894,7 @@ ml_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_24 : Css.Style
 ml_24 =
@@ -25905,7 +25905,7 @@ ml_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_28 : Css.Style
 ml_28 =
@@ -25916,7 +25916,7 @@ ml_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_2_dot_5 : Css.Style
 ml_2_dot_5 =
@@ -25927,7 +25927,7 @@ ml_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_3 : Css.Style
 ml_3 =
@@ -25938,7 +25938,7 @@ ml_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_32 : Css.Style
 ml_32 =
@@ -25949,7 +25949,7 @@ ml_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_36 : Css.Style
 ml_36 =
@@ -25960,7 +25960,7 @@ ml_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_3_dot_5 : Css.Style
 ml_3_dot_5 =
@@ -25971,7 +25971,7 @@ ml_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_4 : Css.Style
 ml_4 =
@@ -25982,7 +25982,7 @@ ml_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_40 : Css.Style
 ml_40 =
@@ -25993,7 +25993,7 @@ ml_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_44 : Css.Style
 ml_44 =
@@ -26004,7 +26004,7 @@ ml_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_48 : Css.Style
 ml_48 =
@@ -26015,7 +26015,7 @@ ml_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_5 : Css.Style
 ml_5 =
@@ -26026,7 +26026,7 @@ ml_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_52 : Css.Style
 ml_52 =
@@ -26037,7 +26037,7 @@ ml_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_56 : Css.Style
 ml_56 =
@@ -26048,7 +26048,7 @@ ml_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_6 : Css.Style
 ml_6 =
@@ -26059,7 +26059,7 @@ ml_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_60 : Css.Style
 ml_60 =
@@ -26070,7 +26070,7 @@ ml_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_64 : Css.Style
 ml_64 =
@@ -26081,7 +26081,7 @@ ml_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_7 : Css.Style
 ml_7 =
@@ -26092,7 +26092,7 @@ ml_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_72 : Css.Style
 ml_72 =
@@ -26103,7 +26103,7 @@ ml_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_8 : Css.Style
 ml_8 =
@@ -26114,7 +26114,7 @@ ml_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_80 : Css.Style
 ml_80 =
@@ -26125,7 +26125,7 @@ ml_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_9 : Css.Style
 ml_9 =
@@ -26136,7 +26136,7 @@ ml_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_96 : Css.Style
 ml_96 =
@@ -26147,7 +26147,7 @@ ml_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_auto : Css.Style
 ml_auto =
@@ -26158,7 +26158,7 @@ ml_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ml_px : Css.Style
 ml_px =
@@ -26169,7 +26169,7 @@ ml_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_0 : Css.Style
 mr_0 =
@@ -26180,7 +26180,7 @@ mr_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_0_dot_5 : Css.Style
 mr_0_dot_5 =
@@ -26191,7 +26191,7 @@ mr_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_1 : Css.Style
 mr_1 =
@@ -26202,7 +26202,7 @@ mr_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_10 : Css.Style
 mr_10 =
@@ -26213,7 +26213,7 @@ mr_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_11 : Css.Style
 mr_11 =
@@ -26224,7 +26224,7 @@ mr_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_12 : Css.Style
 mr_12 =
@@ -26235,7 +26235,7 @@ mr_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_14 : Css.Style
 mr_14 =
@@ -26246,7 +26246,7 @@ mr_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_16 : Css.Style
 mr_16 =
@@ -26257,7 +26257,7 @@ mr_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_1_dot_5 : Css.Style
 mr_1_dot_5 =
@@ -26268,7 +26268,7 @@ mr_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_2 : Css.Style
 mr_2 =
@@ -26279,7 +26279,7 @@ mr_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_20 : Css.Style
 mr_20 =
@@ -26290,7 +26290,7 @@ mr_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_24 : Css.Style
 mr_24 =
@@ -26301,7 +26301,7 @@ mr_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_28 : Css.Style
 mr_28 =
@@ -26312,7 +26312,7 @@ mr_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_2_dot_5 : Css.Style
 mr_2_dot_5 =
@@ -26323,7 +26323,7 @@ mr_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_3 : Css.Style
 mr_3 =
@@ -26334,7 +26334,7 @@ mr_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_32 : Css.Style
 mr_32 =
@@ -26345,7 +26345,7 @@ mr_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_36 : Css.Style
 mr_36 =
@@ -26356,7 +26356,7 @@ mr_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_3_dot_5 : Css.Style
 mr_3_dot_5 =
@@ -26367,7 +26367,7 @@ mr_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_4 : Css.Style
 mr_4 =
@@ -26378,7 +26378,7 @@ mr_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_40 : Css.Style
 mr_40 =
@@ -26389,7 +26389,7 @@ mr_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_44 : Css.Style
 mr_44 =
@@ -26400,7 +26400,7 @@ mr_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_48 : Css.Style
 mr_48 =
@@ -26411,7 +26411,7 @@ mr_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_5 : Css.Style
 mr_5 =
@@ -26422,7 +26422,7 @@ mr_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_52 : Css.Style
 mr_52 =
@@ -26433,7 +26433,7 @@ mr_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_56 : Css.Style
 mr_56 =
@@ -26444,7 +26444,7 @@ mr_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_6 : Css.Style
 mr_6 =
@@ -26455,7 +26455,7 @@ mr_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_60 : Css.Style
 mr_60 =
@@ -26466,7 +26466,7 @@ mr_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_64 : Css.Style
 mr_64 =
@@ -26477,7 +26477,7 @@ mr_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_7 : Css.Style
 mr_7 =
@@ -26488,7 +26488,7 @@ mr_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_72 : Css.Style
 mr_72 =
@@ -26499,7 +26499,7 @@ mr_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_8 : Css.Style
 mr_8 =
@@ -26510,7 +26510,7 @@ mr_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_80 : Css.Style
 mr_80 =
@@ -26521,7 +26521,7 @@ mr_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_9 : Css.Style
 mr_9 =
@@ -26532,7 +26532,7 @@ mr_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_96 : Css.Style
 mr_96 =
@@ -26543,7 +26543,7 @@ mr_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_auto : Css.Style
 mr_auto =
@@ -26554,7 +26554,7 @@ mr_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mr_px : Css.Style
 mr_px =
@@ -26565,7 +26565,7 @@ mr_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_0 : Css.Style
 mt_0 =
@@ -26576,7 +26576,7 @@ mt_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_0_dot_5 : Css.Style
 mt_0_dot_5 =
@@ -26587,7 +26587,7 @@ mt_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_1 : Css.Style
 mt_1 =
@@ -26598,7 +26598,7 @@ mt_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_10 : Css.Style
 mt_10 =
@@ -26609,7 +26609,7 @@ mt_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_11 : Css.Style
 mt_11 =
@@ -26620,7 +26620,7 @@ mt_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_12 : Css.Style
 mt_12 =
@@ -26631,7 +26631,7 @@ mt_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_14 : Css.Style
 mt_14 =
@@ -26642,7 +26642,7 @@ mt_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_16 : Css.Style
 mt_16 =
@@ -26653,7 +26653,7 @@ mt_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_1_dot_5 : Css.Style
 mt_1_dot_5 =
@@ -26664,7 +26664,7 @@ mt_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_2 : Css.Style
 mt_2 =
@@ -26675,7 +26675,7 @@ mt_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_20 : Css.Style
 mt_20 =
@@ -26686,7 +26686,7 @@ mt_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_24 : Css.Style
 mt_24 =
@@ -26697,7 +26697,7 @@ mt_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_28 : Css.Style
 mt_28 =
@@ -26708,7 +26708,7 @@ mt_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_2_dot_5 : Css.Style
 mt_2_dot_5 =
@@ -26719,7 +26719,7 @@ mt_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_3 : Css.Style
 mt_3 =
@@ -26730,7 +26730,7 @@ mt_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_32 : Css.Style
 mt_32 =
@@ -26741,7 +26741,7 @@ mt_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_36 : Css.Style
 mt_36 =
@@ -26752,7 +26752,7 @@ mt_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_3_dot_5 : Css.Style
 mt_3_dot_5 =
@@ -26763,7 +26763,7 @@ mt_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_4 : Css.Style
 mt_4 =
@@ -26774,7 +26774,7 @@ mt_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_40 : Css.Style
 mt_40 =
@@ -26785,7 +26785,7 @@ mt_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_44 : Css.Style
 mt_44 =
@@ -26796,7 +26796,7 @@ mt_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_48 : Css.Style
 mt_48 =
@@ -26807,7 +26807,7 @@ mt_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_5 : Css.Style
 mt_5 =
@@ -26818,7 +26818,7 @@ mt_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_52 : Css.Style
 mt_52 =
@@ -26829,7 +26829,7 @@ mt_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_56 : Css.Style
 mt_56 =
@@ -26840,7 +26840,7 @@ mt_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_6 : Css.Style
 mt_6 =
@@ -26851,7 +26851,7 @@ mt_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_60 : Css.Style
 mt_60 =
@@ -26862,7 +26862,7 @@ mt_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_64 : Css.Style
 mt_64 =
@@ -26873,7 +26873,7 @@ mt_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_7 : Css.Style
 mt_7 =
@@ -26884,7 +26884,7 @@ mt_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_72 : Css.Style
 mt_72 =
@@ -26895,7 +26895,7 @@ mt_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_8 : Css.Style
 mt_8 =
@@ -26906,7 +26906,7 @@ mt_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_80 : Css.Style
 mt_80 =
@@ -26917,7 +26917,7 @@ mt_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_9 : Css.Style
 mt_9 =
@@ -26928,7 +26928,7 @@ mt_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_96 : Css.Style
 mt_96 =
@@ -26939,7 +26939,7 @@ mt_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_auto : Css.Style
 mt_auto =
@@ -26950,7 +26950,7 @@ mt_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mt_px : Css.Style
 mt_px =
@@ -26961,7 +26961,7 @@ mt_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_0 : Css.Style
 mx_0 =
@@ -26975,7 +26975,7 @@ mx_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_0_dot_5 : Css.Style
 mx_0_dot_5 =
@@ -26989,7 +26989,7 @@ mx_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_1 : Css.Style
 mx_1 =
@@ -27003,7 +27003,7 @@ mx_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_10 : Css.Style
 mx_10 =
@@ -27017,7 +27017,7 @@ mx_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_11 : Css.Style
 mx_11 =
@@ -27031,7 +27031,7 @@ mx_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_12 : Css.Style
 mx_12 =
@@ -27045,7 +27045,7 @@ mx_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_14 : Css.Style
 mx_14 =
@@ -27059,7 +27059,7 @@ mx_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_16 : Css.Style
 mx_16 =
@@ -27073,7 +27073,7 @@ mx_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_1_dot_5 : Css.Style
 mx_1_dot_5 =
@@ -27087,7 +27087,7 @@ mx_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_2 : Css.Style
 mx_2 =
@@ -27101,7 +27101,7 @@ mx_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_20 : Css.Style
 mx_20 =
@@ -27115,7 +27115,7 @@ mx_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_24 : Css.Style
 mx_24 =
@@ -27129,7 +27129,7 @@ mx_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_28 : Css.Style
 mx_28 =
@@ -27143,7 +27143,7 @@ mx_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_2_dot_5 : Css.Style
 mx_2_dot_5 =
@@ -27157,7 +27157,7 @@ mx_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_3 : Css.Style
 mx_3 =
@@ -27171,7 +27171,7 @@ mx_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_32 : Css.Style
 mx_32 =
@@ -27185,7 +27185,7 @@ mx_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_36 : Css.Style
 mx_36 =
@@ -27199,7 +27199,7 @@ mx_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_3_dot_5 : Css.Style
 mx_3_dot_5 =
@@ -27213,7 +27213,7 @@ mx_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_4 : Css.Style
 mx_4 =
@@ -27227,7 +27227,7 @@ mx_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_40 : Css.Style
 mx_40 =
@@ -27241,7 +27241,7 @@ mx_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_44 : Css.Style
 mx_44 =
@@ -27255,7 +27255,7 @@ mx_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_48 : Css.Style
 mx_48 =
@@ -27269,7 +27269,7 @@ mx_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_5 : Css.Style
 mx_5 =
@@ -27283,7 +27283,7 @@ mx_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_52 : Css.Style
 mx_52 =
@@ -27297,7 +27297,7 @@ mx_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_56 : Css.Style
 mx_56 =
@@ -27311,7 +27311,7 @@ mx_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_6 : Css.Style
 mx_6 =
@@ -27325,7 +27325,7 @@ mx_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_60 : Css.Style
 mx_60 =
@@ -27339,7 +27339,7 @@ mx_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_64 : Css.Style
 mx_64 =
@@ -27353,7 +27353,7 @@ mx_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_7 : Css.Style
 mx_7 =
@@ -27367,7 +27367,7 @@ mx_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_72 : Css.Style
 mx_72 =
@@ -27381,7 +27381,7 @@ mx_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_8 : Css.Style
 mx_8 =
@@ -27395,7 +27395,7 @@ mx_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_80 : Css.Style
 mx_80 =
@@ -27409,7 +27409,7 @@ mx_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_9 : Css.Style
 mx_9 =
@@ -27423,7 +27423,7 @@ mx_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_96 : Css.Style
 mx_96 =
@@ -27437,7 +27437,7 @@ mx_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_auto : Css.Style
 mx_auto =
@@ -27451,7 +27451,7 @@ mx_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 mx_px : Css.Style
 mx_px =
@@ -27465,7 +27465,7 @@ mx_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_0 : Css.Style
 my_0 =
@@ -27479,7 +27479,7 @@ my_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_0_dot_5 : Css.Style
 my_0_dot_5 =
@@ -27493,7 +27493,7 @@ my_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_1 : Css.Style
 my_1 =
@@ -27507,7 +27507,7 @@ my_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_10 : Css.Style
 my_10 =
@@ -27521,7 +27521,7 @@ my_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_11 : Css.Style
 my_11 =
@@ -27535,7 +27535,7 @@ my_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_12 : Css.Style
 my_12 =
@@ -27549,7 +27549,7 @@ my_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_14 : Css.Style
 my_14 =
@@ -27563,7 +27563,7 @@ my_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_16 : Css.Style
 my_16 =
@@ -27577,7 +27577,7 @@ my_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_1_dot_5 : Css.Style
 my_1_dot_5 =
@@ -27591,7 +27591,7 @@ my_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_2 : Css.Style
 my_2 =
@@ -27605,7 +27605,7 @@ my_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_20 : Css.Style
 my_20 =
@@ -27619,7 +27619,7 @@ my_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_24 : Css.Style
 my_24 =
@@ -27633,7 +27633,7 @@ my_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_28 : Css.Style
 my_28 =
@@ -27647,7 +27647,7 @@ my_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_2_dot_5 : Css.Style
 my_2_dot_5 =
@@ -27661,7 +27661,7 @@ my_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_3 : Css.Style
 my_3 =
@@ -27675,7 +27675,7 @@ my_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_32 : Css.Style
 my_32 =
@@ -27689,7 +27689,7 @@ my_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_36 : Css.Style
 my_36 =
@@ -27703,7 +27703,7 @@ my_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_3_dot_5 : Css.Style
 my_3_dot_5 =
@@ -27717,7 +27717,7 @@ my_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_4 : Css.Style
 my_4 =
@@ -27731,7 +27731,7 @@ my_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_40 : Css.Style
 my_40 =
@@ -27745,7 +27745,7 @@ my_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_44 : Css.Style
 my_44 =
@@ -27759,7 +27759,7 @@ my_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_48 : Css.Style
 my_48 =
@@ -27773,7 +27773,7 @@ my_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_5 : Css.Style
 my_5 =
@@ -27787,7 +27787,7 @@ my_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_52 : Css.Style
 my_52 =
@@ -27801,7 +27801,7 @@ my_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_56 : Css.Style
 my_56 =
@@ -27815,7 +27815,7 @@ my_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_6 : Css.Style
 my_6 =
@@ -27829,7 +27829,7 @@ my_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_60 : Css.Style
 my_60 =
@@ -27843,7 +27843,7 @@ my_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_64 : Css.Style
 my_64 =
@@ -27857,7 +27857,7 @@ my_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_7 : Css.Style
 my_7 =
@@ -27871,7 +27871,7 @@ my_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_72 : Css.Style
 my_72 =
@@ -27885,7 +27885,7 @@ my_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_8 : Css.Style
 my_8 =
@@ -27899,7 +27899,7 @@ my_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_80 : Css.Style
 my_80 =
@@ -27913,7 +27913,7 @@ my_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_9 : Css.Style
 my_9 =
@@ -27927,7 +27927,7 @@ my_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_96 : Css.Style
 my_96 =
@@ -27941,7 +27941,7 @@ my_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_auto : Css.Style
 my_auto =
@@ -27955,7 +27955,7 @@ my_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 my_px : Css.Style
 my_px =
@@ -27969,7 +27969,7 @@ my_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_backdrop_hue_rotate_15 : Css.Style
 neg_backdrop_hue_rotate_15 =
@@ -27980,7 +27980,7 @@ neg_backdrop_hue_rotate_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_backdrop_hue_rotate_180 : Css.Style
 neg_backdrop_hue_rotate_180 =
@@ -27991,7 +27991,7 @@ neg_backdrop_hue_rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_backdrop_hue_rotate_30 : Css.Style
 neg_backdrop_hue_rotate_30 =
@@ -28002,7 +28002,7 @@ neg_backdrop_hue_rotate_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_backdrop_hue_rotate_60 : Css.Style
 neg_backdrop_hue_rotate_60 =
@@ -28013,7 +28013,7 @@ neg_backdrop_hue_rotate_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_backdrop_hue_rotate_90 : Css.Style
 neg_backdrop_hue_rotate_90 =
@@ -28024,7 +28024,7 @@ neg_backdrop_hue_rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_0 : Css.Style
 neg_bottom_0 =
@@ -28035,7 +28035,7 @@ neg_bottom_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_0_dot_5 : Css.Style
 neg_bottom_0_dot_5 =
@@ -28046,7 +28046,7 @@ neg_bottom_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_1 : Css.Style
 neg_bottom_1 =
@@ -28057,7 +28057,7 @@ neg_bottom_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_10 : Css.Style
 neg_bottom_10 =
@@ -28068,7 +28068,7 @@ neg_bottom_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_11 : Css.Style
 neg_bottom_11 =
@@ -28079,7 +28079,7 @@ neg_bottom_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_12 : Css.Style
 neg_bottom_12 =
@@ -28090,7 +28090,7 @@ neg_bottom_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_14 : Css.Style
 neg_bottom_14 =
@@ -28101,7 +28101,7 @@ neg_bottom_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_16 : Css.Style
 neg_bottom_16 =
@@ -28112,7 +28112,7 @@ neg_bottom_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_1_dot_5 : Css.Style
 neg_bottom_1_dot_5 =
@@ -28123,7 +28123,7 @@ neg_bottom_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_1over2 : Css.Style
 neg_bottom_1over2 =
@@ -28134,7 +28134,7 @@ neg_bottom_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_1over3 : Css.Style
 neg_bottom_1over3 =
@@ -28145,7 +28145,7 @@ neg_bottom_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_1over4 : Css.Style
 neg_bottom_1over4 =
@@ -28156,7 +28156,7 @@ neg_bottom_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_2 : Css.Style
 neg_bottom_2 =
@@ -28167,7 +28167,7 @@ neg_bottom_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_20 : Css.Style
 neg_bottom_20 =
@@ -28178,7 +28178,7 @@ neg_bottom_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_24 : Css.Style
 neg_bottom_24 =
@@ -28189,7 +28189,7 @@ neg_bottom_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_28 : Css.Style
 neg_bottom_28 =
@@ -28200,7 +28200,7 @@ neg_bottom_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_2_dot_5 : Css.Style
 neg_bottom_2_dot_5 =
@@ -28211,7 +28211,7 @@ neg_bottom_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_2over3 : Css.Style
 neg_bottom_2over3 =
@@ -28222,7 +28222,7 @@ neg_bottom_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_2over4 : Css.Style
 neg_bottom_2over4 =
@@ -28233,7 +28233,7 @@ neg_bottom_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_3 : Css.Style
 neg_bottom_3 =
@@ -28244,7 +28244,7 @@ neg_bottom_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_32 : Css.Style
 neg_bottom_32 =
@@ -28255,7 +28255,7 @@ neg_bottom_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_36 : Css.Style
 neg_bottom_36 =
@@ -28266,7 +28266,7 @@ neg_bottom_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_3_dot_5 : Css.Style
 neg_bottom_3_dot_5 =
@@ -28277,7 +28277,7 @@ neg_bottom_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_3over4 : Css.Style
 neg_bottom_3over4 =
@@ -28288,7 +28288,7 @@ neg_bottom_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_4 : Css.Style
 neg_bottom_4 =
@@ -28299,7 +28299,7 @@ neg_bottom_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_40 : Css.Style
 neg_bottom_40 =
@@ -28310,7 +28310,7 @@ neg_bottom_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_44 : Css.Style
 neg_bottom_44 =
@@ -28321,7 +28321,7 @@ neg_bottom_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_48 : Css.Style
 neg_bottom_48 =
@@ -28332,7 +28332,7 @@ neg_bottom_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_5 : Css.Style
 neg_bottom_5 =
@@ -28343,7 +28343,7 @@ neg_bottom_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_52 : Css.Style
 neg_bottom_52 =
@@ -28354,7 +28354,7 @@ neg_bottom_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_56 : Css.Style
 neg_bottom_56 =
@@ -28365,7 +28365,7 @@ neg_bottom_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_6 : Css.Style
 neg_bottom_6 =
@@ -28376,7 +28376,7 @@ neg_bottom_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_60 : Css.Style
 neg_bottom_60 =
@@ -28387,7 +28387,7 @@ neg_bottom_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_64 : Css.Style
 neg_bottom_64 =
@@ -28398,7 +28398,7 @@ neg_bottom_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_7 : Css.Style
 neg_bottom_7 =
@@ -28409,7 +28409,7 @@ neg_bottom_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_72 : Css.Style
 neg_bottom_72 =
@@ -28420,7 +28420,7 @@ neg_bottom_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_8 : Css.Style
 neg_bottom_8 =
@@ -28431,7 +28431,7 @@ neg_bottom_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_80 : Css.Style
 neg_bottom_80 =
@@ -28442,7 +28442,7 @@ neg_bottom_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_9 : Css.Style
 neg_bottom_9 =
@@ -28453,7 +28453,7 @@ neg_bottom_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_96 : Css.Style
 neg_bottom_96 =
@@ -28464,7 +28464,7 @@ neg_bottom_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_full : Css.Style
 neg_bottom_full =
@@ -28475,7 +28475,7 @@ neg_bottom_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_bottom_px : Css.Style
 neg_bottom_px =
@@ -28486,7 +28486,7 @@ neg_bottom_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_hue_rotate_15 : Css.Style
 neg_hue_rotate_15 =
@@ -28497,7 +28497,7 @@ neg_hue_rotate_15 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_hue_rotate_180 : Css.Style
 neg_hue_rotate_180 =
@@ -28508,7 +28508,7 @@ neg_hue_rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_hue_rotate_30 : Css.Style
 neg_hue_rotate_30 =
@@ -28519,7 +28519,7 @@ neg_hue_rotate_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_hue_rotate_60 : Css.Style
 neg_hue_rotate_60 =
@@ -28530,7 +28530,7 @@ neg_hue_rotate_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_hue_rotate_90 : Css.Style
 neg_hue_rotate_90 =
@@ -28541,7 +28541,7 @@ neg_hue_rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_0 : Css.Style
 neg_inset_0 =
@@ -28557,7 +28557,7 @@ neg_inset_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_0_dot_5 : Css.Style
 neg_inset_0_dot_5 =
@@ -28573,7 +28573,7 @@ neg_inset_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_1 : Css.Style
 neg_inset_1 =
@@ -28589,7 +28589,7 @@ neg_inset_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_10 : Css.Style
 neg_inset_10 =
@@ -28605,7 +28605,7 @@ neg_inset_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_11 : Css.Style
 neg_inset_11 =
@@ -28621,7 +28621,7 @@ neg_inset_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_12 : Css.Style
 neg_inset_12 =
@@ -28637,7 +28637,7 @@ neg_inset_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_14 : Css.Style
 neg_inset_14 =
@@ -28653,7 +28653,7 @@ neg_inset_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_16 : Css.Style
 neg_inset_16 =
@@ -28669,7 +28669,7 @@ neg_inset_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_1_dot_5 : Css.Style
 neg_inset_1_dot_5 =
@@ -28685,7 +28685,7 @@ neg_inset_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_1over2 : Css.Style
 neg_inset_1over2 =
@@ -28701,7 +28701,7 @@ neg_inset_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_1over3 : Css.Style
 neg_inset_1over3 =
@@ -28717,7 +28717,7 @@ neg_inset_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_1over4 : Css.Style
 neg_inset_1over4 =
@@ -28733,7 +28733,7 @@ neg_inset_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_2 : Css.Style
 neg_inset_2 =
@@ -28749,7 +28749,7 @@ neg_inset_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_20 : Css.Style
 neg_inset_20 =
@@ -28765,7 +28765,7 @@ neg_inset_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_24 : Css.Style
 neg_inset_24 =
@@ -28781,7 +28781,7 @@ neg_inset_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_28 : Css.Style
 neg_inset_28 =
@@ -28797,7 +28797,7 @@ neg_inset_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_2_dot_5 : Css.Style
 neg_inset_2_dot_5 =
@@ -28813,7 +28813,7 @@ neg_inset_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_2over3 : Css.Style
 neg_inset_2over3 =
@@ -28829,7 +28829,7 @@ neg_inset_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_2over4 : Css.Style
 neg_inset_2over4 =
@@ -28845,7 +28845,7 @@ neg_inset_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_3 : Css.Style
 neg_inset_3 =
@@ -28861,7 +28861,7 @@ neg_inset_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_32 : Css.Style
 neg_inset_32 =
@@ -28877,7 +28877,7 @@ neg_inset_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_36 : Css.Style
 neg_inset_36 =
@@ -28893,7 +28893,7 @@ neg_inset_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_3_dot_5 : Css.Style
 neg_inset_3_dot_5 =
@@ -28909,7 +28909,7 @@ neg_inset_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_3over4 : Css.Style
 neg_inset_3over4 =
@@ -28925,7 +28925,7 @@ neg_inset_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_4 : Css.Style
 neg_inset_4 =
@@ -28941,7 +28941,7 @@ neg_inset_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_40 : Css.Style
 neg_inset_40 =
@@ -28957,7 +28957,7 @@ neg_inset_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_44 : Css.Style
 neg_inset_44 =
@@ -28973,7 +28973,7 @@ neg_inset_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_48 : Css.Style
 neg_inset_48 =
@@ -28989,7 +28989,7 @@ neg_inset_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_5 : Css.Style
 neg_inset_5 =
@@ -29005,7 +29005,7 @@ neg_inset_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_52 : Css.Style
 neg_inset_52 =
@@ -29021,7 +29021,7 @@ neg_inset_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_56 : Css.Style
 neg_inset_56 =
@@ -29037,7 +29037,7 @@ neg_inset_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_6 : Css.Style
 neg_inset_6 =
@@ -29053,7 +29053,7 @@ neg_inset_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_60 : Css.Style
 neg_inset_60 =
@@ -29069,7 +29069,7 @@ neg_inset_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_64 : Css.Style
 neg_inset_64 =
@@ -29085,7 +29085,7 @@ neg_inset_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_7 : Css.Style
 neg_inset_7 =
@@ -29101,7 +29101,7 @@ neg_inset_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_72 : Css.Style
 neg_inset_72 =
@@ -29117,7 +29117,7 @@ neg_inset_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_8 : Css.Style
 neg_inset_8 =
@@ -29133,7 +29133,7 @@ neg_inset_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_80 : Css.Style
 neg_inset_80 =
@@ -29149,7 +29149,7 @@ neg_inset_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_9 : Css.Style
 neg_inset_9 =
@@ -29165,7 +29165,7 @@ neg_inset_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_96 : Css.Style
 neg_inset_96 =
@@ -29181,7 +29181,7 @@ neg_inset_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_full : Css.Style
 neg_inset_full =
@@ -29197,7 +29197,7 @@ neg_inset_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_px : Css.Style
 neg_inset_px =
@@ -29213,7 +29213,7 @@ neg_inset_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_0 : Css.Style
 neg_inset_x_0 =
@@ -29227,7 +29227,7 @@ neg_inset_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_0_dot_5 : Css.Style
 neg_inset_x_0_dot_5 =
@@ -29241,7 +29241,7 @@ neg_inset_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_1 : Css.Style
 neg_inset_x_1 =
@@ -29255,7 +29255,7 @@ neg_inset_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_10 : Css.Style
 neg_inset_x_10 =
@@ -29269,7 +29269,7 @@ neg_inset_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_11 : Css.Style
 neg_inset_x_11 =
@@ -29283,7 +29283,7 @@ neg_inset_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_12 : Css.Style
 neg_inset_x_12 =
@@ -29297,7 +29297,7 @@ neg_inset_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_14 : Css.Style
 neg_inset_x_14 =
@@ -29311,7 +29311,7 @@ neg_inset_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_16 : Css.Style
 neg_inset_x_16 =
@@ -29325,7 +29325,7 @@ neg_inset_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_1_dot_5 : Css.Style
 neg_inset_x_1_dot_5 =
@@ -29339,7 +29339,7 @@ neg_inset_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_1over2 : Css.Style
 neg_inset_x_1over2 =
@@ -29353,7 +29353,7 @@ neg_inset_x_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_1over3 : Css.Style
 neg_inset_x_1over3 =
@@ -29367,7 +29367,7 @@ neg_inset_x_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_1over4 : Css.Style
 neg_inset_x_1over4 =
@@ -29381,7 +29381,7 @@ neg_inset_x_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_2 : Css.Style
 neg_inset_x_2 =
@@ -29395,7 +29395,7 @@ neg_inset_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_20 : Css.Style
 neg_inset_x_20 =
@@ -29409,7 +29409,7 @@ neg_inset_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_24 : Css.Style
 neg_inset_x_24 =
@@ -29423,7 +29423,7 @@ neg_inset_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_28 : Css.Style
 neg_inset_x_28 =
@@ -29437,7 +29437,7 @@ neg_inset_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_2_dot_5 : Css.Style
 neg_inset_x_2_dot_5 =
@@ -29451,7 +29451,7 @@ neg_inset_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_2over3 : Css.Style
 neg_inset_x_2over3 =
@@ -29465,7 +29465,7 @@ neg_inset_x_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_2over4 : Css.Style
 neg_inset_x_2over4 =
@@ -29479,7 +29479,7 @@ neg_inset_x_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_3 : Css.Style
 neg_inset_x_3 =
@@ -29493,7 +29493,7 @@ neg_inset_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_32 : Css.Style
 neg_inset_x_32 =
@@ -29507,7 +29507,7 @@ neg_inset_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_36 : Css.Style
 neg_inset_x_36 =
@@ -29521,7 +29521,7 @@ neg_inset_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_3_dot_5 : Css.Style
 neg_inset_x_3_dot_5 =
@@ -29535,7 +29535,7 @@ neg_inset_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_3over4 : Css.Style
 neg_inset_x_3over4 =
@@ -29549,7 +29549,7 @@ neg_inset_x_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_4 : Css.Style
 neg_inset_x_4 =
@@ -29563,7 +29563,7 @@ neg_inset_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_40 : Css.Style
 neg_inset_x_40 =
@@ -29577,7 +29577,7 @@ neg_inset_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_44 : Css.Style
 neg_inset_x_44 =
@@ -29591,7 +29591,7 @@ neg_inset_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_48 : Css.Style
 neg_inset_x_48 =
@@ -29605,7 +29605,7 @@ neg_inset_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_5 : Css.Style
 neg_inset_x_5 =
@@ -29619,7 +29619,7 @@ neg_inset_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_52 : Css.Style
 neg_inset_x_52 =
@@ -29633,7 +29633,7 @@ neg_inset_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_56 : Css.Style
 neg_inset_x_56 =
@@ -29647,7 +29647,7 @@ neg_inset_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_6 : Css.Style
 neg_inset_x_6 =
@@ -29661,7 +29661,7 @@ neg_inset_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_60 : Css.Style
 neg_inset_x_60 =
@@ -29675,7 +29675,7 @@ neg_inset_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_64 : Css.Style
 neg_inset_x_64 =
@@ -29689,7 +29689,7 @@ neg_inset_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_7 : Css.Style
 neg_inset_x_7 =
@@ -29703,7 +29703,7 @@ neg_inset_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_72 : Css.Style
 neg_inset_x_72 =
@@ -29717,7 +29717,7 @@ neg_inset_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_8 : Css.Style
 neg_inset_x_8 =
@@ -29731,7 +29731,7 @@ neg_inset_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_80 : Css.Style
 neg_inset_x_80 =
@@ -29745,7 +29745,7 @@ neg_inset_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_9 : Css.Style
 neg_inset_x_9 =
@@ -29759,7 +29759,7 @@ neg_inset_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_96 : Css.Style
 neg_inset_x_96 =
@@ -29773,7 +29773,7 @@ neg_inset_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_full : Css.Style
 neg_inset_x_full =
@@ -29787,7 +29787,7 @@ neg_inset_x_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_x_px : Css.Style
 neg_inset_x_px =
@@ -29801,7 +29801,7 @@ neg_inset_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_0 : Css.Style
 neg_inset_y_0 =
@@ -29815,7 +29815,7 @@ neg_inset_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_0_dot_5 : Css.Style
 neg_inset_y_0_dot_5 =
@@ -29829,7 +29829,7 @@ neg_inset_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_1 : Css.Style
 neg_inset_y_1 =
@@ -29843,7 +29843,7 @@ neg_inset_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_10 : Css.Style
 neg_inset_y_10 =
@@ -29857,7 +29857,7 @@ neg_inset_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_11 : Css.Style
 neg_inset_y_11 =
@@ -29871,7 +29871,7 @@ neg_inset_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_12 : Css.Style
 neg_inset_y_12 =
@@ -29885,7 +29885,7 @@ neg_inset_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_14 : Css.Style
 neg_inset_y_14 =
@@ -29899,7 +29899,7 @@ neg_inset_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_16 : Css.Style
 neg_inset_y_16 =
@@ -29913,7 +29913,7 @@ neg_inset_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_1_dot_5 : Css.Style
 neg_inset_y_1_dot_5 =
@@ -29927,7 +29927,7 @@ neg_inset_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_1over2 : Css.Style
 neg_inset_y_1over2 =
@@ -29941,7 +29941,7 @@ neg_inset_y_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_1over3 : Css.Style
 neg_inset_y_1over3 =
@@ -29955,7 +29955,7 @@ neg_inset_y_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_1over4 : Css.Style
 neg_inset_y_1over4 =
@@ -29969,7 +29969,7 @@ neg_inset_y_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_2 : Css.Style
 neg_inset_y_2 =
@@ -29983,7 +29983,7 @@ neg_inset_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_20 : Css.Style
 neg_inset_y_20 =
@@ -29997,7 +29997,7 @@ neg_inset_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_24 : Css.Style
 neg_inset_y_24 =
@@ -30011,7 +30011,7 @@ neg_inset_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_28 : Css.Style
 neg_inset_y_28 =
@@ -30025,7 +30025,7 @@ neg_inset_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_2_dot_5 : Css.Style
 neg_inset_y_2_dot_5 =
@@ -30039,7 +30039,7 @@ neg_inset_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_2over3 : Css.Style
 neg_inset_y_2over3 =
@@ -30053,7 +30053,7 @@ neg_inset_y_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_2over4 : Css.Style
 neg_inset_y_2over4 =
@@ -30067,7 +30067,7 @@ neg_inset_y_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_3 : Css.Style
 neg_inset_y_3 =
@@ -30081,7 +30081,7 @@ neg_inset_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_32 : Css.Style
 neg_inset_y_32 =
@@ -30095,7 +30095,7 @@ neg_inset_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_36 : Css.Style
 neg_inset_y_36 =
@@ -30109,7 +30109,7 @@ neg_inset_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_3_dot_5 : Css.Style
 neg_inset_y_3_dot_5 =
@@ -30123,7 +30123,7 @@ neg_inset_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_3over4 : Css.Style
 neg_inset_y_3over4 =
@@ -30137,7 +30137,7 @@ neg_inset_y_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_4 : Css.Style
 neg_inset_y_4 =
@@ -30151,7 +30151,7 @@ neg_inset_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_40 : Css.Style
 neg_inset_y_40 =
@@ -30165,7 +30165,7 @@ neg_inset_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_44 : Css.Style
 neg_inset_y_44 =
@@ -30179,7 +30179,7 @@ neg_inset_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_48 : Css.Style
 neg_inset_y_48 =
@@ -30193,7 +30193,7 @@ neg_inset_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_5 : Css.Style
 neg_inset_y_5 =
@@ -30207,7 +30207,7 @@ neg_inset_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_52 : Css.Style
 neg_inset_y_52 =
@@ -30221,7 +30221,7 @@ neg_inset_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_56 : Css.Style
 neg_inset_y_56 =
@@ -30235,7 +30235,7 @@ neg_inset_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_6 : Css.Style
 neg_inset_y_6 =
@@ -30249,7 +30249,7 @@ neg_inset_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_60 : Css.Style
 neg_inset_y_60 =
@@ -30263,7 +30263,7 @@ neg_inset_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_64 : Css.Style
 neg_inset_y_64 =
@@ -30277,7 +30277,7 @@ neg_inset_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_7 : Css.Style
 neg_inset_y_7 =
@@ -30291,7 +30291,7 @@ neg_inset_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_72 : Css.Style
 neg_inset_y_72 =
@@ -30305,7 +30305,7 @@ neg_inset_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_8 : Css.Style
 neg_inset_y_8 =
@@ -30319,7 +30319,7 @@ neg_inset_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_80 : Css.Style
 neg_inset_y_80 =
@@ -30333,7 +30333,7 @@ neg_inset_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_9 : Css.Style
 neg_inset_y_9 =
@@ -30347,7 +30347,7 @@ neg_inset_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_96 : Css.Style
 neg_inset_y_96 =
@@ -30361,7 +30361,7 @@ neg_inset_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_full : Css.Style
 neg_inset_y_full =
@@ -30375,7 +30375,7 @@ neg_inset_y_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_inset_y_px : Css.Style
 neg_inset_y_px =
@@ -30389,7 +30389,7 @@ neg_inset_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_0 : Css.Style
 neg_left_0 =
@@ -30400,7 +30400,7 @@ neg_left_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_0_dot_5 : Css.Style
 neg_left_0_dot_5 =
@@ -30411,7 +30411,7 @@ neg_left_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_1 : Css.Style
 neg_left_1 =
@@ -30422,7 +30422,7 @@ neg_left_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_10 : Css.Style
 neg_left_10 =
@@ -30433,7 +30433,7 @@ neg_left_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_11 : Css.Style
 neg_left_11 =
@@ -30444,7 +30444,7 @@ neg_left_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_12 : Css.Style
 neg_left_12 =
@@ -30455,7 +30455,7 @@ neg_left_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_14 : Css.Style
 neg_left_14 =
@@ -30466,7 +30466,7 @@ neg_left_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_16 : Css.Style
 neg_left_16 =
@@ -30477,7 +30477,7 @@ neg_left_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_1_dot_5 : Css.Style
 neg_left_1_dot_5 =
@@ -30488,7 +30488,7 @@ neg_left_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_1over2 : Css.Style
 neg_left_1over2 =
@@ -30499,7 +30499,7 @@ neg_left_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_1over3 : Css.Style
 neg_left_1over3 =
@@ -30510,7 +30510,7 @@ neg_left_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_1over4 : Css.Style
 neg_left_1over4 =
@@ -30521,7 +30521,7 @@ neg_left_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_2 : Css.Style
 neg_left_2 =
@@ -30532,7 +30532,7 @@ neg_left_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_20 : Css.Style
 neg_left_20 =
@@ -30543,7 +30543,7 @@ neg_left_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_24 : Css.Style
 neg_left_24 =
@@ -30554,7 +30554,7 @@ neg_left_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_28 : Css.Style
 neg_left_28 =
@@ -30565,7 +30565,7 @@ neg_left_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_2_dot_5 : Css.Style
 neg_left_2_dot_5 =
@@ -30576,7 +30576,7 @@ neg_left_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_2over3 : Css.Style
 neg_left_2over3 =
@@ -30587,7 +30587,7 @@ neg_left_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_2over4 : Css.Style
 neg_left_2over4 =
@@ -30598,7 +30598,7 @@ neg_left_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_3 : Css.Style
 neg_left_3 =
@@ -30609,7 +30609,7 @@ neg_left_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_32 : Css.Style
 neg_left_32 =
@@ -30620,7 +30620,7 @@ neg_left_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_36 : Css.Style
 neg_left_36 =
@@ -30631,7 +30631,7 @@ neg_left_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_3_dot_5 : Css.Style
 neg_left_3_dot_5 =
@@ -30642,7 +30642,7 @@ neg_left_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_3over4 : Css.Style
 neg_left_3over4 =
@@ -30653,7 +30653,7 @@ neg_left_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_4 : Css.Style
 neg_left_4 =
@@ -30664,7 +30664,7 @@ neg_left_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_40 : Css.Style
 neg_left_40 =
@@ -30675,7 +30675,7 @@ neg_left_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_44 : Css.Style
 neg_left_44 =
@@ -30686,7 +30686,7 @@ neg_left_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_48 : Css.Style
 neg_left_48 =
@@ -30697,7 +30697,7 @@ neg_left_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_5 : Css.Style
 neg_left_5 =
@@ -30708,7 +30708,7 @@ neg_left_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_52 : Css.Style
 neg_left_52 =
@@ -30719,7 +30719,7 @@ neg_left_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_56 : Css.Style
 neg_left_56 =
@@ -30730,7 +30730,7 @@ neg_left_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_6 : Css.Style
 neg_left_6 =
@@ -30741,7 +30741,7 @@ neg_left_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_60 : Css.Style
 neg_left_60 =
@@ -30752,7 +30752,7 @@ neg_left_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_64 : Css.Style
 neg_left_64 =
@@ -30763,7 +30763,7 @@ neg_left_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_7 : Css.Style
 neg_left_7 =
@@ -30774,7 +30774,7 @@ neg_left_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_72 : Css.Style
 neg_left_72 =
@@ -30785,7 +30785,7 @@ neg_left_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_8 : Css.Style
 neg_left_8 =
@@ -30796,7 +30796,7 @@ neg_left_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_80 : Css.Style
 neg_left_80 =
@@ -30807,7 +30807,7 @@ neg_left_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_9 : Css.Style
 neg_left_9 =
@@ -30818,7 +30818,7 @@ neg_left_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_96 : Css.Style
 neg_left_96 =
@@ -30829,7 +30829,7 @@ neg_left_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_full : Css.Style
 neg_left_full =
@@ -30840,7 +30840,7 @@ neg_left_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_left_px : Css.Style
 neg_left_px =
@@ -30851,7 +30851,7 @@ neg_left_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_0 : Css.Style
 neg_m_0 =
@@ -30862,7 +30862,7 @@ neg_m_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_0_dot_5 : Css.Style
 neg_m_0_dot_5 =
@@ -30873,7 +30873,7 @@ neg_m_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_1 : Css.Style
 neg_m_1 =
@@ -30884,7 +30884,7 @@ neg_m_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_10 : Css.Style
 neg_m_10 =
@@ -30895,7 +30895,7 @@ neg_m_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_11 : Css.Style
 neg_m_11 =
@@ -30906,7 +30906,7 @@ neg_m_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_12 : Css.Style
 neg_m_12 =
@@ -30917,7 +30917,7 @@ neg_m_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_14 : Css.Style
 neg_m_14 =
@@ -30928,7 +30928,7 @@ neg_m_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_16 : Css.Style
 neg_m_16 =
@@ -30939,7 +30939,7 @@ neg_m_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_1_dot_5 : Css.Style
 neg_m_1_dot_5 =
@@ -30950,7 +30950,7 @@ neg_m_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_2 : Css.Style
 neg_m_2 =
@@ -30961,7 +30961,7 @@ neg_m_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_20 : Css.Style
 neg_m_20 =
@@ -30972,7 +30972,7 @@ neg_m_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_24 : Css.Style
 neg_m_24 =
@@ -30983,7 +30983,7 @@ neg_m_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_28 : Css.Style
 neg_m_28 =
@@ -30994,7 +30994,7 @@ neg_m_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_2_dot_5 : Css.Style
 neg_m_2_dot_5 =
@@ -31005,7 +31005,7 @@ neg_m_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_3 : Css.Style
 neg_m_3 =
@@ -31016,7 +31016,7 @@ neg_m_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_32 : Css.Style
 neg_m_32 =
@@ -31027,7 +31027,7 @@ neg_m_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_36 : Css.Style
 neg_m_36 =
@@ -31038,7 +31038,7 @@ neg_m_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_3_dot_5 : Css.Style
 neg_m_3_dot_5 =
@@ -31049,7 +31049,7 @@ neg_m_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_4 : Css.Style
 neg_m_4 =
@@ -31060,7 +31060,7 @@ neg_m_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_40 : Css.Style
 neg_m_40 =
@@ -31071,7 +31071,7 @@ neg_m_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_44 : Css.Style
 neg_m_44 =
@@ -31082,7 +31082,7 @@ neg_m_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_48 : Css.Style
 neg_m_48 =
@@ -31093,7 +31093,7 @@ neg_m_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_5 : Css.Style
 neg_m_5 =
@@ -31104,7 +31104,7 @@ neg_m_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_52 : Css.Style
 neg_m_52 =
@@ -31115,7 +31115,7 @@ neg_m_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_56 : Css.Style
 neg_m_56 =
@@ -31126,7 +31126,7 @@ neg_m_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_6 : Css.Style
 neg_m_6 =
@@ -31137,7 +31137,7 @@ neg_m_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_60 : Css.Style
 neg_m_60 =
@@ -31148,7 +31148,7 @@ neg_m_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_64 : Css.Style
 neg_m_64 =
@@ -31159,7 +31159,7 @@ neg_m_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_7 : Css.Style
 neg_m_7 =
@@ -31170,7 +31170,7 @@ neg_m_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_72 : Css.Style
 neg_m_72 =
@@ -31181,7 +31181,7 @@ neg_m_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_8 : Css.Style
 neg_m_8 =
@@ -31192,7 +31192,7 @@ neg_m_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_80 : Css.Style
 neg_m_80 =
@@ -31203,7 +31203,7 @@ neg_m_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_9 : Css.Style
 neg_m_9 =
@@ -31214,7 +31214,7 @@ neg_m_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_96 : Css.Style
 neg_m_96 =
@@ -31225,7 +31225,7 @@ neg_m_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_m_px : Css.Style
 neg_m_px =
@@ -31236,7 +31236,7 @@ neg_m_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_0 : Css.Style
 neg_mb_0 =
@@ -31247,7 +31247,7 @@ neg_mb_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_0_dot_5 : Css.Style
 neg_mb_0_dot_5 =
@@ -31258,7 +31258,7 @@ neg_mb_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_1 : Css.Style
 neg_mb_1 =
@@ -31269,7 +31269,7 @@ neg_mb_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_10 : Css.Style
 neg_mb_10 =
@@ -31280,7 +31280,7 @@ neg_mb_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_11 : Css.Style
 neg_mb_11 =
@@ -31291,7 +31291,7 @@ neg_mb_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_12 : Css.Style
 neg_mb_12 =
@@ -31302,7 +31302,7 @@ neg_mb_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_14 : Css.Style
 neg_mb_14 =
@@ -31313,7 +31313,7 @@ neg_mb_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_16 : Css.Style
 neg_mb_16 =
@@ -31324,7 +31324,7 @@ neg_mb_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_1_dot_5 : Css.Style
 neg_mb_1_dot_5 =
@@ -31335,7 +31335,7 @@ neg_mb_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_2 : Css.Style
 neg_mb_2 =
@@ -31346,7 +31346,7 @@ neg_mb_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_20 : Css.Style
 neg_mb_20 =
@@ -31357,7 +31357,7 @@ neg_mb_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_24 : Css.Style
 neg_mb_24 =
@@ -31368,7 +31368,7 @@ neg_mb_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_28 : Css.Style
 neg_mb_28 =
@@ -31379,7 +31379,7 @@ neg_mb_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_2_dot_5 : Css.Style
 neg_mb_2_dot_5 =
@@ -31390,7 +31390,7 @@ neg_mb_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_3 : Css.Style
 neg_mb_3 =
@@ -31401,7 +31401,7 @@ neg_mb_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_32 : Css.Style
 neg_mb_32 =
@@ -31412,7 +31412,7 @@ neg_mb_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_36 : Css.Style
 neg_mb_36 =
@@ -31423,7 +31423,7 @@ neg_mb_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_3_dot_5 : Css.Style
 neg_mb_3_dot_5 =
@@ -31434,7 +31434,7 @@ neg_mb_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_4 : Css.Style
 neg_mb_4 =
@@ -31445,7 +31445,7 @@ neg_mb_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_40 : Css.Style
 neg_mb_40 =
@@ -31456,7 +31456,7 @@ neg_mb_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_44 : Css.Style
 neg_mb_44 =
@@ -31467,7 +31467,7 @@ neg_mb_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_48 : Css.Style
 neg_mb_48 =
@@ -31478,7 +31478,7 @@ neg_mb_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_5 : Css.Style
 neg_mb_5 =
@@ -31489,7 +31489,7 @@ neg_mb_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_52 : Css.Style
 neg_mb_52 =
@@ -31500,7 +31500,7 @@ neg_mb_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_56 : Css.Style
 neg_mb_56 =
@@ -31511,7 +31511,7 @@ neg_mb_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_6 : Css.Style
 neg_mb_6 =
@@ -31522,7 +31522,7 @@ neg_mb_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_60 : Css.Style
 neg_mb_60 =
@@ -31533,7 +31533,7 @@ neg_mb_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_64 : Css.Style
 neg_mb_64 =
@@ -31544,7 +31544,7 @@ neg_mb_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_7 : Css.Style
 neg_mb_7 =
@@ -31555,7 +31555,7 @@ neg_mb_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_72 : Css.Style
 neg_mb_72 =
@@ -31566,7 +31566,7 @@ neg_mb_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_8 : Css.Style
 neg_mb_8 =
@@ -31577,7 +31577,7 @@ neg_mb_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_80 : Css.Style
 neg_mb_80 =
@@ -31588,7 +31588,7 @@ neg_mb_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_9 : Css.Style
 neg_mb_9 =
@@ -31599,7 +31599,7 @@ neg_mb_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_96 : Css.Style
 neg_mb_96 =
@@ -31610,7 +31610,7 @@ neg_mb_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mb_px : Css.Style
 neg_mb_px =
@@ -31621,7 +31621,7 @@ neg_mb_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_0 : Css.Style
 neg_ml_0 =
@@ -31632,7 +31632,7 @@ neg_ml_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_0_dot_5 : Css.Style
 neg_ml_0_dot_5 =
@@ -31643,7 +31643,7 @@ neg_ml_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_1 : Css.Style
 neg_ml_1 =
@@ -31654,7 +31654,7 @@ neg_ml_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_10 : Css.Style
 neg_ml_10 =
@@ -31665,7 +31665,7 @@ neg_ml_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_11 : Css.Style
 neg_ml_11 =
@@ -31676,7 +31676,7 @@ neg_ml_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_12 : Css.Style
 neg_ml_12 =
@@ -31687,7 +31687,7 @@ neg_ml_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_14 : Css.Style
 neg_ml_14 =
@@ -31698,7 +31698,7 @@ neg_ml_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_16 : Css.Style
 neg_ml_16 =
@@ -31709,7 +31709,7 @@ neg_ml_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_1_dot_5 : Css.Style
 neg_ml_1_dot_5 =
@@ -31720,7 +31720,7 @@ neg_ml_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_2 : Css.Style
 neg_ml_2 =
@@ -31731,7 +31731,7 @@ neg_ml_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_20 : Css.Style
 neg_ml_20 =
@@ -31742,7 +31742,7 @@ neg_ml_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_24 : Css.Style
 neg_ml_24 =
@@ -31753,7 +31753,7 @@ neg_ml_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_28 : Css.Style
 neg_ml_28 =
@@ -31764,7 +31764,7 @@ neg_ml_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_2_dot_5 : Css.Style
 neg_ml_2_dot_5 =
@@ -31775,7 +31775,7 @@ neg_ml_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_3 : Css.Style
 neg_ml_3 =
@@ -31786,7 +31786,7 @@ neg_ml_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_32 : Css.Style
 neg_ml_32 =
@@ -31797,7 +31797,7 @@ neg_ml_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_36 : Css.Style
 neg_ml_36 =
@@ -31808,7 +31808,7 @@ neg_ml_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_3_dot_5 : Css.Style
 neg_ml_3_dot_5 =
@@ -31819,7 +31819,7 @@ neg_ml_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_4 : Css.Style
 neg_ml_4 =
@@ -31830,7 +31830,7 @@ neg_ml_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_40 : Css.Style
 neg_ml_40 =
@@ -31841,7 +31841,7 @@ neg_ml_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_44 : Css.Style
 neg_ml_44 =
@@ -31852,7 +31852,7 @@ neg_ml_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_48 : Css.Style
 neg_ml_48 =
@@ -31863,7 +31863,7 @@ neg_ml_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_5 : Css.Style
 neg_ml_5 =
@@ -31874,7 +31874,7 @@ neg_ml_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_52 : Css.Style
 neg_ml_52 =
@@ -31885,7 +31885,7 @@ neg_ml_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_56 : Css.Style
 neg_ml_56 =
@@ -31896,7 +31896,7 @@ neg_ml_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_6 : Css.Style
 neg_ml_6 =
@@ -31907,7 +31907,7 @@ neg_ml_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_60 : Css.Style
 neg_ml_60 =
@@ -31918,7 +31918,7 @@ neg_ml_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_64 : Css.Style
 neg_ml_64 =
@@ -31929,7 +31929,7 @@ neg_ml_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_7 : Css.Style
 neg_ml_7 =
@@ -31940,7 +31940,7 @@ neg_ml_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_72 : Css.Style
 neg_ml_72 =
@@ -31951,7 +31951,7 @@ neg_ml_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_8 : Css.Style
 neg_ml_8 =
@@ -31962,7 +31962,7 @@ neg_ml_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_80 : Css.Style
 neg_ml_80 =
@@ -31973,7 +31973,7 @@ neg_ml_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_9 : Css.Style
 neg_ml_9 =
@@ -31984,7 +31984,7 @@ neg_ml_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_96 : Css.Style
 neg_ml_96 =
@@ -31995,7 +31995,7 @@ neg_ml_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_ml_px : Css.Style
 neg_ml_px =
@@ -32006,7 +32006,7 @@ neg_ml_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_0 : Css.Style
 neg_mr_0 =
@@ -32017,7 +32017,7 @@ neg_mr_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_0_dot_5 : Css.Style
 neg_mr_0_dot_5 =
@@ -32028,7 +32028,7 @@ neg_mr_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_1 : Css.Style
 neg_mr_1 =
@@ -32039,7 +32039,7 @@ neg_mr_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_10 : Css.Style
 neg_mr_10 =
@@ -32050,7 +32050,7 @@ neg_mr_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_11 : Css.Style
 neg_mr_11 =
@@ -32061,7 +32061,7 @@ neg_mr_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_12 : Css.Style
 neg_mr_12 =
@@ -32072,7 +32072,7 @@ neg_mr_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_14 : Css.Style
 neg_mr_14 =
@@ -32083,7 +32083,7 @@ neg_mr_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_16 : Css.Style
 neg_mr_16 =
@@ -32094,7 +32094,7 @@ neg_mr_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_1_dot_5 : Css.Style
 neg_mr_1_dot_5 =
@@ -32105,7 +32105,7 @@ neg_mr_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_2 : Css.Style
 neg_mr_2 =
@@ -32116,7 +32116,7 @@ neg_mr_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_20 : Css.Style
 neg_mr_20 =
@@ -32127,7 +32127,7 @@ neg_mr_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_24 : Css.Style
 neg_mr_24 =
@@ -32138,7 +32138,7 @@ neg_mr_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_28 : Css.Style
 neg_mr_28 =
@@ -32149,7 +32149,7 @@ neg_mr_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_2_dot_5 : Css.Style
 neg_mr_2_dot_5 =
@@ -32160,7 +32160,7 @@ neg_mr_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_3 : Css.Style
 neg_mr_3 =
@@ -32171,7 +32171,7 @@ neg_mr_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_32 : Css.Style
 neg_mr_32 =
@@ -32182,7 +32182,7 @@ neg_mr_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_36 : Css.Style
 neg_mr_36 =
@@ -32193,7 +32193,7 @@ neg_mr_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_3_dot_5 : Css.Style
 neg_mr_3_dot_5 =
@@ -32204,7 +32204,7 @@ neg_mr_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_4 : Css.Style
 neg_mr_4 =
@@ -32215,7 +32215,7 @@ neg_mr_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_40 : Css.Style
 neg_mr_40 =
@@ -32226,7 +32226,7 @@ neg_mr_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_44 : Css.Style
 neg_mr_44 =
@@ -32237,7 +32237,7 @@ neg_mr_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_48 : Css.Style
 neg_mr_48 =
@@ -32248,7 +32248,7 @@ neg_mr_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_5 : Css.Style
 neg_mr_5 =
@@ -32259,7 +32259,7 @@ neg_mr_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_52 : Css.Style
 neg_mr_52 =
@@ -32270,7 +32270,7 @@ neg_mr_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_56 : Css.Style
 neg_mr_56 =
@@ -32281,7 +32281,7 @@ neg_mr_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_6 : Css.Style
 neg_mr_6 =
@@ -32292,7 +32292,7 @@ neg_mr_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_60 : Css.Style
 neg_mr_60 =
@@ -32303,7 +32303,7 @@ neg_mr_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_64 : Css.Style
 neg_mr_64 =
@@ -32314,7 +32314,7 @@ neg_mr_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_7 : Css.Style
 neg_mr_7 =
@@ -32325,7 +32325,7 @@ neg_mr_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_72 : Css.Style
 neg_mr_72 =
@@ -32336,7 +32336,7 @@ neg_mr_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_8 : Css.Style
 neg_mr_8 =
@@ -32347,7 +32347,7 @@ neg_mr_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_80 : Css.Style
 neg_mr_80 =
@@ -32358,7 +32358,7 @@ neg_mr_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_9 : Css.Style
 neg_mr_9 =
@@ -32369,7 +32369,7 @@ neg_mr_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_96 : Css.Style
 neg_mr_96 =
@@ -32380,7 +32380,7 @@ neg_mr_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mr_px : Css.Style
 neg_mr_px =
@@ -32391,7 +32391,7 @@ neg_mr_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_0 : Css.Style
 neg_mt_0 =
@@ -32402,7 +32402,7 @@ neg_mt_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_0_dot_5 : Css.Style
 neg_mt_0_dot_5 =
@@ -32413,7 +32413,7 @@ neg_mt_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_1 : Css.Style
 neg_mt_1 =
@@ -32424,7 +32424,7 @@ neg_mt_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_10 : Css.Style
 neg_mt_10 =
@@ -32435,7 +32435,7 @@ neg_mt_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_11 : Css.Style
 neg_mt_11 =
@@ -32446,7 +32446,7 @@ neg_mt_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_12 : Css.Style
 neg_mt_12 =
@@ -32457,7 +32457,7 @@ neg_mt_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_14 : Css.Style
 neg_mt_14 =
@@ -32468,7 +32468,7 @@ neg_mt_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_16 : Css.Style
 neg_mt_16 =
@@ -32479,7 +32479,7 @@ neg_mt_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_1_dot_5 : Css.Style
 neg_mt_1_dot_5 =
@@ -32490,7 +32490,7 @@ neg_mt_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_2 : Css.Style
 neg_mt_2 =
@@ -32501,7 +32501,7 @@ neg_mt_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_20 : Css.Style
 neg_mt_20 =
@@ -32512,7 +32512,7 @@ neg_mt_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_24 : Css.Style
 neg_mt_24 =
@@ -32523,7 +32523,7 @@ neg_mt_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_28 : Css.Style
 neg_mt_28 =
@@ -32534,7 +32534,7 @@ neg_mt_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_2_dot_5 : Css.Style
 neg_mt_2_dot_5 =
@@ -32545,7 +32545,7 @@ neg_mt_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_3 : Css.Style
 neg_mt_3 =
@@ -32556,7 +32556,7 @@ neg_mt_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_32 : Css.Style
 neg_mt_32 =
@@ -32567,7 +32567,7 @@ neg_mt_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_36 : Css.Style
 neg_mt_36 =
@@ -32578,7 +32578,7 @@ neg_mt_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_3_dot_5 : Css.Style
 neg_mt_3_dot_5 =
@@ -32589,7 +32589,7 @@ neg_mt_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_4 : Css.Style
 neg_mt_4 =
@@ -32600,7 +32600,7 @@ neg_mt_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_40 : Css.Style
 neg_mt_40 =
@@ -32611,7 +32611,7 @@ neg_mt_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_44 : Css.Style
 neg_mt_44 =
@@ -32622,7 +32622,7 @@ neg_mt_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_48 : Css.Style
 neg_mt_48 =
@@ -32633,7 +32633,7 @@ neg_mt_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_5 : Css.Style
 neg_mt_5 =
@@ -32644,7 +32644,7 @@ neg_mt_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_52 : Css.Style
 neg_mt_52 =
@@ -32655,7 +32655,7 @@ neg_mt_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_56 : Css.Style
 neg_mt_56 =
@@ -32666,7 +32666,7 @@ neg_mt_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_6 : Css.Style
 neg_mt_6 =
@@ -32677,7 +32677,7 @@ neg_mt_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_60 : Css.Style
 neg_mt_60 =
@@ -32688,7 +32688,7 @@ neg_mt_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_64 : Css.Style
 neg_mt_64 =
@@ -32699,7 +32699,7 @@ neg_mt_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_7 : Css.Style
 neg_mt_7 =
@@ -32710,7 +32710,7 @@ neg_mt_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_72 : Css.Style
 neg_mt_72 =
@@ -32721,7 +32721,7 @@ neg_mt_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_8 : Css.Style
 neg_mt_8 =
@@ -32732,7 +32732,7 @@ neg_mt_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_80 : Css.Style
 neg_mt_80 =
@@ -32743,7 +32743,7 @@ neg_mt_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_9 : Css.Style
 neg_mt_9 =
@@ -32754,7 +32754,7 @@ neg_mt_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_96 : Css.Style
 neg_mt_96 =
@@ -32765,7 +32765,7 @@ neg_mt_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mt_px : Css.Style
 neg_mt_px =
@@ -32776,7 +32776,7 @@ neg_mt_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_0 : Css.Style
 neg_mx_0 =
@@ -32790,7 +32790,7 @@ neg_mx_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_0_dot_5 : Css.Style
 neg_mx_0_dot_5 =
@@ -32804,7 +32804,7 @@ neg_mx_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_1 : Css.Style
 neg_mx_1 =
@@ -32818,7 +32818,7 @@ neg_mx_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_10 : Css.Style
 neg_mx_10 =
@@ -32832,7 +32832,7 @@ neg_mx_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_11 : Css.Style
 neg_mx_11 =
@@ -32846,7 +32846,7 @@ neg_mx_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_12 : Css.Style
 neg_mx_12 =
@@ -32860,7 +32860,7 @@ neg_mx_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_14 : Css.Style
 neg_mx_14 =
@@ -32874,7 +32874,7 @@ neg_mx_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_16 : Css.Style
 neg_mx_16 =
@@ -32888,7 +32888,7 @@ neg_mx_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_1_dot_5 : Css.Style
 neg_mx_1_dot_5 =
@@ -32902,7 +32902,7 @@ neg_mx_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_2 : Css.Style
 neg_mx_2 =
@@ -32916,7 +32916,7 @@ neg_mx_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_20 : Css.Style
 neg_mx_20 =
@@ -32930,7 +32930,7 @@ neg_mx_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_24 : Css.Style
 neg_mx_24 =
@@ -32944,7 +32944,7 @@ neg_mx_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_28 : Css.Style
 neg_mx_28 =
@@ -32958,7 +32958,7 @@ neg_mx_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_2_dot_5 : Css.Style
 neg_mx_2_dot_5 =
@@ -32972,7 +32972,7 @@ neg_mx_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_3 : Css.Style
 neg_mx_3 =
@@ -32986,7 +32986,7 @@ neg_mx_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_32 : Css.Style
 neg_mx_32 =
@@ -33000,7 +33000,7 @@ neg_mx_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_36 : Css.Style
 neg_mx_36 =
@@ -33014,7 +33014,7 @@ neg_mx_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_3_dot_5 : Css.Style
 neg_mx_3_dot_5 =
@@ -33028,7 +33028,7 @@ neg_mx_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_4 : Css.Style
 neg_mx_4 =
@@ -33042,7 +33042,7 @@ neg_mx_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_40 : Css.Style
 neg_mx_40 =
@@ -33056,7 +33056,7 @@ neg_mx_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_44 : Css.Style
 neg_mx_44 =
@@ -33070,7 +33070,7 @@ neg_mx_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_48 : Css.Style
 neg_mx_48 =
@@ -33084,7 +33084,7 @@ neg_mx_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_5 : Css.Style
 neg_mx_5 =
@@ -33098,7 +33098,7 @@ neg_mx_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_52 : Css.Style
 neg_mx_52 =
@@ -33112,7 +33112,7 @@ neg_mx_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_56 : Css.Style
 neg_mx_56 =
@@ -33126,7 +33126,7 @@ neg_mx_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_6 : Css.Style
 neg_mx_6 =
@@ -33140,7 +33140,7 @@ neg_mx_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_60 : Css.Style
 neg_mx_60 =
@@ -33154,7 +33154,7 @@ neg_mx_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_64 : Css.Style
 neg_mx_64 =
@@ -33168,7 +33168,7 @@ neg_mx_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_7 : Css.Style
 neg_mx_7 =
@@ -33182,7 +33182,7 @@ neg_mx_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_72 : Css.Style
 neg_mx_72 =
@@ -33196,7 +33196,7 @@ neg_mx_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_8 : Css.Style
 neg_mx_8 =
@@ -33210,7 +33210,7 @@ neg_mx_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_80 : Css.Style
 neg_mx_80 =
@@ -33224,7 +33224,7 @@ neg_mx_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_9 : Css.Style
 neg_mx_9 =
@@ -33238,7 +33238,7 @@ neg_mx_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_96 : Css.Style
 neg_mx_96 =
@@ -33252,7 +33252,7 @@ neg_mx_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_mx_px : Css.Style
 neg_mx_px =
@@ -33266,7 +33266,7 @@ neg_mx_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_0 : Css.Style
 neg_my_0 =
@@ -33280,7 +33280,7 @@ neg_my_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_0_dot_5 : Css.Style
 neg_my_0_dot_5 =
@@ -33294,7 +33294,7 @@ neg_my_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_1 : Css.Style
 neg_my_1 =
@@ -33308,7 +33308,7 @@ neg_my_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_10 : Css.Style
 neg_my_10 =
@@ -33322,7 +33322,7 @@ neg_my_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_11 : Css.Style
 neg_my_11 =
@@ -33336,7 +33336,7 @@ neg_my_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_12 : Css.Style
 neg_my_12 =
@@ -33350,7 +33350,7 @@ neg_my_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_14 : Css.Style
 neg_my_14 =
@@ -33364,7 +33364,7 @@ neg_my_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_16 : Css.Style
 neg_my_16 =
@@ -33378,7 +33378,7 @@ neg_my_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_1_dot_5 : Css.Style
 neg_my_1_dot_5 =
@@ -33392,7 +33392,7 @@ neg_my_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_2 : Css.Style
 neg_my_2 =
@@ -33406,7 +33406,7 @@ neg_my_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_20 : Css.Style
 neg_my_20 =
@@ -33420,7 +33420,7 @@ neg_my_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_24 : Css.Style
 neg_my_24 =
@@ -33434,7 +33434,7 @@ neg_my_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_28 : Css.Style
 neg_my_28 =
@@ -33448,7 +33448,7 @@ neg_my_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_2_dot_5 : Css.Style
 neg_my_2_dot_5 =
@@ -33462,7 +33462,7 @@ neg_my_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_3 : Css.Style
 neg_my_3 =
@@ -33476,7 +33476,7 @@ neg_my_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_32 : Css.Style
 neg_my_32 =
@@ -33490,7 +33490,7 @@ neg_my_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_36 : Css.Style
 neg_my_36 =
@@ -33504,7 +33504,7 @@ neg_my_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_3_dot_5 : Css.Style
 neg_my_3_dot_5 =
@@ -33518,7 +33518,7 @@ neg_my_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_4 : Css.Style
 neg_my_4 =
@@ -33532,7 +33532,7 @@ neg_my_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_40 : Css.Style
 neg_my_40 =
@@ -33546,7 +33546,7 @@ neg_my_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_44 : Css.Style
 neg_my_44 =
@@ -33560,7 +33560,7 @@ neg_my_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_48 : Css.Style
 neg_my_48 =
@@ -33574,7 +33574,7 @@ neg_my_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_5 : Css.Style
 neg_my_5 =
@@ -33588,7 +33588,7 @@ neg_my_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_52 : Css.Style
 neg_my_52 =
@@ -33602,7 +33602,7 @@ neg_my_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_56 : Css.Style
 neg_my_56 =
@@ -33616,7 +33616,7 @@ neg_my_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_6 : Css.Style
 neg_my_6 =
@@ -33630,7 +33630,7 @@ neg_my_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_60 : Css.Style
 neg_my_60 =
@@ -33644,7 +33644,7 @@ neg_my_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_64 : Css.Style
 neg_my_64 =
@@ -33658,7 +33658,7 @@ neg_my_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_7 : Css.Style
 neg_my_7 =
@@ -33672,7 +33672,7 @@ neg_my_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_72 : Css.Style
 neg_my_72 =
@@ -33686,7 +33686,7 @@ neg_my_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_8 : Css.Style
 neg_my_8 =
@@ -33700,7 +33700,7 @@ neg_my_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_80 : Css.Style
 neg_my_80 =
@@ -33714,7 +33714,7 @@ neg_my_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_9 : Css.Style
 neg_my_9 =
@@ -33728,7 +33728,7 @@ neg_my_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_96 : Css.Style
 neg_my_96 =
@@ -33742,7 +33742,7 @@ neg_my_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_my_px : Css.Style
 neg_my_px =
@@ -33756,7 +33756,7 @@ neg_my_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_0 : Css.Style
 neg_right_0 =
@@ -33767,7 +33767,7 @@ neg_right_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_0_dot_5 : Css.Style
 neg_right_0_dot_5 =
@@ -33778,7 +33778,7 @@ neg_right_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_1 : Css.Style
 neg_right_1 =
@@ -33789,7 +33789,7 @@ neg_right_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_10 : Css.Style
 neg_right_10 =
@@ -33800,7 +33800,7 @@ neg_right_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_11 : Css.Style
 neg_right_11 =
@@ -33811,7 +33811,7 @@ neg_right_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_12 : Css.Style
 neg_right_12 =
@@ -33822,7 +33822,7 @@ neg_right_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_14 : Css.Style
 neg_right_14 =
@@ -33833,7 +33833,7 @@ neg_right_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_16 : Css.Style
 neg_right_16 =
@@ -33844,7 +33844,7 @@ neg_right_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_1_dot_5 : Css.Style
 neg_right_1_dot_5 =
@@ -33855,7 +33855,7 @@ neg_right_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_1over2 : Css.Style
 neg_right_1over2 =
@@ -33866,7 +33866,7 @@ neg_right_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_1over3 : Css.Style
 neg_right_1over3 =
@@ -33877,7 +33877,7 @@ neg_right_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_1over4 : Css.Style
 neg_right_1over4 =
@@ -33888,7 +33888,7 @@ neg_right_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_2 : Css.Style
 neg_right_2 =
@@ -33899,7 +33899,7 @@ neg_right_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_20 : Css.Style
 neg_right_20 =
@@ -33910,7 +33910,7 @@ neg_right_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_24 : Css.Style
 neg_right_24 =
@@ -33921,7 +33921,7 @@ neg_right_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_28 : Css.Style
 neg_right_28 =
@@ -33932,7 +33932,7 @@ neg_right_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_2_dot_5 : Css.Style
 neg_right_2_dot_5 =
@@ -33943,7 +33943,7 @@ neg_right_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_2over3 : Css.Style
 neg_right_2over3 =
@@ -33954,7 +33954,7 @@ neg_right_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_2over4 : Css.Style
 neg_right_2over4 =
@@ -33965,7 +33965,7 @@ neg_right_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_3 : Css.Style
 neg_right_3 =
@@ -33976,7 +33976,7 @@ neg_right_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_32 : Css.Style
 neg_right_32 =
@@ -33987,7 +33987,7 @@ neg_right_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_36 : Css.Style
 neg_right_36 =
@@ -33998,7 +33998,7 @@ neg_right_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_3_dot_5 : Css.Style
 neg_right_3_dot_5 =
@@ -34009,7 +34009,7 @@ neg_right_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_3over4 : Css.Style
 neg_right_3over4 =
@@ -34020,7 +34020,7 @@ neg_right_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_4 : Css.Style
 neg_right_4 =
@@ -34031,7 +34031,7 @@ neg_right_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_40 : Css.Style
 neg_right_40 =
@@ -34042,7 +34042,7 @@ neg_right_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_44 : Css.Style
 neg_right_44 =
@@ -34053,7 +34053,7 @@ neg_right_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_48 : Css.Style
 neg_right_48 =
@@ -34064,7 +34064,7 @@ neg_right_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_5 : Css.Style
 neg_right_5 =
@@ -34075,7 +34075,7 @@ neg_right_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_52 : Css.Style
 neg_right_52 =
@@ -34086,7 +34086,7 @@ neg_right_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_56 : Css.Style
 neg_right_56 =
@@ -34097,7 +34097,7 @@ neg_right_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_6 : Css.Style
 neg_right_6 =
@@ -34108,7 +34108,7 @@ neg_right_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_60 : Css.Style
 neg_right_60 =
@@ -34119,7 +34119,7 @@ neg_right_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_64 : Css.Style
 neg_right_64 =
@@ -34130,7 +34130,7 @@ neg_right_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_7 : Css.Style
 neg_right_7 =
@@ -34141,7 +34141,7 @@ neg_right_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_72 : Css.Style
 neg_right_72 =
@@ -34152,7 +34152,7 @@ neg_right_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_8 : Css.Style
 neg_right_8 =
@@ -34163,7 +34163,7 @@ neg_right_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_80 : Css.Style
 neg_right_80 =
@@ -34174,7 +34174,7 @@ neg_right_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_9 : Css.Style
 neg_right_9 =
@@ -34185,7 +34185,7 @@ neg_right_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_96 : Css.Style
 neg_right_96 =
@@ -34196,7 +34196,7 @@ neg_right_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_full : Css.Style
 neg_right_full =
@@ -34207,7 +34207,7 @@ neg_right_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_right_px : Css.Style
 neg_right_px =
@@ -34218,7 +34218,7 @@ neg_right_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_1 : Css.Style
 neg_rotate_1 =
@@ -34229,7 +34229,7 @@ neg_rotate_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_12 : Css.Style
 neg_rotate_12 =
@@ -34240,7 +34240,7 @@ neg_rotate_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_180 : Css.Style
 neg_rotate_180 =
@@ -34251,7 +34251,7 @@ neg_rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_2 : Css.Style
 neg_rotate_2 =
@@ -34262,7 +34262,7 @@ neg_rotate_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_3 : Css.Style
 neg_rotate_3 =
@@ -34273,7 +34273,7 @@ neg_rotate_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_45 : Css.Style
 neg_rotate_45 =
@@ -34284,7 +34284,7 @@ neg_rotate_45 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_6 : Css.Style
 neg_rotate_6 =
@@ -34295,7 +34295,7 @@ neg_rotate_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_rotate_90 : Css.Style
 neg_rotate_90 =
@@ -34306,7 +34306,7 @@ neg_rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_x_1 : Css.Style
 neg_skew_x_1 =
@@ -34317,7 +34317,7 @@ neg_skew_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_x_12 : Css.Style
 neg_skew_x_12 =
@@ -34328,7 +34328,7 @@ neg_skew_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_x_2 : Css.Style
 neg_skew_x_2 =
@@ -34339,7 +34339,7 @@ neg_skew_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_x_3 : Css.Style
 neg_skew_x_3 =
@@ -34350,7 +34350,7 @@ neg_skew_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_x_6 : Css.Style
 neg_skew_x_6 =
@@ -34361,7 +34361,7 @@ neg_skew_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_y_1 : Css.Style
 neg_skew_y_1 =
@@ -34372,7 +34372,7 @@ neg_skew_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_y_12 : Css.Style
 neg_skew_y_12 =
@@ -34383,7 +34383,7 @@ neg_skew_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_y_2 : Css.Style
 neg_skew_y_2 =
@@ -34394,7 +34394,7 @@ neg_skew_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_y_3 : Css.Style
 neg_skew_y_3 =
@@ -34405,7 +34405,7 @@ neg_skew_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_skew_y_6 : Css.Style
 neg_skew_y_6 =
@@ -34416,7 +34416,7 @@ neg_skew_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_0 : Css.Style
 neg_space_x_0 =
@@ -34435,7 +34435,7 @@ neg_space_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_0_dot_5 : Css.Style
 neg_space_x_0_dot_5 =
@@ -34454,7 +34454,7 @@ neg_space_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_1 : Css.Style
 neg_space_x_1 =
@@ -34473,7 +34473,7 @@ neg_space_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_10 : Css.Style
 neg_space_x_10 =
@@ -34492,7 +34492,7 @@ neg_space_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_11 : Css.Style
 neg_space_x_11 =
@@ -34511,7 +34511,7 @@ neg_space_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_12 : Css.Style
 neg_space_x_12 =
@@ -34530,7 +34530,7 @@ neg_space_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_14 : Css.Style
 neg_space_x_14 =
@@ -34549,7 +34549,7 @@ neg_space_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_16 : Css.Style
 neg_space_x_16 =
@@ -34568,7 +34568,7 @@ neg_space_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_1_dot_5 : Css.Style
 neg_space_x_1_dot_5 =
@@ -34587,7 +34587,7 @@ neg_space_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_2 : Css.Style
 neg_space_x_2 =
@@ -34606,7 +34606,7 @@ neg_space_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_20 : Css.Style
 neg_space_x_20 =
@@ -34625,7 +34625,7 @@ neg_space_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_24 : Css.Style
 neg_space_x_24 =
@@ -34644,7 +34644,7 @@ neg_space_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_28 : Css.Style
 neg_space_x_28 =
@@ -34663,7 +34663,7 @@ neg_space_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_2_dot_5 : Css.Style
 neg_space_x_2_dot_5 =
@@ -34682,7 +34682,7 @@ neg_space_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_3 : Css.Style
 neg_space_x_3 =
@@ -34701,7 +34701,7 @@ neg_space_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_32 : Css.Style
 neg_space_x_32 =
@@ -34720,7 +34720,7 @@ neg_space_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_36 : Css.Style
 neg_space_x_36 =
@@ -34739,7 +34739,7 @@ neg_space_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_3_dot_5 : Css.Style
 neg_space_x_3_dot_5 =
@@ -34758,7 +34758,7 @@ neg_space_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_4 : Css.Style
 neg_space_x_4 =
@@ -34777,7 +34777,7 @@ neg_space_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_40 : Css.Style
 neg_space_x_40 =
@@ -34796,7 +34796,7 @@ neg_space_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_44 : Css.Style
 neg_space_x_44 =
@@ -34815,7 +34815,7 @@ neg_space_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_48 : Css.Style
 neg_space_x_48 =
@@ -34834,7 +34834,7 @@ neg_space_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_5 : Css.Style
 neg_space_x_5 =
@@ -34853,7 +34853,7 @@ neg_space_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_52 : Css.Style
 neg_space_x_52 =
@@ -34872,7 +34872,7 @@ neg_space_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_56 : Css.Style
 neg_space_x_56 =
@@ -34891,7 +34891,7 @@ neg_space_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_6 : Css.Style
 neg_space_x_6 =
@@ -34910,7 +34910,7 @@ neg_space_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_60 : Css.Style
 neg_space_x_60 =
@@ -34929,7 +34929,7 @@ neg_space_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_64 : Css.Style
 neg_space_x_64 =
@@ -34948,7 +34948,7 @@ neg_space_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_7 : Css.Style
 neg_space_x_7 =
@@ -34967,7 +34967,7 @@ neg_space_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_72 : Css.Style
 neg_space_x_72 =
@@ -34986,7 +34986,7 @@ neg_space_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_8 : Css.Style
 neg_space_x_8 =
@@ -35005,7 +35005,7 @@ neg_space_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_80 : Css.Style
 neg_space_x_80 =
@@ -35024,7 +35024,7 @@ neg_space_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_9 : Css.Style
 neg_space_x_9 =
@@ -35043,7 +35043,7 @@ neg_space_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_96 : Css.Style
 neg_space_x_96 =
@@ -35062,7 +35062,7 @@ neg_space_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_x_px : Css.Style
 neg_space_x_px =
@@ -35081,7 +35081,7 @@ neg_space_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_0 : Css.Style
 neg_space_y_0 =
@@ -35100,7 +35100,7 @@ neg_space_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_0_dot_5 : Css.Style
 neg_space_y_0_dot_5 =
@@ -35119,7 +35119,7 @@ neg_space_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_1 : Css.Style
 neg_space_y_1 =
@@ -35138,7 +35138,7 @@ neg_space_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_10 : Css.Style
 neg_space_y_10 =
@@ -35157,7 +35157,7 @@ neg_space_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_11 : Css.Style
 neg_space_y_11 =
@@ -35176,7 +35176,7 @@ neg_space_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_12 : Css.Style
 neg_space_y_12 =
@@ -35195,7 +35195,7 @@ neg_space_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_14 : Css.Style
 neg_space_y_14 =
@@ -35214,7 +35214,7 @@ neg_space_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_16 : Css.Style
 neg_space_y_16 =
@@ -35233,7 +35233,7 @@ neg_space_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_1_dot_5 : Css.Style
 neg_space_y_1_dot_5 =
@@ -35252,7 +35252,7 @@ neg_space_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_2 : Css.Style
 neg_space_y_2 =
@@ -35271,7 +35271,7 @@ neg_space_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_20 : Css.Style
 neg_space_y_20 =
@@ -35290,7 +35290,7 @@ neg_space_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_24 : Css.Style
 neg_space_y_24 =
@@ -35309,7 +35309,7 @@ neg_space_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_28 : Css.Style
 neg_space_y_28 =
@@ -35328,7 +35328,7 @@ neg_space_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_2_dot_5 : Css.Style
 neg_space_y_2_dot_5 =
@@ -35347,7 +35347,7 @@ neg_space_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_3 : Css.Style
 neg_space_y_3 =
@@ -35366,7 +35366,7 @@ neg_space_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_32 : Css.Style
 neg_space_y_32 =
@@ -35385,7 +35385,7 @@ neg_space_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_36 : Css.Style
 neg_space_y_36 =
@@ -35404,7 +35404,7 @@ neg_space_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_3_dot_5 : Css.Style
 neg_space_y_3_dot_5 =
@@ -35423,7 +35423,7 @@ neg_space_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_4 : Css.Style
 neg_space_y_4 =
@@ -35442,7 +35442,7 @@ neg_space_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_40 : Css.Style
 neg_space_y_40 =
@@ -35461,7 +35461,7 @@ neg_space_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_44 : Css.Style
 neg_space_y_44 =
@@ -35480,7 +35480,7 @@ neg_space_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_48 : Css.Style
 neg_space_y_48 =
@@ -35499,7 +35499,7 @@ neg_space_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_5 : Css.Style
 neg_space_y_5 =
@@ -35518,7 +35518,7 @@ neg_space_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_52 : Css.Style
 neg_space_y_52 =
@@ -35537,7 +35537,7 @@ neg_space_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_56 : Css.Style
 neg_space_y_56 =
@@ -35556,7 +35556,7 @@ neg_space_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_6 : Css.Style
 neg_space_y_6 =
@@ -35575,7 +35575,7 @@ neg_space_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_60 : Css.Style
 neg_space_y_60 =
@@ -35594,7 +35594,7 @@ neg_space_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_64 : Css.Style
 neg_space_y_64 =
@@ -35613,7 +35613,7 @@ neg_space_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_7 : Css.Style
 neg_space_y_7 =
@@ -35632,7 +35632,7 @@ neg_space_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_72 : Css.Style
 neg_space_y_72 =
@@ -35651,7 +35651,7 @@ neg_space_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_8 : Css.Style
 neg_space_y_8 =
@@ -35670,7 +35670,7 @@ neg_space_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_80 : Css.Style
 neg_space_y_80 =
@@ -35689,7 +35689,7 @@ neg_space_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_9 : Css.Style
 neg_space_y_9 =
@@ -35708,7 +35708,7 @@ neg_space_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_96 : Css.Style
 neg_space_y_96 =
@@ -35727,7 +35727,7 @@ neg_space_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_space_y_px : Css.Style
 neg_space_y_px =
@@ -35746,7 +35746,7 @@ neg_space_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_0 : Css.Style
 neg_top_0 =
@@ -35757,7 +35757,7 @@ neg_top_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_0_dot_5 : Css.Style
 neg_top_0_dot_5 =
@@ -35768,7 +35768,7 @@ neg_top_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_1 : Css.Style
 neg_top_1 =
@@ -35779,7 +35779,7 @@ neg_top_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_10 : Css.Style
 neg_top_10 =
@@ -35790,7 +35790,7 @@ neg_top_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_11 : Css.Style
 neg_top_11 =
@@ -35801,7 +35801,7 @@ neg_top_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_12 : Css.Style
 neg_top_12 =
@@ -35812,7 +35812,7 @@ neg_top_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_14 : Css.Style
 neg_top_14 =
@@ -35823,7 +35823,7 @@ neg_top_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_16 : Css.Style
 neg_top_16 =
@@ -35834,7 +35834,7 @@ neg_top_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_1_dot_5 : Css.Style
 neg_top_1_dot_5 =
@@ -35845,7 +35845,7 @@ neg_top_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_1over2 : Css.Style
 neg_top_1over2 =
@@ -35856,7 +35856,7 @@ neg_top_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_1over3 : Css.Style
 neg_top_1over3 =
@@ -35867,7 +35867,7 @@ neg_top_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_1over4 : Css.Style
 neg_top_1over4 =
@@ -35878,7 +35878,7 @@ neg_top_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_2 : Css.Style
 neg_top_2 =
@@ -35889,7 +35889,7 @@ neg_top_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_20 : Css.Style
 neg_top_20 =
@@ -35900,7 +35900,7 @@ neg_top_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_24 : Css.Style
 neg_top_24 =
@@ -35911,7 +35911,7 @@ neg_top_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_28 : Css.Style
 neg_top_28 =
@@ -35922,7 +35922,7 @@ neg_top_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_2_dot_5 : Css.Style
 neg_top_2_dot_5 =
@@ -35933,7 +35933,7 @@ neg_top_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_2over3 : Css.Style
 neg_top_2over3 =
@@ -35944,7 +35944,7 @@ neg_top_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_2over4 : Css.Style
 neg_top_2over4 =
@@ -35955,7 +35955,7 @@ neg_top_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_3 : Css.Style
 neg_top_3 =
@@ -35966,7 +35966,7 @@ neg_top_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_32 : Css.Style
 neg_top_32 =
@@ -35977,7 +35977,7 @@ neg_top_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_36 : Css.Style
 neg_top_36 =
@@ -35988,7 +35988,7 @@ neg_top_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_3_dot_5 : Css.Style
 neg_top_3_dot_5 =
@@ -35999,7 +35999,7 @@ neg_top_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_3over4 : Css.Style
 neg_top_3over4 =
@@ -36010,7 +36010,7 @@ neg_top_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_4 : Css.Style
 neg_top_4 =
@@ -36021,7 +36021,7 @@ neg_top_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_40 : Css.Style
 neg_top_40 =
@@ -36032,7 +36032,7 @@ neg_top_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_44 : Css.Style
 neg_top_44 =
@@ -36043,7 +36043,7 @@ neg_top_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_48 : Css.Style
 neg_top_48 =
@@ -36054,7 +36054,7 @@ neg_top_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_5 : Css.Style
 neg_top_5 =
@@ -36065,7 +36065,7 @@ neg_top_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_52 : Css.Style
 neg_top_52 =
@@ -36076,7 +36076,7 @@ neg_top_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_56 : Css.Style
 neg_top_56 =
@@ -36087,7 +36087,7 @@ neg_top_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_6 : Css.Style
 neg_top_6 =
@@ -36098,7 +36098,7 @@ neg_top_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_60 : Css.Style
 neg_top_60 =
@@ -36109,7 +36109,7 @@ neg_top_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_64 : Css.Style
 neg_top_64 =
@@ -36120,7 +36120,7 @@ neg_top_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_7 : Css.Style
 neg_top_7 =
@@ -36131,7 +36131,7 @@ neg_top_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_72 : Css.Style
 neg_top_72 =
@@ -36142,7 +36142,7 @@ neg_top_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_8 : Css.Style
 neg_top_8 =
@@ -36153,7 +36153,7 @@ neg_top_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_80 : Css.Style
 neg_top_80 =
@@ -36164,7 +36164,7 @@ neg_top_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_9 : Css.Style
 neg_top_9 =
@@ -36175,7 +36175,7 @@ neg_top_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_96 : Css.Style
 neg_top_96 =
@@ -36186,7 +36186,7 @@ neg_top_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_full : Css.Style
 neg_top_full =
@@ -36197,7 +36197,7 @@ neg_top_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_top_px : Css.Style
 neg_top_px =
@@ -36208,7 +36208,7 @@ neg_top_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_0 : Css.Style
 neg_translate_x_0 =
@@ -36219,7 +36219,7 @@ neg_translate_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_0_dot_5 : Css.Style
 neg_translate_x_0_dot_5 =
@@ -36230,7 +36230,7 @@ neg_translate_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_1 : Css.Style
 neg_translate_x_1 =
@@ -36241,7 +36241,7 @@ neg_translate_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_10 : Css.Style
 neg_translate_x_10 =
@@ -36252,7 +36252,7 @@ neg_translate_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_11 : Css.Style
 neg_translate_x_11 =
@@ -36263,7 +36263,7 @@ neg_translate_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_12 : Css.Style
 neg_translate_x_12 =
@@ -36274,7 +36274,7 @@ neg_translate_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_14 : Css.Style
 neg_translate_x_14 =
@@ -36285,7 +36285,7 @@ neg_translate_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_16 : Css.Style
 neg_translate_x_16 =
@@ -36296,7 +36296,7 @@ neg_translate_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_1_dot_5 : Css.Style
 neg_translate_x_1_dot_5 =
@@ -36307,7 +36307,7 @@ neg_translate_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_1over2 : Css.Style
 neg_translate_x_1over2 =
@@ -36318,7 +36318,7 @@ neg_translate_x_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_1over3 : Css.Style
 neg_translate_x_1over3 =
@@ -36329,7 +36329,7 @@ neg_translate_x_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_1over4 : Css.Style
 neg_translate_x_1over4 =
@@ -36340,7 +36340,7 @@ neg_translate_x_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_2 : Css.Style
 neg_translate_x_2 =
@@ -36351,7 +36351,7 @@ neg_translate_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_20 : Css.Style
 neg_translate_x_20 =
@@ -36362,7 +36362,7 @@ neg_translate_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_24 : Css.Style
 neg_translate_x_24 =
@@ -36373,7 +36373,7 @@ neg_translate_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_28 : Css.Style
 neg_translate_x_28 =
@@ -36384,7 +36384,7 @@ neg_translate_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_2_dot_5 : Css.Style
 neg_translate_x_2_dot_5 =
@@ -36395,7 +36395,7 @@ neg_translate_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_2over3 : Css.Style
 neg_translate_x_2over3 =
@@ -36406,7 +36406,7 @@ neg_translate_x_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_2over4 : Css.Style
 neg_translate_x_2over4 =
@@ -36417,7 +36417,7 @@ neg_translate_x_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_3 : Css.Style
 neg_translate_x_3 =
@@ -36428,7 +36428,7 @@ neg_translate_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_32 : Css.Style
 neg_translate_x_32 =
@@ -36439,7 +36439,7 @@ neg_translate_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_36 : Css.Style
 neg_translate_x_36 =
@@ -36450,7 +36450,7 @@ neg_translate_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_3_dot_5 : Css.Style
 neg_translate_x_3_dot_5 =
@@ -36461,7 +36461,7 @@ neg_translate_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_3over4 : Css.Style
 neg_translate_x_3over4 =
@@ -36472,7 +36472,7 @@ neg_translate_x_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_4 : Css.Style
 neg_translate_x_4 =
@@ -36483,7 +36483,7 @@ neg_translate_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_40 : Css.Style
 neg_translate_x_40 =
@@ -36494,7 +36494,7 @@ neg_translate_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_44 : Css.Style
 neg_translate_x_44 =
@@ -36505,7 +36505,7 @@ neg_translate_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_48 : Css.Style
 neg_translate_x_48 =
@@ -36516,7 +36516,7 @@ neg_translate_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_5 : Css.Style
 neg_translate_x_5 =
@@ -36527,7 +36527,7 @@ neg_translate_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_52 : Css.Style
 neg_translate_x_52 =
@@ -36538,7 +36538,7 @@ neg_translate_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_56 : Css.Style
 neg_translate_x_56 =
@@ -36549,7 +36549,7 @@ neg_translate_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_6 : Css.Style
 neg_translate_x_6 =
@@ -36560,7 +36560,7 @@ neg_translate_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_60 : Css.Style
 neg_translate_x_60 =
@@ -36571,7 +36571,7 @@ neg_translate_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_64 : Css.Style
 neg_translate_x_64 =
@@ -36582,7 +36582,7 @@ neg_translate_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_7 : Css.Style
 neg_translate_x_7 =
@@ -36593,7 +36593,7 @@ neg_translate_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_72 : Css.Style
 neg_translate_x_72 =
@@ -36604,7 +36604,7 @@ neg_translate_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_8 : Css.Style
 neg_translate_x_8 =
@@ -36615,7 +36615,7 @@ neg_translate_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_80 : Css.Style
 neg_translate_x_80 =
@@ -36626,7 +36626,7 @@ neg_translate_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_9 : Css.Style
 neg_translate_x_9 =
@@ -36637,7 +36637,7 @@ neg_translate_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_96 : Css.Style
 neg_translate_x_96 =
@@ -36648,7 +36648,7 @@ neg_translate_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_full : Css.Style
 neg_translate_x_full =
@@ -36659,7 +36659,7 @@ neg_translate_x_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_x_px : Css.Style
 neg_translate_x_px =
@@ -36670,7 +36670,7 @@ neg_translate_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_0 : Css.Style
 neg_translate_y_0 =
@@ -36681,7 +36681,7 @@ neg_translate_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_0_dot_5 : Css.Style
 neg_translate_y_0_dot_5 =
@@ -36692,7 +36692,7 @@ neg_translate_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_1 : Css.Style
 neg_translate_y_1 =
@@ -36703,7 +36703,7 @@ neg_translate_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_10 : Css.Style
 neg_translate_y_10 =
@@ -36714,7 +36714,7 @@ neg_translate_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_11 : Css.Style
 neg_translate_y_11 =
@@ -36725,7 +36725,7 @@ neg_translate_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_12 : Css.Style
 neg_translate_y_12 =
@@ -36736,7 +36736,7 @@ neg_translate_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_14 : Css.Style
 neg_translate_y_14 =
@@ -36747,7 +36747,7 @@ neg_translate_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_16 : Css.Style
 neg_translate_y_16 =
@@ -36758,7 +36758,7 @@ neg_translate_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_1_dot_5 : Css.Style
 neg_translate_y_1_dot_5 =
@@ -36769,7 +36769,7 @@ neg_translate_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_1over2 : Css.Style
 neg_translate_y_1over2 =
@@ -36780,7 +36780,7 @@ neg_translate_y_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_1over3 : Css.Style
 neg_translate_y_1over3 =
@@ -36791,7 +36791,7 @@ neg_translate_y_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_1over4 : Css.Style
 neg_translate_y_1over4 =
@@ -36802,7 +36802,7 @@ neg_translate_y_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_2 : Css.Style
 neg_translate_y_2 =
@@ -36813,7 +36813,7 @@ neg_translate_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_20 : Css.Style
 neg_translate_y_20 =
@@ -36824,7 +36824,7 @@ neg_translate_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_24 : Css.Style
 neg_translate_y_24 =
@@ -36835,7 +36835,7 @@ neg_translate_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_28 : Css.Style
 neg_translate_y_28 =
@@ -36846,7 +36846,7 @@ neg_translate_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_2_dot_5 : Css.Style
 neg_translate_y_2_dot_5 =
@@ -36857,7 +36857,7 @@ neg_translate_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_2over3 : Css.Style
 neg_translate_y_2over3 =
@@ -36868,7 +36868,7 @@ neg_translate_y_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_2over4 : Css.Style
 neg_translate_y_2over4 =
@@ -36879,7 +36879,7 @@ neg_translate_y_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_3 : Css.Style
 neg_translate_y_3 =
@@ -36890,7 +36890,7 @@ neg_translate_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_32 : Css.Style
 neg_translate_y_32 =
@@ -36901,7 +36901,7 @@ neg_translate_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_36 : Css.Style
 neg_translate_y_36 =
@@ -36912,7 +36912,7 @@ neg_translate_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_3_dot_5 : Css.Style
 neg_translate_y_3_dot_5 =
@@ -36923,7 +36923,7 @@ neg_translate_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_3over4 : Css.Style
 neg_translate_y_3over4 =
@@ -36934,7 +36934,7 @@ neg_translate_y_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_4 : Css.Style
 neg_translate_y_4 =
@@ -36945,7 +36945,7 @@ neg_translate_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_40 : Css.Style
 neg_translate_y_40 =
@@ -36956,7 +36956,7 @@ neg_translate_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_44 : Css.Style
 neg_translate_y_44 =
@@ -36967,7 +36967,7 @@ neg_translate_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_48 : Css.Style
 neg_translate_y_48 =
@@ -36978,7 +36978,7 @@ neg_translate_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_5 : Css.Style
 neg_translate_y_5 =
@@ -36989,7 +36989,7 @@ neg_translate_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_52 : Css.Style
 neg_translate_y_52 =
@@ -37000,7 +37000,7 @@ neg_translate_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_56 : Css.Style
 neg_translate_y_56 =
@@ -37011,7 +37011,7 @@ neg_translate_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_6 : Css.Style
 neg_translate_y_6 =
@@ -37022,7 +37022,7 @@ neg_translate_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_60 : Css.Style
 neg_translate_y_60 =
@@ -37033,7 +37033,7 @@ neg_translate_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_64 : Css.Style
 neg_translate_y_64 =
@@ -37044,7 +37044,7 @@ neg_translate_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_7 : Css.Style
 neg_translate_y_7 =
@@ -37055,7 +37055,7 @@ neg_translate_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_72 : Css.Style
 neg_translate_y_72 =
@@ -37066,7 +37066,7 @@ neg_translate_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_8 : Css.Style
 neg_translate_y_8 =
@@ -37077,7 +37077,7 @@ neg_translate_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_80 : Css.Style
 neg_translate_y_80 =
@@ -37088,7 +37088,7 @@ neg_translate_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_9 : Css.Style
 neg_translate_y_9 =
@@ -37099,7 +37099,7 @@ neg_translate_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_96 : Css.Style
 neg_translate_y_96 =
@@ -37110,7 +37110,7 @@ neg_translate_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_full : Css.Style
 neg_translate_y_full =
@@ -37121,7 +37121,7 @@ neg_translate_y_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 neg_translate_y_px : Css.Style
 neg_translate_y_px =
@@ -37132,7 +37132,7 @@ neg_translate_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 no_underline : Css.Style
 no_underline =
@@ -37143,7 +37143,7 @@ no_underline =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 normal_case : Css.Style
 normal_case =
@@ -37154,7 +37154,7 @@ normal_case =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 normal_nums : Css.Style
 normal_nums =
@@ -37165,7 +37165,7 @@ normal_nums =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 not_italic : Css.Style
 not_italic =
@@ -37176,7 +37176,7 @@ not_italic =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 not_sr_only : Css.Style
 not_sr_only =
@@ -37196,7 +37196,7 @@ not_sr_only =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_bottom : Css.Style
 object_bottom =
@@ -37210,7 +37210,7 @@ object_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_center : Css.Style
 object_center =
@@ -37224,7 +37224,7 @@ object_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_contain : Css.Style
 object_contain =
@@ -37238,7 +37238,7 @@ object_contain =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_cover : Css.Style
 object_cover =
@@ -37252,7 +37252,7 @@ object_cover =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_fill : Css.Style
 object_fill =
@@ -37266,7 +37266,7 @@ object_fill =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_left : Css.Style
 object_left =
@@ -37280,7 +37280,7 @@ object_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_left_bottom : Css.Style
 object_left_bottom =
@@ -37294,7 +37294,7 @@ object_left_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_left_top : Css.Style
 object_left_top =
@@ -37308,7 +37308,7 @@ object_left_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_none : Css.Style
 object_none =
@@ -37322,7 +37322,7 @@ object_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_right : Css.Style
 object_right =
@@ -37336,7 +37336,7 @@ object_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_right_bottom : Css.Style
 object_right_bottom =
@@ -37350,7 +37350,7 @@ object_right_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_right_top : Css.Style
 object_right_top =
@@ -37364,7 +37364,7 @@ object_right_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_scale_down : Css.Style
 object_scale_down =
@@ -37378,7 +37378,7 @@ object_scale_down =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 object_top : Css.Style
 object_top =
@@ -37392,7 +37392,7 @@ object_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 oldstyle_nums : Css.Style
 oldstyle_nums =
@@ -37411,7 +37411,7 @@ oldstyle_nums =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_0 : Css.Style
 opacity_0 =
@@ -37422,7 +37422,7 @@ opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_10 : Css.Style
 opacity_10 =
@@ -37433,7 +37433,7 @@ opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_100 : Css.Style
 opacity_100 =
@@ -37444,7 +37444,7 @@ opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_20 : Css.Style
 opacity_20 =
@@ -37455,7 +37455,7 @@ opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_25 : Css.Style
 opacity_25 =
@@ -37466,7 +37466,7 @@ opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_30 : Css.Style
 opacity_30 =
@@ -37477,7 +37477,7 @@ opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_40 : Css.Style
 opacity_40 =
@@ -37488,7 +37488,7 @@ opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_5 : Css.Style
 opacity_5 =
@@ -37499,7 +37499,7 @@ opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_50 : Css.Style
 opacity_50 =
@@ -37510,7 +37510,7 @@ opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_60 : Css.Style
 opacity_60 =
@@ -37521,7 +37521,7 @@ opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_70 : Css.Style
 opacity_70 =
@@ -37532,7 +37532,7 @@ opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_75 : Css.Style
 opacity_75 =
@@ -37543,7 +37543,7 @@ opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_80 : Css.Style
 opacity_80 =
@@ -37554,7 +37554,7 @@ opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_90 : Css.Style
 opacity_90 =
@@ -37565,7 +37565,7 @@ opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 opacity_95 : Css.Style
 opacity_95 =
@@ -37576,7 +37576,7 @@ opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_1 : Css.Style
 order_1 =
@@ -37587,7 +37587,7 @@ order_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_10 : Css.Style
 order_10 =
@@ -37598,7 +37598,7 @@ order_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_11 : Css.Style
 order_11 =
@@ -37609,7 +37609,7 @@ order_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_12 : Css.Style
 order_12 =
@@ -37620,7 +37620,7 @@ order_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_2 : Css.Style
 order_2 =
@@ -37631,7 +37631,7 @@ order_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_3 : Css.Style
 order_3 =
@@ -37642,7 +37642,7 @@ order_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_4 : Css.Style
 order_4 =
@@ -37653,7 +37653,7 @@ order_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_5 : Css.Style
 order_5 =
@@ -37664,7 +37664,7 @@ order_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_6 : Css.Style
 order_6 =
@@ -37675,7 +37675,7 @@ order_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_7 : Css.Style
 order_7 =
@@ -37686,7 +37686,7 @@ order_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_8 : Css.Style
 order_8 =
@@ -37697,7 +37697,7 @@ order_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_9 : Css.Style
 order_9 =
@@ -37708,7 +37708,7 @@ order_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_first : Css.Style
 order_first =
@@ -37719,7 +37719,7 @@ order_first =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_last : Css.Style
 order_last =
@@ -37730,7 +37730,7 @@ order_last =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 order_none : Css.Style
 order_none =
@@ -37741,7 +37741,7 @@ order_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ordinal : Css.Style
 ordinal =
@@ -37760,7 +37760,7 @@ ordinal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_bottom : Css.Style
 origin_bottom =
@@ -37771,7 +37771,7 @@ origin_bottom =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_bottom_left : Css.Style
 origin_bottom_left =
@@ -37782,7 +37782,7 @@ origin_bottom_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_bottom_right : Css.Style
 origin_bottom_right =
@@ -37793,7 +37793,7 @@ origin_bottom_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_center : Css.Style
 origin_center =
@@ -37804,7 +37804,7 @@ origin_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_left : Css.Style
 origin_left =
@@ -37815,7 +37815,7 @@ origin_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_right : Css.Style
 origin_right =
@@ -37826,7 +37826,7 @@ origin_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_top : Css.Style
 origin_top =
@@ -37837,7 +37837,7 @@ origin_top =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_top_left : Css.Style
 origin_top_left =
@@ -37848,7 +37848,7 @@ origin_top_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 origin_top_right : Css.Style
 origin_top_right =
@@ -37859,7 +37859,7 @@ origin_top_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 outline_black : Css.Style
 outline_black =
@@ -37873,7 +37873,7 @@ outline_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 outline_none : Css.Style
 outline_none =
@@ -37887,7 +37887,7 @@ outline_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 outline_white : Css.Style
 outline_white =
@@ -37901,7 +37901,7 @@ outline_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_auto : Css.Style
 overflow_auto =
@@ -37912,7 +37912,7 @@ overflow_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_clip : Css.Style
 overflow_clip =
@@ -37923,7 +37923,7 @@ overflow_clip =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_ellipsis : Css.Style
 overflow_ellipsis =
@@ -37934,7 +37934,7 @@ overflow_ellipsis =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_hidden : Css.Style
 overflow_hidden =
@@ -37945,7 +37945,7 @@ overflow_hidden =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_scroll : Css.Style
 overflow_scroll =
@@ -37956,7 +37956,7 @@ overflow_scroll =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_visible : Css.Style
 overflow_visible =
@@ -37967,7 +37967,7 @@ overflow_visible =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_x_auto : Css.Style
 overflow_x_auto =
@@ -37978,7 +37978,7 @@ overflow_x_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_x_hidden : Css.Style
 overflow_x_hidden =
@@ -37989,7 +37989,7 @@ overflow_x_hidden =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_x_scroll : Css.Style
 overflow_x_scroll =
@@ -38000,7 +38000,7 @@ overflow_x_scroll =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_x_visible : Css.Style
 overflow_x_visible =
@@ -38011,7 +38011,7 @@ overflow_x_visible =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_y_auto : Css.Style
 overflow_y_auto =
@@ -38022,7 +38022,7 @@ overflow_y_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_y_hidden : Css.Style
 overflow_y_hidden =
@@ -38033,7 +38033,7 @@ overflow_y_hidden =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_y_scroll : Css.Style
 overflow_y_scroll =
@@ -38044,7 +38044,7 @@ overflow_y_scroll =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overflow_y_visible : Css.Style
 overflow_y_visible =
@@ -38055,7 +38055,7 @@ overflow_y_visible =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_auto : Css.Style
 overscroll_auto =
@@ -38069,7 +38069,7 @@ overscroll_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_contain : Css.Style
 overscroll_contain =
@@ -38083,7 +38083,7 @@ overscroll_contain =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_none : Css.Style
 overscroll_none =
@@ -38097,7 +38097,7 @@ overscroll_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_x_auto : Css.Style
 overscroll_x_auto =
@@ -38108,7 +38108,7 @@ overscroll_x_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_x_contain : Css.Style
 overscroll_x_contain =
@@ -38119,7 +38119,7 @@ overscroll_x_contain =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_x_none : Css.Style
 overscroll_x_none =
@@ -38130,7 +38130,7 @@ overscroll_x_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_y_auto : Css.Style
 overscroll_y_auto =
@@ -38141,7 +38141,7 @@ overscroll_y_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_y_contain : Css.Style
 overscroll_y_contain =
@@ -38152,7 +38152,7 @@ overscroll_y_contain =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 overscroll_y_none : Css.Style
 overscroll_y_none =
@@ -38163,7 +38163,7 @@ overscroll_y_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_0 : Css.Style
 p_0 =
@@ -38174,7 +38174,7 @@ p_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_0_dot_5 : Css.Style
 p_0_dot_5 =
@@ -38185,7 +38185,7 @@ p_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_1 : Css.Style
 p_1 =
@@ -38196,7 +38196,7 @@ p_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_10 : Css.Style
 p_10 =
@@ -38207,7 +38207,7 @@ p_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_11 : Css.Style
 p_11 =
@@ -38218,7 +38218,7 @@ p_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_12 : Css.Style
 p_12 =
@@ -38229,7 +38229,7 @@ p_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_14 : Css.Style
 p_14 =
@@ -38240,7 +38240,7 @@ p_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_16 : Css.Style
 p_16 =
@@ -38251,7 +38251,7 @@ p_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_1_dot_5 : Css.Style
 p_1_dot_5 =
@@ -38262,7 +38262,7 @@ p_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_2 : Css.Style
 p_2 =
@@ -38273,7 +38273,7 @@ p_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_20 : Css.Style
 p_20 =
@@ -38284,7 +38284,7 @@ p_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_24 : Css.Style
 p_24 =
@@ -38295,7 +38295,7 @@ p_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_28 : Css.Style
 p_28 =
@@ -38306,7 +38306,7 @@ p_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_2_dot_5 : Css.Style
 p_2_dot_5 =
@@ -38317,7 +38317,7 @@ p_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_3 : Css.Style
 p_3 =
@@ -38328,7 +38328,7 @@ p_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_32 : Css.Style
 p_32 =
@@ -38339,7 +38339,7 @@ p_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_36 : Css.Style
 p_36 =
@@ -38350,7 +38350,7 @@ p_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_3_dot_5 : Css.Style
 p_3_dot_5 =
@@ -38361,7 +38361,7 @@ p_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_4 : Css.Style
 p_4 =
@@ -38372,7 +38372,7 @@ p_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_40 : Css.Style
 p_40 =
@@ -38383,7 +38383,7 @@ p_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_44 : Css.Style
 p_44 =
@@ -38394,7 +38394,7 @@ p_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_48 : Css.Style
 p_48 =
@@ -38405,7 +38405,7 @@ p_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_5 : Css.Style
 p_5 =
@@ -38416,7 +38416,7 @@ p_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_52 : Css.Style
 p_52 =
@@ -38427,7 +38427,7 @@ p_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_56 : Css.Style
 p_56 =
@@ -38438,7 +38438,7 @@ p_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_6 : Css.Style
 p_6 =
@@ -38449,7 +38449,7 @@ p_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_60 : Css.Style
 p_60 =
@@ -38460,7 +38460,7 @@ p_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_64 : Css.Style
 p_64 =
@@ -38471,7 +38471,7 @@ p_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_7 : Css.Style
 p_7 =
@@ -38482,7 +38482,7 @@ p_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_72 : Css.Style
 p_72 =
@@ -38493,7 +38493,7 @@ p_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_8 : Css.Style
 p_8 =
@@ -38504,7 +38504,7 @@ p_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_80 : Css.Style
 p_80 =
@@ -38515,7 +38515,7 @@ p_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_9 : Css.Style
 p_9 =
@@ -38526,7 +38526,7 @@ p_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_96 : Css.Style
 p_96 =
@@ -38537,7 +38537,7 @@ p_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 p_px : Css.Style
 p_px =
@@ -38548,7 +38548,7 @@ p_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_0 : Css.Style
 pb_0 =
@@ -38559,7 +38559,7 @@ pb_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_0_dot_5 : Css.Style
 pb_0_dot_5 =
@@ -38570,7 +38570,7 @@ pb_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_1 : Css.Style
 pb_1 =
@@ -38581,7 +38581,7 @@ pb_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_10 : Css.Style
 pb_10 =
@@ -38592,7 +38592,7 @@ pb_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_11 : Css.Style
 pb_11 =
@@ -38603,7 +38603,7 @@ pb_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_12 : Css.Style
 pb_12 =
@@ -38614,7 +38614,7 @@ pb_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_14 : Css.Style
 pb_14 =
@@ -38625,7 +38625,7 @@ pb_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_16 : Css.Style
 pb_16 =
@@ -38636,7 +38636,7 @@ pb_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_1_dot_5 : Css.Style
 pb_1_dot_5 =
@@ -38647,7 +38647,7 @@ pb_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_2 : Css.Style
 pb_2 =
@@ -38658,7 +38658,7 @@ pb_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_20 : Css.Style
 pb_20 =
@@ -38669,7 +38669,7 @@ pb_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_24 : Css.Style
 pb_24 =
@@ -38680,7 +38680,7 @@ pb_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_28 : Css.Style
 pb_28 =
@@ -38691,7 +38691,7 @@ pb_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_2_dot_5 : Css.Style
 pb_2_dot_5 =
@@ -38702,7 +38702,7 @@ pb_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_3 : Css.Style
 pb_3 =
@@ -38713,7 +38713,7 @@ pb_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_32 : Css.Style
 pb_32 =
@@ -38724,7 +38724,7 @@ pb_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_36 : Css.Style
 pb_36 =
@@ -38735,7 +38735,7 @@ pb_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_3_dot_5 : Css.Style
 pb_3_dot_5 =
@@ -38746,7 +38746,7 @@ pb_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_4 : Css.Style
 pb_4 =
@@ -38757,7 +38757,7 @@ pb_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_40 : Css.Style
 pb_40 =
@@ -38768,7 +38768,7 @@ pb_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_44 : Css.Style
 pb_44 =
@@ -38779,7 +38779,7 @@ pb_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_48 : Css.Style
 pb_48 =
@@ -38790,7 +38790,7 @@ pb_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_5 : Css.Style
 pb_5 =
@@ -38801,7 +38801,7 @@ pb_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_52 : Css.Style
 pb_52 =
@@ -38812,7 +38812,7 @@ pb_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_56 : Css.Style
 pb_56 =
@@ -38823,7 +38823,7 @@ pb_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_6 : Css.Style
 pb_6 =
@@ -38834,7 +38834,7 @@ pb_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_60 : Css.Style
 pb_60 =
@@ -38845,7 +38845,7 @@ pb_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_64 : Css.Style
 pb_64 =
@@ -38856,7 +38856,7 @@ pb_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_7 : Css.Style
 pb_7 =
@@ -38867,7 +38867,7 @@ pb_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_72 : Css.Style
 pb_72 =
@@ -38878,7 +38878,7 @@ pb_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_8 : Css.Style
 pb_8 =
@@ -38889,7 +38889,7 @@ pb_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_80 : Css.Style
 pb_80 =
@@ -38900,7 +38900,7 @@ pb_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_9 : Css.Style
 pb_9 =
@@ -38911,7 +38911,7 @@ pb_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_96 : Css.Style
 pb_96 =
@@ -38922,7 +38922,7 @@ pb_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pb_px : Css.Style
 pb_px =
@@ -38933,7 +38933,7 @@ pb_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_0 : Css.Style
 pl_0 =
@@ -38944,7 +38944,7 @@ pl_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_0_dot_5 : Css.Style
 pl_0_dot_5 =
@@ -38955,7 +38955,7 @@ pl_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_1 : Css.Style
 pl_1 =
@@ -38966,7 +38966,7 @@ pl_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_10 : Css.Style
 pl_10 =
@@ -38977,7 +38977,7 @@ pl_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_11 : Css.Style
 pl_11 =
@@ -38988,7 +38988,7 @@ pl_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_12 : Css.Style
 pl_12 =
@@ -38999,7 +38999,7 @@ pl_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_14 : Css.Style
 pl_14 =
@@ -39010,7 +39010,7 @@ pl_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_16 : Css.Style
 pl_16 =
@@ -39021,7 +39021,7 @@ pl_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_1_dot_5 : Css.Style
 pl_1_dot_5 =
@@ -39032,7 +39032,7 @@ pl_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_2 : Css.Style
 pl_2 =
@@ -39043,7 +39043,7 @@ pl_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_20 : Css.Style
 pl_20 =
@@ -39054,7 +39054,7 @@ pl_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_24 : Css.Style
 pl_24 =
@@ -39065,7 +39065,7 @@ pl_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_28 : Css.Style
 pl_28 =
@@ -39076,7 +39076,7 @@ pl_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_2_dot_5 : Css.Style
 pl_2_dot_5 =
@@ -39087,7 +39087,7 @@ pl_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_3 : Css.Style
 pl_3 =
@@ -39098,7 +39098,7 @@ pl_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_32 : Css.Style
 pl_32 =
@@ -39109,7 +39109,7 @@ pl_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_36 : Css.Style
 pl_36 =
@@ -39120,7 +39120,7 @@ pl_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_3_dot_5 : Css.Style
 pl_3_dot_5 =
@@ -39131,7 +39131,7 @@ pl_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_4 : Css.Style
 pl_4 =
@@ -39142,7 +39142,7 @@ pl_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_40 : Css.Style
 pl_40 =
@@ -39153,7 +39153,7 @@ pl_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_44 : Css.Style
 pl_44 =
@@ -39164,7 +39164,7 @@ pl_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_48 : Css.Style
 pl_48 =
@@ -39175,7 +39175,7 @@ pl_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_5 : Css.Style
 pl_5 =
@@ -39186,7 +39186,7 @@ pl_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_52 : Css.Style
 pl_52 =
@@ -39197,7 +39197,7 @@ pl_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_56 : Css.Style
 pl_56 =
@@ -39208,7 +39208,7 @@ pl_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_6 : Css.Style
 pl_6 =
@@ -39219,7 +39219,7 @@ pl_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_60 : Css.Style
 pl_60 =
@@ -39230,7 +39230,7 @@ pl_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_64 : Css.Style
 pl_64 =
@@ -39241,7 +39241,7 @@ pl_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_7 : Css.Style
 pl_7 =
@@ -39252,7 +39252,7 @@ pl_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_72 : Css.Style
 pl_72 =
@@ -39263,7 +39263,7 @@ pl_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_8 : Css.Style
 pl_8 =
@@ -39274,7 +39274,7 @@ pl_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_80 : Css.Style
 pl_80 =
@@ -39285,7 +39285,7 @@ pl_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_9 : Css.Style
 pl_9 =
@@ -39296,7 +39296,7 @@ pl_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_96 : Css.Style
 pl_96 =
@@ -39307,7 +39307,7 @@ pl_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pl_px : Css.Style
 pl_px =
@@ -39318,7 +39318,7 @@ pl_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_around : Css.Style
 place_content_around =
@@ -39329,7 +39329,7 @@ place_content_around =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_between : Css.Style
 place_content_between =
@@ -39340,7 +39340,7 @@ place_content_between =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_center : Css.Style
 place_content_center =
@@ -39351,7 +39351,7 @@ place_content_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_end : Css.Style
 place_content_end =
@@ -39362,7 +39362,7 @@ place_content_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_evenly : Css.Style
 place_content_evenly =
@@ -39373,7 +39373,7 @@ place_content_evenly =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_start : Css.Style
 place_content_start =
@@ -39384,7 +39384,7 @@ place_content_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_content_stretch : Css.Style
 place_content_stretch =
@@ -39395,7 +39395,7 @@ place_content_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_items_center : Css.Style
 place_items_center =
@@ -39406,7 +39406,7 @@ place_items_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_items_end : Css.Style
 place_items_end =
@@ -39417,7 +39417,7 @@ place_items_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_items_start : Css.Style
 place_items_start =
@@ -39428,7 +39428,7 @@ place_items_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_items_stretch : Css.Style
 place_items_stretch =
@@ -39439,7 +39439,7 @@ place_items_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_self_auto : Css.Style
 place_self_auto =
@@ -39450,7 +39450,7 @@ place_self_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_self_center : Css.Style
 place_self_center =
@@ -39461,7 +39461,7 @@ place_self_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_self_end : Css.Style
 place_self_end =
@@ -39472,7 +39472,7 @@ place_self_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_self_start : Css.Style
 place_self_start =
@@ -39483,7 +39483,7 @@ place_self_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 place_self_stretch : Css.Style
 place_self_stretch =
@@ -39494,7 +39494,7 @@ place_self_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_black : Css.Style
 placeholder_black =
@@ -39518,7 +39518,7 @@ placeholder_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_100 : Css.Style
 placeholder_blue_100 =
@@ -39542,7 +39542,7 @@ placeholder_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_200 : Css.Style
 placeholder_blue_200 =
@@ -39566,7 +39566,7 @@ placeholder_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_300 : Css.Style
 placeholder_blue_300 =
@@ -39590,7 +39590,7 @@ placeholder_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_400 : Css.Style
 placeholder_blue_400 =
@@ -39614,7 +39614,7 @@ placeholder_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_50 : Css.Style
 placeholder_blue_50 =
@@ -39638,7 +39638,7 @@ placeholder_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_500 : Css.Style
 placeholder_blue_500 =
@@ -39662,7 +39662,7 @@ placeholder_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_600 : Css.Style
 placeholder_blue_600 =
@@ -39686,7 +39686,7 @@ placeholder_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_700 : Css.Style
 placeholder_blue_700 =
@@ -39710,7 +39710,7 @@ placeholder_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_800 : Css.Style
 placeholder_blue_800 =
@@ -39734,7 +39734,7 @@ placeholder_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_blue_900 : Css.Style
 placeholder_blue_900 =
@@ -39758,7 +39758,7 @@ placeholder_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_current : Css.Style
 placeholder_current =
@@ -39779,7 +39779,7 @@ placeholder_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_100 : Css.Style
 placeholder_gray_100 =
@@ -39803,7 +39803,7 @@ placeholder_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_200 : Css.Style
 placeholder_gray_200 =
@@ -39827,7 +39827,7 @@ placeholder_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_300 : Css.Style
 placeholder_gray_300 =
@@ -39851,7 +39851,7 @@ placeholder_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_400 : Css.Style
 placeholder_gray_400 =
@@ -39875,7 +39875,7 @@ placeholder_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_50 : Css.Style
 placeholder_gray_50 =
@@ -39899,7 +39899,7 @@ placeholder_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_500 : Css.Style
 placeholder_gray_500 =
@@ -39923,7 +39923,7 @@ placeholder_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_600 : Css.Style
 placeholder_gray_600 =
@@ -39947,7 +39947,7 @@ placeholder_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_700 : Css.Style
 placeholder_gray_700 =
@@ -39971,7 +39971,7 @@ placeholder_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_800 : Css.Style
 placeholder_gray_800 =
@@ -39995,7 +39995,7 @@ placeholder_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_gray_900 : Css.Style
 placeholder_gray_900 =
@@ -40019,7 +40019,7 @@ placeholder_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_100 : Css.Style
 placeholder_green_100 =
@@ -40043,7 +40043,7 @@ placeholder_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_200 : Css.Style
 placeholder_green_200 =
@@ -40067,7 +40067,7 @@ placeholder_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_300 : Css.Style
 placeholder_green_300 =
@@ -40091,7 +40091,7 @@ placeholder_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_400 : Css.Style
 placeholder_green_400 =
@@ -40115,7 +40115,7 @@ placeholder_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_50 : Css.Style
 placeholder_green_50 =
@@ -40139,7 +40139,7 @@ placeholder_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_500 : Css.Style
 placeholder_green_500 =
@@ -40163,7 +40163,7 @@ placeholder_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_600 : Css.Style
 placeholder_green_600 =
@@ -40187,7 +40187,7 @@ placeholder_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_700 : Css.Style
 placeholder_green_700 =
@@ -40211,7 +40211,7 @@ placeholder_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_800 : Css.Style
 placeholder_green_800 =
@@ -40235,7 +40235,7 @@ placeholder_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_green_900 : Css.Style
 placeholder_green_900 =
@@ -40259,7 +40259,7 @@ placeholder_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_100 : Css.Style
 placeholder_indigo_100 =
@@ -40283,7 +40283,7 @@ placeholder_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_200 : Css.Style
 placeholder_indigo_200 =
@@ -40307,7 +40307,7 @@ placeholder_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_300 : Css.Style
 placeholder_indigo_300 =
@@ -40331,7 +40331,7 @@ placeholder_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_400 : Css.Style
 placeholder_indigo_400 =
@@ -40355,7 +40355,7 @@ placeholder_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_50 : Css.Style
 placeholder_indigo_50 =
@@ -40379,7 +40379,7 @@ placeholder_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_500 : Css.Style
 placeholder_indigo_500 =
@@ -40403,7 +40403,7 @@ placeholder_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_600 : Css.Style
 placeholder_indigo_600 =
@@ -40427,7 +40427,7 @@ placeholder_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_700 : Css.Style
 placeholder_indigo_700 =
@@ -40451,7 +40451,7 @@ placeholder_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_800 : Css.Style
 placeholder_indigo_800 =
@@ -40475,7 +40475,7 @@ placeholder_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_indigo_900 : Css.Style
 placeholder_indigo_900 =
@@ -40499,7 +40499,7 @@ placeholder_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_0 : Css.Style
 placeholder_opacity_0 =
@@ -40520,7 +40520,7 @@ placeholder_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_10 : Css.Style
 placeholder_opacity_10 =
@@ -40541,7 +40541,7 @@ placeholder_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_100 : Css.Style
 placeholder_opacity_100 =
@@ -40562,7 +40562,7 @@ placeholder_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_20 : Css.Style
 placeholder_opacity_20 =
@@ -40583,7 +40583,7 @@ placeholder_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_25 : Css.Style
 placeholder_opacity_25 =
@@ -40604,7 +40604,7 @@ placeholder_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_30 : Css.Style
 placeholder_opacity_30 =
@@ -40625,7 +40625,7 @@ placeholder_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_40 : Css.Style
 placeholder_opacity_40 =
@@ -40646,7 +40646,7 @@ placeholder_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_5 : Css.Style
 placeholder_opacity_5 =
@@ -40667,7 +40667,7 @@ placeholder_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_50 : Css.Style
 placeholder_opacity_50 =
@@ -40688,7 +40688,7 @@ placeholder_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_60 : Css.Style
 placeholder_opacity_60 =
@@ -40709,7 +40709,7 @@ placeholder_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_70 : Css.Style
 placeholder_opacity_70 =
@@ -40730,7 +40730,7 @@ placeholder_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_75 : Css.Style
 placeholder_opacity_75 =
@@ -40751,7 +40751,7 @@ placeholder_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_80 : Css.Style
 placeholder_opacity_80 =
@@ -40772,7 +40772,7 @@ placeholder_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_90 : Css.Style
 placeholder_opacity_90 =
@@ -40793,7 +40793,7 @@ placeholder_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_opacity_95 : Css.Style
 placeholder_opacity_95 =
@@ -40814,7 +40814,7 @@ placeholder_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_100 : Css.Style
 placeholder_pink_100 =
@@ -40838,7 +40838,7 @@ placeholder_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_200 : Css.Style
 placeholder_pink_200 =
@@ -40862,7 +40862,7 @@ placeholder_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_300 : Css.Style
 placeholder_pink_300 =
@@ -40886,7 +40886,7 @@ placeholder_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_400 : Css.Style
 placeholder_pink_400 =
@@ -40910,7 +40910,7 @@ placeholder_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_50 : Css.Style
 placeholder_pink_50 =
@@ -40934,7 +40934,7 @@ placeholder_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_500 : Css.Style
 placeholder_pink_500 =
@@ -40958,7 +40958,7 @@ placeholder_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_600 : Css.Style
 placeholder_pink_600 =
@@ -40982,7 +40982,7 @@ placeholder_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_700 : Css.Style
 placeholder_pink_700 =
@@ -41006,7 +41006,7 @@ placeholder_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_800 : Css.Style
 placeholder_pink_800 =
@@ -41030,7 +41030,7 @@ placeholder_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_pink_900 : Css.Style
 placeholder_pink_900 =
@@ -41054,7 +41054,7 @@ placeholder_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_100 : Css.Style
 placeholder_purple_100 =
@@ -41078,7 +41078,7 @@ placeholder_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_200 : Css.Style
 placeholder_purple_200 =
@@ -41102,7 +41102,7 @@ placeholder_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_300 : Css.Style
 placeholder_purple_300 =
@@ -41126,7 +41126,7 @@ placeholder_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_400 : Css.Style
 placeholder_purple_400 =
@@ -41150,7 +41150,7 @@ placeholder_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_50 : Css.Style
 placeholder_purple_50 =
@@ -41174,7 +41174,7 @@ placeholder_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_500 : Css.Style
 placeholder_purple_500 =
@@ -41198,7 +41198,7 @@ placeholder_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_600 : Css.Style
 placeholder_purple_600 =
@@ -41222,7 +41222,7 @@ placeholder_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_700 : Css.Style
 placeholder_purple_700 =
@@ -41246,7 +41246,7 @@ placeholder_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_800 : Css.Style
 placeholder_purple_800 =
@@ -41270,7 +41270,7 @@ placeholder_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_purple_900 : Css.Style
 placeholder_purple_900 =
@@ -41294,7 +41294,7 @@ placeholder_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_100 : Css.Style
 placeholder_red_100 =
@@ -41318,7 +41318,7 @@ placeholder_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_200 : Css.Style
 placeholder_red_200 =
@@ -41342,7 +41342,7 @@ placeholder_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_300 : Css.Style
 placeholder_red_300 =
@@ -41366,7 +41366,7 @@ placeholder_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_400 : Css.Style
 placeholder_red_400 =
@@ -41390,7 +41390,7 @@ placeholder_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_50 : Css.Style
 placeholder_red_50 =
@@ -41414,7 +41414,7 @@ placeholder_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_500 : Css.Style
 placeholder_red_500 =
@@ -41438,7 +41438,7 @@ placeholder_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_600 : Css.Style
 placeholder_red_600 =
@@ -41462,7 +41462,7 @@ placeholder_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_700 : Css.Style
 placeholder_red_700 =
@@ -41486,7 +41486,7 @@ placeholder_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_800 : Css.Style
 placeholder_red_800 =
@@ -41510,7 +41510,7 @@ placeholder_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_red_900 : Css.Style
 placeholder_red_900 =
@@ -41534,7 +41534,7 @@ placeholder_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_transparent : Css.Style
 placeholder_transparent =
@@ -41555,7 +41555,7 @@ placeholder_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_white : Css.Style
 placeholder_white =
@@ -41579,7 +41579,7 @@ placeholder_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_100 : Css.Style
 placeholder_yellow_100 =
@@ -41603,7 +41603,7 @@ placeholder_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_200 : Css.Style
 placeholder_yellow_200 =
@@ -41627,7 +41627,7 @@ placeholder_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_300 : Css.Style
 placeholder_yellow_300 =
@@ -41651,7 +41651,7 @@ placeholder_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_400 : Css.Style
 placeholder_yellow_400 =
@@ -41675,7 +41675,7 @@ placeholder_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_50 : Css.Style
 placeholder_yellow_50 =
@@ -41699,7 +41699,7 @@ placeholder_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_500 : Css.Style
 placeholder_yellow_500 =
@@ -41723,7 +41723,7 @@ placeholder_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_600 : Css.Style
 placeholder_yellow_600 =
@@ -41747,7 +41747,7 @@ placeholder_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_700 : Css.Style
 placeholder_yellow_700 =
@@ -41771,7 +41771,7 @@ placeholder_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_800 : Css.Style
 placeholder_yellow_800 =
@@ -41795,7 +41795,7 @@ placeholder_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 placeholder_yellow_900 : Css.Style
 placeholder_yellow_900 =
@@ -41819,7 +41819,7 @@ placeholder_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pointer_events_auto : Css.Style
 pointer_events_auto =
@@ -41830,7 +41830,7 @@ pointer_events_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pointer_events_none : Css.Style
 pointer_events_none =
@@ -41841,7 +41841,7 @@ pointer_events_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_0 : Css.Style
 pr_0 =
@@ -41852,7 +41852,7 @@ pr_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_0_dot_5 : Css.Style
 pr_0_dot_5 =
@@ -41863,7 +41863,7 @@ pr_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_1 : Css.Style
 pr_1 =
@@ -41874,7 +41874,7 @@ pr_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_10 : Css.Style
 pr_10 =
@@ -41885,7 +41885,7 @@ pr_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_11 : Css.Style
 pr_11 =
@@ -41896,7 +41896,7 @@ pr_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_12 : Css.Style
 pr_12 =
@@ -41907,7 +41907,7 @@ pr_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_14 : Css.Style
 pr_14 =
@@ -41918,7 +41918,7 @@ pr_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_16 : Css.Style
 pr_16 =
@@ -41929,7 +41929,7 @@ pr_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_1_dot_5 : Css.Style
 pr_1_dot_5 =
@@ -41940,7 +41940,7 @@ pr_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_2 : Css.Style
 pr_2 =
@@ -41951,7 +41951,7 @@ pr_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_20 : Css.Style
 pr_20 =
@@ -41962,7 +41962,7 @@ pr_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_24 : Css.Style
 pr_24 =
@@ -41973,7 +41973,7 @@ pr_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_28 : Css.Style
 pr_28 =
@@ -41984,7 +41984,7 @@ pr_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_2_dot_5 : Css.Style
 pr_2_dot_5 =
@@ -41995,7 +41995,7 @@ pr_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_3 : Css.Style
 pr_3 =
@@ -42006,7 +42006,7 @@ pr_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_32 : Css.Style
 pr_32 =
@@ -42017,7 +42017,7 @@ pr_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_36 : Css.Style
 pr_36 =
@@ -42028,7 +42028,7 @@ pr_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_3_dot_5 : Css.Style
 pr_3_dot_5 =
@@ -42039,7 +42039,7 @@ pr_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_4 : Css.Style
 pr_4 =
@@ -42050,7 +42050,7 @@ pr_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_40 : Css.Style
 pr_40 =
@@ -42061,7 +42061,7 @@ pr_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_44 : Css.Style
 pr_44 =
@@ -42072,7 +42072,7 @@ pr_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_48 : Css.Style
 pr_48 =
@@ -42083,7 +42083,7 @@ pr_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_5 : Css.Style
 pr_5 =
@@ -42094,7 +42094,7 @@ pr_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_52 : Css.Style
 pr_52 =
@@ -42105,7 +42105,7 @@ pr_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_56 : Css.Style
 pr_56 =
@@ -42116,7 +42116,7 @@ pr_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_6 : Css.Style
 pr_6 =
@@ -42127,7 +42127,7 @@ pr_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_60 : Css.Style
 pr_60 =
@@ -42138,7 +42138,7 @@ pr_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_64 : Css.Style
 pr_64 =
@@ -42149,7 +42149,7 @@ pr_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_7 : Css.Style
 pr_7 =
@@ -42160,7 +42160,7 @@ pr_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_72 : Css.Style
 pr_72 =
@@ -42171,7 +42171,7 @@ pr_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_8 : Css.Style
 pr_8 =
@@ -42182,7 +42182,7 @@ pr_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_80 : Css.Style
 pr_80 =
@@ -42193,7 +42193,7 @@ pr_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_9 : Css.Style
 pr_9 =
@@ -42204,7 +42204,7 @@ pr_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_96 : Css.Style
 pr_96 =
@@ -42215,7 +42215,7 @@ pr_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pr_px : Css.Style
 pr_px =
@@ -42226,7 +42226,7 @@ pr_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 proportional_nums : Css.Style
 proportional_nums =
@@ -42245,7 +42245,7 @@ proportional_nums =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose : Css.Style
 prose =
@@ -42705,7 +42705,7 @@ prose =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_2xl : Css.Style
 prose_2xl =
@@ -42998,7 +42998,7 @@ prose_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_blue : Css.Style
 prose_blue =
@@ -43020,7 +43020,7 @@ prose_blue =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_green : Css.Style
 prose_green =
@@ -43042,7 +43042,7 @@ prose_green =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_indigo : Css.Style
 prose_indigo =
@@ -43064,7 +43064,7 @@ prose_indigo =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_lg : Css.Style
 prose_lg =
@@ -43357,7 +43357,7 @@ prose_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_pink : Css.Style
 prose_pink =
@@ -43379,7 +43379,7 @@ prose_pink =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_purple : Css.Style
 prose_purple =
@@ -43401,7 +43401,7 @@ prose_purple =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_red : Css.Style
 prose_red =
@@ -43423,7 +43423,7 @@ prose_red =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_sm : Css.Style
 prose_sm =
@@ -43716,7 +43716,7 @@ prose_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_xl : Css.Style
 prose_xl =
@@ -44009,7 +44009,7 @@ prose_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 prose_yellow : Css.Style
 prose_yellow =
@@ -44031,7 +44031,7 @@ prose_yellow =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_0 : Css.Style
 pt_0 =
@@ -44042,7 +44042,7 @@ pt_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_0_dot_5 : Css.Style
 pt_0_dot_5 =
@@ -44053,7 +44053,7 @@ pt_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_1 : Css.Style
 pt_1 =
@@ -44064,7 +44064,7 @@ pt_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_10 : Css.Style
 pt_10 =
@@ -44075,7 +44075,7 @@ pt_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_11 : Css.Style
 pt_11 =
@@ -44086,7 +44086,7 @@ pt_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_12 : Css.Style
 pt_12 =
@@ -44097,7 +44097,7 @@ pt_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_14 : Css.Style
 pt_14 =
@@ -44108,7 +44108,7 @@ pt_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_16 : Css.Style
 pt_16 =
@@ -44119,7 +44119,7 @@ pt_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_1_dot_5 : Css.Style
 pt_1_dot_5 =
@@ -44130,7 +44130,7 @@ pt_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_2 : Css.Style
 pt_2 =
@@ -44141,7 +44141,7 @@ pt_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_20 : Css.Style
 pt_20 =
@@ -44152,7 +44152,7 @@ pt_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_24 : Css.Style
 pt_24 =
@@ -44163,7 +44163,7 @@ pt_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_28 : Css.Style
 pt_28 =
@@ -44174,7 +44174,7 @@ pt_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_2_dot_5 : Css.Style
 pt_2_dot_5 =
@@ -44185,7 +44185,7 @@ pt_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_3 : Css.Style
 pt_3 =
@@ -44196,7 +44196,7 @@ pt_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_32 : Css.Style
 pt_32 =
@@ -44207,7 +44207,7 @@ pt_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_36 : Css.Style
 pt_36 =
@@ -44218,7 +44218,7 @@ pt_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_3_dot_5 : Css.Style
 pt_3_dot_5 =
@@ -44229,7 +44229,7 @@ pt_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_4 : Css.Style
 pt_4 =
@@ -44240,7 +44240,7 @@ pt_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_40 : Css.Style
 pt_40 =
@@ -44251,7 +44251,7 @@ pt_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_44 : Css.Style
 pt_44 =
@@ -44262,7 +44262,7 @@ pt_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_48 : Css.Style
 pt_48 =
@@ -44273,7 +44273,7 @@ pt_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_5 : Css.Style
 pt_5 =
@@ -44284,7 +44284,7 @@ pt_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_52 : Css.Style
 pt_52 =
@@ -44295,7 +44295,7 @@ pt_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_56 : Css.Style
 pt_56 =
@@ -44306,7 +44306,7 @@ pt_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_6 : Css.Style
 pt_6 =
@@ -44317,7 +44317,7 @@ pt_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_60 : Css.Style
 pt_60 =
@@ -44328,7 +44328,7 @@ pt_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_64 : Css.Style
 pt_64 =
@@ -44339,7 +44339,7 @@ pt_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_7 : Css.Style
 pt_7 =
@@ -44350,7 +44350,7 @@ pt_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_72 : Css.Style
 pt_72 =
@@ -44361,7 +44361,7 @@ pt_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_8 : Css.Style
 pt_8 =
@@ -44372,7 +44372,7 @@ pt_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_80 : Css.Style
 pt_80 =
@@ -44383,7 +44383,7 @@ pt_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_9 : Css.Style
 pt_9 =
@@ -44394,7 +44394,7 @@ pt_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_96 : Css.Style
 pt_96 =
@@ -44405,7 +44405,7 @@ pt_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 pt_px : Css.Style
 pt_px =
@@ -44416,7 +44416,7 @@ pt_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_0 : Css.Style
 px_0 =
@@ -44430,7 +44430,7 @@ px_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_0_dot_5 : Css.Style
 px_0_dot_5 =
@@ -44444,7 +44444,7 @@ px_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_1 : Css.Style
 px_1 =
@@ -44458,7 +44458,7 @@ px_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_10 : Css.Style
 px_10 =
@@ -44472,7 +44472,7 @@ px_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_11 : Css.Style
 px_11 =
@@ -44486,7 +44486,7 @@ px_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_12 : Css.Style
 px_12 =
@@ -44500,7 +44500,7 @@ px_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_14 : Css.Style
 px_14 =
@@ -44514,7 +44514,7 @@ px_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_16 : Css.Style
 px_16 =
@@ -44528,7 +44528,7 @@ px_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_1_dot_5 : Css.Style
 px_1_dot_5 =
@@ -44542,7 +44542,7 @@ px_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_2 : Css.Style
 px_2 =
@@ -44556,7 +44556,7 @@ px_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_20 : Css.Style
 px_20 =
@@ -44570,7 +44570,7 @@ px_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_24 : Css.Style
 px_24 =
@@ -44584,7 +44584,7 @@ px_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_28 : Css.Style
 px_28 =
@@ -44598,7 +44598,7 @@ px_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_2_dot_5 : Css.Style
 px_2_dot_5 =
@@ -44612,7 +44612,7 @@ px_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_3 : Css.Style
 px_3 =
@@ -44626,7 +44626,7 @@ px_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_32 : Css.Style
 px_32 =
@@ -44640,7 +44640,7 @@ px_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_36 : Css.Style
 px_36 =
@@ -44654,7 +44654,7 @@ px_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_3_dot_5 : Css.Style
 px_3_dot_5 =
@@ -44668,7 +44668,7 @@ px_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_4 : Css.Style
 px_4 =
@@ -44682,7 +44682,7 @@ px_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_40 : Css.Style
 px_40 =
@@ -44696,7 +44696,7 @@ px_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_44 : Css.Style
 px_44 =
@@ -44710,7 +44710,7 @@ px_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_48 : Css.Style
 px_48 =
@@ -44724,7 +44724,7 @@ px_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_5 : Css.Style
 px_5 =
@@ -44738,7 +44738,7 @@ px_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_52 : Css.Style
 px_52 =
@@ -44752,7 +44752,7 @@ px_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_56 : Css.Style
 px_56 =
@@ -44766,7 +44766,7 @@ px_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_6 : Css.Style
 px_6 =
@@ -44780,7 +44780,7 @@ px_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_60 : Css.Style
 px_60 =
@@ -44794,7 +44794,7 @@ px_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_64 : Css.Style
 px_64 =
@@ -44808,7 +44808,7 @@ px_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_7 : Css.Style
 px_7 =
@@ -44822,7 +44822,7 @@ px_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_72 : Css.Style
 px_72 =
@@ -44836,7 +44836,7 @@ px_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_8 : Css.Style
 px_8 =
@@ -44850,7 +44850,7 @@ px_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_80 : Css.Style
 px_80 =
@@ -44864,7 +44864,7 @@ px_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_9 : Css.Style
 px_9 =
@@ -44878,7 +44878,7 @@ px_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_96 : Css.Style
 px_96 =
@@ -44892,7 +44892,7 @@ px_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 px_px : Css.Style
 px_px =
@@ -44906,7 +44906,7 @@ px_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_0 : Css.Style
 py_0 =
@@ -44920,7 +44920,7 @@ py_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_0_dot_5 : Css.Style
 py_0_dot_5 =
@@ -44934,7 +44934,7 @@ py_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_1 : Css.Style
 py_1 =
@@ -44948,7 +44948,7 @@ py_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_10 : Css.Style
 py_10 =
@@ -44962,7 +44962,7 @@ py_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_11 : Css.Style
 py_11 =
@@ -44976,7 +44976,7 @@ py_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_12 : Css.Style
 py_12 =
@@ -44990,7 +44990,7 @@ py_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_14 : Css.Style
 py_14 =
@@ -45004,7 +45004,7 @@ py_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_16 : Css.Style
 py_16 =
@@ -45018,7 +45018,7 @@ py_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_1_dot_5 : Css.Style
 py_1_dot_5 =
@@ -45032,7 +45032,7 @@ py_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_2 : Css.Style
 py_2 =
@@ -45046,7 +45046,7 @@ py_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_20 : Css.Style
 py_20 =
@@ -45060,7 +45060,7 @@ py_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_24 : Css.Style
 py_24 =
@@ -45074,7 +45074,7 @@ py_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_28 : Css.Style
 py_28 =
@@ -45088,7 +45088,7 @@ py_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_2_dot_5 : Css.Style
 py_2_dot_5 =
@@ -45102,7 +45102,7 @@ py_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_3 : Css.Style
 py_3 =
@@ -45116,7 +45116,7 @@ py_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_32 : Css.Style
 py_32 =
@@ -45130,7 +45130,7 @@ py_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_36 : Css.Style
 py_36 =
@@ -45144,7 +45144,7 @@ py_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_3_dot_5 : Css.Style
 py_3_dot_5 =
@@ -45158,7 +45158,7 @@ py_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_4 : Css.Style
 py_4 =
@@ -45172,7 +45172,7 @@ py_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_40 : Css.Style
 py_40 =
@@ -45186,7 +45186,7 @@ py_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_44 : Css.Style
 py_44 =
@@ -45200,7 +45200,7 @@ py_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_48 : Css.Style
 py_48 =
@@ -45214,7 +45214,7 @@ py_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_5 : Css.Style
 py_5 =
@@ -45228,7 +45228,7 @@ py_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_52 : Css.Style
 py_52 =
@@ -45242,7 +45242,7 @@ py_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_56 : Css.Style
 py_56 =
@@ -45256,7 +45256,7 @@ py_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_6 : Css.Style
 py_6 =
@@ -45270,7 +45270,7 @@ py_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_60 : Css.Style
 py_60 =
@@ -45284,7 +45284,7 @@ py_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_64 : Css.Style
 py_64 =
@@ -45298,7 +45298,7 @@ py_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_7 : Css.Style
 py_7 =
@@ -45312,7 +45312,7 @@ py_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_72 : Css.Style
 py_72 =
@@ -45326,7 +45326,7 @@ py_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_8 : Css.Style
 py_8 =
@@ -45340,7 +45340,7 @@ py_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_80 : Css.Style
 py_80 =
@@ -45354,7 +45354,7 @@ py_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_9 : Css.Style
 py_9 =
@@ -45368,7 +45368,7 @@ py_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_96 : Css.Style
 py_96 =
@@ -45382,7 +45382,7 @@ py_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 py_px : Css.Style
 py_px =
@@ -45396,7 +45396,7 @@ py_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 relative : Css.Style
 relative =
@@ -45407,7 +45407,7 @@ relative =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 resize : Css.Style
 resize =
@@ -45418,7 +45418,7 @@ resize =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 resize_none : Css.Style
 resize_none =
@@ -45429,7 +45429,7 @@ resize_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 resize_x : Css.Style
 resize_x =
@@ -45440,7 +45440,7 @@ resize_x =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 resize_y : Css.Style
 resize_y =
@@ -45451,7 +45451,7 @@ resize_y =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_0 : Css.Style
 right_0 =
@@ -45462,7 +45462,7 @@ right_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_0_dot_5 : Css.Style
 right_0_dot_5 =
@@ -45473,7 +45473,7 @@ right_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_1 : Css.Style
 right_1 =
@@ -45484,7 +45484,7 @@ right_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_10 : Css.Style
 right_10 =
@@ -45495,7 +45495,7 @@ right_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_11 : Css.Style
 right_11 =
@@ -45506,7 +45506,7 @@ right_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_12 : Css.Style
 right_12 =
@@ -45517,7 +45517,7 @@ right_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_14 : Css.Style
 right_14 =
@@ -45528,7 +45528,7 @@ right_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_16 : Css.Style
 right_16 =
@@ -45539,7 +45539,7 @@ right_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_1_dot_5 : Css.Style
 right_1_dot_5 =
@@ -45550,7 +45550,7 @@ right_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_1over2 : Css.Style
 right_1over2 =
@@ -45561,7 +45561,7 @@ right_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_1over3 : Css.Style
 right_1over3 =
@@ -45572,7 +45572,7 @@ right_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_1over4 : Css.Style
 right_1over4 =
@@ -45583,7 +45583,7 @@ right_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_2 : Css.Style
 right_2 =
@@ -45594,7 +45594,7 @@ right_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_20 : Css.Style
 right_20 =
@@ -45605,7 +45605,7 @@ right_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_24 : Css.Style
 right_24 =
@@ -45616,7 +45616,7 @@ right_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_28 : Css.Style
 right_28 =
@@ -45627,7 +45627,7 @@ right_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_2_dot_5 : Css.Style
 right_2_dot_5 =
@@ -45638,7 +45638,7 @@ right_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_2over3 : Css.Style
 right_2over3 =
@@ -45649,7 +45649,7 @@ right_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_2over4 : Css.Style
 right_2over4 =
@@ -45660,7 +45660,7 @@ right_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_3 : Css.Style
 right_3 =
@@ -45671,7 +45671,7 @@ right_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_32 : Css.Style
 right_32 =
@@ -45682,7 +45682,7 @@ right_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_36 : Css.Style
 right_36 =
@@ -45693,7 +45693,7 @@ right_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_3_dot_5 : Css.Style
 right_3_dot_5 =
@@ -45704,7 +45704,7 @@ right_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_3over4 : Css.Style
 right_3over4 =
@@ -45715,7 +45715,7 @@ right_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_4 : Css.Style
 right_4 =
@@ -45726,7 +45726,7 @@ right_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_40 : Css.Style
 right_40 =
@@ -45737,7 +45737,7 @@ right_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_44 : Css.Style
 right_44 =
@@ -45748,7 +45748,7 @@ right_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_48 : Css.Style
 right_48 =
@@ -45759,7 +45759,7 @@ right_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_5 : Css.Style
 right_5 =
@@ -45770,7 +45770,7 @@ right_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_52 : Css.Style
 right_52 =
@@ -45781,7 +45781,7 @@ right_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_56 : Css.Style
 right_56 =
@@ -45792,7 +45792,7 @@ right_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_6 : Css.Style
 right_6 =
@@ -45803,7 +45803,7 @@ right_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_60 : Css.Style
 right_60 =
@@ -45814,7 +45814,7 @@ right_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_64 : Css.Style
 right_64 =
@@ -45825,7 +45825,7 @@ right_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_7 : Css.Style
 right_7 =
@@ -45836,7 +45836,7 @@ right_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_72 : Css.Style
 right_72 =
@@ -45847,7 +45847,7 @@ right_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_8 : Css.Style
 right_8 =
@@ -45858,7 +45858,7 @@ right_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_80 : Css.Style
 right_80 =
@@ -45869,7 +45869,7 @@ right_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_9 : Css.Style
 right_9 =
@@ -45880,7 +45880,7 @@ right_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_96 : Css.Style
 right_96 =
@@ -45891,7 +45891,7 @@ right_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_auto : Css.Style
 right_auto =
@@ -45902,7 +45902,7 @@ right_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_full : Css.Style
 right_full =
@@ -45913,7 +45913,7 @@ right_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 right_px : Css.Style
 right_px =
@@ -45924,7 +45924,7 @@ right_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring : Css.Style
 ring =
@@ -45939,7 +45939,7 @@ ring =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_0 : Css.Style
 ring_0 =
@@ -45954,7 +45954,7 @@ ring_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_1 : Css.Style
 ring_1 =
@@ -45969,7 +45969,7 @@ ring_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_2 : Css.Style
 ring_2 =
@@ -45984,7 +45984,7 @@ ring_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_4 : Css.Style
 ring_4 =
@@ -45999,7 +45999,7 @@ ring_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_8 : Css.Style
 ring_8 =
@@ -46014,7 +46014,7 @@ ring_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_black : Css.Style
 ring_black =
@@ -46028,7 +46028,7 @@ ring_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_100 : Css.Style
 ring_blue_100 =
@@ -46042,7 +46042,7 @@ ring_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_200 : Css.Style
 ring_blue_200 =
@@ -46056,7 +46056,7 @@ ring_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_300 : Css.Style
 ring_blue_300 =
@@ -46070,7 +46070,7 @@ ring_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_400 : Css.Style
 ring_blue_400 =
@@ -46084,7 +46084,7 @@ ring_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_50 : Css.Style
 ring_blue_50 =
@@ -46098,7 +46098,7 @@ ring_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_500 : Css.Style
 ring_blue_500 =
@@ -46112,7 +46112,7 @@ ring_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_600 : Css.Style
 ring_blue_600 =
@@ -46126,7 +46126,7 @@ ring_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_700 : Css.Style
 ring_blue_700 =
@@ -46140,7 +46140,7 @@ ring_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_800 : Css.Style
 ring_blue_800 =
@@ -46154,7 +46154,7 @@ ring_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_blue_900 : Css.Style
 ring_blue_900 =
@@ -46168,7 +46168,7 @@ ring_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_current : Css.Style
 ring_current =
@@ -46179,7 +46179,7 @@ ring_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_100 : Css.Style
 ring_gray_100 =
@@ -46193,7 +46193,7 @@ ring_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_200 : Css.Style
 ring_gray_200 =
@@ -46207,7 +46207,7 @@ ring_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_300 : Css.Style
 ring_gray_300 =
@@ -46221,7 +46221,7 @@ ring_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_400 : Css.Style
 ring_gray_400 =
@@ -46235,7 +46235,7 @@ ring_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_50 : Css.Style
 ring_gray_50 =
@@ -46249,7 +46249,7 @@ ring_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_500 : Css.Style
 ring_gray_500 =
@@ -46263,7 +46263,7 @@ ring_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_600 : Css.Style
 ring_gray_600 =
@@ -46277,7 +46277,7 @@ ring_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_700 : Css.Style
 ring_gray_700 =
@@ -46291,7 +46291,7 @@ ring_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_800 : Css.Style
 ring_gray_800 =
@@ -46305,7 +46305,7 @@ ring_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_gray_900 : Css.Style
 ring_gray_900 =
@@ -46319,7 +46319,7 @@ ring_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_100 : Css.Style
 ring_green_100 =
@@ -46333,7 +46333,7 @@ ring_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_200 : Css.Style
 ring_green_200 =
@@ -46347,7 +46347,7 @@ ring_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_300 : Css.Style
 ring_green_300 =
@@ -46361,7 +46361,7 @@ ring_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_400 : Css.Style
 ring_green_400 =
@@ -46375,7 +46375,7 @@ ring_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_50 : Css.Style
 ring_green_50 =
@@ -46389,7 +46389,7 @@ ring_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_500 : Css.Style
 ring_green_500 =
@@ -46403,7 +46403,7 @@ ring_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_600 : Css.Style
 ring_green_600 =
@@ -46417,7 +46417,7 @@ ring_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_700 : Css.Style
 ring_green_700 =
@@ -46431,7 +46431,7 @@ ring_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_800 : Css.Style
 ring_green_800 =
@@ -46445,7 +46445,7 @@ ring_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_green_900 : Css.Style
 ring_green_900 =
@@ -46459,7 +46459,7 @@ ring_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_100 : Css.Style
 ring_indigo_100 =
@@ -46473,7 +46473,7 @@ ring_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_200 : Css.Style
 ring_indigo_200 =
@@ -46487,7 +46487,7 @@ ring_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_300 : Css.Style
 ring_indigo_300 =
@@ -46501,7 +46501,7 @@ ring_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_400 : Css.Style
 ring_indigo_400 =
@@ -46515,7 +46515,7 @@ ring_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_50 : Css.Style
 ring_indigo_50 =
@@ -46529,7 +46529,7 @@ ring_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_500 : Css.Style
 ring_indigo_500 =
@@ -46543,7 +46543,7 @@ ring_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_600 : Css.Style
 ring_indigo_600 =
@@ -46557,7 +46557,7 @@ ring_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_700 : Css.Style
 ring_indigo_700 =
@@ -46571,7 +46571,7 @@ ring_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_800 : Css.Style
 ring_indigo_800 =
@@ -46585,7 +46585,7 @@ ring_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_indigo_900 : Css.Style
 ring_indigo_900 =
@@ -46599,7 +46599,7 @@ ring_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_inset : Css.Style
 ring_inset =
@@ -46610,7 +46610,7 @@ ring_inset =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_0 : Css.Style
 ring_offset_0 =
@@ -46621,7 +46621,7 @@ ring_offset_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_1 : Css.Style
 ring_offset_1 =
@@ -46632,7 +46632,7 @@ ring_offset_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_2 : Css.Style
 ring_offset_2 =
@@ -46643,7 +46643,7 @@ ring_offset_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_4 : Css.Style
 ring_offset_4 =
@@ -46654,7 +46654,7 @@ ring_offset_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_8 : Css.Style
 ring_offset_8 =
@@ -46665,7 +46665,7 @@ ring_offset_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_black : Css.Style
 ring_offset_black =
@@ -46676,7 +46676,7 @@ ring_offset_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_100 : Css.Style
 ring_offset_blue_100 =
@@ -46687,7 +46687,7 @@ ring_offset_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_200 : Css.Style
 ring_offset_blue_200 =
@@ -46698,7 +46698,7 @@ ring_offset_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_300 : Css.Style
 ring_offset_blue_300 =
@@ -46709,7 +46709,7 @@ ring_offset_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_400 : Css.Style
 ring_offset_blue_400 =
@@ -46720,7 +46720,7 @@ ring_offset_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_50 : Css.Style
 ring_offset_blue_50 =
@@ -46731,7 +46731,7 @@ ring_offset_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_500 : Css.Style
 ring_offset_blue_500 =
@@ -46742,7 +46742,7 @@ ring_offset_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_600 : Css.Style
 ring_offset_blue_600 =
@@ -46753,7 +46753,7 @@ ring_offset_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_700 : Css.Style
 ring_offset_blue_700 =
@@ -46764,7 +46764,7 @@ ring_offset_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_800 : Css.Style
 ring_offset_blue_800 =
@@ -46775,7 +46775,7 @@ ring_offset_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_blue_900 : Css.Style
 ring_offset_blue_900 =
@@ -46786,7 +46786,7 @@ ring_offset_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_current : Css.Style
 ring_offset_current =
@@ -46797,7 +46797,7 @@ ring_offset_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_100 : Css.Style
 ring_offset_gray_100 =
@@ -46808,7 +46808,7 @@ ring_offset_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_200 : Css.Style
 ring_offset_gray_200 =
@@ -46819,7 +46819,7 @@ ring_offset_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_300 : Css.Style
 ring_offset_gray_300 =
@@ -46830,7 +46830,7 @@ ring_offset_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_400 : Css.Style
 ring_offset_gray_400 =
@@ -46841,7 +46841,7 @@ ring_offset_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_50 : Css.Style
 ring_offset_gray_50 =
@@ -46852,7 +46852,7 @@ ring_offset_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_500 : Css.Style
 ring_offset_gray_500 =
@@ -46863,7 +46863,7 @@ ring_offset_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_600 : Css.Style
 ring_offset_gray_600 =
@@ -46874,7 +46874,7 @@ ring_offset_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_700 : Css.Style
 ring_offset_gray_700 =
@@ -46885,7 +46885,7 @@ ring_offset_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_800 : Css.Style
 ring_offset_gray_800 =
@@ -46896,7 +46896,7 @@ ring_offset_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_gray_900 : Css.Style
 ring_offset_gray_900 =
@@ -46907,7 +46907,7 @@ ring_offset_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_100 : Css.Style
 ring_offset_green_100 =
@@ -46918,7 +46918,7 @@ ring_offset_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_200 : Css.Style
 ring_offset_green_200 =
@@ -46929,7 +46929,7 @@ ring_offset_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_300 : Css.Style
 ring_offset_green_300 =
@@ -46940,7 +46940,7 @@ ring_offset_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_400 : Css.Style
 ring_offset_green_400 =
@@ -46951,7 +46951,7 @@ ring_offset_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_50 : Css.Style
 ring_offset_green_50 =
@@ -46962,7 +46962,7 @@ ring_offset_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_500 : Css.Style
 ring_offset_green_500 =
@@ -46973,7 +46973,7 @@ ring_offset_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_600 : Css.Style
 ring_offset_green_600 =
@@ -46984,7 +46984,7 @@ ring_offset_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_700 : Css.Style
 ring_offset_green_700 =
@@ -46995,7 +46995,7 @@ ring_offset_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_800 : Css.Style
 ring_offset_green_800 =
@@ -47006,7 +47006,7 @@ ring_offset_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_green_900 : Css.Style
 ring_offset_green_900 =
@@ -47017,7 +47017,7 @@ ring_offset_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_100 : Css.Style
 ring_offset_indigo_100 =
@@ -47028,7 +47028,7 @@ ring_offset_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_200 : Css.Style
 ring_offset_indigo_200 =
@@ -47039,7 +47039,7 @@ ring_offset_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_300 : Css.Style
 ring_offset_indigo_300 =
@@ -47050,7 +47050,7 @@ ring_offset_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_400 : Css.Style
 ring_offset_indigo_400 =
@@ -47061,7 +47061,7 @@ ring_offset_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_50 : Css.Style
 ring_offset_indigo_50 =
@@ -47072,7 +47072,7 @@ ring_offset_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_500 : Css.Style
 ring_offset_indigo_500 =
@@ -47083,7 +47083,7 @@ ring_offset_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_600 : Css.Style
 ring_offset_indigo_600 =
@@ -47094,7 +47094,7 @@ ring_offset_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_700 : Css.Style
 ring_offset_indigo_700 =
@@ -47105,7 +47105,7 @@ ring_offset_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_800 : Css.Style
 ring_offset_indigo_800 =
@@ -47116,7 +47116,7 @@ ring_offset_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_indigo_900 : Css.Style
 ring_offset_indigo_900 =
@@ -47127,7 +47127,7 @@ ring_offset_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_100 : Css.Style
 ring_offset_pink_100 =
@@ -47138,7 +47138,7 @@ ring_offset_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_200 : Css.Style
 ring_offset_pink_200 =
@@ -47149,7 +47149,7 @@ ring_offset_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_300 : Css.Style
 ring_offset_pink_300 =
@@ -47160,7 +47160,7 @@ ring_offset_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_400 : Css.Style
 ring_offset_pink_400 =
@@ -47171,7 +47171,7 @@ ring_offset_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_50 : Css.Style
 ring_offset_pink_50 =
@@ -47182,7 +47182,7 @@ ring_offset_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_500 : Css.Style
 ring_offset_pink_500 =
@@ -47193,7 +47193,7 @@ ring_offset_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_600 : Css.Style
 ring_offset_pink_600 =
@@ -47204,7 +47204,7 @@ ring_offset_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_700 : Css.Style
 ring_offset_pink_700 =
@@ -47215,7 +47215,7 @@ ring_offset_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_800 : Css.Style
 ring_offset_pink_800 =
@@ -47226,7 +47226,7 @@ ring_offset_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_pink_900 : Css.Style
 ring_offset_pink_900 =
@@ -47237,7 +47237,7 @@ ring_offset_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_100 : Css.Style
 ring_offset_purple_100 =
@@ -47248,7 +47248,7 @@ ring_offset_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_200 : Css.Style
 ring_offset_purple_200 =
@@ -47259,7 +47259,7 @@ ring_offset_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_300 : Css.Style
 ring_offset_purple_300 =
@@ -47270,7 +47270,7 @@ ring_offset_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_400 : Css.Style
 ring_offset_purple_400 =
@@ -47281,7 +47281,7 @@ ring_offset_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_50 : Css.Style
 ring_offset_purple_50 =
@@ -47292,7 +47292,7 @@ ring_offset_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_500 : Css.Style
 ring_offset_purple_500 =
@@ -47303,7 +47303,7 @@ ring_offset_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_600 : Css.Style
 ring_offset_purple_600 =
@@ -47314,7 +47314,7 @@ ring_offset_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_700 : Css.Style
 ring_offset_purple_700 =
@@ -47325,7 +47325,7 @@ ring_offset_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_800 : Css.Style
 ring_offset_purple_800 =
@@ -47336,7 +47336,7 @@ ring_offset_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_purple_900 : Css.Style
 ring_offset_purple_900 =
@@ -47347,7 +47347,7 @@ ring_offset_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_100 : Css.Style
 ring_offset_red_100 =
@@ -47358,7 +47358,7 @@ ring_offset_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_200 : Css.Style
 ring_offset_red_200 =
@@ -47369,7 +47369,7 @@ ring_offset_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_300 : Css.Style
 ring_offset_red_300 =
@@ -47380,7 +47380,7 @@ ring_offset_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_400 : Css.Style
 ring_offset_red_400 =
@@ -47391,7 +47391,7 @@ ring_offset_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_50 : Css.Style
 ring_offset_red_50 =
@@ -47402,7 +47402,7 @@ ring_offset_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_500 : Css.Style
 ring_offset_red_500 =
@@ -47413,7 +47413,7 @@ ring_offset_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_600 : Css.Style
 ring_offset_red_600 =
@@ -47424,7 +47424,7 @@ ring_offset_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_700 : Css.Style
 ring_offset_red_700 =
@@ -47435,7 +47435,7 @@ ring_offset_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_800 : Css.Style
 ring_offset_red_800 =
@@ -47446,7 +47446,7 @@ ring_offset_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_red_900 : Css.Style
 ring_offset_red_900 =
@@ -47457,7 +47457,7 @@ ring_offset_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_transparent : Css.Style
 ring_offset_transparent =
@@ -47468,7 +47468,7 @@ ring_offset_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_white : Css.Style
 ring_offset_white =
@@ -47479,7 +47479,7 @@ ring_offset_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_100 : Css.Style
 ring_offset_yellow_100 =
@@ -47490,7 +47490,7 @@ ring_offset_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_200 : Css.Style
 ring_offset_yellow_200 =
@@ -47501,7 +47501,7 @@ ring_offset_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_300 : Css.Style
 ring_offset_yellow_300 =
@@ -47512,7 +47512,7 @@ ring_offset_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_400 : Css.Style
 ring_offset_yellow_400 =
@@ -47523,7 +47523,7 @@ ring_offset_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_50 : Css.Style
 ring_offset_yellow_50 =
@@ -47534,7 +47534,7 @@ ring_offset_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_500 : Css.Style
 ring_offset_yellow_500 =
@@ -47545,7 +47545,7 @@ ring_offset_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_600 : Css.Style
 ring_offset_yellow_600 =
@@ -47556,7 +47556,7 @@ ring_offset_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_700 : Css.Style
 ring_offset_yellow_700 =
@@ -47567,7 +47567,7 @@ ring_offset_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_800 : Css.Style
 ring_offset_yellow_800 =
@@ -47578,7 +47578,7 @@ ring_offset_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_offset_yellow_900 : Css.Style
 ring_offset_yellow_900 =
@@ -47589,7 +47589,7 @@ ring_offset_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_0 : Css.Style
 ring_opacity_0 =
@@ -47600,7 +47600,7 @@ ring_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_10 : Css.Style
 ring_opacity_10 =
@@ -47611,7 +47611,7 @@ ring_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_100 : Css.Style
 ring_opacity_100 =
@@ -47622,7 +47622,7 @@ ring_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_20 : Css.Style
 ring_opacity_20 =
@@ -47633,7 +47633,7 @@ ring_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_25 : Css.Style
 ring_opacity_25 =
@@ -47644,7 +47644,7 @@ ring_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_30 : Css.Style
 ring_opacity_30 =
@@ -47655,7 +47655,7 @@ ring_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_40 : Css.Style
 ring_opacity_40 =
@@ -47666,7 +47666,7 @@ ring_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_5 : Css.Style
 ring_opacity_5 =
@@ -47677,7 +47677,7 @@ ring_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_50 : Css.Style
 ring_opacity_50 =
@@ -47688,7 +47688,7 @@ ring_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_60 : Css.Style
 ring_opacity_60 =
@@ -47699,7 +47699,7 @@ ring_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_70 : Css.Style
 ring_opacity_70 =
@@ -47710,7 +47710,7 @@ ring_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_75 : Css.Style
 ring_opacity_75 =
@@ -47721,7 +47721,7 @@ ring_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_80 : Css.Style
 ring_opacity_80 =
@@ -47732,7 +47732,7 @@ ring_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_90 : Css.Style
 ring_opacity_90 =
@@ -47743,7 +47743,7 @@ ring_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_opacity_95 : Css.Style
 ring_opacity_95 =
@@ -47754,7 +47754,7 @@ ring_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_100 : Css.Style
 ring_pink_100 =
@@ -47768,7 +47768,7 @@ ring_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_200 : Css.Style
 ring_pink_200 =
@@ -47782,7 +47782,7 @@ ring_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_300 : Css.Style
 ring_pink_300 =
@@ -47796,7 +47796,7 @@ ring_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_400 : Css.Style
 ring_pink_400 =
@@ -47810,7 +47810,7 @@ ring_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_50 : Css.Style
 ring_pink_50 =
@@ -47824,7 +47824,7 @@ ring_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_500 : Css.Style
 ring_pink_500 =
@@ -47838,7 +47838,7 @@ ring_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_600 : Css.Style
 ring_pink_600 =
@@ -47852,7 +47852,7 @@ ring_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_700 : Css.Style
 ring_pink_700 =
@@ -47866,7 +47866,7 @@ ring_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_800 : Css.Style
 ring_pink_800 =
@@ -47880,7 +47880,7 @@ ring_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_pink_900 : Css.Style
 ring_pink_900 =
@@ -47894,7 +47894,7 @@ ring_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_100 : Css.Style
 ring_purple_100 =
@@ -47908,7 +47908,7 @@ ring_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_200 : Css.Style
 ring_purple_200 =
@@ -47922,7 +47922,7 @@ ring_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_300 : Css.Style
 ring_purple_300 =
@@ -47936,7 +47936,7 @@ ring_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_400 : Css.Style
 ring_purple_400 =
@@ -47950,7 +47950,7 @@ ring_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_50 : Css.Style
 ring_purple_50 =
@@ -47964,7 +47964,7 @@ ring_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_500 : Css.Style
 ring_purple_500 =
@@ -47978,7 +47978,7 @@ ring_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_600 : Css.Style
 ring_purple_600 =
@@ -47992,7 +47992,7 @@ ring_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_700 : Css.Style
 ring_purple_700 =
@@ -48006,7 +48006,7 @@ ring_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_800 : Css.Style
 ring_purple_800 =
@@ -48020,7 +48020,7 @@ ring_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_purple_900 : Css.Style
 ring_purple_900 =
@@ -48034,7 +48034,7 @@ ring_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_100 : Css.Style
 ring_red_100 =
@@ -48048,7 +48048,7 @@ ring_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_200 : Css.Style
 ring_red_200 =
@@ -48062,7 +48062,7 @@ ring_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_300 : Css.Style
 ring_red_300 =
@@ -48076,7 +48076,7 @@ ring_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_400 : Css.Style
 ring_red_400 =
@@ -48090,7 +48090,7 @@ ring_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_50 : Css.Style
 ring_red_50 =
@@ -48104,7 +48104,7 @@ ring_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_500 : Css.Style
 ring_red_500 =
@@ -48118,7 +48118,7 @@ ring_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_600 : Css.Style
 ring_red_600 =
@@ -48132,7 +48132,7 @@ ring_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_700 : Css.Style
 ring_red_700 =
@@ -48146,7 +48146,7 @@ ring_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_800 : Css.Style
 ring_red_800 =
@@ -48160,7 +48160,7 @@ ring_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_red_900 : Css.Style
 ring_red_900 =
@@ -48174,7 +48174,7 @@ ring_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_transparent : Css.Style
 ring_transparent =
@@ -48185,7 +48185,7 @@ ring_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_white : Css.Style
 ring_white =
@@ -48199,7 +48199,7 @@ ring_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_100 : Css.Style
 ring_yellow_100 =
@@ -48213,7 +48213,7 @@ ring_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_200 : Css.Style
 ring_yellow_200 =
@@ -48227,7 +48227,7 @@ ring_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_300 : Css.Style
 ring_yellow_300 =
@@ -48241,7 +48241,7 @@ ring_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_400 : Css.Style
 ring_yellow_400 =
@@ -48255,7 +48255,7 @@ ring_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_50 : Css.Style
 ring_yellow_50 =
@@ -48269,7 +48269,7 @@ ring_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_500 : Css.Style
 ring_yellow_500 =
@@ -48283,7 +48283,7 @@ ring_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_600 : Css.Style
 ring_yellow_600 =
@@ -48297,7 +48297,7 @@ ring_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_700 : Css.Style
 ring_yellow_700 =
@@ -48311,7 +48311,7 @@ ring_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_800 : Css.Style
 ring_yellow_800 =
@@ -48325,7 +48325,7 @@ ring_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 ring_yellow_900 : Css.Style
 ring_yellow_900 =
@@ -48339,7 +48339,7 @@ ring_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_0 : Css.Style
 rotate_0 =
@@ -48350,7 +48350,7 @@ rotate_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_1 : Css.Style
 rotate_1 =
@@ -48361,7 +48361,7 @@ rotate_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_12 : Css.Style
 rotate_12 =
@@ -48372,7 +48372,7 @@ rotate_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_180 : Css.Style
 rotate_180 =
@@ -48383,7 +48383,7 @@ rotate_180 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_2 : Css.Style
 rotate_2 =
@@ -48394,7 +48394,7 @@ rotate_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_3 : Css.Style
 rotate_3 =
@@ -48405,7 +48405,7 @@ rotate_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_45 : Css.Style
 rotate_45 =
@@ -48416,7 +48416,7 @@ rotate_45 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_6 : Css.Style
 rotate_6 =
@@ -48427,7 +48427,7 @@ rotate_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rotate_90 : Css.Style
 rotate_90 =
@@ -48438,7 +48438,7 @@ rotate_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded : Css.Style
 rounded =
@@ -48449,7 +48449,7 @@ rounded =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_2xl : Css.Style
 rounded_2xl =
@@ -48460,7 +48460,7 @@ rounded_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_3xl : Css.Style
 rounded_3xl =
@@ -48471,7 +48471,7 @@ rounded_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b : Css.Style
 rounded_b =
@@ -48485,7 +48485,7 @@ rounded_b =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_2xl : Css.Style
 rounded_b_2xl =
@@ -48499,7 +48499,7 @@ rounded_b_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_3xl : Css.Style
 rounded_b_3xl =
@@ -48513,7 +48513,7 @@ rounded_b_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_full : Css.Style
 rounded_b_full =
@@ -48527,7 +48527,7 @@ rounded_b_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_lg : Css.Style
 rounded_b_lg =
@@ -48541,7 +48541,7 @@ rounded_b_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_md : Css.Style
 rounded_b_md =
@@ -48555,7 +48555,7 @@ rounded_b_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_none : Css.Style
 rounded_b_none =
@@ -48569,7 +48569,7 @@ rounded_b_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_sm : Css.Style
 rounded_b_sm =
@@ -48583,7 +48583,7 @@ rounded_b_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_b_xl : Css.Style
 rounded_b_xl =
@@ -48597,7 +48597,7 @@ rounded_b_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl : Css.Style
 rounded_bl =
@@ -48608,7 +48608,7 @@ rounded_bl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_2xl : Css.Style
 rounded_bl_2xl =
@@ -48619,7 +48619,7 @@ rounded_bl_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_3xl : Css.Style
 rounded_bl_3xl =
@@ -48630,7 +48630,7 @@ rounded_bl_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_full : Css.Style
 rounded_bl_full =
@@ -48641,7 +48641,7 @@ rounded_bl_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_lg : Css.Style
 rounded_bl_lg =
@@ -48652,7 +48652,7 @@ rounded_bl_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_md : Css.Style
 rounded_bl_md =
@@ -48663,7 +48663,7 @@ rounded_bl_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_none : Css.Style
 rounded_bl_none =
@@ -48674,7 +48674,7 @@ rounded_bl_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_sm : Css.Style
 rounded_bl_sm =
@@ -48685,7 +48685,7 @@ rounded_bl_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_bl_xl : Css.Style
 rounded_bl_xl =
@@ -48696,7 +48696,7 @@ rounded_bl_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br : Css.Style
 rounded_br =
@@ -48707,7 +48707,7 @@ rounded_br =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_2xl : Css.Style
 rounded_br_2xl =
@@ -48718,7 +48718,7 @@ rounded_br_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_3xl : Css.Style
 rounded_br_3xl =
@@ -48729,7 +48729,7 @@ rounded_br_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_full : Css.Style
 rounded_br_full =
@@ -48740,7 +48740,7 @@ rounded_br_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_lg : Css.Style
 rounded_br_lg =
@@ -48751,7 +48751,7 @@ rounded_br_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_md : Css.Style
 rounded_br_md =
@@ -48762,7 +48762,7 @@ rounded_br_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_none : Css.Style
 rounded_br_none =
@@ -48773,7 +48773,7 @@ rounded_br_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_sm : Css.Style
 rounded_br_sm =
@@ -48784,7 +48784,7 @@ rounded_br_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_br_xl : Css.Style
 rounded_br_xl =
@@ -48795,7 +48795,7 @@ rounded_br_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_full : Css.Style
 rounded_full =
@@ -48806,7 +48806,7 @@ rounded_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l : Css.Style
 rounded_l =
@@ -48820,7 +48820,7 @@ rounded_l =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_2xl : Css.Style
 rounded_l_2xl =
@@ -48834,7 +48834,7 @@ rounded_l_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_3xl : Css.Style
 rounded_l_3xl =
@@ -48848,7 +48848,7 @@ rounded_l_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_full : Css.Style
 rounded_l_full =
@@ -48862,7 +48862,7 @@ rounded_l_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_lg : Css.Style
 rounded_l_lg =
@@ -48876,7 +48876,7 @@ rounded_l_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_md : Css.Style
 rounded_l_md =
@@ -48890,7 +48890,7 @@ rounded_l_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_none : Css.Style
 rounded_l_none =
@@ -48904,7 +48904,7 @@ rounded_l_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_sm : Css.Style
 rounded_l_sm =
@@ -48918,7 +48918,7 @@ rounded_l_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_l_xl : Css.Style
 rounded_l_xl =
@@ -48932,7 +48932,7 @@ rounded_l_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_lg : Css.Style
 rounded_lg =
@@ -48943,7 +48943,7 @@ rounded_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_md : Css.Style
 rounded_md =
@@ -48954,7 +48954,7 @@ rounded_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_none : Css.Style
 rounded_none =
@@ -48965,7 +48965,7 @@ rounded_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r : Css.Style
 rounded_r =
@@ -48979,7 +48979,7 @@ rounded_r =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_2xl : Css.Style
 rounded_r_2xl =
@@ -48993,7 +48993,7 @@ rounded_r_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_3xl : Css.Style
 rounded_r_3xl =
@@ -49007,7 +49007,7 @@ rounded_r_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_full : Css.Style
 rounded_r_full =
@@ -49021,7 +49021,7 @@ rounded_r_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_lg : Css.Style
 rounded_r_lg =
@@ -49035,7 +49035,7 @@ rounded_r_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_md : Css.Style
 rounded_r_md =
@@ -49049,7 +49049,7 @@ rounded_r_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_none : Css.Style
 rounded_r_none =
@@ -49063,7 +49063,7 @@ rounded_r_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_sm : Css.Style
 rounded_r_sm =
@@ -49077,7 +49077,7 @@ rounded_r_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_r_xl : Css.Style
 rounded_r_xl =
@@ -49091,7 +49091,7 @@ rounded_r_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_sm : Css.Style
 rounded_sm =
@@ -49102,7 +49102,7 @@ rounded_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t : Css.Style
 rounded_t =
@@ -49116,7 +49116,7 @@ rounded_t =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_2xl : Css.Style
 rounded_t_2xl =
@@ -49130,7 +49130,7 @@ rounded_t_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_3xl : Css.Style
 rounded_t_3xl =
@@ -49144,7 +49144,7 @@ rounded_t_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_full : Css.Style
 rounded_t_full =
@@ -49158,7 +49158,7 @@ rounded_t_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_lg : Css.Style
 rounded_t_lg =
@@ -49172,7 +49172,7 @@ rounded_t_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_md : Css.Style
 rounded_t_md =
@@ -49186,7 +49186,7 @@ rounded_t_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_none : Css.Style
 rounded_t_none =
@@ -49200,7 +49200,7 @@ rounded_t_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_sm : Css.Style
 rounded_t_sm =
@@ -49214,7 +49214,7 @@ rounded_t_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_t_xl : Css.Style
 rounded_t_xl =
@@ -49228,7 +49228,7 @@ rounded_t_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl : Css.Style
 rounded_tl =
@@ -49239,7 +49239,7 @@ rounded_tl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_2xl : Css.Style
 rounded_tl_2xl =
@@ -49250,7 +49250,7 @@ rounded_tl_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_3xl : Css.Style
 rounded_tl_3xl =
@@ -49261,7 +49261,7 @@ rounded_tl_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_full : Css.Style
 rounded_tl_full =
@@ -49272,7 +49272,7 @@ rounded_tl_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_lg : Css.Style
 rounded_tl_lg =
@@ -49283,7 +49283,7 @@ rounded_tl_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_md : Css.Style
 rounded_tl_md =
@@ -49294,7 +49294,7 @@ rounded_tl_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_none : Css.Style
 rounded_tl_none =
@@ -49305,7 +49305,7 @@ rounded_tl_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_sm : Css.Style
 rounded_tl_sm =
@@ -49316,7 +49316,7 @@ rounded_tl_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tl_xl : Css.Style
 rounded_tl_xl =
@@ -49327,7 +49327,7 @@ rounded_tl_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr : Css.Style
 rounded_tr =
@@ -49338,7 +49338,7 @@ rounded_tr =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_2xl : Css.Style
 rounded_tr_2xl =
@@ -49349,7 +49349,7 @@ rounded_tr_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_3xl : Css.Style
 rounded_tr_3xl =
@@ -49360,7 +49360,7 @@ rounded_tr_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_full : Css.Style
 rounded_tr_full =
@@ -49371,7 +49371,7 @@ rounded_tr_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_lg : Css.Style
 rounded_tr_lg =
@@ -49382,7 +49382,7 @@ rounded_tr_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_md : Css.Style
 rounded_tr_md =
@@ -49393,7 +49393,7 @@ rounded_tr_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_none : Css.Style
 rounded_tr_none =
@@ -49404,7 +49404,7 @@ rounded_tr_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_sm : Css.Style
 rounded_tr_sm =
@@ -49415,7 +49415,7 @@ rounded_tr_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_tr_xl : Css.Style
 rounded_tr_xl =
@@ -49426,7 +49426,7 @@ rounded_tr_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 rounded_xl : Css.Style
 rounded_xl =
@@ -49437,7 +49437,7 @@ rounded_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_auto : Css.Style
 row_auto =
@@ -49448,7 +49448,7 @@ row_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_1 : Css.Style
 row_end_1 =
@@ -49459,7 +49459,7 @@ row_end_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_2 : Css.Style
 row_end_2 =
@@ -49470,7 +49470,7 @@ row_end_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_3 : Css.Style
 row_end_3 =
@@ -49481,7 +49481,7 @@ row_end_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_4 : Css.Style
 row_end_4 =
@@ -49492,7 +49492,7 @@ row_end_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_5 : Css.Style
 row_end_5 =
@@ -49503,7 +49503,7 @@ row_end_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_6 : Css.Style
 row_end_6 =
@@ -49514,7 +49514,7 @@ row_end_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_7 : Css.Style
 row_end_7 =
@@ -49525,7 +49525,7 @@ row_end_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_end_auto : Css.Style
 row_end_auto =
@@ -49536,7 +49536,7 @@ row_end_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_1 : Css.Style
 row_span_1 =
@@ -49547,7 +49547,7 @@ row_span_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_2 : Css.Style
 row_span_2 =
@@ -49558,7 +49558,7 @@ row_span_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_3 : Css.Style
 row_span_3 =
@@ -49569,7 +49569,7 @@ row_span_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_4 : Css.Style
 row_span_4 =
@@ -49580,7 +49580,7 @@ row_span_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_5 : Css.Style
 row_span_5 =
@@ -49591,7 +49591,7 @@ row_span_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_6 : Css.Style
 row_span_6 =
@@ -49602,7 +49602,7 @@ row_span_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_span_full : Css.Style
 row_span_full =
@@ -49613,7 +49613,7 @@ row_span_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_1 : Css.Style
 row_start_1 =
@@ -49624,7 +49624,7 @@ row_start_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_2 : Css.Style
 row_start_2 =
@@ -49635,7 +49635,7 @@ row_start_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_3 : Css.Style
 row_start_3 =
@@ -49646,7 +49646,7 @@ row_start_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_4 : Css.Style
 row_start_4 =
@@ -49657,7 +49657,7 @@ row_start_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_5 : Css.Style
 row_start_5 =
@@ -49668,7 +49668,7 @@ row_start_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_6 : Css.Style
 row_start_6 =
@@ -49679,7 +49679,7 @@ row_start_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_7 : Css.Style
 row_start_7 =
@@ -49690,7 +49690,7 @@ row_start_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 row_start_auto : Css.Style
 row_start_auto =
@@ -49701,7 +49701,7 @@ row_start_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 saturate_0 : Css.Style
 saturate_0 =
@@ -49712,7 +49712,7 @@ saturate_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 saturate_100 : Css.Style
 saturate_100 =
@@ -49723,7 +49723,7 @@ saturate_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 saturate_150 : Css.Style
 saturate_150 =
@@ -49734,7 +49734,7 @@ saturate_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 saturate_200 : Css.Style
 saturate_200 =
@@ -49745,7 +49745,7 @@ saturate_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 saturate_50 : Css.Style
 saturate_50 =
@@ -49756,7 +49756,7 @@ saturate_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_0 : Css.Style
 scale_0 =
@@ -49770,7 +49770,7 @@ scale_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_100 : Css.Style
 scale_100 =
@@ -49784,7 +49784,7 @@ scale_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_105 : Css.Style
 scale_105 =
@@ -49798,7 +49798,7 @@ scale_105 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_110 : Css.Style
 scale_110 =
@@ -49812,7 +49812,7 @@ scale_110 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_125 : Css.Style
 scale_125 =
@@ -49826,7 +49826,7 @@ scale_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_150 : Css.Style
 scale_150 =
@@ -49840,7 +49840,7 @@ scale_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_50 : Css.Style
 scale_50 =
@@ -49854,7 +49854,7 @@ scale_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_75 : Css.Style
 scale_75 =
@@ -49868,7 +49868,7 @@ scale_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_90 : Css.Style
 scale_90 =
@@ -49882,7 +49882,7 @@ scale_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_95 : Css.Style
 scale_95 =
@@ -49896,7 +49896,7 @@ scale_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_0 : Css.Style
 scale_x_0 =
@@ -49907,7 +49907,7 @@ scale_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_100 : Css.Style
 scale_x_100 =
@@ -49918,7 +49918,7 @@ scale_x_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_105 : Css.Style
 scale_x_105 =
@@ -49929,7 +49929,7 @@ scale_x_105 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_110 : Css.Style
 scale_x_110 =
@@ -49940,7 +49940,7 @@ scale_x_110 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_125 : Css.Style
 scale_x_125 =
@@ -49951,7 +49951,7 @@ scale_x_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_150 : Css.Style
 scale_x_150 =
@@ -49962,7 +49962,7 @@ scale_x_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_50 : Css.Style
 scale_x_50 =
@@ -49973,7 +49973,7 @@ scale_x_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_75 : Css.Style
 scale_x_75 =
@@ -49984,7 +49984,7 @@ scale_x_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_90 : Css.Style
 scale_x_90 =
@@ -49995,7 +49995,7 @@ scale_x_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_x_95 : Css.Style
 scale_x_95 =
@@ -50006,7 +50006,7 @@ scale_x_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_0 : Css.Style
 scale_y_0 =
@@ -50017,7 +50017,7 @@ scale_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_100 : Css.Style
 scale_y_100 =
@@ -50028,7 +50028,7 @@ scale_y_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_105 : Css.Style
 scale_y_105 =
@@ -50039,7 +50039,7 @@ scale_y_105 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_110 : Css.Style
 scale_y_110 =
@@ -50050,7 +50050,7 @@ scale_y_110 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_125 : Css.Style
 scale_y_125 =
@@ -50061,7 +50061,7 @@ scale_y_125 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_150 : Css.Style
 scale_y_150 =
@@ -50072,7 +50072,7 @@ scale_y_150 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_50 : Css.Style
 scale_y_50 =
@@ -50083,7 +50083,7 @@ scale_y_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_75 : Css.Style
 scale_y_75 =
@@ -50094,7 +50094,7 @@ scale_y_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_90 : Css.Style
 scale_y_90 =
@@ -50105,7 +50105,7 @@ scale_y_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 scale_y_95 : Css.Style
 scale_y_95 =
@@ -50116,7 +50116,7 @@ scale_y_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 select_all : Css.Style
 select_all =
@@ -50131,7 +50131,7 @@ select_all =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 select_auto : Css.Style
 select_auto =
@@ -50147,7 +50147,7 @@ select_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 select_none : Css.Style
 select_none =
@@ -50163,7 +50163,7 @@ select_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 select_text : Css.Style
 select_text =
@@ -50179,7 +50179,7 @@ select_text =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 self_auto : Css.Style
 self_auto =
@@ -50190,7 +50190,7 @@ self_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 self_center : Css.Style
 self_center =
@@ -50201,7 +50201,7 @@ self_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 self_end : Css.Style
 self_end =
@@ -50212,7 +50212,7 @@ self_end =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 self_start : Css.Style
 self_start =
@@ -50223,7 +50223,7 @@ self_start =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 self_stretch : Css.Style
 self_stretch =
@@ -50234,7 +50234,7 @@ self_stretch =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 sepia : Css.Style
 sepia =
@@ -50245,7 +50245,7 @@ sepia =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 sepia_0 : Css.Style
 sepia_0 =
@@ -50256,7 +50256,7 @@ sepia_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow : Css.Style
 shadow =
@@ -50270,7 +50270,7 @@ shadow =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_2xl : Css.Style
 shadow_2xl =
@@ -50284,7 +50284,7 @@ shadow_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_inner : Css.Style
 shadow_inner =
@@ -50298,7 +50298,7 @@ shadow_inner =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_lg : Css.Style
 shadow_lg =
@@ -50312,7 +50312,7 @@ shadow_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_md : Css.Style
 shadow_md =
@@ -50326,7 +50326,7 @@ shadow_md =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_none : Css.Style
 shadow_none =
@@ -50340,7 +50340,7 @@ shadow_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_sm : Css.Style
 shadow_sm =
@@ -50354,7 +50354,7 @@ shadow_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 shadow_xl : Css.Style
 shadow_xl =
@@ -50368,7 +50368,7 @@ shadow_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_0 : Css.Style
 skew_x_0 =
@@ -50379,7 +50379,7 @@ skew_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_1 : Css.Style
 skew_x_1 =
@@ -50390,7 +50390,7 @@ skew_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_12 : Css.Style
 skew_x_12 =
@@ -50401,7 +50401,7 @@ skew_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_2 : Css.Style
 skew_x_2 =
@@ -50412,7 +50412,7 @@ skew_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_3 : Css.Style
 skew_x_3 =
@@ -50423,7 +50423,7 @@ skew_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_x_6 : Css.Style
 skew_x_6 =
@@ -50434,7 +50434,7 @@ skew_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_0 : Css.Style
 skew_y_0 =
@@ -50445,7 +50445,7 @@ skew_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_1 : Css.Style
 skew_y_1 =
@@ -50456,7 +50456,7 @@ skew_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_12 : Css.Style
 skew_y_12 =
@@ -50467,7 +50467,7 @@ skew_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_2 : Css.Style
 skew_y_2 =
@@ -50478,7 +50478,7 @@ skew_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_3 : Css.Style
 skew_y_3 =
@@ -50489,7 +50489,7 @@ skew_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 skew_y_6 : Css.Style
 skew_y_6 =
@@ -50500,7 +50500,7 @@ skew_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 slashed_zero : Css.Style
 slashed_zero =
@@ -50519,7 +50519,7 @@ slashed_zero =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_0 : Css.Style
 space_x_0 =
@@ -50538,7 +50538,7 @@ space_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_0_dot_5 : Css.Style
 space_x_0_dot_5 =
@@ -50557,7 +50557,7 @@ space_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_1 : Css.Style
 space_x_1 =
@@ -50576,7 +50576,7 @@ space_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_10 : Css.Style
 space_x_10 =
@@ -50595,7 +50595,7 @@ space_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_11 : Css.Style
 space_x_11 =
@@ -50614,7 +50614,7 @@ space_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_12 : Css.Style
 space_x_12 =
@@ -50633,7 +50633,7 @@ space_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_14 : Css.Style
 space_x_14 =
@@ -50652,7 +50652,7 @@ space_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_16 : Css.Style
 space_x_16 =
@@ -50671,7 +50671,7 @@ space_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_1_dot_5 : Css.Style
 space_x_1_dot_5 =
@@ -50690,7 +50690,7 @@ space_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_2 : Css.Style
 space_x_2 =
@@ -50709,7 +50709,7 @@ space_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_20 : Css.Style
 space_x_20 =
@@ -50728,7 +50728,7 @@ space_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_24 : Css.Style
 space_x_24 =
@@ -50747,7 +50747,7 @@ space_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_28 : Css.Style
 space_x_28 =
@@ -50766,7 +50766,7 @@ space_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_2_dot_5 : Css.Style
 space_x_2_dot_5 =
@@ -50785,7 +50785,7 @@ space_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_3 : Css.Style
 space_x_3 =
@@ -50804,7 +50804,7 @@ space_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_32 : Css.Style
 space_x_32 =
@@ -50823,7 +50823,7 @@ space_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_36 : Css.Style
 space_x_36 =
@@ -50842,7 +50842,7 @@ space_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_3_dot_5 : Css.Style
 space_x_3_dot_5 =
@@ -50861,7 +50861,7 @@ space_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_4 : Css.Style
 space_x_4 =
@@ -50880,7 +50880,7 @@ space_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_40 : Css.Style
 space_x_40 =
@@ -50899,7 +50899,7 @@ space_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_44 : Css.Style
 space_x_44 =
@@ -50918,7 +50918,7 @@ space_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_48 : Css.Style
 space_x_48 =
@@ -50937,7 +50937,7 @@ space_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_5 : Css.Style
 space_x_5 =
@@ -50956,7 +50956,7 @@ space_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_52 : Css.Style
 space_x_52 =
@@ -50975,7 +50975,7 @@ space_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_56 : Css.Style
 space_x_56 =
@@ -50994,7 +50994,7 @@ space_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_6 : Css.Style
 space_x_6 =
@@ -51013,7 +51013,7 @@ space_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_60 : Css.Style
 space_x_60 =
@@ -51032,7 +51032,7 @@ space_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_64 : Css.Style
 space_x_64 =
@@ -51051,7 +51051,7 @@ space_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_7 : Css.Style
 space_x_7 =
@@ -51070,7 +51070,7 @@ space_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_72 : Css.Style
 space_x_72 =
@@ -51089,7 +51089,7 @@ space_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_8 : Css.Style
 space_x_8 =
@@ -51108,7 +51108,7 @@ space_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_80 : Css.Style
 space_x_80 =
@@ -51127,7 +51127,7 @@ space_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_9 : Css.Style
 space_x_9 =
@@ -51146,7 +51146,7 @@ space_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_96 : Css.Style
 space_x_96 =
@@ -51165,7 +51165,7 @@ space_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_px : Css.Style
 space_x_px =
@@ -51184,7 +51184,7 @@ space_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_x_reverse : Css.Style
 space_x_reverse =
@@ -51201,7 +51201,7 @@ space_x_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_0 : Css.Style
 space_y_0 =
@@ -51220,7 +51220,7 @@ space_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_0_dot_5 : Css.Style
 space_y_0_dot_5 =
@@ -51239,7 +51239,7 @@ space_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_1 : Css.Style
 space_y_1 =
@@ -51258,7 +51258,7 @@ space_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_10 : Css.Style
 space_y_10 =
@@ -51277,7 +51277,7 @@ space_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_11 : Css.Style
 space_y_11 =
@@ -51296,7 +51296,7 @@ space_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_12 : Css.Style
 space_y_12 =
@@ -51315,7 +51315,7 @@ space_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_14 : Css.Style
 space_y_14 =
@@ -51334,7 +51334,7 @@ space_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_16 : Css.Style
 space_y_16 =
@@ -51353,7 +51353,7 @@ space_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_1_dot_5 : Css.Style
 space_y_1_dot_5 =
@@ -51372,7 +51372,7 @@ space_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_2 : Css.Style
 space_y_2 =
@@ -51391,7 +51391,7 @@ space_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_20 : Css.Style
 space_y_20 =
@@ -51410,7 +51410,7 @@ space_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_24 : Css.Style
 space_y_24 =
@@ -51429,7 +51429,7 @@ space_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_28 : Css.Style
 space_y_28 =
@@ -51448,7 +51448,7 @@ space_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_2_dot_5 : Css.Style
 space_y_2_dot_5 =
@@ -51467,7 +51467,7 @@ space_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_3 : Css.Style
 space_y_3 =
@@ -51486,7 +51486,7 @@ space_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_32 : Css.Style
 space_y_32 =
@@ -51505,7 +51505,7 @@ space_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_36 : Css.Style
 space_y_36 =
@@ -51524,7 +51524,7 @@ space_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_3_dot_5 : Css.Style
 space_y_3_dot_5 =
@@ -51543,7 +51543,7 @@ space_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_4 : Css.Style
 space_y_4 =
@@ -51562,7 +51562,7 @@ space_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_40 : Css.Style
 space_y_40 =
@@ -51581,7 +51581,7 @@ space_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_44 : Css.Style
 space_y_44 =
@@ -51600,7 +51600,7 @@ space_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_48 : Css.Style
 space_y_48 =
@@ -51619,7 +51619,7 @@ space_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_5 : Css.Style
 space_y_5 =
@@ -51638,7 +51638,7 @@ space_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_52 : Css.Style
 space_y_52 =
@@ -51657,7 +51657,7 @@ space_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_56 : Css.Style
 space_y_56 =
@@ -51676,7 +51676,7 @@ space_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_6 : Css.Style
 space_y_6 =
@@ -51695,7 +51695,7 @@ space_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_60 : Css.Style
 space_y_60 =
@@ -51714,7 +51714,7 @@ space_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_64 : Css.Style
 space_y_64 =
@@ -51733,7 +51733,7 @@ space_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_7 : Css.Style
 space_y_7 =
@@ -51752,7 +51752,7 @@ space_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_72 : Css.Style
 space_y_72 =
@@ -51771,7 +51771,7 @@ space_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_8 : Css.Style
 space_y_8 =
@@ -51790,7 +51790,7 @@ space_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_80 : Css.Style
 space_y_80 =
@@ -51809,7 +51809,7 @@ space_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_9 : Css.Style
 space_y_9 =
@@ -51828,7 +51828,7 @@ space_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_96 : Css.Style
 space_y_96 =
@@ -51847,7 +51847,7 @@ space_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_px : Css.Style
 space_y_px =
@@ -51866,7 +51866,7 @@ space_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 space_y_reverse : Css.Style
 space_y_reverse =
@@ -51883,7 +51883,7 @@ space_y_reverse =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 sr_only : Css.Style
 sr_only =
@@ -51904,7 +51904,7 @@ sr_only =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 stacked_fractions : Css.Style
 stacked_fractions =
@@ -51923,7 +51923,7 @@ stacked_fractions =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 static : Css.Style
 static =
@@ -51934,7 +51934,7 @@ static =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 sticky : Css.Style
 sticky =
@@ -51945,7 +51945,7 @@ sticky =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 stroke_0 : Css.Style
 stroke_0 =
@@ -51956,7 +51956,7 @@ stroke_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 stroke_1 : Css.Style
 stroke_1 =
@@ -51967,7 +51967,7 @@ stroke_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 stroke_2 : Css.Style
 stroke_2 =
@@ -51978,7 +51978,7 @@ stroke_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 stroke_current : Css.Style
 stroke_current =
@@ -51989,7 +51989,7 @@ stroke_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 subpixel_antialiased : Css.Style
 subpixel_antialiased =
@@ -52003,7 +52003,7 @@ subpixel_antialiased =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table : Css.Style
 table =
@@ -52014,7 +52014,7 @@ table =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_auto : Css.Style
 table_auto =
@@ -52025,7 +52025,7 @@ table_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_caption : Css.Style
 table_caption =
@@ -52036,7 +52036,7 @@ table_caption =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_cell : Css.Style
 table_cell =
@@ -52047,7 +52047,7 @@ table_cell =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_column : Css.Style
 table_column =
@@ -52058,7 +52058,7 @@ table_column =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_column_group : Css.Style
 table_column_group =
@@ -52069,7 +52069,7 @@ table_column_group =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_fixed : Css.Style
 table_fixed =
@@ -52080,7 +52080,7 @@ table_fixed =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_footer_group : Css.Style
 table_footer_group =
@@ -52091,7 +52091,7 @@ table_footer_group =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_header_group : Css.Style
 table_header_group =
@@ -52102,7 +52102,7 @@ table_header_group =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_row : Css.Style
 table_row =
@@ -52113,7 +52113,7 @@ table_row =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 table_row_group : Css.Style
 table_row_group =
@@ -52124,7 +52124,7 @@ table_row_group =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tabular_nums : Css.Style
 tabular_nums =
@@ -52143,7 +52143,7 @@ tabular_nums =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_2xl : Css.Style
 text_2xl =
@@ -52157,7 +52157,7 @@ text_2xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_3xl : Css.Style
 text_3xl =
@@ -52171,7 +52171,7 @@ text_3xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_4xl : Css.Style
 text_4xl =
@@ -52185,7 +52185,7 @@ text_4xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_5xl : Css.Style
 text_5xl =
@@ -52199,7 +52199,7 @@ text_5xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_6xl : Css.Style
 text_6xl =
@@ -52213,7 +52213,7 @@ text_6xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_7xl : Css.Style
 text_7xl =
@@ -52227,7 +52227,7 @@ text_7xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_8xl : Css.Style
 text_8xl =
@@ -52241,7 +52241,7 @@ text_8xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_9xl : Css.Style
 text_9xl =
@@ -52255,7 +52255,7 @@ text_9xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_base : Css.Style
 text_base =
@@ -52269,7 +52269,7 @@ text_base =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_black : Css.Style
 text_black =
@@ -52283,7 +52283,7 @@ text_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_100 : Css.Style
 text_blue_100 =
@@ -52297,7 +52297,7 @@ text_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_200 : Css.Style
 text_blue_200 =
@@ -52311,7 +52311,7 @@ text_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_300 : Css.Style
 text_blue_300 =
@@ -52325,7 +52325,7 @@ text_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_400 : Css.Style
 text_blue_400 =
@@ -52339,7 +52339,7 @@ text_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_50 : Css.Style
 text_blue_50 =
@@ -52353,7 +52353,7 @@ text_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_500 : Css.Style
 text_blue_500 =
@@ -52367,7 +52367,7 @@ text_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_600 : Css.Style
 text_blue_600 =
@@ -52381,7 +52381,7 @@ text_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_700 : Css.Style
 text_blue_700 =
@@ -52395,7 +52395,7 @@ text_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_800 : Css.Style
 text_blue_800 =
@@ -52409,7 +52409,7 @@ text_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_blue_900 : Css.Style
 text_blue_900 =
@@ -52423,7 +52423,7 @@ text_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_center : Css.Style
 text_center =
@@ -52434,7 +52434,7 @@ text_center =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_current : Css.Style
 text_current =
@@ -52445,7 +52445,7 @@ text_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_100 : Css.Style
 text_gray_100 =
@@ -52459,7 +52459,7 @@ text_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_200 : Css.Style
 text_gray_200 =
@@ -52473,7 +52473,7 @@ text_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_300 : Css.Style
 text_gray_300 =
@@ -52487,7 +52487,7 @@ text_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_400 : Css.Style
 text_gray_400 =
@@ -52501,7 +52501,7 @@ text_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_50 : Css.Style
 text_gray_50 =
@@ -52515,7 +52515,7 @@ text_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_500 : Css.Style
 text_gray_500 =
@@ -52529,7 +52529,7 @@ text_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_600 : Css.Style
 text_gray_600 =
@@ -52543,7 +52543,7 @@ text_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_700 : Css.Style
 text_gray_700 =
@@ -52557,7 +52557,7 @@ text_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_800 : Css.Style
 text_gray_800 =
@@ -52571,7 +52571,7 @@ text_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_gray_900 : Css.Style
 text_gray_900 =
@@ -52585,7 +52585,7 @@ text_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_100 : Css.Style
 text_green_100 =
@@ -52599,7 +52599,7 @@ text_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_200 : Css.Style
 text_green_200 =
@@ -52613,7 +52613,7 @@ text_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_300 : Css.Style
 text_green_300 =
@@ -52627,7 +52627,7 @@ text_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_400 : Css.Style
 text_green_400 =
@@ -52641,7 +52641,7 @@ text_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_50 : Css.Style
 text_green_50 =
@@ -52655,7 +52655,7 @@ text_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_500 : Css.Style
 text_green_500 =
@@ -52669,7 +52669,7 @@ text_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_600 : Css.Style
 text_green_600 =
@@ -52683,7 +52683,7 @@ text_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_700 : Css.Style
 text_green_700 =
@@ -52697,7 +52697,7 @@ text_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_800 : Css.Style
 text_green_800 =
@@ -52711,7 +52711,7 @@ text_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_green_900 : Css.Style
 text_green_900 =
@@ -52725,7 +52725,7 @@ text_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_100 : Css.Style
 text_indigo_100 =
@@ -52739,7 +52739,7 @@ text_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_200 : Css.Style
 text_indigo_200 =
@@ -52753,7 +52753,7 @@ text_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_300 : Css.Style
 text_indigo_300 =
@@ -52767,7 +52767,7 @@ text_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_400 : Css.Style
 text_indigo_400 =
@@ -52781,7 +52781,7 @@ text_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_50 : Css.Style
 text_indigo_50 =
@@ -52795,7 +52795,7 @@ text_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_500 : Css.Style
 text_indigo_500 =
@@ -52809,7 +52809,7 @@ text_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_600 : Css.Style
 text_indigo_600 =
@@ -52823,7 +52823,7 @@ text_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_700 : Css.Style
 text_indigo_700 =
@@ -52837,7 +52837,7 @@ text_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_800 : Css.Style
 text_indigo_800 =
@@ -52851,7 +52851,7 @@ text_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_indigo_900 : Css.Style
 text_indigo_900 =
@@ -52865,7 +52865,7 @@ text_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_justify : Css.Style
 text_justify =
@@ -52876,7 +52876,7 @@ text_justify =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_left : Css.Style
 text_left =
@@ -52887,7 +52887,7 @@ text_left =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_lg : Css.Style
 text_lg =
@@ -52901,7 +52901,7 @@ text_lg =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_0 : Css.Style
 text_opacity_0 =
@@ -52912,7 +52912,7 @@ text_opacity_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_10 : Css.Style
 text_opacity_10 =
@@ -52923,7 +52923,7 @@ text_opacity_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_100 : Css.Style
 text_opacity_100 =
@@ -52934,7 +52934,7 @@ text_opacity_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_20 : Css.Style
 text_opacity_20 =
@@ -52945,7 +52945,7 @@ text_opacity_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_25 : Css.Style
 text_opacity_25 =
@@ -52956,7 +52956,7 @@ text_opacity_25 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_30 : Css.Style
 text_opacity_30 =
@@ -52967,7 +52967,7 @@ text_opacity_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_40 : Css.Style
 text_opacity_40 =
@@ -52978,7 +52978,7 @@ text_opacity_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_5 : Css.Style
 text_opacity_5 =
@@ -52989,7 +52989,7 @@ text_opacity_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_50 : Css.Style
 text_opacity_50 =
@@ -53000,7 +53000,7 @@ text_opacity_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_60 : Css.Style
 text_opacity_60 =
@@ -53011,7 +53011,7 @@ text_opacity_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_70 : Css.Style
 text_opacity_70 =
@@ -53022,7 +53022,7 @@ text_opacity_70 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_75 : Css.Style
 text_opacity_75 =
@@ -53033,7 +53033,7 @@ text_opacity_75 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_80 : Css.Style
 text_opacity_80 =
@@ -53044,7 +53044,7 @@ text_opacity_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_90 : Css.Style
 text_opacity_90 =
@@ -53055,7 +53055,7 @@ text_opacity_90 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_opacity_95 : Css.Style
 text_opacity_95 =
@@ -53066,7 +53066,7 @@ text_opacity_95 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_100 : Css.Style
 text_pink_100 =
@@ -53080,7 +53080,7 @@ text_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_200 : Css.Style
 text_pink_200 =
@@ -53094,7 +53094,7 @@ text_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_300 : Css.Style
 text_pink_300 =
@@ -53108,7 +53108,7 @@ text_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_400 : Css.Style
 text_pink_400 =
@@ -53122,7 +53122,7 @@ text_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_50 : Css.Style
 text_pink_50 =
@@ -53136,7 +53136,7 @@ text_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_500 : Css.Style
 text_pink_500 =
@@ -53150,7 +53150,7 @@ text_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_600 : Css.Style
 text_pink_600 =
@@ -53164,7 +53164,7 @@ text_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_700 : Css.Style
 text_pink_700 =
@@ -53178,7 +53178,7 @@ text_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_800 : Css.Style
 text_pink_800 =
@@ -53192,7 +53192,7 @@ text_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_pink_900 : Css.Style
 text_pink_900 =
@@ -53206,7 +53206,7 @@ text_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_100 : Css.Style
 text_purple_100 =
@@ -53220,7 +53220,7 @@ text_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_200 : Css.Style
 text_purple_200 =
@@ -53234,7 +53234,7 @@ text_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_300 : Css.Style
 text_purple_300 =
@@ -53248,7 +53248,7 @@ text_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_400 : Css.Style
 text_purple_400 =
@@ -53262,7 +53262,7 @@ text_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_50 : Css.Style
 text_purple_50 =
@@ -53276,7 +53276,7 @@ text_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_500 : Css.Style
 text_purple_500 =
@@ -53290,7 +53290,7 @@ text_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_600 : Css.Style
 text_purple_600 =
@@ -53304,7 +53304,7 @@ text_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_700 : Css.Style
 text_purple_700 =
@@ -53318,7 +53318,7 @@ text_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_800 : Css.Style
 text_purple_800 =
@@ -53332,7 +53332,7 @@ text_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_purple_900 : Css.Style
 text_purple_900 =
@@ -53346,7 +53346,7 @@ text_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_100 : Css.Style
 text_red_100 =
@@ -53360,7 +53360,7 @@ text_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_200 : Css.Style
 text_red_200 =
@@ -53374,7 +53374,7 @@ text_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_300 : Css.Style
 text_red_300 =
@@ -53388,7 +53388,7 @@ text_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_400 : Css.Style
 text_red_400 =
@@ -53402,7 +53402,7 @@ text_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_50 : Css.Style
 text_red_50 =
@@ -53416,7 +53416,7 @@ text_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_500 : Css.Style
 text_red_500 =
@@ -53430,7 +53430,7 @@ text_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_600 : Css.Style
 text_red_600 =
@@ -53444,7 +53444,7 @@ text_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_700 : Css.Style
 text_red_700 =
@@ -53458,7 +53458,7 @@ text_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_800 : Css.Style
 text_red_800 =
@@ -53472,7 +53472,7 @@ text_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_red_900 : Css.Style
 text_red_900 =
@@ -53486,7 +53486,7 @@ text_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_right : Css.Style
 text_right =
@@ -53497,7 +53497,7 @@ text_right =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_sm : Css.Style
 text_sm =
@@ -53511,7 +53511,7 @@ text_sm =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_transparent : Css.Style
 text_transparent =
@@ -53522,7 +53522,7 @@ text_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_white : Css.Style
 text_white =
@@ -53536,7 +53536,7 @@ text_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_xl : Css.Style
 text_xl =
@@ -53550,7 +53550,7 @@ text_xl =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_xs : Css.Style
 text_xs =
@@ -53564,7 +53564,7 @@ text_xs =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_100 : Css.Style
 text_yellow_100 =
@@ -53578,7 +53578,7 @@ text_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_200 : Css.Style
 text_yellow_200 =
@@ -53592,7 +53592,7 @@ text_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_300 : Css.Style
 text_yellow_300 =
@@ -53606,7 +53606,7 @@ text_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_400 : Css.Style
 text_yellow_400 =
@@ -53620,7 +53620,7 @@ text_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_50 : Css.Style
 text_yellow_50 =
@@ -53634,7 +53634,7 @@ text_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_500 : Css.Style
 text_yellow_500 =
@@ -53648,7 +53648,7 @@ text_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_600 : Css.Style
 text_yellow_600 =
@@ -53662,7 +53662,7 @@ text_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_700 : Css.Style
 text_yellow_700 =
@@ -53676,7 +53676,7 @@ text_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_800 : Css.Style
 text_yellow_800 =
@@ -53690,7 +53690,7 @@ text_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 text_yellow_900 : Css.Style
 text_yellow_900 =
@@ -53704,7 +53704,7 @@ text_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_black : Css.Style
 to_black =
@@ -53715,7 +53715,7 @@ to_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_100 : Css.Style
 to_blue_100 =
@@ -53726,7 +53726,7 @@ to_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_200 : Css.Style
 to_blue_200 =
@@ -53737,7 +53737,7 @@ to_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_300 : Css.Style
 to_blue_300 =
@@ -53748,7 +53748,7 @@ to_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_400 : Css.Style
 to_blue_400 =
@@ -53759,7 +53759,7 @@ to_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_50 : Css.Style
 to_blue_50 =
@@ -53770,7 +53770,7 @@ to_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_500 : Css.Style
 to_blue_500 =
@@ -53781,7 +53781,7 @@ to_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_600 : Css.Style
 to_blue_600 =
@@ -53792,7 +53792,7 @@ to_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_700 : Css.Style
 to_blue_700 =
@@ -53803,7 +53803,7 @@ to_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_800 : Css.Style
 to_blue_800 =
@@ -53814,7 +53814,7 @@ to_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_blue_900 : Css.Style
 to_blue_900 =
@@ -53825,7 +53825,7 @@ to_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_current : Css.Style
 to_current =
@@ -53836,7 +53836,7 @@ to_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_100 : Css.Style
 to_gray_100 =
@@ -53847,7 +53847,7 @@ to_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_200 : Css.Style
 to_gray_200 =
@@ -53858,7 +53858,7 @@ to_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_300 : Css.Style
 to_gray_300 =
@@ -53869,7 +53869,7 @@ to_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_400 : Css.Style
 to_gray_400 =
@@ -53880,7 +53880,7 @@ to_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_50 : Css.Style
 to_gray_50 =
@@ -53891,7 +53891,7 @@ to_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_500 : Css.Style
 to_gray_500 =
@@ -53902,7 +53902,7 @@ to_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_600 : Css.Style
 to_gray_600 =
@@ -53913,7 +53913,7 @@ to_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_700 : Css.Style
 to_gray_700 =
@@ -53924,7 +53924,7 @@ to_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_800 : Css.Style
 to_gray_800 =
@@ -53935,7 +53935,7 @@ to_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_gray_900 : Css.Style
 to_gray_900 =
@@ -53946,7 +53946,7 @@ to_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_100 : Css.Style
 to_green_100 =
@@ -53957,7 +53957,7 @@ to_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_200 : Css.Style
 to_green_200 =
@@ -53968,7 +53968,7 @@ to_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_300 : Css.Style
 to_green_300 =
@@ -53979,7 +53979,7 @@ to_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_400 : Css.Style
 to_green_400 =
@@ -53990,7 +53990,7 @@ to_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_50 : Css.Style
 to_green_50 =
@@ -54001,7 +54001,7 @@ to_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_500 : Css.Style
 to_green_500 =
@@ -54012,7 +54012,7 @@ to_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_600 : Css.Style
 to_green_600 =
@@ -54023,7 +54023,7 @@ to_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_700 : Css.Style
 to_green_700 =
@@ -54034,7 +54034,7 @@ to_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_800 : Css.Style
 to_green_800 =
@@ -54045,7 +54045,7 @@ to_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_green_900 : Css.Style
 to_green_900 =
@@ -54056,7 +54056,7 @@ to_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_100 : Css.Style
 to_indigo_100 =
@@ -54067,7 +54067,7 @@ to_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_200 : Css.Style
 to_indigo_200 =
@@ -54078,7 +54078,7 @@ to_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_300 : Css.Style
 to_indigo_300 =
@@ -54089,7 +54089,7 @@ to_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_400 : Css.Style
 to_indigo_400 =
@@ -54100,7 +54100,7 @@ to_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_50 : Css.Style
 to_indigo_50 =
@@ -54111,7 +54111,7 @@ to_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_500 : Css.Style
 to_indigo_500 =
@@ -54122,7 +54122,7 @@ to_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_600 : Css.Style
 to_indigo_600 =
@@ -54133,7 +54133,7 @@ to_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_700 : Css.Style
 to_indigo_700 =
@@ -54144,7 +54144,7 @@ to_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_800 : Css.Style
 to_indigo_800 =
@@ -54155,7 +54155,7 @@ to_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_indigo_900 : Css.Style
 to_indigo_900 =
@@ -54166,7 +54166,7 @@ to_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_100 : Css.Style
 to_pink_100 =
@@ -54177,7 +54177,7 @@ to_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_200 : Css.Style
 to_pink_200 =
@@ -54188,7 +54188,7 @@ to_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_300 : Css.Style
 to_pink_300 =
@@ -54199,7 +54199,7 @@ to_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_400 : Css.Style
 to_pink_400 =
@@ -54210,7 +54210,7 @@ to_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_50 : Css.Style
 to_pink_50 =
@@ -54221,7 +54221,7 @@ to_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_500 : Css.Style
 to_pink_500 =
@@ -54232,7 +54232,7 @@ to_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_600 : Css.Style
 to_pink_600 =
@@ -54243,7 +54243,7 @@ to_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_700 : Css.Style
 to_pink_700 =
@@ -54254,7 +54254,7 @@ to_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_800 : Css.Style
 to_pink_800 =
@@ -54265,7 +54265,7 @@ to_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_pink_900 : Css.Style
 to_pink_900 =
@@ -54276,7 +54276,7 @@ to_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_100 : Css.Style
 to_purple_100 =
@@ -54287,7 +54287,7 @@ to_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_200 : Css.Style
 to_purple_200 =
@@ -54298,7 +54298,7 @@ to_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_300 : Css.Style
 to_purple_300 =
@@ -54309,7 +54309,7 @@ to_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_400 : Css.Style
 to_purple_400 =
@@ -54320,7 +54320,7 @@ to_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_50 : Css.Style
 to_purple_50 =
@@ -54331,7 +54331,7 @@ to_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_500 : Css.Style
 to_purple_500 =
@@ -54342,7 +54342,7 @@ to_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_600 : Css.Style
 to_purple_600 =
@@ -54353,7 +54353,7 @@ to_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_700 : Css.Style
 to_purple_700 =
@@ -54364,7 +54364,7 @@ to_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_800 : Css.Style
 to_purple_800 =
@@ -54375,7 +54375,7 @@ to_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_purple_900 : Css.Style
 to_purple_900 =
@@ -54386,7 +54386,7 @@ to_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_100 : Css.Style
 to_red_100 =
@@ -54397,7 +54397,7 @@ to_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_200 : Css.Style
 to_red_200 =
@@ -54408,7 +54408,7 @@ to_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_300 : Css.Style
 to_red_300 =
@@ -54419,7 +54419,7 @@ to_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_400 : Css.Style
 to_red_400 =
@@ -54430,7 +54430,7 @@ to_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_50 : Css.Style
 to_red_50 =
@@ -54441,7 +54441,7 @@ to_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_500 : Css.Style
 to_red_500 =
@@ -54452,7 +54452,7 @@ to_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_600 : Css.Style
 to_red_600 =
@@ -54463,7 +54463,7 @@ to_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_700 : Css.Style
 to_red_700 =
@@ -54474,7 +54474,7 @@ to_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_800 : Css.Style
 to_red_800 =
@@ -54485,7 +54485,7 @@ to_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_red_900 : Css.Style
 to_red_900 =
@@ -54496,7 +54496,7 @@ to_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_transparent : Css.Style
 to_transparent =
@@ -54507,7 +54507,7 @@ to_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_white : Css.Style
 to_white =
@@ -54518,7 +54518,7 @@ to_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_100 : Css.Style
 to_yellow_100 =
@@ -54529,7 +54529,7 @@ to_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_200 : Css.Style
 to_yellow_200 =
@@ -54540,7 +54540,7 @@ to_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_300 : Css.Style
 to_yellow_300 =
@@ -54551,7 +54551,7 @@ to_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_400 : Css.Style
 to_yellow_400 =
@@ -54562,7 +54562,7 @@ to_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_50 : Css.Style
 to_yellow_50 =
@@ -54573,7 +54573,7 @@ to_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_500 : Css.Style
 to_yellow_500 =
@@ -54584,7 +54584,7 @@ to_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_600 : Css.Style
 to_yellow_600 =
@@ -54595,7 +54595,7 @@ to_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_700 : Css.Style
 to_yellow_700 =
@@ -54606,7 +54606,7 @@ to_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_800 : Css.Style
 to_yellow_800 =
@@ -54617,7 +54617,7 @@ to_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 to_yellow_900 : Css.Style
 to_yellow_900 =
@@ -54628,7 +54628,7 @@ to_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_0 : Css.Style
 top_0 =
@@ -54639,7 +54639,7 @@ top_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_0_dot_5 : Css.Style
 top_0_dot_5 =
@@ -54650,7 +54650,7 @@ top_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_1 : Css.Style
 top_1 =
@@ -54661,7 +54661,7 @@ top_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_10 : Css.Style
 top_10 =
@@ -54672,7 +54672,7 @@ top_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_11 : Css.Style
 top_11 =
@@ -54683,7 +54683,7 @@ top_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_12 : Css.Style
 top_12 =
@@ -54694,7 +54694,7 @@ top_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_14 : Css.Style
 top_14 =
@@ -54705,7 +54705,7 @@ top_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_16 : Css.Style
 top_16 =
@@ -54716,7 +54716,7 @@ top_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_1_dot_5 : Css.Style
 top_1_dot_5 =
@@ -54727,7 +54727,7 @@ top_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_1over2 : Css.Style
 top_1over2 =
@@ -54738,7 +54738,7 @@ top_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_1over3 : Css.Style
 top_1over3 =
@@ -54749,7 +54749,7 @@ top_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_1over4 : Css.Style
 top_1over4 =
@@ -54760,7 +54760,7 @@ top_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_2 : Css.Style
 top_2 =
@@ -54771,7 +54771,7 @@ top_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_20 : Css.Style
 top_20 =
@@ -54782,7 +54782,7 @@ top_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_24 : Css.Style
 top_24 =
@@ -54793,7 +54793,7 @@ top_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_28 : Css.Style
 top_28 =
@@ -54804,7 +54804,7 @@ top_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_2_dot_5 : Css.Style
 top_2_dot_5 =
@@ -54815,7 +54815,7 @@ top_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_2over3 : Css.Style
 top_2over3 =
@@ -54826,7 +54826,7 @@ top_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_2over4 : Css.Style
 top_2over4 =
@@ -54837,7 +54837,7 @@ top_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_3 : Css.Style
 top_3 =
@@ -54848,7 +54848,7 @@ top_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_32 : Css.Style
 top_32 =
@@ -54859,7 +54859,7 @@ top_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_36 : Css.Style
 top_36 =
@@ -54870,7 +54870,7 @@ top_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_3_dot_5 : Css.Style
 top_3_dot_5 =
@@ -54881,7 +54881,7 @@ top_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_3over4 : Css.Style
 top_3over4 =
@@ -54892,7 +54892,7 @@ top_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_4 : Css.Style
 top_4 =
@@ -54903,7 +54903,7 @@ top_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_40 : Css.Style
 top_40 =
@@ -54914,7 +54914,7 @@ top_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_44 : Css.Style
 top_44 =
@@ -54925,7 +54925,7 @@ top_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_48 : Css.Style
 top_48 =
@@ -54936,7 +54936,7 @@ top_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_5 : Css.Style
 top_5 =
@@ -54947,7 +54947,7 @@ top_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_52 : Css.Style
 top_52 =
@@ -54958,7 +54958,7 @@ top_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_56 : Css.Style
 top_56 =
@@ -54969,7 +54969,7 @@ top_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_6 : Css.Style
 top_6 =
@@ -54980,7 +54980,7 @@ top_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_60 : Css.Style
 top_60 =
@@ -54991,7 +54991,7 @@ top_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_64 : Css.Style
 top_64 =
@@ -55002,7 +55002,7 @@ top_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_7 : Css.Style
 top_7 =
@@ -55013,7 +55013,7 @@ top_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_72 : Css.Style
 top_72 =
@@ -55024,7 +55024,7 @@ top_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_8 : Css.Style
 top_8 =
@@ -55035,7 +55035,7 @@ top_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_80 : Css.Style
 top_80 =
@@ -55046,7 +55046,7 @@ top_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_9 : Css.Style
 top_9 =
@@ -55057,7 +55057,7 @@ top_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_96 : Css.Style
 top_96 =
@@ -55068,7 +55068,7 @@ top_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_auto : Css.Style
 top_auto =
@@ -55079,7 +55079,7 @@ top_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_full : Css.Style
 top_full =
@@ -55090,7 +55090,7 @@ top_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 top_px : Css.Style
 top_px =
@@ -55101,7 +55101,7 @@ top_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_normal : Css.Style
 tracking_normal =
@@ -55112,7 +55112,7 @@ tracking_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_tight : Css.Style
 tracking_tight =
@@ -55123,7 +55123,7 @@ tracking_tight =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_tighter : Css.Style
 tracking_tighter =
@@ -55134,7 +55134,7 @@ tracking_tighter =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_wide : Css.Style
 tracking_wide =
@@ -55145,7 +55145,7 @@ tracking_wide =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_wider : Css.Style
 tracking_wider =
@@ -55156,7 +55156,7 @@ tracking_wider =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 tracking_widest : Css.Style
 tracking_widest =
@@ -55167,7 +55167,7 @@ tracking_widest =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transform : Css.Style
 transform =
@@ -55187,7 +55187,7 @@ transform =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transform_gpu : Css.Style
 transform_gpu =
@@ -55207,7 +55207,7 @@ transform_gpu =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transform_none : Css.Style
 transform_none =
@@ -55218,7 +55218,7 @@ transform_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition : Css.Style
 transition =
@@ -55235,7 +55235,7 @@ transition =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_all : Css.Style
 transition_all =
@@ -55250,7 +55250,7 @@ transition_all =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_colors : Css.Style
 transition_colors =
@@ -55265,7 +55265,7 @@ transition_colors =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_none : Css.Style
 transition_none =
@@ -55276,7 +55276,7 @@ transition_none =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_opacity : Css.Style
 transition_opacity =
@@ -55291,7 +55291,7 @@ transition_opacity =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_shadow : Css.Style
 transition_shadow =
@@ -55306,7 +55306,7 @@ transition_shadow =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 transition_transform : Css.Style
 transition_transform =
@@ -55321,7 +55321,7 @@ transition_transform =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_0 : Css.Style
 translate_x_0 =
@@ -55332,7 +55332,7 @@ translate_x_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_0_dot_5 : Css.Style
 translate_x_0_dot_5 =
@@ -55343,7 +55343,7 @@ translate_x_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_1 : Css.Style
 translate_x_1 =
@@ -55354,7 +55354,7 @@ translate_x_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_10 : Css.Style
 translate_x_10 =
@@ -55365,7 +55365,7 @@ translate_x_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_11 : Css.Style
 translate_x_11 =
@@ -55376,7 +55376,7 @@ translate_x_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_12 : Css.Style
 translate_x_12 =
@@ -55387,7 +55387,7 @@ translate_x_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_14 : Css.Style
 translate_x_14 =
@@ -55398,7 +55398,7 @@ translate_x_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_16 : Css.Style
 translate_x_16 =
@@ -55409,7 +55409,7 @@ translate_x_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_1_dot_5 : Css.Style
 translate_x_1_dot_5 =
@@ -55420,7 +55420,7 @@ translate_x_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_1over2 : Css.Style
 translate_x_1over2 =
@@ -55431,7 +55431,7 @@ translate_x_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_1over3 : Css.Style
 translate_x_1over3 =
@@ -55442,7 +55442,7 @@ translate_x_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_1over4 : Css.Style
 translate_x_1over4 =
@@ -55453,7 +55453,7 @@ translate_x_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_2 : Css.Style
 translate_x_2 =
@@ -55464,7 +55464,7 @@ translate_x_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_20 : Css.Style
 translate_x_20 =
@@ -55475,7 +55475,7 @@ translate_x_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_24 : Css.Style
 translate_x_24 =
@@ -55486,7 +55486,7 @@ translate_x_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_28 : Css.Style
 translate_x_28 =
@@ -55497,7 +55497,7 @@ translate_x_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_2_dot_5 : Css.Style
 translate_x_2_dot_5 =
@@ -55508,7 +55508,7 @@ translate_x_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_2over3 : Css.Style
 translate_x_2over3 =
@@ -55519,7 +55519,7 @@ translate_x_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_2over4 : Css.Style
 translate_x_2over4 =
@@ -55530,7 +55530,7 @@ translate_x_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_3 : Css.Style
 translate_x_3 =
@@ -55541,7 +55541,7 @@ translate_x_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_32 : Css.Style
 translate_x_32 =
@@ -55552,7 +55552,7 @@ translate_x_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_36 : Css.Style
 translate_x_36 =
@@ -55563,7 +55563,7 @@ translate_x_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_3_dot_5 : Css.Style
 translate_x_3_dot_5 =
@@ -55574,7 +55574,7 @@ translate_x_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_3over4 : Css.Style
 translate_x_3over4 =
@@ -55585,7 +55585,7 @@ translate_x_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_4 : Css.Style
 translate_x_4 =
@@ -55596,7 +55596,7 @@ translate_x_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_40 : Css.Style
 translate_x_40 =
@@ -55607,7 +55607,7 @@ translate_x_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_44 : Css.Style
 translate_x_44 =
@@ -55618,7 +55618,7 @@ translate_x_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_48 : Css.Style
 translate_x_48 =
@@ -55629,7 +55629,7 @@ translate_x_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_5 : Css.Style
 translate_x_5 =
@@ -55640,7 +55640,7 @@ translate_x_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_52 : Css.Style
 translate_x_52 =
@@ -55651,7 +55651,7 @@ translate_x_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_56 : Css.Style
 translate_x_56 =
@@ -55662,7 +55662,7 @@ translate_x_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_6 : Css.Style
 translate_x_6 =
@@ -55673,7 +55673,7 @@ translate_x_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_60 : Css.Style
 translate_x_60 =
@@ -55684,7 +55684,7 @@ translate_x_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_64 : Css.Style
 translate_x_64 =
@@ -55695,7 +55695,7 @@ translate_x_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_7 : Css.Style
 translate_x_7 =
@@ -55706,7 +55706,7 @@ translate_x_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_72 : Css.Style
 translate_x_72 =
@@ -55717,7 +55717,7 @@ translate_x_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_8 : Css.Style
 translate_x_8 =
@@ -55728,7 +55728,7 @@ translate_x_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_80 : Css.Style
 translate_x_80 =
@@ -55739,7 +55739,7 @@ translate_x_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_9 : Css.Style
 translate_x_9 =
@@ -55750,7 +55750,7 @@ translate_x_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_96 : Css.Style
 translate_x_96 =
@@ -55761,7 +55761,7 @@ translate_x_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_full : Css.Style
 translate_x_full =
@@ -55772,7 +55772,7 @@ translate_x_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_x_px : Css.Style
 translate_x_px =
@@ -55783,7 +55783,7 @@ translate_x_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_0 : Css.Style
 translate_y_0 =
@@ -55794,7 +55794,7 @@ translate_y_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_0_dot_5 : Css.Style
 translate_y_0_dot_5 =
@@ -55805,7 +55805,7 @@ translate_y_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_1 : Css.Style
 translate_y_1 =
@@ -55816,7 +55816,7 @@ translate_y_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_10 : Css.Style
 translate_y_10 =
@@ -55827,7 +55827,7 @@ translate_y_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_11 : Css.Style
 translate_y_11 =
@@ -55838,7 +55838,7 @@ translate_y_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_12 : Css.Style
 translate_y_12 =
@@ -55849,7 +55849,7 @@ translate_y_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_14 : Css.Style
 translate_y_14 =
@@ -55860,7 +55860,7 @@ translate_y_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_16 : Css.Style
 translate_y_16 =
@@ -55871,7 +55871,7 @@ translate_y_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_1_dot_5 : Css.Style
 translate_y_1_dot_5 =
@@ -55882,7 +55882,7 @@ translate_y_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_1over2 : Css.Style
 translate_y_1over2 =
@@ -55893,7 +55893,7 @@ translate_y_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_1over3 : Css.Style
 translate_y_1over3 =
@@ -55904,7 +55904,7 @@ translate_y_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_1over4 : Css.Style
 translate_y_1over4 =
@@ -55915,7 +55915,7 @@ translate_y_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_2 : Css.Style
 translate_y_2 =
@@ -55926,7 +55926,7 @@ translate_y_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_20 : Css.Style
 translate_y_20 =
@@ -55937,7 +55937,7 @@ translate_y_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_24 : Css.Style
 translate_y_24 =
@@ -55948,7 +55948,7 @@ translate_y_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_28 : Css.Style
 translate_y_28 =
@@ -55959,7 +55959,7 @@ translate_y_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_2_dot_5 : Css.Style
 translate_y_2_dot_5 =
@@ -55970,7 +55970,7 @@ translate_y_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_2over3 : Css.Style
 translate_y_2over3 =
@@ -55981,7 +55981,7 @@ translate_y_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_2over4 : Css.Style
 translate_y_2over4 =
@@ -55992,7 +55992,7 @@ translate_y_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_3 : Css.Style
 translate_y_3 =
@@ -56003,7 +56003,7 @@ translate_y_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_32 : Css.Style
 translate_y_32 =
@@ -56014,7 +56014,7 @@ translate_y_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_36 : Css.Style
 translate_y_36 =
@@ -56025,7 +56025,7 @@ translate_y_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_3_dot_5 : Css.Style
 translate_y_3_dot_5 =
@@ -56036,7 +56036,7 @@ translate_y_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_3over4 : Css.Style
 translate_y_3over4 =
@@ -56047,7 +56047,7 @@ translate_y_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_4 : Css.Style
 translate_y_4 =
@@ -56058,7 +56058,7 @@ translate_y_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_40 : Css.Style
 translate_y_40 =
@@ -56069,7 +56069,7 @@ translate_y_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_44 : Css.Style
 translate_y_44 =
@@ -56080,7 +56080,7 @@ translate_y_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_48 : Css.Style
 translate_y_48 =
@@ -56091,7 +56091,7 @@ translate_y_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_5 : Css.Style
 translate_y_5 =
@@ -56102,7 +56102,7 @@ translate_y_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_52 : Css.Style
 translate_y_52 =
@@ -56113,7 +56113,7 @@ translate_y_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_56 : Css.Style
 translate_y_56 =
@@ -56124,7 +56124,7 @@ translate_y_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_6 : Css.Style
 translate_y_6 =
@@ -56135,7 +56135,7 @@ translate_y_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_60 : Css.Style
 translate_y_60 =
@@ -56146,7 +56146,7 @@ translate_y_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_64 : Css.Style
 translate_y_64 =
@@ -56157,7 +56157,7 @@ translate_y_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_7 : Css.Style
 translate_y_7 =
@@ -56168,7 +56168,7 @@ translate_y_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_72 : Css.Style
 translate_y_72 =
@@ -56179,7 +56179,7 @@ translate_y_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_8 : Css.Style
 translate_y_8 =
@@ -56190,7 +56190,7 @@ translate_y_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_80 : Css.Style
 translate_y_80 =
@@ -56201,7 +56201,7 @@ translate_y_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_9 : Css.Style
 translate_y_9 =
@@ -56212,7 +56212,7 @@ translate_y_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_96 : Css.Style
 translate_y_96 =
@@ -56223,7 +56223,7 @@ translate_y_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_full : Css.Style
 translate_y_full =
@@ -56234,7 +56234,7 @@ translate_y_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 translate_y_px : Css.Style
 translate_y_px =
@@ -56245,7 +56245,7 @@ translate_y_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 truncate : Css.Style
 truncate =
@@ -56260,7 +56260,7 @@ truncate =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 underline : Css.Style
 underline =
@@ -56271,7 +56271,7 @@ underline =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 uppercase : Css.Style
 uppercase =
@@ -56282,7 +56282,7 @@ uppercase =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_black : Css.Style
 via_black =
@@ -56293,7 +56293,7 @@ via_black =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_100 : Css.Style
 via_blue_100 =
@@ -56304,7 +56304,7 @@ via_blue_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_200 : Css.Style
 via_blue_200 =
@@ -56315,7 +56315,7 @@ via_blue_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_300 : Css.Style
 via_blue_300 =
@@ -56326,7 +56326,7 @@ via_blue_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_400 : Css.Style
 via_blue_400 =
@@ -56337,7 +56337,7 @@ via_blue_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_50 : Css.Style
 via_blue_50 =
@@ -56348,7 +56348,7 @@ via_blue_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_500 : Css.Style
 via_blue_500 =
@@ -56359,7 +56359,7 @@ via_blue_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_600 : Css.Style
 via_blue_600 =
@@ -56370,7 +56370,7 @@ via_blue_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_700 : Css.Style
 via_blue_700 =
@@ -56381,7 +56381,7 @@ via_blue_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_800 : Css.Style
 via_blue_800 =
@@ -56392,7 +56392,7 @@ via_blue_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_blue_900 : Css.Style
 via_blue_900 =
@@ -56403,7 +56403,7 @@ via_blue_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_current : Css.Style
 via_current =
@@ -56414,7 +56414,7 @@ via_current =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_100 : Css.Style
 via_gray_100 =
@@ -56425,7 +56425,7 @@ via_gray_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_200 : Css.Style
 via_gray_200 =
@@ -56436,7 +56436,7 @@ via_gray_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_300 : Css.Style
 via_gray_300 =
@@ -56447,7 +56447,7 @@ via_gray_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_400 : Css.Style
 via_gray_400 =
@@ -56458,7 +56458,7 @@ via_gray_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_50 : Css.Style
 via_gray_50 =
@@ -56469,7 +56469,7 @@ via_gray_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_500 : Css.Style
 via_gray_500 =
@@ -56480,7 +56480,7 @@ via_gray_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_600 : Css.Style
 via_gray_600 =
@@ -56491,7 +56491,7 @@ via_gray_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_700 : Css.Style
 via_gray_700 =
@@ -56502,7 +56502,7 @@ via_gray_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_800 : Css.Style
 via_gray_800 =
@@ -56513,7 +56513,7 @@ via_gray_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_gray_900 : Css.Style
 via_gray_900 =
@@ -56524,7 +56524,7 @@ via_gray_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_100 : Css.Style
 via_green_100 =
@@ -56535,7 +56535,7 @@ via_green_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_200 : Css.Style
 via_green_200 =
@@ -56546,7 +56546,7 @@ via_green_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_300 : Css.Style
 via_green_300 =
@@ -56557,7 +56557,7 @@ via_green_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_400 : Css.Style
 via_green_400 =
@@ -56568,7 +56568,7 @@ via_green_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_50 : Css.Style
 via_green_50 =
@@ -56579,7 +56579,7 @@ via_green_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_500 : Css.Style
 via_green_500 =
@@ -56590,7 +56590,7 @@ via_green_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_600 : Css.Style
 via_green_600 =
@@ -56601,7 +56601,7 @@ via_green_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_700 : Css.Style
 via_green_700 =
@@ -56612,7 +56612,7 @@ via_green_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_800 : Css.Style
 via_green_800 =
@@ -56623,7 +56623,7 @@ via_green_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_green_900 : Css.Style
 via_green_900 =
@@ -56634,7 +56634,7 @@ via_green_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_100 : Css.Style
 via_indigo_100 =
@@ -56645,7 +56645,7 @@ via_indigo_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_200 : Css.Style
 via_indigo_200 =
@@ -56656,7 +56656,7 @@ via_indigo_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_300 : Css.Style
 via_indigo_300 =
@@ -56667,7 +56667,7 @@ via_indigo_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_400 : Css.Style
 via_indigo_400 =
@@ -56678,7 +56678,7 @@ via_indigo_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_50 : Css.Style
 via_indigo_50 =
@@ -56689,7 +56689,7 @@ via_indigo_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_500 : Css.Style
 via_indigo_500 =
@@ -56700,7 +56700,7 @@ via_indigo_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_600 : Css.Style
 via_indigo_600 =
@@ -56711,7 +56711,7 @@ via_indigo_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_700 : Css.Style
 via_indigo_700 =
@@ -56722,7 +56722,7 @@ via_indigo_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_800 : Css.Style
 via_indigo_800 =
@@ -56733,7 +56733,7 @@ via_indigo_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_indigo_900 : Css.Style
 via_indigo_900 =
@@ -56744,7 +56744,7 @@ via_indigo_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_100 : Css.Style
 via_pink_100 =
@@ -56755,7 +56755,7 @@ via_pink_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_200 : Css.Style
 via_pink_200 =
@@ -56766,7 +56766,7 @@ via_pink_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_300 : Css.Style
 via_pink_300 =
@@ -56777,7 +56777,7 @@ via_pink_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_400 : Css.Style
 via_pink_400 =
@@ -56788,7 +56788,7 @@ via_pink_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_50 : Css.Style
 via_pink_50 =
@@ -56799,7 +56799,7 @@ via_pink_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_500 : Css.Style
 via_pink_500 =
@@ -56810,7 +56810,7 @@ via_pink_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_600 : Css.Style
 via_pink_600 =
@@ -56821,7 +56821,7 @@ via_pink_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_700 : Css.Style
 via_pink_700 =
@@ -56832,7 +56832,7 @@ via_pink_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_800 : Css.Style
 via_pink_800 =
@@ -56843,7 +56843,7 @@ via_pink_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_pink_900 : Css.Style
 via_pink_900 =
@@ -56854,7 +56854,7 @@ via_pink_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_100 : Css.Style
 via_purple_100 =
@@ -56865,7 +56865,7 @@ via_purple_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_200 : Css.Style
 via_purple_200 =
@@ -56876,7 +56876,7 @@ via_purple_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_300 : Css.Style
 via_purple_300 =
@@ -56887,7 +56887,7 @@ via_purple_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_400 : Css.Style
 via_purple_400 =
@@ -56898,7 +56898,7 @@ via_purple_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_50 : Css.Style
 via_purple_50 =
@@ -56909,7 +56909,7 @@ via_purple_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_500 : Css.Style
 via_purple_500 =
@@ -56920,7 +56920,7 @@ via_purple_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_600 : Css.Style
 via_purple_600 =
@@ -56931,7 +56931,7 @@ via_purple_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_700 : Css.Style
 via_purple_700 =
@@ -56942,7 +56942,7 @@ via_purple_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_800 : Css.Style
 via_purple_800 =
@@ -56953,7 +56953,7 @@ via_purple_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_purple_900 : Css.Style
 via_purple_900 =
@@ -56964,7 +56964,7 @@ via_purple_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_100 : Css.Style
 via_red_100 =
@@ -56975,7 +56975,7 @@ via_red_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_200 : Css.Style
 via_red_200 =
@@ -56986,7 +56986,7 @@ via_red_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_300 : Css.Style
 via_red_300 =
@@ -56997,7 +56997,7 @@ via_red_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_400 : Css.Style
 via_red_400 =
@@ -57008,7 +57008,7 @@ via_red_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_50 : Css.Style
 via_red_50 =
@@ -57019,7 +57019,7 @@ via_red_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_500 : Css.Style
 via_red_500 =
@@ -57030,7 +57030,7 @@ via_red_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_600 : Css.Style
 via_red_600 =
@@ -57041,7 +57041,7 @@ via_red_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_700 : Css.Style
 via_red_700 =
@@ -57052,7 +57052,7 @@ via_red_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_800 : Css.Style
 via_red_800 =
@@ -57063,7 +57063,7 @@ via_red_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_red_900 : Css.Style
 via_red_900 =
@@ -57074,7 +57074,7 @@ via_red_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_transparent : Css.Style
 via_transparent =
@@ -57085,7 +57085,7 @@ via_transparent =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_white : Css.Style
 via_white =
@@ -57096,7 +57096,7 @@ via_white =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_100 : Css.Style
 via_yellow_100 =
@@ -57107,7 +57107,7 @@ via_yellow_100 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_200 : Css.Style
 via_yellow_200 =
@@ -57118,7 +57118,7 @@ via_yellow_200 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_300 : Css.Style
 via_yellow_300 =
@@ -57129,7 +57129,7 @@ via_yellow_300 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_400 : Css.Style
 via_yellow_400 =
@@ -57140,7 +57140,7 @@ via_yellow_400 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_50 : Css.Style
 via_yellow_50 =
@@ -57151,7 +57151,7 @@ via_yellow_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_500 : Css.Style
 via_yellow_500 =
@@ -57162,7 +57162,7 @@ via_yellow_500 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_600 : Css.Style
 via_yellow_600 =
@@ -57173,7 +57173,7 @@ via_yellow_600 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_700 : Css.Style
 via_yellow_700 =
@@ -57184,7 +57184,7 @@ via_yellow_700 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_800 : Css.Style
 via_yellow_800 =
@@ -57195,7 +57195,7 @@ via_yellow_800 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 via_yellow_900 : Css.Style
 via_yellow_900 =
@@ -57206,7 +57206,7 @@ via_yellow_900 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 visible : Css.Style
 visible =
@@ -57217,7 +57217,7 @@ visible =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_0 : Css.Style
 w_0 =
@@ -57228,7 +57228,7 @@ w_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_0_dot_5 : Css.Style
 w_0_dot_5 =
@@ -57239,7 +57239,7 @@ w_0_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1 : Css.Style
 w_1 =
@@ -57250,7 +57250,7 @@ w_1 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_10 : Css.Style
 w_10 =
@@ -57261,7 +57261,7 @@ w_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_10over12 : Css.Style
 w_10over12 =
@@ -57272,7 +57272,7 @@ w_10over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_11 : Css.Style
 w_11 =
@@ -57283,7 +57283,7 @@ w_11 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_11over12 : Css.Style
 w_11over12 =
@@ -57294,7 +57294,7 @@ w_11over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_12 : Css.Style
 w_12 =
@@ -57305,7 +57305,7 @@ w_12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_14 : Css.Style
 w_14 =
@@ -57316,7 +57316,7 @@ w_14 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_16 : Css.Style
 w_16 =
@@ -57327,7 +57327,7 @@ w_16 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1_dot_5 : Css.Style
 w_1_dot_5 =
@@ -57338,7 +57338,7 @@ w_1_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over12 : Css.Style
 w_1over12 =
@@ -57349,7 +57349,7 @@ w_1over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over2 : Css.Style
 w_1over2 =
@@ -57360,7 +57360,7 @@ w_1over2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over3 : Css.Style
 w_1over3 =
@@ -57371,7 +57371,7 @@ w_1over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over4 : Css.Style
 w_1over4 =
@@ -57382,7 +57382,7 @@ w_1over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over5 : Css.Style
 w_1over5 =
@@ -57393,7 +57393,7 @@ w_1over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_1over6 : Css.Style
 w_1over6 =
@@ -57404,7 +57404,7 @@ w_1over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2 : Css.Style
 w_2 =
@@ -57415,7 +57415,7 @@ w_2 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_20 : Css.Style
 w_20 =
@@ -57426,7 +57426,7 @@ w_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_24 : Css.Style
 w_24 =
@@ -57437,7 +57437,7 @@ w_24 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_28 : Css.Style
 w_28 =
@@ -57448,7 +57448,7 @@ w_28 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2_dot_5 : Css.Style
 w_2_dot_5 =
@@ -57459,7 +57459,7 @@ w_2_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2over12 : Css.Style
 w_2over12 =
@@ -57470,7 +57470,7 @@ w_2over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2over3 : Css.Style
 w_2over3 =
@@ -57481,7 +57481,7 @@ w_2over3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2over4 : Css.Style
 w_2over4 =
@@ -57492,7 +57492,7 @@ w_2over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2over5 : Css.Style
 w_2over5 =
@@ -57503,7 +57503,7 @@ w_2over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_2over6 : Css.Style
 w_2over6 =
@@ -57514,7 +57514,7 @@ w_2over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3 : Css.Style
 w_3 =
@@ -57525,7 +57525,7 @@ w_3 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_32 : Css.Style
 w_32 =
@@ -57536,7 +57536,7 @@ w_32 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_36 : Css.Style
 w_36 =
@@ -57547,7 +57547,7 @@ w_36 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3_dot_5 : Css.Style
 w_3_dot_5 =
@@ -57558,7 +57558,7 @@ w_3_dot_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3over12 : Css.Style
 w_3over12 =
@@ -57569,7 +57569,7 @@ w_3over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3over4 : Css.Style
 w_3over4 =
@@ -57580,7 +57580,7 @@ w_3over4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3over5 : Css.Style
 w_3over5 =
@@ -57591,7 +57591,7 @@ w_3over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_3over6 : Css.Style
 w_3over6 =
@@ -57602,7 +57602,7 @@ w_3over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_4 : Css.Style
 w_4 =
@@ -57613,7 +57613,7 @@ w_4 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_40 : Css.Style
 w_40 =
@@ -57624,7 +57624,7 @@ w_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_44 : Css.Style
 w_44 =
@@ -57635,7 +57635,7 @@ w_44 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_48 : Css.Style
 w_48 =
@@ -57646,7 +57646,7 @@ w_48 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_4over12 : Css.Style
 w_4over12 =
@@ -57657,7 +57657,7 @@ w_4over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_4over5 : Css.Style
 w_4over5 =
@@ -57668,7 +57668,7 @@ w_4over5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_4over6 : Css.Style
 w_4over6 =
@@ -57679,7 +57679,7 @@ w_4over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_5 : Css.Style
 w_5 =
@@ -57690,7 +57690,7 @@ w_5 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_52 : Css.Style
 w_52 =
@@ -57701,7 +57701,7 @@ w_52 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_56 : Css.Style
 w_56 =
@@ -57712,7 +57712,7 @@ w_56 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_5over12 : Css.Style
 w_5over12 =
@@ -57723,7 +57723,7 @@ w_5over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_5over6 : Css.Style
 w_5over6 =
@@ -57734,7 +57734,7 @@ w_5over6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_6 : Css.Style
 w_6 =
@@ -57745,7 +57745,7 @@ w_6 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_60 : Css.Style
 w_60 =
@@ -57756,7 +57756,7 @@ w_60 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_64 : Css.Style
 w_64 =
@@ -57767,7 +57767,7 @@ w_64 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_6over12 : Css.Style
 w_6over12 =
@@ -57778,7 +57778,7 @@ w_6over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_7 : Css.Style
 w_7 =
@@ -57789,7 +57789,7 @@ w_7 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_72 : Css.Style
 w_72 =
@@ -57800,7 +57800,7 @@ w_72 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_7over12 : Css.Style
 w_7over12 =
@@ -57811,7 +57811,7 @@ w_7over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_8 : Css.Style
 w_8 =
@@ -57822,7 +57822,7 @@ w_8 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_80 : Css.Style
 w_80 =
@@ -57833,7 +57833,7 @@ w_80 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_8over12 : Css.Style
 w_8over12 =
@@ -57844,7 +57844,7 @@ w_8over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_9 : Css.Style
 w_9 =
@@ -57855,7 +57855,7 @@ w_9 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_96 : Css.Style
 w_96 =
@@ -57866,7 +57866,7 @@ w_96 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_9over12 : Css.Style
 w_9over12 =
@@ -57877,7 +57877,7 @@ w_9over12 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_auto : Css.Style
 w_auto =
@@ -57888,7 +57888,7 @@ w_auto =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_full : Css.Style
 w_full =
@@ -57899,7 +57899,7 @@ w_full =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_max : Css.Style
 w_max =
@@ -57914,7 +57914,7 @@ w_max =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_min : Css.Style
 w_min =
@@ -57929,7 +57929,7 @@ w_min =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_px : Css.Style
 w_px =
@@ -57940,7 +57940,7 @@ w_px =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 w_screen : Css.Style
 w_screen =
@@ -57951,7 +57951,7 @@ w_screen =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 whitespace_normal : Css.Style
 whitespace_normal =
@@ -57962,7 +57962,7 @@ whitespace_normal =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 whitespace_nowrap : Css.Style
 whitespace_nowrap =
@@ -57973,7 +57973,7 @@ whitespace_nowrap =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 whitespace_pre : Css.Style
 whitespace_pre =
@@ -57984,7 +57984,7 @@ whitespace_pre =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 whitespace_pre_line : Css.Style
 whitespace_pre_line =
@@ -57995,7 +57995,7 @@ whitespace_pre_line =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 whitespace_pre_wrap : Css.Style
 whitespace_pre_wrap =
@@ -58006,7 +58006,7 @@ whitespace_pre_wrap =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_0 : Css.Style
 z_0 =
@@ -58017,7 +58017,7 @@ z_0 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_10 : Css.Style
 z_10 =
@@ -58028,7 +58028,7 @@ z_10 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_20 : Css.Style
 z_20 =
@@ -58039,7 +58039,7 @@ z_20 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_30 : Css.Style
 z_30 =
@@ -58050,7 +58050,7 @@ z_30 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_40 : Css.Style
 z_40 =
@@ -58061,7 +58061,7 @@ z_40 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_50 : Css.Style
 z_50 =
@@ -58072,7 +58072,7 @@ z_50 =
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 
 z_auto : Css.Style
 z_auto =

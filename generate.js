@@ -49,7 +49,7 @@ ${definedNames.map(c => `@docs ${c}`).join("\n")}
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
-|-}
+-}
 `,
 };
 
