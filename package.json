@@ -1,7 +1,7 @@
 {
   "name": "elm-default-tailwind-modules",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The default tailwind classes in Elm as elm-css generated using elm-tailwind-modules",
   "main": "generate.js",
   "repository": "https://github.com/matheus23/elm-default-tailwind-modules",
@@ -9,11 +9,12 @@
   "license": "MIT",
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.0",
-    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.2",
     "@tailwindcss/typography": "^0.4.0",
-    "autoprefixer": "^10.2.4",
-    "postcss": "^8.2.6",
-    "tailwindcss": "^2.0.3"
+    "@yarnpkg/lockfile": "^1.1.0",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2"
   },
   "scripts": {
     "start": "node generate.js"
