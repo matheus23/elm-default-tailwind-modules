@@ -722,89 +722,9 @@ module Tailwind.Utilities exposing
     , form_select
     , form_textarea
     , from_black
-    , from_blue_100
-    , from_blue_200
-    , from_blue_300
-    , from_blue_400
-    , from_blue_50
-    , from_blue_500
-    , from_blue_600
-    , from_blue_700
-    , from_blue_800
-    , from_blue_900
     , from_current
-    , from_gray_100
-    , from_gray_200
-    , from_gray_300
-    , from_gray_400
-    , from_gray_50
-    , from_gray_500
-    , from_gray_600
-    , from_gray_700
-    , from_gray_800
-    , from_gray_900
-    , from_green_100
-    , from_green_200
-    , from_green_300
-    , from_green_400
-    , from_green_50
-    , from_green_500
-    , from_green_600
-    , from_green_700
-    , from_green_800
-    , from_green_900
-    , from_indigo_100
-    , from_indigo_200
-    , from_indigo_300
-    , from_indigo_400
-    , from_indigo_50
-    , from_indigo_500
-    , from_indigo_600
-    , from_indigo_700
-    , from_indigo_800
-    , from_indigo_900
-    , from_pink_100
-    , from_pink_200
-    , from_pink_300
-    , from_pink_400
-    , from_pink_50
-    , from_pink_500
-    , from_pink_600
-    , from_pink_700
-    , from_pink_800
-    , from_pink_900
-    , from_purple_100
-    , from_purple_200
-    , from_purple_300
-    , from_purple_400
-    , from_purple_50
-    , from_purple_500
-    , from_purple_600
-    , from_purple_700
-    , from_purple_800
-    , from_purple_900
-    , from_red_100
-    , from_red_200
-    , from_red_300
-    , from_red_400
-    , from_red_50
-    , from_red_500
-    , from_red_600
-    , from_red_700
-    , from_red_800
-    , from_red_900
     , from_transparent
     , from_white
-    , from_yellow_100
-    , from_yellow_200
-    , from_yellow_300
-    , from_yellow_400
-    , from_yellow_50
-    , from_yellow_500
-    , from_yellow_600
-    , from_yellow_700
-    , from_yellow_800
-    , from_yellow_900
     , gap_0
     , gap_0_dot_5
     , gap_1
@@ -3373,89 +3293,9 @@ module Tailwind.Utilities exposing
     , text_yellow_800
     , text_yellow_900
     , to_black
-    , to_blue_100
-    , to_blue_200
-    , to_blue_300
-    , to_blue_400
-    , to_blue_50
-    , to_blue_500
-    , to_blue_600
-    , to_blue_700
-    , to_blue_800
-    , to_blue_900
     , to_current
-    , to_gray_100
-    , to_gray_200
-    , to_gray_300
-    , to_gray_400
-    , to_gray_50
-    , to_gray_500
-    , to_gray_600
-    , to_gray_700
-    , to_gray_800
-    , to_gray_900
-    , to_green_100
-    , to_green_200
-    , to_green_300
-    , to_green_400
-    , to_green_50
-    , to_green_500
-    , to_green_600
-    , to_green_700
-    , to_green_800
-    , to_green_900
-    , to_indigo_100
-    , to_indigo_200
-    , to_indigo_300
-    , to_indigo_400
-    , to_indigo_50
-    , to_indigo_500
-    , to_indigo_600
-    , to_indigo_700
-    , to_indigo_800
-    , to_indigo_900
-    , to_pink_100
-    , to_pink_200
-    , to_pink_300
-    , to_pink_400
-    , to_pink_50
-    , to_pink_500
-    , to_pink_600
-    , to_pink_700
-    , to_pink_800
-    , to_pink_900
-    , to_purple_100
-    , to_purple_200
-    , to_purple_300
-    , to_purple_400
-    , to_purple_50
-    , to_purple_500
-    , to_purple_600
-    , to_purple_700
-    , to_purple_800
-    , to_purple_900
-    , to_red_100
-    , to_red_200
-    , to_red_300
-    , to_red_400
-    , to_red_50
-    , to_red_500
-    , to_red_600
-    , to_red_700
-    , to_red_800
-    , to_red_900
     , to_transparent
     , to_white
-    , to_yellow_100
-    , to_yellow_200
-    , to_yellow_300
-    , to_yellow_400
-    , to_yellow_50
-    , to_yellow_500
-    , to_yellow_600
-    , to_yellow_700
-    , to_yellow_800
-    , to_yellow_900
     , top_0
     , top_0_dot_5
     , top_1
@@ -3603,89 +3443,9 @@ module Tailwind.Utilities exposing
     , underline
     , uppercase
     , via_black
-    , via_blue_100
-    , via_blue_200
-    , via_blue_300
-    , via_blue_400
-    , via_blue_50
-    , via_blue_500
-    , via_blue_600
-    , via_blue_700
-    , via_blue_800
-    , via_blue_900
     , via_current
-    , via_gray_100
-    , via_gray_200
-    , via_gray_300
-    , via_gray_400
-    , via_gray_50
-    , via_gray_500
-    , via_gray_600
-    , via_gray_700
-    , via_gray_800
-    , via_gray_900
-    , via_green_100
-    , via_green_200
-    , via_green_300
-    , via_green_400
-    , via_green_50
-    , via_green_500
-    , via_green_600
-    , via_green_700
-    , via_green_800
-    , via_green_900
-    , via_indigo_100
-    , via_indigo_200
-    , via_indigo_300
-    , via_indigo_400
-    , via_indigo_50
-    , via_indigo_500
-    , via_indigo_600
-    , via_indigo_700
-    , via_indigo_800
-    , via_indigo_900
-    , via_pink_100
-    , via_pink_200
-    , via_pink_300
-    , via_pink_400
-    , via_pink_50
-    , via_pink_500
-    , via_pink_600
-    , via_pink_700
-    , via_pink_800
-    , via_pink_900
-    , via_purple_100
-    , via_purple_200
-    , via_purple_300
-    , via_purple_400
-    , via_purple_50
-    , via_purple_500
-    , via_purple_600
-    , via_purple_700
-    , via_purple_800
-    , via_purple_900
-    , via_red_100
-    , via_red_200
-    , via_red_300
-    , via_red_400
-    , via_red_50
-    , via_red_500
-    , via_red_600
-    , via_red_700
-    , via_red_800
-    , via_red_900
     , via_transparent
     , via_white
-    , via_yellow_100
-    , via_yellow_200
-    , via_yellow_300
-    , via_yellow_400
-    , via_yellow_50
-    , via_yellow_500
-    , via_yellow_600
-    , via_yellow_700
-    , via_yellow_800
-    , via_yellow_900
     , visible
     , w_0
     , w_0_dot_5
@@ -4185,6 +3945,666 @@ module Tailwind.Utilities exposing
     , divide_rose_700
     , divide_rose_800
     , divide_rose_900
+    , from_slate_50
+    , from_slate_100
+    , from_slate_200
+    , from_slate_300
+    , from_slate_400
+    , from_slate_500
+    , from_slate_600
+    , from_slate_700
+    , from_slate_800
+    , from_slate_900
+    , from_gray_50
+    , from_gray_100
+    , from_gray_200
+    , from_gray_300
+    , from_gray_400
+    , from_gray_500
+    , from_gray_600
+    , from_gray_700
+    , from_gray_800
+    , from_gray_900
+    , from_zinc_50
+    , from_zinc_100
+    , from_zinc_200
+    , from_zinc_300
+    , from_zinc_400
+    , from_zinc_500
+    , from_zinc_600
+    , from_zinc_700
+    , from_zinc_800
+    , from_zinc_900
+    , from_neutral_50
+    , from_neutral_100
+    , from_neutral_200
+    , from_neutral_300
+    , from_neutral_400
+    , from_neutral_500
+    , from_neutral_600
+    , from_neutral_700
+    , from_neutral_800
+    , from_neutral_900
+    , from_stone_50
+    , from_stone_100
+    , from_stone_200
+    , from_stone_300
+    , from_stone_400
+    , from_stone_500
+    , from_stone_600
+    , from_stone_700
+    , from_stone_800
+    , from_stone_900
+    , from_red_50
+    , from_red_100
+    , from_red_200
+    , from_red_300
+    , from_red_400
+    , from_red_500
+    , from_red_600
+    , from_red_700
+    , from_red_800
+    , from_red_900
+    , from_orange_50
+    , from_orange_100
+    , from_orange_200
+    , from_orange_300
+    , from_orange_400
+    , from_orange_500
+    , from_orange_600
+    , from_orange_700
+    , from_orange_800
+    , from_orange_900
+    , from_amber_50
+    , from_amber_100
+    , from_amber_200
+    , from_amber_300
+    , from_amber_400
+    , from_amber_500
+    , from_amber_600
+    , from_amber_700
+    , from_amber_800
+    , from_amber_900
+    , from_yellow_50
+    , from_yellow_100
+    , from_yellow_200
+    , from_yellow_300
+    , from_yellow_400
+    , from_yellow_500
+    , from_yellow_600
+    , from_yellow_700
+    , from_yellow_800
+    , from_yellow_900
+    , from_lime_50
+    , from_lime_100
+    , from_lime_200
+    , from_lime_300
+    , from_lime_400
+    , from_lime_500
+    , from_lime_600
+    , from_lime_700
+    , from_lime_800
+    , from_lime_900
+    , from_green_50
+    , from_green_100
+    , from_green_200
+    , from_green_300
+    , from_green_400
+    , from_green_500
+    , from_green_600
+    , from_green_700
+    , from_green_800
+    , from_green_900
+    , from_emerald_50
+    , from_emerald_100
+    , from_emerald_200
+    , from_emerald_300
+    , from_emerald_400
+    , from_emerald_500
+    , from_emerald_600
+    , from_emerald_700
+    , from_emerald_800
+    , from_emerald_900
+    , from_teal_50
+    , from_teal_100
+    , from_teal_200
+    , from_teal_300
+    , from_teal_400
+    , from_teal_500
+    , from_teal_600
+    , from_teal_700
+    , from_teal_800
+    , from_teal_900
+    , from_cyan_50
+    , from_cyan_100
+    , from_cyan_200
+    , from_cyan_300
+    , from_cyan_400
+    , from_cyan_500
+    , from_cyan_600
+    , from_cyan_700
+    , from_cyan_800
+    , from_cyan_900
+    , from_sky_50
+    , from_sky_100
+    , from_sky_200
+    , from_sky_300
+    , from_sky_400
+    , from_sky_500
+    , from_sky_600
+    , from_sky_700
+    , from_sky_800
+    , from_sky_900
+    , from_blue_50
+    , from_blue_100
+    , from_blue_200
+    , from_blue_300
+    , from_blue_400
+    , from_blue_500
+    , from_blue_600
+    , from_blue_700
+    , from_blue_800
+    , from_blue_900
+    , from_indigo_50
+    , from_indigo_100
+    , from_indigo_200
+    , from_indigo_300
+    , from_indigo_400
+    , from_indigo_500
+    , from_indigo_600
+    , from_indigo_700
+    , from_indigo_800
+    , from_indigo_900
+    , from_violet_50
+    , from_violet_100
+    , from_violet_200
+    , from_violet_300
+    , from_violet_400
+    , from_violet_500
+    , from_violet_600
+    , from_violet_700
+    , from_violet_800
+    , from_violet_900
+    , from_purple_50
+    , from_purple_100
+    , from_purple_200
+    , from_purple_300
+    , from_purple_400
+    , from_purple_500
+    , from_purple_600
+    , from_purple_700
+    , from_purple_800
+    , from_purple_900
+    , from_fuchsia_50
+    , from_fuchsia_100
+    , from_fuchsia_200
+    , from_fuchsia_300
+    , from_fuchsia_400
+    , from_fuchsia_500
+    , from_fuchsia_600
+    , from_fuchsia_700
+    , from_fuchsia_800
+    , from_fuchsia_900
+    , from_pink_50
+    , from_pink_100
+    , from_pink_200
+    , from_pink_300
+    , from_pink_400
+    , from_pink_500
+    , from_pink_600
+    , from_pink_700
+    , from_pink_800
+    , from_pink_900
+    , from_rose_50
+    , from_rose_100
+    , from_rose_200
+    , from_rose_300
+    , from_rose_400
+    , from_rose_500
+    , from_rose_600
+    , from_rose_700
+    , from_rose_800
+    , from_rose_900
+    , via_slate_50
+    , via_slate_100
+    , via_slate_200
+    , via_slate_300
+    , via_slate_400
+    , via_slate_500
+    , via_slate_600
+    , via_slate_700
+    , via_slate_800
+    , via_slate_900
+    , via_gray_50
+    , via_gray_100
+    , via_gray_200
+    , via_gray_300
+    , via_gray_400
+    , via_gray_500
+    , via_gray_600
+    , via_gray_700
+    , via_gray_800
+    , via_gray_900
+    , via_zinc_50
+    , via_zinc_100
+    , via_zinc_200
+    , via_zinc_300
+    , via_zinc_400
+    , via_zinc_500
+    , via_zinc_600
+    , via_zinc_700
+    , via_zinc_800
+    , via_zinc_900
+    , via_neutral_50
+    , via_neutral_100
+    , via_neutral_200
+    , via_neutral_300
+    , via_neutral_400
+    , via_neutral_500
+    , via_neutral_600
+    , via_neutral_700
+    , via_neutral_800
+    , via_neutral_900
+    , via_stone_50
+    , via_stone_100
+    , via_stone_200
+    , via_stone_300
+    , via_stone_400
+    , via_stone_500
+    , via_stone_600
+    , via_stone_700
+    , via_stone_800
+    , via_stone_900
+    , via_red_50
+    , via_red_100
+    , via_red_200
+    , via_red_300
+    , via_red_400
+    , via_red_500
+    , via_red_600
+    , via_red_700
+    , via_red_800
+    , via_red_900
+    , via_orange_50
+    , via_orange_100
+    , via_orange_200
+    , via_orange_300
+    , via_orange_400
+    , via_orange_500
+    , via_orange_600
+    , via_orange_700
+    , via_orange_800
+    , via_orange_900
+    , via_amber_50
+    , via_amber_100
+    , via_amber_200
+    , via_amber_300
+    , via_amber_400
+    , via_amber_500
+    , via_amber_600
+    , via_amber_700
+    , via_amber_800
+    , via_amber_900
+    , via_yellow_50
+    , via_yellow_100
+    , via_yellow_200
+    , via_yellow_300
+    , via_yellow_400
+    , via_yellow_500
+    , via_yellow_600
+    , via_yellow_700
+    , via_yellow_800
+    , via_yellow_900
+    , via_lime_50
+    , via_lime_100
+    , via_lime_200
+    , via_lime_300
+    , via_lime_400
+    , via_lime_500
+    , via_lime_600
+    , via_lime_700
+    , via_lime_800
+    , via_lime_900
+    , via_green_50
+    , via_green_100
+    , via_green_200
+    , via_green_300
+    , via_green_400
+    , via_green_500
+    , via_green_600
+    , via_green_700
+    , via_green_800
+    , via_green_900
+    , via_emerald_50
+    , via_emerald_100
+    , via_emerald_200
+    , via_emerald_300
+    , via_emerald_400
+    , via_emerald_500
+    , via_emerald_600
+    , via_emerald_700
+    , via_emerald_800
+    , via_emerald_900
+    , via_teal_50
+    , via_teal_100
+    , via_teal_200
+    , via_teal_300
+    , via_teal_400
+    , via_teal_500
+    , via_teal_600
+    , via_teal_700
+    , via_teal_800
+    , via_teal_900
+    , via_cyan_50
+    , via_cyan_100
+    , via_cyan_200
+    , via_cyan_300
+    , via_cyan_400
+    , via_cyan_500
+    , via_cyan_600
+    , via_cyan_700
+    , via_cyan_800
+    , via_cyan_900
+    , via_sky_50
+    , via_sky_100
+    , via_sky_200
+    , via_sky_300
+    , via_sky_400
+    , via_sky_500
+    , via_sky_600
+    , via_sky_700
+    , via_sky_800
+    , via_sky_900
+    , via_blue_50
+    , via_blue_100
+    , via_blue_200
+    , via_blue_300
+    , via_blue_400
+    , via_blue_500
+    , via_blue_600
+    , via_blue_700
+    , via_blue_800
+    , via_blue_900
+    , via_indigo_50
+    , via_indigo_100
+    , via_indigo_200
+    , via_indigo_300
+    , via_indigo_400
+    , via_indigo_500
+    , via_indigo_600
+    , via_indigo_700
+    , via_indigo_800
+    , via_indigo_900
+    , via_violet_50
+    , via_violet_100
+    , via_violet_200
+    , via_violet_300
+    , via_violet_400
+    , via_violet_500
+    , via_violet_600
+    , via_violet_700
+    , via_violet_800
+    , via_violet_900
+    , via_purple_50
+    , via_purple_100
+    , via_purple_200
+    , via_purple_300
+    , via_purple_400
+    , via_purple_500
+    , via_purple_600
+    , via_purple_700
+    , via_purple_800
+    , via_purple_900
+    , via_fuchsia_50
+    , via_fuchsia_100
+    , via_fuchsia_200
+    , via_fuchsia_300
+    , via_fuchsia_400
+    , via_fuchsia_500
+    , via_fuchsia_600
+    , via_fuchsia_700
+    , via_fuchsia_800
+    , via_fuchsia_900
+    , via_pink_50
+    , via_pink_100
+    , via_pink_200
+    , via_pink_300
+    , via_pink_400
+    , via_pink_500
+    , via_pink_600
+    , via_pink_700
+    , via_pink_800
+    , via_pink_900
+    , via_rose_50
+    , via_rose_100
+    , via_rose_200
+    , via_rose_300
+    , via_rose_400
+    , via_rose_500
+    , via_rose_600
+    , via_rose_700
+    , via_rose_800
+    , via_rose_900
+    , to_slate_50
+    , to_slate_100
+    , to_slate_200
+    , to_slate_300
+    , to_slate_400
+    , to_slate_500
+    , to_slate_600
+    , to_slate_700
+    , to_slate_800
+    , to_slate_900
+    , to_gray_50
+    , to_gray_100
+    , to_gray_200
+    , to_gray_300
+    , to_gray_400
+    , to_gray_500
+    , to_gray_600
+    , to_gray_700
+    , to_gray_800
+    , to_gray_900
+    , to_zinc_50
+    , to_zinc_100
+    , to_zinc_200
+    , to_zinc_300
+    , to_zinc_400
+    , to_zinc_500
+    , to_zinc_600
+    , to_zinc_700
+    , to_zinc_800
+    , to_zinc_900
+    , to_neutral_50
+    , to_neutral_100
+    , to_neutral_200
+    , to_neutral_300
+    , to_neutral_400
+    , to_neutral_500
+    , to_neutral_600
+    , to_neutral_700
+    , to_neutral_800
+    , to_neutral_900
+    , to_stone_50
+    , to_stone_100
+    , to_stone_200
+    , to_stone_300
+    , to_stone_400
+    , to_stone_500
+    , to_stone_600
+    , to_stone_700
+    , to_stone_800
+    , to_stone_900
+    , to_red_50
+    , to_red_100
+    , to_red_200
+    , to_red_300
+    , to_red_400
+    , to_red_500
+    , to_red_600
+    , to_red_700
+    , to_red_800
+    , to_red_900
+    , to_orange_50
+    , to_orange_100
+    , to_orange_200
+    , to_orange_300
+    , to_orange_400
+    , to_orange_500
+    , to_orange_600
+    , to_orange_700
+    , to_orange_800
+    , to_orange_900
+    , to_amber_50
+    , to_amber_100
+    , to_amber_200
+    , to_amber_300
+    , to_amber_400
+    , to_amber_500
+    , to_amber_600
+    , to_amber_700
+    , to_amber_800
+    , to_amber_900
+    , to_yellow_50
+    , to_yellow_100
+    , to_yellow_200
+    , to_yellow_300
+    , to_yellow_400
+    , to_yellow_500
+    , to_yellow_600
+    , to_yellow_700
+    , to_yellow_800
+    , to_yellow_900
+    , to_lime_50
+    , to_lime_100
+    , to_lime_200
+    , to_lime_300
+    , to_lime_400
+    , to_lime_500
+    , to_lime_600
+    , to_lime_700
+    , to_lime_800
+    , to_lime_900
+    , to_green_50
+    , to_green_100
+    , to_green_200
+    , to_green_300
+    , to_green_400
+    , to_green_500
+    , to_green_600
+    , to_green_700
+    , to_green_800
+    , to_green_900
+    , to_emerald_50
+    , to_emerald_100
+    , to_emerald_200
+    , to_emerald_300
+    , to_emerald_400
+    , to_emerald_500
+    , to_emerald_600
+    , to_emerald_700
+    , to_emerald_800
+    , to_emerald_900
+    , to_teal_50
+    , to_teal_100
+    , to_teal_200
+    , to_teal_300
+    , to_teal_400
+    , to_teal_500
+    , to_teal_600
+    , to_teal_700
+    , to_teal_800
+    , to_teal_900
+    , to_cyan_50
+    , to_cyan_100
+    , to_cyan_200
+    , to_cyan_300
+    , to_cyan_400
+    , to_cyan_500
+    , to_cyan_600
+    , to_cyan_700
+    , to_cyan_800
+    , to_cyan_900
+    , to_sky_50
+    , to_sky_100
+    , to_sky_200
+    , to_sky_300
+    , to_sky_400
+    , to_sky_500
+    , to_sky_600
+    , to_sky_700
+    , to_sky_800
+    , to_sky_900
+    , to_blue_50
+    , to_blue_100
+    , to_blue_200
+    , to_blue_300
+    , to_blue_400
+    , to_blue_500
+    , to_blue_600
+    , to_blue_700
+    , to_blue_800
+    , to_blue_900
+    , to_indigo_50
+    , to_indigo_100
+    , to_indigo_200
+    , to_indigo_300
+    , to_indigo_400
+    , to_indigo_500
+    , to_indigo_600
+    , to_indigo_700
+    , to_indigo_800
+    , to_indigo_900
+    , to_violet_50
+    , to_violet_100
+    , to_violet_200
+    , to_violet_300
+    , to_violet_400
+    , to_violet_500
+    , to_violet_600
+    , to_violet_700
+    , to_violet_800
+    , to_violet_900
+    , to_purple_50
+    , to_purple_100
+    , to_purple_200
+    , to_purple_300
+    , to_purple_400
+    , to_purple_500
+    , to_purple_600
+    , to_purple_700
+    , to_purple_800
+    , to_purple_900
+    , to_fuchsia_50
+    , to_fuchsia_100
+    , to_fuchsia_200
+    , to_fuchsia_300
+    , to_fuchsia_400
+    , to_fuchsia_500
+    , to_fuchsia_600
+    , to_fuchsia_700
+    , to_fuchsia_800
+    , to_fuchsia_900
+    , to_pink_50
+    , to_pink_100
+    , to_pink_200
+    , to_pink_300
+    , to_pink_400
+    , to_pink_500
+    , to_pink_600
+    , to_pink_700
+    , to_pink_800
+    , to_pink_900
+    , to_rose_50
+    , to_rose_100
+    , to_rose_200
+    , to_rose_300
+    , to_rose_400
+    , to_rose_500
+    , to_rose_600
+    , to_rose_700
+    , to_rose_800
+    , to_rose_900
     )
 
 {-|
@@ -4923,89 +5343,9 @@ This module contains
 @docs form_select
 @docs form_textarea
 @docs from_black
-@docs from_blue_100
-@docs from_blue_200
-@docs from_blue_300
-@docs from_blue_400
-@docs from_blue_50
-@docs from_blue_500
-@docs from_blue_600
-@docs from_blue_700
-@docs from_blue_800
-@docs from_blue_900
 @docs from_current
-@docs from_gray_100
-@docs from_gray_200
-@docs from_gray_300
-@docs from_gray_400
-@docs from_gray_50
-@docs from_gray_500
-@docs from_gray_600
-@docs from_gray_700
-@docs from_gray_800
-@docs from_gray_900
-@docs from_green_100
-@docs from_green_200
-@docs from_green_300
-@docs from_green_400
-@docs from_green_50
-@docs from_green_500
-@docs from_green_600
-@docs from_green_700
-@docs from_green_800
-@docs from_green_900
-@docs from_indigo_100
-@docs from_indigo_200
-@docs from_indigo_300
-@docs from_indigo_400
-@docs from_indigo_50
-@docs from_indigo_500
-@docs from_indigo_600
-@docs from_indigo_700
-@docs from_indigo_800
-@docs from_indigo_900
-@docs from_pink_100
-@docs from_pink_200
-@docs from_pink_300
-@docs from_pink_400
-@docs from_pink_50
-@docs from_pink_500
-@docs from_pink_600
-@docs from_pink_700
-@docs from_pink_800
-@docs from_pink_900
-@docs from_purple_100
-@docs from_purple_200
-@docs from_purple_300
-@docs from_purple_400
-@docs from_purple_50
-@docs from_purple_500
-@docs from_purple_600
-@docs from_purple_700
-@docs from_purple_800
-@docs from_purple_900
-@docs from_red_100
-@docs from_red_200
-@docs from_red_300
-@docs from_red_400
-@docs from_red_50
-@docs from_red_500
-@docs from_red_600
-@docs from_red_700
-@docs from_red_800
-@docs from_red_900
 @docs from_transparent
 @docs from_white
-@docs from_yellow_100
-@docs from_yellow_200
-@docs from_yellow_300
-@docs from_yellow_400
-@docs from_yellow_50
-@docs from_yellow_500
-@docs from_yellow_600
-@docs from_yellow_700
-@docs from_yellow_800
-@docs from_yellow_900
 @docs gap_0
 @docs gap_0_dot_5
 @docs gap_1
@@ -7574,89 +7914,9 @@ This module contains
 @docs text_yellow_800
 @docs text_yellow_900
 @docs to_black
-@docs to_blue_100
-@docs to_blue_200
-@docs to_blue_300
-@docs to_blue_400
-@docs to_blue_50
-@docs to_blue_500
-@docs to_blue_600
-@docs to_blue_700
-@docs to_blue_800
-@docs to_blue_900
 @docs to_current
-@docs to_gray_100
-@docs to_gray_200
-@docs to_gray_300
-@docs to_gray_400
-@docs to_gray_50
-@docs to_gray_500
-@docs to_gray_600
-@docs to_gray_700
-@docs to_gray_800
-@docs to_gray_900
-@docs to_green_100
-@docs to_green_200
-@docs to_green_300
-@docs to_green_400
-@docs to_green_50
-@docs to_green_500
-@docs to_green_600
-@docs to_green_700
-@docs to_green_800
-@docs to_green_900
-@docs to_indigo_100
-@docs to_indigo_200
-@docs to_indigo_300
-@docs to_indigo_400
-@docs to_indigo_50
-@docs to_indigo_500
-@docs to_indigo_600
-@docs to_indigo_700
-@docs to_indigo_800
-@docs to_indigo_900
-@docs to_pink_100
-@docs to_pink_200
-@docs to_pink_300
-@docs to_pink_400
-@docs to_pink_50
-@docs to_pink_500
-@docs to_pink_600
-@docs to_pink_700
-@docs to_pink_800
-@docs to_pink_900
-@docs to_purple_100
-@docs to_purple_200
-@docs to_purple_300
-@docs to_purple_400
-@docs to_purple_50
-@docs to_purple_500
-@docs to_purple_600
-@docs to_purple_700
-@docs to_purple_800
-@docs to_purple_900
-@docs to_red_100
-@docs to_red_200
-@docs to_red_300
-@docs to_red_400
-@docs to_red_50
-@docs to_red_500
-@docs to_red_600
-@docs to_red_700
-@docs to_red_800
-@docs to_red_900
 @docs to_transparent
 @docs to_white
-@docs to_yellow_100
-@docs to_yellow_200
-@docs to_yellow_300
-@docs to_yellow_400
-@docs to_yellow_50
-@docs to_yellow_500
-@docs to_yellow_600
-@docs to_yellow_700
-@docs to_yellow_800
-@docs to_yellow_900
 @docs top_0
 @docs top_0_dot_5
 @docs top_1
@@ -7804,89 +8064,9 @@ This module contains
 @docs underline
 @docs uppercase
 @docs via_black
-@docs via_blue_100
-@docs via_blue_200
-@docs via_blue_300
-@docs via_blue_400
-@docs via_blue_50
-@docs via_blue_500
-@docs via_blue_600
-@docs via_blue_700
-@docs via_blue_800
-@docs via_blue_900
 @docs via_current
-@docs via_gray_100
-@docs via_gray_200
-@docs via_gray_300
-@docs via_gray_400
-@docs via_gray_50
-@docs via_gray_500
-@docs via_gray_600
-@docs via_gray_700
-@docs via_gray_800
-@docs via_gray_900
-@docs via_green_100
-@docs via_green_200
-@docs via_green_300
-@docs via_green_400
-@docs via_green_50
-@docs via_green_500
-@docs via_green_600
-@docs via_green_700
-@docs via_green_800
-@docs via_green_900
-@docs via_indigo_100
-@docs via_indigo_200
-@docs via_indigo_300
-@docs via_indigo_400
-@docs via_indigo_50
-@docs via_indigo_500
-@docs via_indigo_600
-@docs via_indigo_700
-@docs via_indigo_800
-@docs via_indigo_900
-@docs via_pink_100
-@docs via_pink_200
-@docs via_pink_300
-@docs via_pink_400
-@docs via_pink_50
-@docs via_pink_500
-@docs via_pink_600
-@docs via_pink_700
-@docs via_pink_800
-@docs via_pink_900
-@docs via_purple_100
-@docs via_purple_200
-@docs via_purple_300
-@docs via_purple_400
-@docs via_purple_50
-@docs via_purple_500
-@docs via_purple_600
-@docs via_purple_700
-@docs via_purple_800
-@docs via_purple_900
-@docs via_red_100
-@docs via_red_200
-@docs via_red_300
-@docs via_red_400
-@docs via_red_50
-@docs via_red_500
-@docs via_red_600
-@docs via_red_700
-@docs via_red_800
-@docs via_red_900
 @docs via_transparent
 @docs via_white
-@docs via_yellow_100
-@docs via_yellow_200
-@docs via_yellow_300
-@docs via_yellow_400
-@docs via_yellow_50
-@docs via_yellow_500
-@docs via_yellow_600
-@docs via_yellow_700
-@docs via_yellow_800
-@docs via_yellow_900
 @docs visible
 @docs w_0
 @docs w_0_dot_5
@@ -8386,6 +8566,666 @@ This module contains
 @docs divide_rose_700
 @docs divide_rose_800
 @docs divide_rose_900
+@docs from_slate_50
+@docs from_slate_100
+@docs from_slate_200
+@docs from_slate_300
+@docs from_slate_400
+@docs from_slate_500
+@docs from_slate_600
+@docs from_slate_700
+@docs from_slate_800
+@docs from_slate_900
+@docs from_gray_50
+@docs from_gray_100
+@docs from_gray_200
+@docs from_gray_300
+@docs from_gray_400
+@docs from_gray_500
+@docs from_gray_600
+@docs from_gray_700
+@docs from_gray_800
+@docs from_gray_900
+@docs from_zinc_50
+@docs from_zinc_100
+@docs from_zinc_200
+@docs from_zinc_300
+@docs from_zinc_400
+@docs from_zinc_500
+@docs from_zinc_600
+@docs from_zinc_700
+@docs from_zinc_800
+@docs from_zinc_900
+@docs from_neutral_50
+@docs from_neutral_100
+@docs from_neutral_200
+@docs from_neutral_300
+@docs from_neutral_400
+@docs from_neutral_500
+@docs from_neutral_600
+@docs from_neutral_700
+@docs from_neutral_800
+@docs from_neutral_900
+@docs from_stone_50
+@docs from_stone_100
+@docs from_stone_200
+@docs from_stone_300
+@docs from_stone_400
+@docs from_stone_500
+@docs from_stone_600
+@docs from_stone_700
+@docs from_stone_800
+@docs from_stone_900
+@docs from_red_50
+@docs from_red_100
+@docs from_red_200
+@docs from_red_300
+@docs from_red_400
+@docs from_red_500
+@docs from_red_600
+@docs from_red_700
+@docs from_red_800
+@docs from_red_900
+@docs from_orange_50
+@docs from_orange_100
+@docs from_orange_200
+@docs from_orange_300
+@docs from_orange_400
+@docs from_orange_500
+@docs from_orange_600
+@docs from_orange_700
+@docs from_orange_800
+@docs from_orange_900
+@docs from_amber_50
+@docs from_amber_100
+@docs from_amber_200
+@docs from_amber_300
+@docs from_amber_400
+@docs from_amber_500
+@docs from_amber_600
+@docs from_amber_700
+@docs from_amber_800
+@docs from_amber_900
+@docs from_yellow_50
+@docs from_yellow_100
+@docs from_yellow_200
+@docs from_yellow_300
+@docs from_yellow_400
+@docs from_yellow_500
+@docs from_yellow_600
+@docs from_yellow_700
+@docs from_yellow_800
+@docs from_yellow_900
+@docs from_lime_50
+@docs from_lime_100
+@docs from_lime_200
+@docs from_lime_300
+@docs from_lime_400
+@docs from_lime_500
+@docs from_lime_600
+@docs from_lime_700
+@docs from_lime_800
+@docs from_lime_900
+@docs from_green_50
+@docs from_green_100
+@docs from_green_200
+@docs from_green_300
+@docs from_green_400
+@docs from_green_500
+@docs from_green_600
+@docs from_green_700
+@docs from_green_800
+@docs from_green_900
+@docs from_emerald_50
+@docs from_emerald_100
+@docs from_emerald_200
+@docs from_emerald_300
+@docs from_emerald_400
+@docs from_emerald_500
+@docs from_emerald_600
+@docs from_emerald_700
+@docs from_emerald_800
+@docs from_emerald_900
+@docs from_teal_50
+@docs from_teal_100
+@docs from_teal_200
+@docs from_teal_300
+@docs from_teal_400
+@docs from_teal_500
+@docs from_teal_600
+@docs from_teal_700
+@docs from_teal_800
+@docs from_teal_900
+@docs from_cyan_50
+@docs from_cyan_100
+@docs from_cyan_200
+@docs from_cyan_300
+@docs from_cyan_400
+@docs from_cyan_500
+@docs from_cyan_600
+@docs from_cyan_700
+@docs from_cyan_800
+@docs from_cyan_900
+@docs from_sky_50
+@docs from_sky_100
+@docs from_sky_200
+@docs from_sky_300
+@docs from_sky_400
+@docs from_sky_500
+@docs from_sky_600
+@docs from_sky_700
+@docs from_sky_800
+@docs from_sky_900
+@docs from_blue_50
+@docs from_blue_100
+@docs from_blue_200
+@docs from_blue_300
+@docs from_blue_400
+@docs from_blue_500
+@docs from_blue_600
+@docs from_blue_700
+@docs from_blue_800
+@docs from_blue_900
+@docs from_indigo_50
+@docs from_indigo_100
+@docs from_indigo_200
+@docs from_indigo_300
+@docs from_indigo_400
+@docs from_indigo_500
+@docs from_indigo_600
+@docs from_indigo_700
+@docs from_indigo_800
+@docs from_indigo_900
+@docs from_violet_50
+@docs from_violet_100
+@docs from_violet_200
+@docs from_violet_300
+@docs from_violet_400
+@docs from_violet_500
+@docs from_violet_600
+@docs from_violet_700
+@docs from_violet_800
+@docs from_violet_900
+@docs from_purple_50
+@docs from_purple_100
+@docs from_purple_200
+@docs from_purple_300
+@docs from_purple_400
+@docs from_purple_500
+@docs from_purple_600
+@docs from_purple_700
+@docs from_purple_800
+@docs from_purple_900
+@docs from_fuchsia_50
+@docs from_fuchsia_100
+@docs from_fuchsia_200
+@docs from_fuchsia_300
+@docs from_fuchsia_400
+@docs from_fuchsia_500
+@docs from_fuchsia_600
+@docs from_fuchsia_700
+@docs from_fuchsia_800
+@docs from_fuchsia_900
+@docs from_pink_50
+@docs from_pink_100
+@docs from_pink_200
+@docs from_pink_300
+@docs from_pink_400
+@docs from_pink_500
+@docs from_pink_600
+@docs from_pink_700
+@docs from_pink_800
+@docs from_pink_900
+@docs from_rose_50
+@docs from_rose_100
+@docs from_rose_200
+@docs from_rose_300
+@docs from_rose_400
+@docs from_rose_500
+@docs from_rose_600
+@docs from_rose_700
+@docs from_rose_800
+@docs from_rose_900
+@docs via_slate_50
+@docs via_slate_100
+@docs via_slate_200
+@docs via_slate_300
+@docs via_slate_400
+@docs via_slate_500
+@docs via_slate_600
+@docs via_slate_700
+@docs via_slate_800
+@docs via_slate_900
+@docs via_gray_50
+@docs via_gray_100
+@docs via_gray_200
+@docs via_gray_300
+@docs via_gray_400
+@docs via_gray_500
+@docs via_gray_600
+@docs via_gray_700
+@docs via_gray_800
+@docs via_gray_900
+@docs via_zinc_50
+@docs via_zinc_100
+@docs via_zinc_200
+@docs via_zinc_300
+@docs via_zinc_400
+@docs via_zinc_500
+@docs via_zinc_600
+@docs via_zinc_700
+@docs via_zinc_800
+@docs via_zinc_900
+@docs via_neutral_50
+@docs via_neutral_100
+@docs via_neutral_200
+@docs via_neutral_300
+@docs via_neutral_400
+@docs via_neutral_500
+@docs via_neutral_600
+@docs via_neutral_700
+@docs via_neutral_800
+@docs via_neutral_900
+@docs via_stone_50
+@docs via_stone_100
+@docs via_stone_200
+@docs via_stone_300
+@docs via_stone_400
+@docs via_stone_500
+@docs via_stone_600
+@docs via_stone_700
+@docs via_stone_800
+@docs via_stone_900
+@docs via_red_50
+@docs via_red_100
+@docs via_red_200
+@docs via_red_300
+@docs via_red_400
+@docs via_red_500
+@docs via_red_600
+@docs via_red_700
+@docs via_red_800
+@docs via_red_900
+@docs via_orange_50
+@docs via_orange_100
+@docs via_orange_200
+@docs via_orange_300
+@docs via_orange_400
+@docs via_orange_500
+@docs via_orange_600
+@docs via_orange_700
+@docs via_orange_800
+@docs via_orange_900
+@docs via_amber_50
+@docs via_amber_100
+@docs via_amber_200
+@docs via_amber_300
+@docs via_amber_400
+@docs via_amber_500
+@docs via_amber_600
+@docs via_amber_700
+@docs via_amber_800
+@docs via_amber_900
+@docs via_yellow_50
+@docs via_yellow_100
+@docs via_yellow_200
+@docs via_yellow_300
+@docs via_yellow_400
+@docs via_yellow_500
+@docs via_yellow_600
+@docs via_yellow_700
+@docs via_yellow_800
+@docs via_yellow_900
+@docs via_lime_50
+@docs via_lime_100
+@docs via_lime_200
+@docs via_lime_300
+@docs via_lime_400
+@docs via_lime_500
+@docs via_lime_600
+@docs via_lime_700
+@docs via_lime_800
+@docs via_lime_900
+@docs via_green_50
+@docs via_green_100
+@docs via_green_200
+@docs via_green_300
+@docs via_green_400
+@docs via_green_500
+@docs via_green_600
+@docs via_green_700
+@docs via_green_800
+@docs via_green_900
+@docs via_emerald_50
+@docs via_emerald_100
+@docs via_emerald_200
+@docs via_emerald_300
+@docs via_emerald_400
+@docs via_emerald_500
+@docs via_emerald_600
+@docs via_emerald_700
+@docs via_emerald_800
+@docs via_emerald_900
+@docs via_teal_50
+@docs via_teal_100
+@docs via_teal_200
+@docs via_teal_300
+@docs via_teal_400
+@docs via_teal_500
+@docs via_teal_600
+@docs via_teal_700
+@docs via_teal_800
+@docs via_teal_900
+@docs via_cyan_50
+@docs via_cyan_100
+@docs via_cyan_200
+@docs via_cyan_300
+@docs via_cyan_400
+@docs via_cyan_500
+@docs via_cyan_600
+@docs via_cyan_700
+@docs via_cyan_800
+@docs via_cyan_900
+@docs via_sky_50
+@docs via_sky_100
+@docs via_sky_200
+@docs via_sky_300
+@docs via_sky_400
+@docs via_sky_500
+@docs via_sky_600
+@docs via_sky_700
+@docs via_sky_800
+@docs via_sky_900
+@docs via_blue_50
+@docs via_blue_100
+@docs via_blue_200
+@docs via_blue_300
+@docs via_blue_400
+@docs via_blue_500
+@docs via_blue_600
+@docs via_blue_700
+@docs via_blue_800
+@docs via_blue_900
+@docs via_indigo_50
+@docs via_indigo_100
+@docs via_indigo_200
+@docs via_indigo_300
+@docs via_indigo_400
+@docs via_indigo_500
+@docs via_indigo_600
+@docs via_indigo_700
+@docs via_indigo_800
+@docs via_indigo_900
+@docs via_violet_50
+@docs via_violet_100
+@docs via_violet_200
+@docs via_violet_300
+@docs via_violet_400
+@docs via_violet_500
+@docs via_violet_600
+@docs via_violet_700
+@docs via_violet_800
+@docs via_violet_900
+@docs via_purple_50
+@docs via_purple_100
+@docs via_purple_200
+@docs via_purple_300
+@docs via_purple_400
+@docs via_purple_500
+@docs via_purple_600
+@docs via_purple_700
+@docs via_purple_800
+@docs via_purple_900
+@docs via_fuchsia_50
+@docs via_fuchsia_100
+@docs via_fuchsia_200
+@docs via_fuchsia_300
+@docs via_fuchsia_400
+@docs via_fuchsia_500
+@docs via_fuchsia_600
+@docs via_fuchsia_700
+@docs via_fuchsia_800
+@docs via_fuchsia_900
+@docs via_pink_50
+@docs via_pink_100
+@docs via_pink_200
+@docs via_pink_300
+@docs via_pink_400
+@docs via_pink_500
+@docs via_pink_600
+@docs via_pink_700
+@docs via_pink_800
+@docs via_pink_900
+@docs via_rose_50
+@docs via_rose_100
+@docs via_rose_200
+@docs via_rose_300
+@docs via_rose_400
+@docs via_rose_500
+@docs via_rose_600
+@docs via_rose_700
+@docs via_rose_800
+@docs via_rose_900
+@docs to_slate_50
+@docs to_slate_100
+@docs to_slate_200
+@docs to_slate_300
+@docs to_slate_400
+@docs to_slate_500
+@docs to_slate_600
+@docs to_slate_700
+@docs to_slate_800
+@docs to_slate_900
+@docs to_gray_50
+@docs to_gray_100
+@docs to_gray_200
+@docs to_gray_300
+@docs to_gray_400
+@docs to_gray_500
+@docs to_gray_600
+@docs to_gray_700
+@docs to_gray_800
+@docs to_gray_900
+@docs to_zinc_50
+@docs to_zinc_100
+@docs to_zinc_200
+@docs to_zinc_300
+@docs to_zinc_400
+@docs to_zinc_500
+@docs to_zinc_600
+@docs to_zinc_700
+@docs to_zinc_800
+@docs to_zinc_900
+@docs to_neutral_50
+@docs to_neutral_100
+@docs to_neutral_200
+@docs to_neutral_300
+@docs to_neutral_400
+@docs to_neutral_500
+@docs to_neutral_600
+@docs to_neutral_700
+@docs to_neutral_800
+@docs to_neutral_900
+@docs to_stone_50
+@docs to_stone_100
+@docs to_stone_200
+@docs to_stone_300
+@docs to_stone_400
+@docs to_stone_500
+@docs to_stone_600
+@docs to_stone_700
+@docs to_stone_800
+@docs to_stone_900
+@docs to_red_50
+@docs to_red_100
+@docs to_red_200
+@docs to_red_300
+@docs to_red_400
+@docs to_red_500
+@docs to_red_600
+@docs to_red_700
+@docs to_red_800
+@docs to_red_900
+@docs to_orange_50
+@docs to_orange_100
+@docs to_orange_200
+@docs to_orange_300
+@docs to_orange_400
+@docs to_orange_500
+@docs to_orange_600
+@docs to_orange_700
+@docs to_orange_800
+@docs to_orange_900
+@docs to_amber_50
+@docs to_amber_100
+@docs to_amber_200
+@docs to_amber_300
+@docs to_amber_400
+@docs to_amber_500
+@docs to_amber_600
+@docs to_amber_700
+@docs to_amber_800
+@docs to_amber_900
+@docs to_yellow_50
+@docs to_yellow_100
+@docs to_yellow_200
+@docs to_yellow_300
+@docs to_yellow_400
+@docs to_yellow_500
+@docs to_yellow_600
+@docs to_yellow_700
+@docs to_yellow_800
+@docs to_yellow_900
+@docs to_lime_50
+@docs to_lime_100
+@docs to_lime_200
+@docs to_lime_300
+@docs to_lime_400
+@docs to_lime_500
+@docs to_lime_600
+@docs to_lime_700
+@docs to_lime_800
+@docs to_lime_900
+@docs to_green_50
+@docs to_green_100
+@docs to_green_200
+@docs to_green_300
+@docs to_green_400
+@docs to_green_500
+@docs to_green_600
+@docs to_green_700
+@docs to_green_800
+@docs to_green_900
+@docs to_emerald_50
+@docs to_emerald_100
+@docs to_emerald_200
+@docs to_emerald_300
+@docs to_emerald_400
+@docs to_emerald_500
+@docs to_emerald_600
+@docs to_emerald_700
+@docs to_emerald_800
+@docs to_emerald_900
+@docs to_teal_50
+@docs to_teal_100
+@docs to_teal_200
+@docs to_teal_300
+@docs to_teal_400
+@docs to_teal_500
+@docs to_teal_600
+@docs to_teal_700
+@docs to_teal_800
+@docs to_teal_900
+@docs to_cyan_50
+@docs to_cyan_100
+@docs to_cyan_200
+@docs to_cyan_300
+@docs to_cyan_400
+@docs to_cyan_500
+@docs to_cyan_600
+@docs to_cyan_700
+@docs to_cyan_800
+@docs to_cyan_900
+@docs to_sky_50
+@docs to_sky_100
+@docs to_sky_200
+@docs to_sky_300
+@docs to_sky_400
+@docs to_sky_500
+@docs to_sky_600
+@docs to_sky_700
+@docs to_sky_800
+@docs to_sky_900
+@docs to_blue_50
+@docs to_blue_100
+@docs to_blue_200
+@docs to_blue_300
+@docs to_blue_400
+@docs to_blue_500
+@docs to_blue_600
+@docs to_blue_700
+@docs to_blue_800
+@docs to_blue_900
+@docs to_indigo_50
+@docs to_indigo_100
+@docs to_indigo_200
+@docs to_indigo_300
+@docs to_indigo_400
+@docs to_indigo_500
+@docs to_indigo_600
+@docs to_indigo_700
+@docs to_indigo_800
+@docs to_indigo_900
+@docs to_violet_50
+@docs to_violet_100
+@docs to_violet_200
+@docs to_violet_300
+@docs to_violet_400
+@docs to_violet_500
+@docs to_violet_600
+@docs to_violet_700
+@docs to_violet_800
+@docs to_violet_900
+@docs to_purple_50
+@docs to_purple_100
+@docs to_purple_200
+@docs to_purple_300
+@docs to_purple_400
+@docs to_purple_500
+@docs to_purple_600
+@docs to_purple_700
+@docs to_purple_800
+@docs to_purple_900
+@docs to_fuchsia_50
+@docs to_fuchsia_100
+@docs to_fuchsia_200
+@docs to_fuchsia_300
+@docs to_fuchsia_400
+@docs to_fuchsia_500
+@docs to_fuchsia_600
+@docs to_fuchsia_700
+@docs to_fuchsia_800
+@docs to_fuchsia_900
+@docs to_pink_50
+@docs to_pink_100
+@docs to_pink_200
+@docs to_pink_300
+@docs to_pink_400
+@docs to_pink_500
+@docs to_pink_600
+@docs to_pink_700
+@docs to_pink_800
+@docs to_pink_900
+@docs to_rose_50
+@docs to_rose_100
+@docs to_rose_200
+@docs to_rose_300
+@docs to_rose_400
+@docs to_rose_500
+@docs to_rose_600
+@docs to_rose_700
+@docs to_rose_800
+@docs to_rose_900
 
 -}
 
@@ -17831,926 +18671,16 @@ from_black =
         ]
 
 
-{-| The tailwind class `from-blue-100`.
+{-| The tailwind class `from-white`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_blue_100 : Css.Style
-from_blue_100 =
+from_white : Css.Style
+from_white =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#dbeafe"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(219, 234, 254, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_200 : Css.Style
-from_blue_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#bfdbfe"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(191, 219, 254, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_300 : Css.Style
-from_blue_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#93c5fd"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(147, 197, 253, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_400 : Css.Style
-from_blue_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#60a5fa"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(96, 165, 250, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_50 : Css.Style
-from_blue_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#eff6ff"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(239, 246, 255, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_500 : Css.Style
-from_blue_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#3b82f6"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(59, 130, 246, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_600 : Css.Style
-from_blue_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#2563eb"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(37, 99, 235, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_700 : Css.Style
-from_blue_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#1d4ed8"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(29, 78, 216, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_800 : Css.Style
-from_blue_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#1e40af"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 64, 175, 0))"
-        ]
-
-
-{-| The tailwind class `from-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_blue_900 : Css.Style
-from_blue_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#1e3a8a"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 58, 138, 0))"
-        ]
-
-
-{-| The tailwind class `from-current`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_current : Css.Style
-from_current =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "currentColor"
+        [ Css.property "--tw-gradient-from" "#fff"
         , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_100 : Css.Style
-from_gray_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f3f4f6"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(243, 244, 246, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_200 : Css.Style
-from_gray_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#e5e7eb"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(229, 231, 235, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_300 : Css.Style
-from_gray_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#d1d5db"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(209, 213, 219, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_400 : Css.Style
-from_gray_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#9ca3af"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(156, 163, 175, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_50 : Css.Style
-from_gray_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f9fafb"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(249, 250, 251, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_500 : Css.Style
-from_gray_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#6b7280"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(107, 114, 128, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_600 : Css.Style
-from_gray_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#4b5563"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(75, 85, 99, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_700 : Css.Style
-from_gray_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#374151"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(55, 65, 81, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_800 : Css.Style
-from_gray_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#1f2937"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(31, 41, 55, 0))"
-        ]
-
-
-{-| The tailwind class `from-gray-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_gray_900 : Css.Style
-from_gray_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#111827"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(17, 24, 39, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_100 : Css.Style
-from_green_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#d1fae5"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(209, 250, 229, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_200 : Css.Style
-from_green_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#a7f3d0"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 243, 208, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_300 : Css.Style
-from_green_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#6ee7b7"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(110, 231, 183, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_400 : Css.Style
-from_green_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#34d399"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(52, 211, 153, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_50 : Css.Style
-from_green_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#ecfdf5"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 253, 245, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_500 : Css.Style
-from_green_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#10b981"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(16, 185, 129, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_600 : Css.Style
-from_green_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#059669"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(5, 150, 105, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_700 : Css.Style
-from_green_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#047857"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 120, 87, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_800 : Css.Style
-from_green_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#065f46"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(6, 95, 70, 0))"
-        ]
-
-
-{-| The tailwind class `from-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_green_900 : Css.Style
-from_green_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#064e3b"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(6, 78, 59, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_100 : Css.Style
-from_indigo_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#e0e7ff"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(224, 231, 255, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_200 : Css.Style
-from_indigo_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#c7d2fe"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(199, 210, 254, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_300 : Css.Style
-from_indigo_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#a5b4fc"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(165, 180, 252, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_400 : Css.Style
-from_indigo_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#818cf8"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(129, 140, 248, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_50 : Css.Style
-from_indigo_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#eef2ff"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 242, 255, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_500 : Css.Style
-from_indigo_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#6366f1"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(99, 102, 241, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_600 : Css.Style
-from_indigo_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#4f46e5"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(79, 70, 229, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_700 : Css.Style
-from_indigo_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#4338ca"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(67, 56, 202, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_800 : Css.Style
-from_indigo_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#3730a3"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(55, 48, 163, 0))"
-        ]
-
-
-{-| The tailwind class `from-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_indigo_900 : Css.Style
-from_indigo_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#312e81"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(49, 46, 129, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_100 : Css.Style
-from_pink_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fce7f3"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 231, 243, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_200 : Css.Style
-from_pink_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fbcfe8"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 207, 232, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_300 : Css.Style
-from_pink_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f9a8d4"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(249, 168, 212, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_400 : Css.Style
-from_pink_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f472b6"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(244, 114, 182, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_50 : Css.Style
-from_pink_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fdf2f8"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 242, 248, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_500 : Css.Style
-from_pink_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#ec4899"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 72, 153, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_600 : Css.Style
-from_pink_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#db2777"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(219, 39, 119, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_700 : Css.Style
-from_pink_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#be185d"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(190, 24, 93, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_800 : Css.Style
-from_pink_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#9d174d"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(157, 23, 77, 0))"
-        ]
-
-
-{-| The tailwind class `from-pink-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_pink_900 : Css.Style
-from_pink_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#831843"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(131, 24, 67, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_100 : Css.Style
-from_purple_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#ede9fe"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(237, 233, 254, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_200 : Css.Style
-from_purple_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#ddd6fe"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(221, 214, 254, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_300 : Css.Style
-from_purple_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#c4b5fd"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(196, 181, 253, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_400 : Css.Style
-from_purple_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#a78bfa"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 139, 250, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_50 : Css.Style
-from_purple_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f5f3ff"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 243, 255, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_500 : Css.Style
-from_purple_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#8b5cf6"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(139, 92, 246, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_600 : Css.Style
-from_purple_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#7c3aed"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(124, 58, 237, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_700 : Css.Style
-from_purple_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#6d28d9"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(109, 40, 217, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_800 : Css.Style
-from_purple_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#5b21b6"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(91, 33, 182, 0))"
-        ]
-
-
-{-| The tailwind class `from-purple-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_purple_900 : Css.Style
-from_purple_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#4c1d95"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(76, 29, 149, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_100 : Css.Style
-from_red_100 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fee2e2"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 226, 226, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_200 : Css.Style
-from_red_200 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fecaca"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 202, 202, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_300 : Css.Style
-from_red_300 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fca5a5"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 165, 165, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_400 : Css.Style
-from_red_400 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#f87171"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(248, 113, 113, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_50 : Css.Style
-from_red_50 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#fef2f2"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 242, 242, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_500 : Css.Style
-from_red_500 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#ef4444"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(239, 68, 68, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_600 : Css.Style
-from_red_600 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#dc2626"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(220, 38, 38, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_700 : Css.Style
-from_red_700 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#b91c1c"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(185, 28, 28, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_800 : Css.Style
-from_red_800 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#991b1b"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(153, 27, 27, 0))"
-        ]
-
-
-{-| The tailwind class `from-red-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-from_red_900 : Css.Style
-from_red_900 =
-    Css.batch
-        [ Css.property "--tw-gradient-from" "#7f1d1d"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(127, 29, 29, 0))"
         ]
 
 
@@ -18767,68 +18697,1056 @@ from_transparent =
         ]
 
 
-{-| The tailwind class `from-white`.
+{-| The tailwind class `from-current`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_white : Css.Style
-from_white =
+from_current : Css.Style
+from_current =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#fff"
+        [ Css.property "--tw-gradient-from" "currentColor"
         , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0))"
         ]
 
 
-{-| The tailwind class `from-yellow-100`.
+{-| The tailwind class `from-slate-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_yellow_100 : Css.Style
-from_yellow_100 =
+from_slate_50 : Css.Style
+from_slate_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f8fafc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(248, 250, 252))"
+        ]
+
+
+{-| The tailwind class `from-slate-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_100 : Css.Style
+from_slate_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f1f5f9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(241, 245, 249))"
+        ]
+
+
+{-| The tailwind class `from-slate-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_200 : Css.Style
+from_slate_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e2e8f0"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(226, 232, 240))"
+        ]
+
+
+{-| The tailwind class `from-slate-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_300 : Css.Style
+from_slate_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#cbd5e1"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(203, 213, 225))"
+        ]
+
+
+{-| The tailwind class `from-slate-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_400 : Css.Style
+from_slate_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#94a3b8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(148, 163, 184))"
+        ]
+
+
+{-| The tailwind class `from-slate-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_500 : Css.Style
+from_slate_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#64748b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(100, 116, 139))"
+        ]
+
+
+{-| The tailwind class `from-slate-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_600 : Css.Style
+from_slate_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#475569"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(71, 85, 105))"
+        ]
+
+
+{-| The tailwind class `from-slate-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_700 : Css.Style
+from_slate_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#334155"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(51, 65, 85))"
+        ]
+
+
+{-| The tailwind class `from-slate-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_800 : Css.Style
+from_slate_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1e293b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 41, 59))"
+        ]
+
+
+{-| The tailwind class `from-slate-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_slate_900 : Css.Style
+from_slate_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0f172a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(15, 23, 42))"
+        ]
+
+
+{-| The tailwind class `from-gray-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_50 : Css.Style
+from_gray_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f9fafb"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(249, 250, 251))"
+        ]
+
+
+{-| The tailwind class `from-gray-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_100 : Css.Style
+from_gray_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f3f4f6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(243, 244, 246))"
+        ]
+
+
+{-| The tailwind class `from-gray-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_200 : Css.Style
+from_gray_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e5e7eb"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(229, 231, 235))"
+        ]
+
+
+{-| The tailwind class `from-gray-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_300 : Css.Style
+from_gray_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d1d5db"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(209, 213, 219))"
+        ]
+
+
+{-| The tailwind class `from-gray-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_400 : Css.Style
+from_gray_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#9ca3af"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(156, 163, 175))"
+        ]
+
+
+{-| The tailwind class `from-gray-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_500 : Css.Style
+from_gray_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#6b7280"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(107, 114, 128))"
+        ]
+
+
+{-| The tailwind class `from-gray-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_600 : Css.Style
+from_gray_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4b5563"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(75, 85, 99))"
+        ]
+
+
+{-| The tailwind class `from-gray-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_700 : Css.Style
+from_gray_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#374151"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(55, 65, 81))"
+        ]
+
+
+{-| The tailwind class `from-gray-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_800 : Css.Style
+from_gray_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1f2937"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(31, 41, 55))"
+        ]
+
+
+{-| The tailwind class `from-gray-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_gray_900 : Css.Style
+from_gray_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#111827"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(17, 24, 39))"
+        ]
+
+
+{-| The tailwind class `from-zinc-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_50 : Css.Style
+from_zinc_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fafafa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 250, 250))"
+        ]
+
+
+{-| The tailwind class `from-zinc-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_100 : Css.Style
+from_zinc_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f4f4f5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(244, 244, 245))"
+        ]
+
+
+{-| The tailwind class `from-zinc-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_200 : Css.Style
+from_zinc_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e4e4e7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(228, 228, 231))"
+        ]
+
+
+{-| The tailwind class `from-zinc-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_300 : Css.Style
+from_zinc_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d4d4d8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(212, 212, 216))"
+        ]
+
+
+{-| The tailwind class `from-zinc-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_400 : Css.Style
+from_zinc_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a1a1aa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(161, 161, 170))"
+        ]
+
+
+{-| The tailwind class `from-zinc-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_500 : Css.Style
+from_zinc_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#71717a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(113, 113, 122))"
+        ]
+
+
+{-| The tailwind class `from-zinc-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_600 : Css.Style
+from_zinc_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#52525b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(82, 82, 91))"
+        ]
+
+
+{-| The tailwind class `from-zinc-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_700 : Css.Style
+from_zinc_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#3f3f46"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(63, 63, 70))"
+        ]
+
+
+{-| The tailwind class `from-zinc-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_800 : Css.Style
+from_zinc_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#27272a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(39, 39, 42))"
+        ]
+
+
+{-| The tailwind class `from-zinc-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_zinc_900 : Css.Style
+from_zinc_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#18181b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(24, 24, 27))"
+        ]
+
+
+{-| The tailwind class `from-neutral-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_50 : Css.Style
+from_neutral_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fafafa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 250, 250))"
+        ]
+
+
+{-| The tailwind class `from-neutral-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_100 : Css.Style
+from_neutral_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f5f5f5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 245, 245))"
+        ]
+
+
+{-| The tailwind class `from-neutral-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_200 : Css.Style
+from_neutral_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e5e5e5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(229, 229, 229))"
+        ]
+
+
+{-| The tailwind class `from-neutral-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_300 : Css.Style
+from_neutral_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d4d4d4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(212, 212, 212))"
+        ]
+
+
+{-| The tailwind class `from-neutral-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_400 : Css.Style
+from_neutral_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a3a3a3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(163, 163, 163))"
+        ]
+
+
+{-| The tailwind class `from-neutral-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_500 : Css.Style
+from_neutral_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#737373"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(115, 115, 115))"
+        ]
+
+
+{-| The tailwind class `from-neutral-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_600 : Css.Style
+from_neutral_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#525252"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(82, 82, 82))"
+        ]
+
+
+{-| The tailwind class `from-neutral-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_700 : Css.Style
+from_neutral_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#404040"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(64, 64, 64))"
+        ]
+
+
+{-| The tailwind class `from-neutral-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_800 : Css.Style
+from_neutral_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#262626"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(38, 38, 38))"
+        ]
+
+
+{-| The tailwind class `from-neutral-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_neutral_900 : Css.Style
+from_neutral_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#171717"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(23, 23, 23))"
+        ]
+
+
+{-| The tailwind class `from-stone-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_50 : Css.Style
+from_stone_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fafaf9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 250, 249))"
+        ]
+
+
+{-| The tailwind class `from-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_100 : Css.Style
+from_stone_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f5f5f4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 245, 244))"
+        ]
+
+
+{-| The tailwind class `from-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_200 : Css.Style
+from_stone_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e7e5e4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(231, 229, 228))"
+        ]
+
+
+{-| The tailwind class `from-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_300 : Css.Style
+from_stone_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d6d3d1"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(214, 211, 209))"
+        ]
+
+
+{-| The tailwind class `from-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_400 : Css.Style
+from_stone_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a8a29e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(168, 162, 158))"
+        ]
+
+
+{-| The tailwind class `from-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_500 : Css.Style
+from_stone_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#78716c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(120, 113, 108))"
+        ]
+
+
+{-| The tailwind class `from-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_600 : Css.Style
+from_stone_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#57534e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(87, 83, 78))"
+        ]
+
+
+{-| The tailwind class `from-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_700 : Css.Style
+from_stone_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#44403c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(68, 64, 60))"
+        ]
+
+
+{-| The tailwind class `from-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_800 : Css.Style
+from_stone_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#292524"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(41, 37, 36))"
+        ]
+
+
+{-| The tailwind class `from-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_stone_900 : Css.Style
+from_stone_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1c1917"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(28, 25, 23))"
+        ]
+
+
+{-| The tailwind class `from-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_50 : Css.Style
+from_red_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fef2f2"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 242, 242))"
+        ]
+
+
+{-| The tailwind class `from-red-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_100 : Css.Style
+from_red_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fee2e2"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 226, 226))"
+        ]
+
+
+{-| The tailwind class `from-red-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_200 : Css.Style
+from_red_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fecaca"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 202, 202))"
+        ]
+
+
+{-| The tailwind class `from-red-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_300 : Css.Style
+from_red_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fca5a5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 165, 165))"
+        ]
+
+
+{-| The tailwind class `from-red-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_400 : Css.Style
+from_red_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f87171"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(248, 113, 113))"
+        ]
+
+
+{-| The tailwind class `from-red-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_500 : Css.Style
+from_red_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ef4444"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(239, 68, 68))"
+        ]
+
+
+{-| The tailwind class `from-red-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_600 : Css.Style
+from_red_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#dc2626"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(220, 38, 38))"
+        ]
+
+
+{-| The tailwind class `from-red-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_700 : Css.Style
+from_red_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#b91c1c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(185, 28, 28))"
+        ]
+
+
+{-| The tailwind class `from-red-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_800 : Css.Style
+from_red_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#991b1b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(153, 27, 27))"
+        ]
+
+
+{-| The tailwind class `from-red-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_red_900 : Css.Style
+from_red_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#7f1d1d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(127, 29, 29))"
+        ]
+
+
+{-| The tailwind class `from-orange-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_50 : Css.Style
+from_orange_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fff7ed"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 247, 237))"
+        ]
+
+
+{-| The tailwind class `from-orange-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_100 : Css.Style
+from_orange_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ffedd5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 237, 213))"
+        ]
+
+
+{-| The tailwind class `from-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_200 : Css.Style
+from_orange_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fed7aa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 215, 170))"
+        ]
+
+
+{-| The tailwind class `from-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_300 : Css.Style
+from_orange_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fdba74"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 186, 116))"
+        ]
+
+
+{-| The tailwind class `from-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_400 : Css.Style
+from_orange_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fb923c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 146, 60))"
+        ]
+
+
+{-| The tailwind class `from-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_500 : Css.Style
+from_orange_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f97316"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(249, 115, 22))"
+        ]
+
+
+{-| The tailwind class `from-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_600 : Css.Style
+from_orange_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ea580c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(234, 88, 12))"
+        ]
+
+
+{-| The tailwind class `from-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_700 : Css.Style
+from_orange_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#c2410c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(194, 65, 12))"
+        ]
+
+
+{-| The tailwind class `from-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_800 : Css.Style
+from_orange_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#9a3412"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(154, 52, 18))"
+        ]
+
+
+{-| The tailwind class `from-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_orange_900 : Css.Style
+from_orange_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#7c2d12"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(124, 45, 18))"
+        ]
+
+
+{-| The tailwind class `from-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_50 : Css.Style
+from_amber_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fffbeb"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 251, 235))"
+        ]
+
+
+{-| The tailwind class `from-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_100 : Css.Style
+from_amber_100 =
     Css.batch
         [ Css.property "--tw-gradient-from" "#fef3c7"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 243, 199, 0))"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 243, 199))"
         ]
 
 
-{-| The tailwind class `from-yellow-200`.
+{-| The tailwind class `from-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_yellow_200 : Css.Style
-from_yellow_200 =
+from_amber_200 : Css.Style
+from_amber_200 =
     Css.batch
         [ Css.property "--tw-gradient-from" "#fde68a"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 230, 138, 0))"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 230, 138))"
         ]
 
 
-{-| The tailwind class `from-yellow-300`.
+{-| The tailwind class `from-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_yellow_300 : Css.Style
-from_yellow_300 =
+from_amber_300 : Css.Style
+from_amber_300 =
     Css.batch
         [ Css.property "--tw-gradient-from" "#fcd34d"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 211, 77, 0))"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 211, 77))"
         ]
 
 
-{-| The tailwind class `from-yellow-400`.
+{-| The tailwind class `from-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-from_yellow_400 : Css.Style
-from_yellow_400 =
+from_amber_400 : Css.Style
+from_amber_400 =
     Css.batch
         [ Css.property "--tw-gradient-from" "#fbbf24"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 191, 36, 0))"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 191, 36))"
+        ]
+
+
+{-| The tailwind class `from-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_500 : Css.Style
+from_amber_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f59e0b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 158, 11))"
+        ]
+
+
+{-| The tailwind class `from-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_600 : Css.Style
+from_amber_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d97706"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(217, 119, 6))"
+        ]
+
+
+{-| The tailwind class `from-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_700 : Css.Style
+from_amber_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#b45309"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(180, 83, 9))"
+        ]
+
+
+{-| The tailwind class `from-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_800 : Css.Style
+from_amber_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#92400e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(146, 64, 14))"
+        ]
+
+
+{-| The tailwind class `from-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_amber_900 : Css.Style
+from_amber_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#78350f"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(120, 53, 15))"
         ]
 
 
@@ -18840,8 +19758,60 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_50 : Css.Style
 from_yellow_50 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#fffbeb"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 251, 235, 0))"
+        [ Css.property "--tw-gradient-from" "#fefce8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 252, 232))"
+        ]
+
+
+{-| The tailwind class `from-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_yellow_100 : Css.Style
+from_yellow_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fef9c3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 249, 195))"
+        ]
+
+
+{-| The tailwind class `from-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_yellow_200 : Css.Style
+from_yellow_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fef08a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 240, 138))"
+        ]
+
+
+{-| The tailwind class `from-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_yellow_300 : Css.Style
+from_yellow_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fde047"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 224, 71))"
+        ]
+
+
+{-| The tailwind class `from-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_yellow_400 : Css.Style
+from_yellow_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#facc15"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 204, 21))"
         ]
 
 
@@ -18853,8 +19823,8 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_500 : Css.Style
 from_yellow_500 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#f59e0b"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 158, 11, 0))"
+        [ Css.property "--tw-gradient-from" "#eab308"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(234, 179, 8))"
         ]
 
 
@@ -18866,8 +19836,8 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_600 : Css.Style
 from_yellow_600 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#d97706"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(217, 119, 6, 0))"
+        [ Css.property "--tw-gradient-from" "#ca8a04"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(202, 138, 4))"
         ]
 
 
@@ -18879,8 +19849,8 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_700 : Css.Style
 from_yellow_700 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#b45309"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(180, 83, 9, 0))"
+        [ Css.property "--tw-gradient-from" "#a16207"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(161, 98, 7))"
         ]
 
 
@@ -18892,8 +19862,8 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_800 : Css.Style
 from_yellow_800 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#92400e"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(146, 64, 14, 0))"
+        [ Css.property "--tw-gradient-from" "#854d0e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(133, 77, 14))"
         ]
 
 
@@ -18905,8 +19875,1698 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 from_yellow_900 : Css.Style
 from_yellow_900 =
     Css.batch
-        [ Css.property "--tw-gradient-from" "#78350f"
-        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(120, 53, 15, 0))"
+        [ Css.property "--tw-gradient-from" "#713f12"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(113, 63, 18))"
+        ]
+
+
+{-| The tailwind class `from-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_50 : Css.Style
+from_lime_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f7fee7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(247, 254, 231))"
+        ]
+
+
+{-| The tailwind class `from-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_100 : Css.Style
+from_lime_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ecfccb"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 252, 203))"
+        ]
+
+
+{-| The tailwind class `from-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_200 : Css.Style
+from_lime_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d9f99d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(217, 249, 157))"
+        ]
+
+
+{-| The tailwind class `from-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_300 : Css.Style
+from_lime_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#bef264"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(190, 242, 100))"
+        ]
+
+
+{-| The tailwind class `from-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_400 : Css.Style
+from_lime_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a3e635"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(163, 230, 53))"
+        ]
+
+
+{-| The tailwind class `from-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_500 : Css.Style
+from_lime_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#84cc16"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(132, 204, 22))"
+        ]
+
+
+{-| The tailwind class `from-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_600 : Css.Style
+from_lime_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#65a30d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(101, 163, 13))"
+        ]
+
+
+{-| The tailwind class `from-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_700 : Css.Style
+from_lime_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4d7c0f"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(77, 124, 15))"
+        ]
+
+
+{-| The tailwind class `from-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_800 : Css.Style
+from_lime_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#3f6212"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(63, 98, 18))"
+        ]
+
+
+{-| The tailwind class `from-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_lime_900 : Css.Style
+from_lime_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#365314"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(54, 83, 20))"
+        ]
+
+
+{-| The tailwind class `from-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_50 : Css.Style
+from_green_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f0fdf4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(240, 253, 244))"
+        ]
+
+
+{-| The tailwind class `from-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_100 : Css.Style
+from_green_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#dcfce7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(220, 252, 231))"
+        ]
+
+
+{-| The tailwind class `from-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_200 : Css.Style
+from_green_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#bbf7d0"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(187, 247, 208))"
+        ]
+
+
+{-| The tailwind class `from-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_300 : Css.Style
+from_green_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#86efac"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(134, 239, 172))"
+        ]
+
+
+{-| The tailwind class `from-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_400 : Css.Style
+from_green_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4ade80"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(74, 222, 128))"
+        ]
+
+
+{-| The tailwind class `from-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_500 : Css.Style
+from_green_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#22c55e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 197, 94))"
+        ]
+
+
+{-| The tailwind class `from-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_600 : Css.Style
+from_green_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#16a34a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(22, 163, 74))"
+        ]
+
+
+{-| The tailwind class `from-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_700 : Css.Style
+from_green_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#15803d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(21, 128, 61))"
+        ]
+
+
+{-| The tailwind class `from-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_800 : Css.Style
+from_green_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#166534"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(22, 101, 52))"
+        ]
+
+
+{-| The tailwind class `from-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_green_900 : Css.Style
+from_green_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#14532d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(20, 83, 45))"
+        ]
+
+
+{-| The tailwind class `from-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_50 : Css.Style
+from_emerald_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ecfdf5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 253, 245))"
+        ]
+
+
+{-| The tailwind class `from-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_100 : Css.Style
+from_emerald_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d1fae5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(209, 250, 229))"
+        ]
+
+
+{-| The tailwind class `from-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_200 : Css.Style
+from_emerald_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a7f3d0"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 243, 208))"
+        ]
+
+
+{-| The tailwind class `from-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_300 : Css.Style
+from_emerald_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#6ee7b7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(110, 231, 183))"
+        ]
+
+
+{-| The tailwind class `from-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_400 : Css.Style
+from_emerald_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#34d399"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(52, 211, 153))"
+        ]
+
+
+{-| The tailwind class `from-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_500 : Css.Style
+from_emerald_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#10b981"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(16, 185, 129))"
+        ]
+
+
+{-| The tailwind class `from-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_600 : Css.Style
+from_emerald_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#059669"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(5, 150, 105))"
+        ]
+
+
+{-| The tailwind class `from-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_700 : Css.Style
+from_emerald_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#047857"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 120, 87))"
+        ]
+
+
+{-| The tailwind class `from-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_800 : Css.Style
+from_emerald_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#065f46"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(6, 95, 70))"
+        ]
+
+
+{-| The tailwind class `from-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_emerald_900 : Css.Style
+from_emerald_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#064e3b"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(6, 78, 59))"
+        ]
+
+
+{-| The tailwind class `from-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_50 : Css.Style
+from_teal_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f0fdfa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(240, 253, 250))"
+        ]
+
+
+{-| The tailwind class `from-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_100 : Css.Style
+from_teal_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ccfbf1"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(204, 251, 241))"
+        ]
+
+
+{-| The tailwind class `from-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_200 : Css.Style
+from_teal_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#99f6e4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(153, 246, 228))"
+        ]
+
+
+{-| The tailwind class `from-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_300 : Css.Style
+from_teal_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#5eead4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(94, 234, 212))"
+        ]
+
+
+{-| The tailwind class `from-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_400 : Css.Style
+from_teal_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#2dd4bf"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(45, 212, 191))"
+        ]
+
+
+{-| The tailwind class `from-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_500 : Css.Style
+from_teal_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#14b8a6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(20, 184, 166))"
+        ]
+
+
+{-| The tailwind class `from-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_600 : Css.Style
+from_teal_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0d9488"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(13, 148, 136))"
+        ]
+
+
+{-| The tailwind class `from-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_700 : Css.Style
+from_teal_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0f766e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(15, 118, 110))"
+        ]
+
+
+{-| The tailwind class `from-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_800 : Css.Style
+from_teal_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#115e59"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(17, 94, 89))"
+        ]
+
+
+{-| The tailwind class `from-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_teal_900 : Css.Style
+from_teal_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#134e4a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(19, 78, 74))"
+        ]
+
+
+{-| The tailwind class `from-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_50 : Css.Style
+from_cyan_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ecfeff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 254, 255))"
+        ]
+
+
+{-| The tailwind class `from-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_100 : Css.Style
+from_cyan_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#cffafe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(207, 250, 254))"
+        ]
+
+
+{-| The tailwind class `from-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_200 : Css.Style
+from_cyan_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a5f3fc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(165, 243, 252))"
+        ]
+
+
+{-| The tailwind class `from-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_300 : Css.Style
+from_cyan_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#67e8f9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(103, 232, 249))"
+        ]
+
+
+{-| The tailwind class `from-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_400 : Css.Style
+from_cyan_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#22d3ee"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 211, 238))"
+        ]
+
+
+{-| The tailwind class `from-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_500 : Css.Style
+from_cyan_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#06b6d4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(6, 182, 212))"
+        ]
+
+
+{-| The tailwind class `from-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_600 : Css.Style
+from_cyan_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0891b2"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(8, 145, 178))"
+        ]
+
+
+{-| The tailwind class `from-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_700 : Css.Style
+from_cyan_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0e7490"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(14, 116, 144))"
+        ]
+
+
+{-| The tailwind class `from-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_800 : Css.Style
+from_cyan_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#155e75"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(21, 94, 117))"
+        ]
+
+
+{-| The tailwind class `from-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_cyan_900 : Css.Style
+from_cyan_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#164e63"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(22, 78, 99))"
+        ]
+
+
+{-| The tailwind class `from-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_50 : Css.Style
+from_sky_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f0f9ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(240, 249, 255))"
+        ]
+
+
+{-| The tailwind class `from-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_100 : Css.Style
+from_sky_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e0f2fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(224, 242, 254))"
+        ]
+
+
+{-| The tailwind class `from-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_200 : Css.Style
+from_sky_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#bae6fd"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(186, 230, 253))"
+        ]
+
+
+{-| The tailwind class `from-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_300 : Css.Style
+from_sky_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#7dd3fc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(125, 211, 252))"
+        ]
+
+
+{-| The tailwind class `from-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_400 : Css.Style
+from_sky_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#38bdf8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(56, 189, 248))"
+        ]
+
+
+{-| The tailwind class `from-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_500 : Css.Style
+from_sky_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0ea5e9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(14, 165, 233))"
+        ]
+
+
+{-| The tailwind class `from-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_600 : Css.Style
+from_sky_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0284c7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(2, 132, 199))"
+        ]
+
+
+{-| The tailwind class `from-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_700 : Css.Style
+from_sky_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0369a1"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(3, 105, 161))"
+        ]
+
+
+{-| The tailwind class `from-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_800 : Css.Style
+from_sky_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#075985"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(7, 89, 133))"
+        ]
+
+
+{-| The tailwind class `from-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_sky_900 : Css.Style
+from_sky_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#0c4a6e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(12, 74, 110))"
+        ]
+
+
+{-| The tailwind class `from-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_50 : Css.Style
+from_blue_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#eff6ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(239, 246, 255))"
+        ]
+
+
+{-| The tailwind class `from-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_100 : Css.Style
+from_blue_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#dbeafe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(219, 234, 254))"
+        ]
+
+
+{-| The tailwind class `from-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_200 : Css.Style
+from_blue_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#bfdbfe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(191, 219, 254))"
+        ]
+
+
+{-| The tailwind class `from-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_300 : Css.Style
+from_blue_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#93c5fd"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(147, 197, 253))"
+        ]
+
+
+{-| The tailwind class `from-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_400 : Css.Style
+from_blue_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#60a5fa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(96, 165, 250))"
+        ]
+
+
+{-| The tailwind class `from-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_500 : Css.Style
+from_blue_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#3b82f6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(59, 130, 246))"
+        ]
+
+
+{-| The tailwind class `from-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_600 : Css.Style
+from_blue_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#2563eb"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(37, 99, 235))"
+        ]
+
+
+{-| The tailwind class `from-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_700 : Css.Style
+from_blue_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1d4ed8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(29, 78, 216))"
+        ]
+
+
+{-| The tailwind class `from-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_800 : Css.Style
+from_blue_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1e40af"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 64, 175))"
+        ]
+
+
+{-| The tailwind class `from-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_blue_900 : Css.Style
+from_blue_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#1e3a8a"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(30, 58, 138))"
+        ]
+
+
+{-| The tailwind class `from-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_50 : Css.Style
+from_indigo_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#eef2ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 242, 255))"
+        ]
+
+
+{-| The tailwind class `from-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_100 : Css.Style
+from_indigo_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e0e7ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(224, 231, 255))"
+        ]
+
+
+{-| The tailwind class `from-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_200 : Css.Style
+from_indigo_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#c7d2fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(199, 210, 254))"
+        ]
+
+
+{-| The tailwind class `from-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_300 : Css.Style
+from_indigo_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a5b4fc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(165, 180, 252))"
+        ]
+
+
+{-| The tailwind class `from-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_400 : Css.Style
+from_indigo_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#818cf8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(129, 140, 248))"
+        ]
+
+
+{-| The tailwind class `from-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_500 : Css.Style
+from_indigo_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#6366f1"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(99, 102, 241))"
+        ]
+
+
+{-| The tailwind class `from-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_600 : Css.Style
+from_indigo_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4f46e5"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(79, 70, 229))"
+        ]
+
+
+{-| The tailwind class `from-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_700 : Css.Style
+from_indigo_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4338ca"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(67, 56, 202))"
+        ]
+
+
+{-| The tailwind class `from-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_800 : Css.Style
+from_indigo_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#3730a3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(55, 48, 163))"
+        ]
+
+
+{-| The tailwind class `from-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_indigo_900 : Css.Style
+from_indigo_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#312e81"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(49, 46, 129))"
+        ]
+
+
+{-| The tailwind class `from-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_50 : Css.Style
+from_violet_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f5f3ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 243, 255))"
+        ]
+
+
+{-| The tailwind class `from-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_100 : Css.Style
+from_violet_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ede9fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(237, 233, 254))"
+        ]
+
+
+{-| The tailwind class `from-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_200 : Css.Style
+from_violet_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ddd6fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(221, 214, 254))"
+        ]
+
+
+{-| The tailwind class `from-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_300 : Css.Style
+from_violet_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#c4b5fd"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(196, 181, 253))"
+        ]
+
+
+{-| The tailwind class `from-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_400 : Css.Style
+from_violet_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a78bfa"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(167, 139, 250))"
+        ]
+
+
+{-| The tailwind class `from-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_500 : Css.Style
+from_violet_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#8b5cf6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(139, 92, 246))"
+        ]
+
+
+{-| The tailwind class `from-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_600 : Css.Style
+from_violet_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#7c3aed"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(124, 58, 237))"
+        ]
+
+
+{-| The tailwind class `from-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_700 : Css.Style
+from_violet_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#6d28d9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(109, 40, 217))"
+        ]
+
+
+{-| The tailwind class `from-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_800 : Css.Style
+from_violet_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#5b21b6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(91, 33, 182))"
+        ]
+
+
+{-| The tailwind class `from-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_violet_900 : Css.Style
+from_violet_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#4c1d95"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(76, 29, 149))"
+        ]
+
+
+{-| The tailwind class `from-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_50 : Css.Style
+from_purple_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#faf5ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 245, 255))"
+        ]
+
+
+{-| The tailwind class `from-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_100 : Css.Style
+from_purple_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f3e8ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(243, 232, 255))"
+        ]
+
+
+{-| The tailwind class `from-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_200 : Css.Style
+from_purple_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e9d5ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(233, 213, 255))"
+        ]
+
+
+{-| The tailwind class `from-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_300 : Css.Style
+from_purple_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d8b4fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(216, 180, 254))"
+        ]
+
+
+{-| The tailwind class `from-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_400 : Css.Style
+from_purple_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#c084fc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(192, 132, 252))"
+        ]
+
+
+{-| The tailwind class `from-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_500 : Css.Style
+from_purple_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a855f7"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(168, 85, 247))"
+        ]
+
+
+{-| The tailwind class `from-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_600 : Css.Style
+from_purple_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#9333ea"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(147, 51, 234))"
+        ]
+
+
+{-| The tailwind class `from-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_700 : Css.Style
+from_purple_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#7e22ce"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(126, 34, 206))"
+        ]
+
+
+{-| The tailwind class `from-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_800 : Css.Style
+from_purple_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#6b21a8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(107, 33, 168))"
+        ]
+
+
+{-| The tailwind class `from-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_purple_900 : Css.Style
+from_purple_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#581c87"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(88, 28, 135))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_50 : Css.Style
+from_fuchsia_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fdf4ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 244, 255))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_100 : Css.Style
+from_fuchsia_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fae8ff"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(250, 232, 255))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_200 : Css.Style
+from_fuchsia_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f5d0fe"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(245, 208, 254))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_300 : Css.Style
+from_fuchsia_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f0abfc"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(240, 171, 252))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_400 : Css.Style
+from_fuchsia_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e879f9"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(232, 121, 249))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_500 : Css.Style
+from_fuchsia_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#d946ef"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(217, 70, 239))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_600 : Css.Style
+from_fuchsia_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#c026d3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(192, 38, 211))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_700 : Css.Style
+from_fuchsia_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#a21caf"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(162, 28, 175))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_800 : Css.Style
+from_fuchsia_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#86198f"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(134, 25, 143))"
+        ]
+
+
+{-| The tailwind class `from-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_fuchsia_900 : Css.Style
+from_fuchsia_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#701a75"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(112, 26, 117))"
+        ]
+
+
+{-| The tailwind class `from-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_50 : Css.Style
+from_pink_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fdf2f8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 242, 248))"
+        ]
+
+
+{-| The tailwind class `from-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_100 : Css.Style
+from_pink_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fce7f3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(252, 231, 243))"
+        ]
+
+
+{-| The tailwind class `from-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_200 : Css.Style
+from_pink_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fbcfe8"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 207, 232))"
+        ]
+
+
+{-| The tailwind class `from-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_300 : Css.Style
+from_pink_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f9a8d4"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(249, 168, 212))"
+        ]
+
+
+{-| The tailwind class `from-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_400 : Css.Style
+from_pink_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f472b6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(244, 114, 182))"
+        ]
+
+
+{-| The tailwind class `from-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_500 : Css.Style
+from_pink_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ec4899"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 72, 153))"
+        ]
+
+
+{-| The tailwind class `from-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_600 : Css.Style
+from_pink_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#db2777"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(219, 39, 119))"
+        ]
+
+
+{-| The tailwind class `from-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_700 : Css.Style
+from_pink_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#be185d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(190, 24, 93))"
+        ]
+
+
+{-| The tailwind class `from-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_800 : Css.Style
+from_pink_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#9d174d"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(157, 23, 77))"
+        ]
+
+
+{-| The tailwind class `from-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_pink_900 : Css.Style
+from_pink_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#831843"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(131, 24, 67))"
+        ]
+
+
+{-| The tailwind class `from-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_50 : Css.Style
+from_rose_50 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fff1f2"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 241, 242))"
+        ]
+
+
+{-| The tailwind class `from-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_100 : Css.Style
+from_rose_100 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#ffe4e6"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 228, 230))"
+        ]
+
+
+{-| The tailwind class `from-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_200 : Css.Style
+from_rose_200 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fecdd3"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(254, 205, 211))"
+        ]
+
+
+{-| The tailwind class `from-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_300 : Css.Style
+from_rose_300 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fda4af"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(253, 164, 175))"
+        ]
+
+
+{-| The tailwind class `from-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_400 : Css.Style
+from_rose_400 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#fb7185"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(251, 113, 133))"
+        ]
+
+
+{-| The tailwind class `from-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_500 : Css.Style
+from_rose_500 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#f43f5e"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(244, 63, 94))"
+        ]
+
+
+{-| The tailwind class `from-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_600 : Css.Style
+from_rose_600 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#e11d48"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(225, 29, 72))"
+        ]
+
+
+{-| The tailwind class `from-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_700 : Css.Style
+from_rose_700 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#be123c"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(190, 18, 60))"
+        ]
+
+
+{-| The tailwind class `from-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_800 : Css.Style
+from_rose_800 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#9f1239"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(159, 18, 57))"
+        ]
+
+
+{-| The tailwind class `from-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+from_rose_900 : Css.Style
+from_rose_900 =
+    Css.batch
+        [ Css.property "--tw-gradient-from" "#881337"
+        , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to, rgba(136, 19, 55))"
         ]
 
 
@@ -51178,104 +53838,14 @@ to_black =
     Css.property "--tw-gradient-to" "#000"
 
 
-{-| The tailwind class `to-blue-100`.
+{-| The tailwind class `to-white`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_blue_100 : Css.Style
-to_blue_100 =
-    Css.property "--tw-gradient-to" "#dbeafe"
-
-
-{-| The tailwind class `to-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_200 : Css.Style
-to_blue_200 =
-    Css.property "--tw-gradient-to" "#bfdbfe"
-
-
-{-| The tailwind class `to-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_300 : Css.Style
-to_blue_300 =
-    Css.property "--tw-gradient-to" "#93c5fd"
-
-
-{-| The tailwind class `to-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_400 : Css.Style
-to_blue_400 =
-    Css.property "--tw-gradient-to" "#60a5fa"
-
-
-{-| The tailwind class `to-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_50 : Css.Style
-to_blue_50 =
-    Css.property "--tw-gradient-to" "#eff6ff"
-
-
-{-| The tailwind class `to-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_500 : Css.Style
-to_blue_500 =
-    Css.property "--tw-gradient-to" "#3b82f6"
-
-
-{-| The tailwind class `to-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_600 : Css.Style
-to_blue_600 =
-    Css.property "--tw-gradient-to" "#2563eb"
-
-
-{-| The tailwind class `to-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_700 : Css.Style
-to_blue_700 =
-    Css.property "--tw-gradient-to" "#1d4ed8"
-
-
-{-| The tailwind class `to-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_800 : Css.Style
-to_blue_800 =
-    Css.property "--tw-gradient-to" "#1e40af"
-
-
-{-| The tailwind class `to-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_blue_900 : Css.Style
-to_blue_900 =
-    Css.property "--tw-gradient-to" "#1e3a8a"
+to_white : Css.Style
+to_white =
+    Css.property "--tw-gradient-to" "#fff"
 
 
 {-| The tailwind class `to-current`.
@@ -51286,6 +53856,126 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 to_current : Css.Style
 to_current =
     Css.property "--tw-gradient-to" "currentColor"
+
+
+{-| The tailwind class `to-black`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_transparent : Css.Style
+to_transparent =
+    Css.property "--tw-gradient-to" "transparent"
+
+
+{-| The tailwind class `to-slate-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_50 : Css.Style
+to_slate_50 =
+    Css.property "--tw-gradient-to" "#f8fafc"
+
+
+{-| The tailwind class `to-slate-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_100 : Css.Style
+to_slate_100 =
+    Css.property "--tw-gradient-to" "#f1f5f9"
+
+
+{-| The tailwind class `to-slate-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_200 : Css.Style
+to_slate_200 =
+    Css.property "--tw-gradient-to" "#e2e8f0"
+
+
+{-| The tailwind class `to-slate-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_300 : Css.Style
+to_slate_300 =
+    Css.property "--tw-gradient-to" "#cbd5e1"
+
+
+{-| The tailwind class `to-slate-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_400 : Css.Style
+to_slate_400 =
+    Css.property "--tw-gradient-to" "#94a3b8"
+
+
+{-| The tailwind class `to-slate-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_500 : Css.Style
+to_slate_500 =
+    Css.property "--tw-gradient-to" "#64748b"
+
+
+{-| The tailwind class `to-slate-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_600 : Css.Style
+to_slate_600 =
+    Css.property "--tw-gradient-to" "#475569"
+
+
+{-| The tailwind class `to-slate-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_700 : Css.Style
+to_slate_700 =
+    Css.property "--tw-gradient-to" "#334155"
+
+
+{-| The tailwind class `to-slate-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_800 : Css.Style
+to_slate_800 =
+    Css.property "--tw-gradient-to" "#1e293b"
+
+
+{-| The tailwind class `to-slate-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_slate_900 : Css.Style
+to_slate_900 =
+    Css.property "--tw-gradient-to" "#0f172a"
+
+
+{-| The tailwind class `to-gray-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_gray_50 : Css.Style
+to_gray_50 =
+    Css.property "--tw-gradient-to" "#f9fafb"
 
 
 {-| The tailwind class `to-gray-100`.
@@ -51326,16 +54016,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 to_gray_400 : Css.Style
 to_gray_400 =
     Css.property "--tw-gradient-to" "#9ca3af"
-
-
-{-| The tailwind class `to-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_gray_50 : Css.Style
-to_gray_50 =
-    Css.property "--tw-gradient-to" "#f9fafb"
 
 
 {-| The tailwind class `to-gray-500`.
@@ -51388,404 +54068,314 @@ to_gray_900 =
     Css.property "--tw-gradient-to" "#111827"
 
 
-{-| The tailwind class `to-green-100`.
+{-| The tailwind class `to-zinc-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_green_100 : Css.Style
-to_green_100 =
-    Css.property "--tw-gradient-to" "#d1fae5"
+to_zinc_50 : Css.Style
+to_zinc_50 =
+    Css.property "--tw-gradient-to" "#fafafa"
 
 
-{-| The tailwind class `to-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_green_200 : Css.Style
-to_green_200 =
-    Css.property "--tw-gradient-to" "#a7f3d0"
-
-
-{-| The tailwind class `to-green-300`.
+{-| The tailwind class `to-zinc-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_green_300 : Css.Style
-to_green_300 =
-    Css.property "--tw-gradient-to" "#6ee7b7"
+to_zinc_100 : Css.Style
+to_zinc_100 =
+    Css.property "--tw-gradient-to" "#f4f4f5"
 
 
-{-| The tailwind class `to-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_green_400 : Css.Style
-to_green_400 =
-    Css.property "--tw-gradient-to" "#34d399"
-
-
-{-| The tailwind class `to-green-50`.
+{-| The tailwind class `to-zinc-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_green_50 : Css.Style
-to_green_50 =
-    Css.property "--tw-gradient-to" "#ecfdf5"
+to_zinc_200 : Css.Style
+to_zinc_200 =
+    Css.property "--tw-gradient-to" "#e4e4e7"
 
 
-{-| The tailwind class `to-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_green_500 : Css.Style
-to_green_500 =
-    Css.property "--tw-gradient-to" "#10b981"
-
-
-{-| The tailwind class `to-green-600`.
+{-| The tailwind class `to-zinc-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_green_600 : Css.Style
-to_green_600 =
-    Css.property "--tw-gradient-to" "#059669"
+to_zinc_300 : Css.Style
+to_zinc_300 =
+    Css.property "--tw-gradient-to" "#d4d4d8"
 
 
-{-| The tailwind class `to-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_green_700 : Css.Style
-to_green_700 =
-    Css.property "--tw-gradient-to" "#047857"
-
-
-{-| The tailwind class `to-green-800`.
+{-| The tailwind class `to-zinc-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_green_800 : Css.Style
-to_green_800 =
-    Css.property "--tw-gradient-to" "#065f46"
+to_zinc_400 : Css.Style
+to_zinc_400 =
+    Css.property "--tw-gradient-to" "#a1a1aa"
 
 
-{-| The tailwind class `to-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_green_900 : Css.Style
-to_green_900 =
-    Css.property "--tw-gradient-to" "#064e3b"
-
-
-{-| The tailwind class `to-indigo-100`.
+{-| The tailwind class `to-zinc-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_indigo_100 : Css.Style
-to_indigo_100 =
-    Css.property "--tw-gradient-to" "#e0e7ff"
+to_zinc_500 : Css.Style
+to_zinc_500 =
+    Css.property "--tw-gradient-to" "#71717a"
 
 
-{-| The tailwind class `to-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_indigo_200 : Css.Style
-to_indigo_200 =
-    Css.property "--tw-gradient-to" "#c7d2fe"
-
-
-{-| The tailwind class `to-indigo-300`.
+{-| The tailwind class `to-zinc-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_indigo_300 : Css.Style
-to_indigo_300 =
-    Css.property "--tw-gradient-to" "#a5b4fc"
+to_zinc_600 : Css.Style
+to_zinc_600 =
+    Css.property "--tw-gradient-to" "#52525b"
 
 
-{-| The tailwind class `to-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_indigo_400 : Css.Style
-to_indigo_400 =
-    Css.property "--tw-gradient-to" "#818cf8"
-
-
-{-| The tailwind class `to-indigo-50`.
+{-| The tailwind class `to-zinc-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_indigo_50 : Css.Style
-to_indigo_50 =
-    Css.property "--tw-gradient-to" "#eef2ff"
+to_zinc_700 : Css.Style
+to_zinc_700 =
+    Css.property "--tw-gradient-to" "#3f3f46"
 
 
-{-| The tailwind class `to-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_indigo_500 : Css.Style
-to_indigo_500 =
-    Css.property "--tw-gradient-to" "#6366f1"
-
-
-{-| The tailwind class `to-indigo-600`.
+{-| The tailwind class `to-zinc-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_indigo_600 : Css.Style
-to_indigo_600 =
-    Css.property "--tw-gradient-to" "#4f46e5"
+to_zinc_800 : Css.Style
+to_zinc_800 =
+    Css.property "--tw-gradient-to" "#27272a"
 
 
-{-| The tailwind class `to-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_indigo_700 : Css.Style
-to_indigo_700 =
-    Css.property "--tw-gradient-to" "#4338ca"
-
-
-{-| The tailwind class `to-indigo-800`.
+{-| The tailwind class `to-zinc-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_indigo_800 : Css.Style
-to_indigo_800 =
-    Css.property "--tw-gradient-to" "#3730a3"
+to_zinc_900 : Css.Style
+to_zinc_900 =
+    Css.property "--tw-gradient-to" "#18181b"
 
 
-{-| The tailwind class `to-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_indigo_900 : Css.Style
-to_indigo_900 =
-    Css.property "--tw-gradient-to" "#312e81"
-
-
-{-| The tailwind class `to-pink-100`.
+{-| The tailwind class `to-neutral-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_pink_100 : Css.Style
-to_pink_100 =
-    Css.property "--tw-gradient-to" "#fce7f3"
+to_neutral_50 : Css.Style
+to_neutral_50 =
+    Css.property "--tw-gradient-to" "#fafafa"
 
 
-{-| The tailwind class `to-pink-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_pink_200 : Css.Style
-to_pink_200 =
-    Css.property "--tw-gradient-to" "#fbcfe8"
-
-
-{-| The tailwind class `to-pink-300`.
+{-| The tailwind class `to-neutral-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_pink_300 : Css.Style
-to_pink_300 =
-    Css.property "--tw-gradient-to" "#f9a8d4"
+to_neutral_100 : Css.Style
+to_neutral_100 =
+    Css.property "--tw-gradient-to" "#f5f5f5"
 
 
-{-| The tailwind class `to-pink-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_pink_400 : Css.Style
-to_pink_400 =
-    Css.property "--tw-gradient-to" "#f472b6"
-
-
-{-| The tailwind class `to-pink-50`.
+{-| The tailwind class `to-neutral-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_pink_50 : Css.Style
-to_pink_50 =
-    Css.property "--tw-gradient-to" "#fdf2f8"
+to_neutral_200 : Css.Style
+to_neutral_200 =
+    Css.property "--tw-gradient-to" "#e5e5e5"
 
 
-{-| The tailwind class `to-pink-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_pink_500 : Css.Style
-to_pink_500 =
-    Css.property "--tw-gradient-to" "#ec4899"
-
-
-{-| The tailwind class `to-pink-600`.
+{-| The tailwind class `to-neutral-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_pink_600 : Css.Style
-to_pink_600 =
-    Css.property "--tw-gradient-to" "#db2777"
+to_neutral_300 : Css.Style
+to_neutral_300 =
+    Css.property "--tw-gradient-to" "#d4d4d4"
 
 
-{-| The tailwind class `to-pink-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_pink_700 : Css.Style
-to_pink_700 =
-    Css.property "--tw-gradient-to" "#be185d"
-
-
-{-| The tailwind class `to-pink-800`.
+{-| The tailwind class `to-neutral-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_pink_800 : Css.Style
-to_pink_800 =
-    Css.property "--tw-gradient-to" "#9d174d"
+to_neutral_400 : Css.Style
+to_neutral_400 =
+    Css.property "--tw-gradient-to" "#a3a3a3"
 
 
-{-| The tailwind class `to-pink-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_pink_900 : Css.Style
-to_pink_900 =
-    Css.property "--tw-gradient-to" "#831843"
-
-
-{-| The tailwind class `to-purple-100`.
+{-| The tailwind class `to-neutral-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_100 : Css.Style
-to_purple_100 =
-    Css.property "--tw-gradient-to" "#ede9fe"
+to_neutral_500 : Css.Style
+to_neutral_500 =
+    Css.property "--tw-gradient-to" "#737373"
 
 
-{-| The tailwind class `to-purple-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_purple_200 : Css.Style
-to_purple_200 =
-    Css.property "--tw-gradient-to" "#ddd6fe"
-
-
-{-| The tailwind class `to-purple-300`.
+{-| The tailwind class `to-neutral-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_300 : Css.Style
-to_purple_300 =
-    Css.property "--tw-gradient-to" "#c4b5fd"
+to_neutral_600 : Css.Style
+to_neutral_600 =
+    Css.property "--tw-gradient-to" "#525252"
 
 
-{-| The tailwind class `to-purple-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_purple_400 : Css.Style
-to_purple_400 =
-    Css.property "--tw-gradient-to" "#a78bfa"
-
-
-{-| The tailwind class `to-purple-50`.
+{-| The tailwind class `to-neutral-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_50 : Css.Style
-to_purple_50 =
-    Css.property "--tw-gradient-to" "#f5f3ff"
+to_neutral_700 : Css.Style
+to_neutral_700 =
+    Css.property "--tw-gradient-to" "#404040"
 
 
-{-| The tailwind class `to-purple-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_purple_500 : Css.Style
-to_purple_500 =
-    Css.property "--tw-gradient-to" "#8b5cf6"
-
-
-{-| The tailwind class `to-purple-600`.
+{-| The tailwind class `to-neutral-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_600 : Css.Style
-to_purple_600 =
-    Css.property "--tw-gradient-to" "#7c3aed"
+to_neutral_800 : Css.Style
+to_neutral_800 =
+    Css.property "--tw-gradient-to" "#262626"
 
 
-{-| The tailwind class `to-purple-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_purple_700 : Css.Style
-to_purple_700 =
-    Css.property "--tw-gradient-to" "#6d28d9"
-
-
-{-| The tailwind class `to-purple-800`.
+{-| The tailwind class `to-neutral-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_800 : Css.Style
-to_purple_800 =
-    Css.property "--tw-gradient-to" "#5b21b6"
+to_neutral_900 : Css.Style
+to_neutral_900 =
+    Css.property "--tw-gradient-to" "#171717"
 
 
-{-| The tailwind class `to-purple-900`.
+{-| The tailwind class `to-stone-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_purple_900 : Css.Style
-to_purple_900 =
-    Css.property "--tw-gradient-to" "#4c1d95"
+to_stone_50 : Css.Style
+to_stone_50 =
+    Css.property "--tw-gradient-to" "#fafaf9"
+
+
+{-| The tailwind class `to-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_100 : Css.Style
+to_stone_100 =
+    Css.property "--tw-gradient-to" "#f5f5f4"
+
+
+{-| The tailwind class `to-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_200 : Css.Style
+to_stone_200 =
+    Css.property "--tw-gradient-to" "#e7e5e4"
+
+
+{-| The tailwind class `to-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_300 : Css.Style
+to_stone_300 =
+    Css.property "--tw-gradient-to" "#d6d3d1"
+
+
+{-| The tailwind class `to-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_400 : Css.Style
+to_stone_400 =
+    Css.property "--tw-gradient-to" "#a8a29e"
+
+
+{-| The tailwind class `to-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_500 : Css.Style
+to_stone_500 =
+    Css.property "--tw-gradient-to" "#78716c"
+
+
+{-| The tailwind class `to-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_600 : Css.Style
+to_stone_600 =
+    Css.property "--tw-gradient-to" "#57534e"
+
+
+{-| The tailwind class `to-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_700 : Css.Style
+to_stone_700 =
+    Css.property "--tw-gradient-to" "#44403c"
+
+
+{-| The tailwind class `to-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_800 : Css.Style
+to_stone_800 =
+    Css.property "--tw-gradient-to" "#292524"
+
+
+{-| The tailwind class `to-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_stone_900 : Css.Style
+to_stone_900 =
+    Css.property "--tw-gradient-to" "#1c1917"
+
+
+{-| The tailwind class `to-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_red_50 : Css.Style
+to_red_50 =
+    Css.property "--tw-gradient-to" "#fef2f2"
 
 
 {-| The tailwind class `to-red-100`.
@@ -51826,16 +54416,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 to_red_400 : Css.Style
 to_red_400 =
     Css.property "--tw-gradient-to" "#f87171"
-
-
-{-| The tailwind class `to-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_red_50 : Css.Style
-to_red_50 =
-    Css.property "--tw-gradient-to" "#fef2f2"
 
 
 {-| The tailwind class `to-red-500`.
@@ -51888,64 +54468,204 @@ to_red_900 =
     Css.property "--tw-gradient-to" "#7f1d1d"
 
 
-{-| The tailwind class `to-transparent`.
+{-| The tailwind class `to-orange-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_transparent : Css.Style
-to_transparent =
-    Css.property "--tw-gradient-to" "transparent"
+to_orange_50 : Css.Style
+to_orange_50 =
+    Css.property "--tw-gradient-to" "#fff7ed"
 
 
-{-| The tailwind class `to-white`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-to_white : Css.Style
-to_white =
-    Css.property "--tw-gradient-to" "#fff"
-
-
-{-| The tailwind class `to-yellow-100`.
+{-| The tailwind class `to-orange-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_yellow_100 : Css.Style
-to_yellow_100 =
+to_orange_100 : Css.Style
+to_orange_100 =
+    Css.property "--tw-gradient-to" "#ffedd5"
+
+
+{-| The tailwind class `to-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_200 : Css.Style
+to_orange_200 =
+    Css.property "--tw-gradient-to" "#fed7aa"
+
+
+{-| The tailwind class `to-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_300 : Css.Style
+to_orange_300 =
+    Css.property "--tw-gradient-to" "#fdba74"
+
+
+{-| The tailwind class `to-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_400 : Css.Style
+to_orange_400 =
+    Css.property "--tw-gradient-to" "#fb923c"
+
+
+{-| The tailwind class `to-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_500 : Css.Style
+to_orange_500 =
+    Css.property "--tw-gradient-to" "#f97316"
+
+
+{-| The tailwind class `to-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_600 : Css.Style
+to_orange_600 =
+    Css.property "--tw-gradient-to" "#ea580c"
+
+
+{-| The tailwind class `to-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_700 : Css.Style
+to_orange_700 =
+    Css.property "--tw-gradient-to" "#c2410c"
+
+
+{-| The tailwind class `to-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_800 : Css.Style
+to_orange_800 =
+    Css.property "--tw-gradient-to" "#9a3412"
+
+
+{-| The tailwind class `to-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_orange_900 : Css.Style
+to_orange_900 =
+    Css.property "--tw-gradient-to" "#7c2d12"
+
+
+{-| The tailwind class `to-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_50 : Css.Style
+to_amber_50 =
+    Css.property "--tw-gradient-to" "#fffbeb"
+
+
+{-| The tailwind class `to-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_100 : Css.Style
+to_amber_100 =
     Css.property "--tw-gradient-to" "#fef3c7"
 
 
-{-| The tailwind class `to-yellow-200`.
+{-| The tailwind class `to-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_yellow_200 : Css.Style
-to_yellow_200 =
+to_amber_200 : Css.Style
+to_amber_200 =
     Css.property "--tw-gradient-to" "#fde68a"
 
 
-{-| The tailwind class `to-yellow-300`.
+{-| The tailwind class `to-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_yellow_300 : Css.Style
-to_yellow_300 =
+to_amber_300 : Css.Style
+to_amber_300 =
     Css.property "--tw-gradient-to" "#fcd34d"
 
 
-{-| The tailwind class `to-yellow-400`.
+{-| The tailwind class `to-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-to_yellow_400 : Css.Style
-to_yellow_400 =
+to_amber_400 : Css.Style
+to_amber_400 =
     Css.property "--tw-gradient-to" "#fbbf24"
+
+
+{-| The tailwind class `to-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_500 : Css.Style
+to_amber_500 =
+    Css.property "--tw-gradient-to" "#f59e0b"
+
+
+{-| The tailwind class `to-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_600 : Css.Style
+to_amber_600 =
+    Css.property "--tw-gradient-to" "#d97706"
+
+
+{-| The tailwind class `to-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_700 : Css.Style
+to_amber_700 =
+    Css.property "--tw-gradient-to" "#b45309"
+
+
+{-| The tailwind class `to-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_800 : Css.Style
+to_amber_800 =
+    Css.property "--tw-gradient-to" "#92400e"
+
+
+{-| The tailwind class `to-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_amber_900 : Css.Style
+to_amber_900 =
+    Css.property "--tw-gradient-to" "#78350f"
 
 
 {-| The tailwind class `to-yellow-50`.
@@ -51955,7 +54675,47 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_50 : Css.Style
 to_yellow_50 =
-    Css.property "--tw-gradient-to" "#fffbeb"
+    Css.property "--tw-gradient-to" "#fefce8"
+
+
+{-| The tailwind class `to-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_yellow_100 : Css.Style
+to_yellow_100 =
+    Css.property "--tw-gradient-to" "#fef9c3"
+
+
+{-| The tailwind class `to-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_yellow_200 : Css.Style
+to_yellow_200 =
+    Css.property "--tw-gradient-to" "#fef08a"
+
+
+{-| The tailwind class `to-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_yellow_300 : Css.Style
+to_yellow_300 =
+    Css.property "--tw-gradient-to" "#fde047"
+
+
+{-| The tailwind class `to-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_yellow_400 : Css.Style
+to_yellow_400 =
+    Css.property "--tw-gradient-to" "#facc15"
 
 
 {-| The tailwind class `to-yellow-500`.
@@ -51965,7 +54725,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_500 : Css.Style
 to_yellow_500 =
-    Css.property "--tw-gradient-to" "#f59e0b"
+    Css.property "--tw-gradient-to" "#eab308"
 
 
 {-| The tailwind class `to-yellow-600`.
@@ -51975,7 +54735,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_600 : Css.Style
 to_yellow_600 =
-    Css.property "--tw-gradient-to" "#d97706"
+    Css.property "--tw-gradient-to" "#ca8a04"
 
 
 {-| The tailwind class `to-yellow-700`.
@@ -51985,7 +54745,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_700 : Css.Style
 to_yellow_700 =
-    Css.property "--tw-gradient-to" "#b45309"
+    Css.property "--tw-gradient-to" "#a16207"
 
 
 {-| The tailwind class `to-yellow-800`.
@@ -51995,7 +54755,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_800 : Css.Style
 to_yellow_800 =
-    Css.property "--tw-gradient-to" "#92400e"
+    Css.property "--tw-gradient-to" "#854d0e"
 
 
 {-| The tailwind class `to-yellow-900`.
@@ -52005,7 +54765,1307 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 to_yellow_900 : Css.Style
 to_yellow_900 =
-    Css.property "--tw-gradient-to" "#78350f"
+    Css.property "--tw-gradient-to" "#713f12"
+
+
+{-| The tailwind class `to-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_50 : Css.Style
+to_lime_50 =
+    Css.property "--tw-gradient-to" "#f7fee7"
+
+
+{-| The tailwind class `to-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_100 : Css.Style
+to_lime_100 =
+    Css.property "--tw-gradient-to" "#ecfccb"
+
+
+{-| The tailwind class `to-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_200 : Css.Style
+to_lime_200 =
+    Css.property "--tw-gradient-to" "#d9f99d"
+
+
+{-| The tailwind class `to-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_300 : Css.Style
+to_lime_300 =
+    Css.property "--tw-gradient-to" "#bef264"
+
+
+{-| The tailwind class `to-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_400 : Css.Style
+to_lime_400 =
+    Css.property "--tw-gradient-to" "#a3e635"
+
+
+{-| The tailwind class `to-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_500 : Css.Style
+to_lime_500 =
+    Css.property "--tw-gradient-to" "#84cc16"
+
+
+{-| The tailwind class `to-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_600 : Css.Style
+to_lime_600 =
+    Css.property "--tw-gradient-to" "#65a30d"
+
+
+{-| The tailwind class `to-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_700 : Css.Style
+to_lime_700 =
+    Css.property "--tw-gradient-to" "#4d7c0f"
+
+
+{-| The tailwind class `to-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_800 : Css.Style
+to_lime_800 =
+    Css.property "--tw-gradient-to" "#3f6212"
+
+
+{-| The tailwind class `to-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_lime_900 : Css.Style
+to_lime_900 =
+    Css.property "--tw-gradient-to" "#365314"
+
+
+{-| The tailwind class `to-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_50 : Css.Style
+to_green_50 =
+    Css.property "--tw-gradient-to" "#f0fdf4"
+
+
+{-| The tailwind class `to-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_100 : Css.Style
+to_green_100 =
+    Css.property "--tw-gradient-to" "#dcfce7"
+
+
+{-| The tailwind class `to-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_200 : Css.Style
+to_green_200 =
+    Css.property "--tw-gradient-to" "#bbf7d0"
+
+
+{-| The tailwind class `to-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_300 : Css.Style
+to_green_300 =
+    Css.property "--tw-gradient-to" "#86efac"
+
+
+{-| The tailwind class `to-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_400 : Css.Style
+to_green_400 =
+    Css.property "--tw-gradient-to" "#4ade80"
+
+
+{-| The tailwind class `to-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_500 : Css.Style
+to_green_500 =
+    Css.property "--tw-gradient-to" "#22c55e"
+
+
+{-| The tailwind class `to-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_600 : Css.Style
+to_green_600 =
+    Css.property "--tw-gradient-to" "#16a34a"
+
+
+{-| The tailwind class `to-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_700 : Css.Style
+to_green_700 =
+    Css.property "--tw-gradient-to" "#15803d"
+
+
+{-| The tailwind class `to-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_800 : Css.Style
+to_green_800 =
+    Css.property "--tw-gradient-to" "#166534"
+
+
+{-| The tailwind class `to-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_green_900 : Css.Style
+to_green_900 =
+    Css.property "--tw-gradient-to" "#14532d"
+
+
+{-| The tailwind class `to-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_50 : Css.Style
+to_emerald_50 =
+    Css.property "--tw-gradient-to" "#ecfdf5"
+
+
+{-| The tailwind class `to-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_100 : Css.Style
+to_emerald_100 =
+    Css.property "--tw-gradient-to" "#d1fae5"
+
+
+{-| The tailwind class `to-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_200 : Css.Style
+to_emerald_200 =
+    Css.property "--tw-gradient-to" "#a7f3d0"
+
+
+{-| The tailwind class `to-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_300 : Css.Style
+to_emerald_300 =
+    Css.property "--tw-gradient-to" "#6ee7b7"
+
+
+{-| The tailwind class `to-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_400 : Css.Style
+to_emerald_400 =
+    Css.property "--tw-gradient-to" "#34d399"
+
+
+{-| The tailwind class `to-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_500 : Css.Style
+to_emerald_500 =
+    Css.property "--tw-gradient-to" "#10b981"
+
+
+{-| The tailwind class `to-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_600 : Css.Style
+to_emerald_600 =
+    Css.property "--tw-gradient-to" "#059669"
+
+
+{-| The tailwind class `to-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_700 : Css.Style
+to_emerald_700 =
+    Css.property "--tw-gradient-to" "#047857"
+
+
+{-| The tailwind class `to-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_800 : Css.Style
+to_emerald_800 =
+    Css.property "--tw-gradient-to" "#065f46"
+
+
+{-| The tailwind class `to-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_emerald_900 : Css.Style
+to_emerald_900 =
+    Css.property "--tw-gradient-to" "#064e3b"
+
+
+{-| The tailwind class `to-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_50 : Css.Style
+to_teal_50 =
+    Css.property "--tw-gradient-to" "#f0fdfa"
+
+
+{-| The tailwind class `to-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_100 : Css.Style
+to_teal_100 =
+    Css.property "--tw-gradient-to" "#ccfbf1"
+
+
+{-| The tailwind class `to-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_200 : Css.Style
+to_teal_200 =
+    Css.property "--tw-gradient-to" "#99f6e4"
+
+
+{-| The tailwind class `to-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_300 : Css.Style
+to_teal_300 =
+    Css.property "--tw-gradient-to" "#5eead4"
+
+
+{-| The tailwind class `to-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_400 : Css.Style
+to_teal_400 =
+    Css.property "--tw-gradient-to" "#2dd4bf"
+
+
+{-| The tailwind class `to-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_500 : Css.Style
+to_teal_500 =
+    Css.property "--tw-gradient-to" "#14b8a6"
+
+
+{-| The tailwind class `to-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_600 : Css.Style
+to_teal_600 =
+    Css.property "--tw-gradient-to" "#0d9488"
+
+
+{-| The tailwind class `to-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_700 : Css.Style
+to_teal_700 =
+    Css.property "--tw-gradient-to" "#0f766e"
+
+
+{-| The tailwind class `to-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_800 : Css.Style
+to_teal_800 =
+    Css.property "--tw-gradient-to" "#115e59"
+
+
+{-| The tailwind class `to-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_teal_900 : Css.Style
+to_teal_900 =
+    Css.property "--tw-gradient-to" "#134e4a"
+
+
+{-| The tailwind class `to-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_50 : Css.Style
+to_cyan_50 =
+    Css.property "--tw-gradient-to" "#ecfeff"
+
+
+{-| The tailwind class `to-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_100 : Css.Style
+to_cyan_100 =
+    Css.property "--tw-gradient-to" "#cffafe"
+
+
+{-| The tailwind class `to-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_200 : Css.Style
+to_cyan_200 =
+    Css.property "--tw-gradient-to" "#a5f3fc"
+
+
+{-| The tailwind class `to-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_300 : Css.Style
+to_cyan_300 =
+    Css.property "--tw-gradient-to" "#67e8f9"
+
+
+{-| The tailwind class `to-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_400 : Css.Style
+to_cyan_400 =
+    Css.property "--tw-gradient-to" "#22d3ee"
+
+
+{-| The tailwind class `to-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_500 : Css.Style
+to_cyan_500 =
+    Css.property "--tw-gradient-to" "#06b6d4"
+
+
+{-| The tailwind class `to-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_600 : Css.Style
+to_cyan_600 =
+    Css.property "--tw-gradient-to" "#0891b2"
+
+
+{-| The tailwind class `to-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_700 : Css.Style
+to_cyan_700 =
+    Css.property "--tw-gradient-to" "#0e7490"
+
+
+{-| The tailwind class `to-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_800 : Css.Style
+to_cyan_800 =
+    Css.property "--tw-gradient-to" "#155e75"
+
+
+{-| The tailwind class `to-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_cyan_900 : Css.Style
+to_cyan_900 =
+    Css.property "--tw-gradient-to" "#164e63"
+
+
+{-| The tailwind class `to-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_50 : Css.Style
+to_sky_50 =
+    Css.property "--tw-gradient-to" "#f0f9ff"
+
+
+{-| The tailwind class `to-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_100 : Css.Style
+to_sky_100 =
+    Css.property "--tw-gradient-to" "#e0f2fe"
+
+
+{-| The tailwind class `to-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_200 : Css.Style
+to_sky_200 =
+    Css.property "--tw-gradient-to" "#bae6fd"
+
+
+{-| The tailwind class `to-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_300 : Css.Style
+to_sky_300 =
+    Css.property "--tw-gradient-to" "#7dd3fc"
+
+
+{-| The tailwind class `to-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_400 : Css.Style
+to_sky_400 =
+    Css.property "--tw-gradient-to" "#38bdf8"
+
+
+{-| The tailwind class `to-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_500 : Css.Style
+to_sky_500 =
+    Css.property "--tw-gradient-to" "#0ea5e9"
+
+
+{-| The tailwind class `to-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_600 : Css.Style
+to_sky_600 =
+    Css.property "--tw-gradient-to" "#0284c7"
+
+
+{-| The tailwind class `to-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_700 : Css.Style
+to_sky_700 =
+    Css.property "--tw-gradient-to" "#0369a1"
+
+
+{-| The tailwind class `to-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_800 : Css.Style
+to_sky_800 =
+    Css.property "--tw-gradient-to" "#075985"
+
+
+{-| The tailwind class `to-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_sky_900 : Css.Style
+to_sky_900 =
+    Css.property "--tw-gradient-to" "#0c4a6e"
+
+
+{-| The tailwind class `to-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_50 : Css.Style
+to_blue_50 =
+    Css.property "--tw-gradient-to" "#eff6ff"
+
+
+{-| The tailwind class `to-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_100 : Css.Style
+to_blue_100 =
+    Css.property "--tw-gradient-to" "#dbeafe"
+
+
+{-| The tailwind class `to-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_200 : Css.Style
+to_blue_200 =
+    Css.property "--tw-gradient-to" "#bfdbfe"
+
+
+{-| The tailwind class `to-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_300 : Css.Style
+to_blue_300 =
+    Css.property "--tw-gradient-to" "#93c5fd"
+
+
+{-| The tailwind class `to-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_400 : Css.Style
+to_blue_400 =
+    Css.property "--tw-gradient-to" "#60a5fa"
+
+
+{-| The tailwind class `to-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_500 : Css.Style
+to_blue_500 =
+    Css.property "--tw-gradient-to" "#3b82f6"
+
+
+{-| The tailwind class `to-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_600 : Css.Style
+to_blue_600 =
+    Css.property "--tw-gradient-to" "#2563eb"
+
+
+{-| The tailwind class `to-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_700 : Css.Style
+to_blue_700 =
+    Css.property "--tw-gradient-to" "#1d4ed8"
+
+
+{-| The tailwind class `to-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_800 : Css.Style
+to_blue_800 =
+    Css.property "--tw-gradient-to" "#1e40af"
+
+
+{-| The tailwind class `to-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_blue_900 : Css.Style
+to_blue_900 =
+    Css.property "--tw-gradient-to" "#1e3a8a"
+
+
+{-| The tailwind class `to-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_50 : Css.Style
+to_indigo_50 =
+    Css.property "--tw-gradient-to" "#eef2ff"
+
+
+{-| The tailwind class `to-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_100 : Css.Style
+to_indigo_100 =
+    Css.property "--tw-gradient-to" "#e0e7ff"
+
+
+{-| The tailwind class `to-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_200 : Css.Style
+to_indigo_200 =
+    Css.property "--tw-gradient-to" "#c7d2fe"
+
+
+{-| The tailwind class `to-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_300 : Css.Style
+to_indigo_300 =
+    Css.property "--tw-gradient-to" "#a5b4fc"
+
+
+{-| The tailwind class `to-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_400 : Css.Style
+to_indigo_400 =
+    Css.property "--tw-gradient-to" "#818cf8"
+
+
+{-| The tailwind class `to-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_500 : Css.Style
+to_indigo_500 =
+    Css.property "--tw-gradient-to" "#6366f1"
+
+
+{-| The tailwind class `to-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_600 : Css.Style
+to_indigo_600 =
+    Css.property "--tw-gradient-to" "#4f46e5"
+
+
+{-| The tailwind class `to-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_700 : Css.Style
+to_indigo_700 =
+    Css.property "--tw-gradient-to" "#4338ca"
+
+
+{-| The tailwind class `to-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_800 : Css.Style
+to_indigo_800 =
+    Css.property "--tw-gradient-to" "#3730a3"
+
+
+{-| The tailwind class `to-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_indigo_900 : Css.Style
+to_indigo_900 =
+    Css.property "--tw-gradient-to" "#312e81"
+
+
+{-| The tailwind class `to-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_50 : Css.Style
+to_violet_50 =
+    Css.property "--tw-gradient-to" "#f5f3ff"
+
+
+{-| The tailwind class `to-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_100 : Css.Style
+to_violet_100 =
+    Css.property "--tw-gradient-to" "#ede9fe"
+
+
+{-| The tailwind class `to-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_200 : Css.Style
+to_violet_200 =
+    Css.property "--tw-gradient-to" "#ddd6fe"
+
+
+{-| The tailwind class `to-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_300 : Css.Style
+to_violet_300 =
+    Css.property "--tw-gradient-to" "#c4b5fd"
+
+
+{-| The tailwind class `to-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_400 : Css.Style
+to_violet_400 =
+    Css.property "--tw-gradient-to" "#a78bfa"
+
+
+{-| The tailwind class `to-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_500 : Css.Style
+to_violet_500 =
+    Css.property "--tw-gradient-to" "#8b5cf6"
+
+
+{-| The tailwind class `to-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_600 : Css.Style
+to_violet_600 =
+    Css.property "--tw-gradient-to" "#7c3aed"
+
+
+{-| The tailwind class `to-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_700 : Css.Style
+to_violet_700 =
+    Css.property "--tw-gradient-to" "#6d28d9"
+
+
+{-| The tailwind class `to-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_800 : Css.Style
+to_violet_800 =
+    Css.property "--tw-gradient-to" "#5b21b6"
+
+
+{-| The tailwind class `to-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_violet_900 : Css.Style
+to_violet_900 =
+    Css.property "--tw-gradient-to" "#4c1d95"
+
+
+{-| The tailwind class `to-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_50 : Css.Style
+to_purple_50 =
+    Css.property "--tw-gradient-to" "#faf5ff"
+
+
+{-| The tailwind class `to-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_100 : Css.Style
+to_purple_100 =
+    Css.property "--tw-gradient-to" "#f3e8ff"
+
+
+{-| The tailwind class `to-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_200 : Css.Style
+to_purple_200 =
+    Css.property "--tw-gradient-to" "#e9d5ff"
+
+
+{-| The tailwind class `to-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_300 : Css.Style
+to_purple_300 =
+    Css.property "--tw-gradient-to" "#d8b4fe"
+
+
+{-| The tailwind class `to-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_400 : Css.Style
+to_purple_400 =
+    Css.property "--tw-gradient-to" "#c084fc"
+
+
+{-| The tailwind class `to-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_500 : Css.Style
+to_purple_500 =
+    Css.property "--tw-gradient-to" "#a855f7"
+
+
+{-| The tailwind class `to-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_600 : Css.Style
+to_purple_600 =
+    Css.property "--tw-gradient-to" "#9333ea"
+
+
+{-| The tailwind class `to-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_700 : Css.Style
+to_purple_700 =
+    Css.property "--tw-gradient-to" "#7e22ce"
+
+
+{-| The tailwind class `to-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_800 : Css.Style
+to_purple_800 =
+    Css.property "--tw-gradient-to" "#6b21a8"
+
+
+{-| The tailwind class `to-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_purple_900 : Css.Style
+to_purple_900 =
+    Css.property "--tw-gradient-to" "#581c87"
+
+
+{-| The tailwind class `to-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_50 : Css.Style
+to_fuchsia_50 =
+    Css.property "--tw-gradient-to" "#fdf4ff"
+
+
+{-| The tailwind class `to-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_100 : Css.Style
+to_fuchsia_100 =
+    Css.property "--tw-gradient-to" "#fae8ff"
+
+
+{-| The tailwind class `to-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_200 : Css.Style
+to_fuchsia_200 =
+    Css.property "--tw-gradient-to" "#f5d0fe"
+
+
+{-| The tailwind class `to-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_300 : Css.Style
+to_fuchsia_300 =
+    Css.property "--tw-gradient-to" "#f0abfc"
+
+
+{-| The tailwind class `to-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_400 : Css.Style
+to_fuchsia_400 =
+    Css.property "--tw-gradient-to" "#e879f9"
+
+
+{-| The tailwind class `to-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_500 : Css.Style
+to_fuchsia_500 =
+    Css.property "--tw-gradient-to" "#d946ef"
+
+
+{-| The tailwind class `to-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_600 : Css.Style
+to_fuchsia_600 =
+    Css.property "--tw-gradient-to" "#c026d3"
+
+
+{-| The tailwind class `to-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_700 : Css.Style
+to_fuchsia_700 =
+    Css.property "--tw-gradient-to" "#a21caf"
+
+
+{-| The tailwind class `to-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_800 : Css.Style
+to_fuchsia_800 =
+    Css.property "--tw-gradient-to" "#86198f"
+
+
+{-| The tailwind class `to-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_fuchsia_900 : Css.Style
+to_fuchsia_900 =
+    Css.property "--tw-gradient-to" "#701a75"
+
+
+{-| The tailwind class `to-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_50 : Css.Style
+to_pink_50 =
+    Css.property "--tw-gradient-to" "#fdf2f8"
+
+
+{-| The tailwind class `to-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_100 : Css.Style
+to_pink_100 =
+    Css.property "--tw-gradient-to" "#fce7f3"
+
+
+{-| The tailwind class `to-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_200 : Css.Style
+to_pink_200 =
+    Css.property "--tw-gradient-to" "#fbcfe8"
+
+
+{-| The tailwind class `to-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_300 : Css.Style
+to_pink_300 =
+    Css.property "--tw-gradient-to" "#f9a8d4"
+
+
+{-| The tailwind class `to-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_400 : Css.Style
+to_pink_400 =
+    Css.property "--tw-gradient-to" "#f472b6"
+
+
+{-| The tailwind class `to-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_500 : Css.Style
+to_pink_500 =
+    Css.property "--tw-gradient-to" "#ec4899"
+
+
+{-| The tailwind class `to-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_600 : Css.Style
+to_pink_600 =
+    Css.property "--tw-gradient-to" "#db2777"
+
+
+{-| The tailwind class `to-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_700 : Css.Style
+to_pink_700 =
+    Css.property "--tw-gradient-to" "#be185d"
+
+
+{-| The tailwind class `to-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_800 : Css.Style
+to_pink_800 =
+    Css.property "--tw-gradient-to" "#9d174d"
+
+
+{-| The tailwind class `to-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_pink_900 : Css.Style
+to_pink_900 =
+    Css.property "--tw-gradient-to" "#831843"
+
+
+{-| The tailwind class `to-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_50 : Css.Style
+to_rose_50 =
+    Css.property "--tw-gradient-to" "#fff1f2"
+
+
+{-| The tailwind class `to-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_100 : Css.Style
+to_rose_100 =
+    Css.property "--tw-gradient-to" "#ffe4e6"
+
+
+{-| The tailwind class `to-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_200 : Css.Style
+to_rose_200 =
+    Css.property "--tw-gradient-to" "#fecdd3"
+
+
+{-| The tailwind class `to-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_300 : Css.Style
+to_rose_300 =
+    Css.property "--tw-gradient-to" "#fda4af"
+
+
+{-| The tailwind class `to-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_400 : Css.Style
+to_rose_400 =
+    Css.property "--tw-gradient-to" "#fb7185"
+
+
+{-| The tailwind class `to-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_500 : Css.Style
+to_rose_500 =
+    Css.property "--tw-gradient-to" "#f43f5e"
+
+
+{-| The tailwind class `to-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_600 : Css.Style
+to_rose_600 =
+    Css.property "--tw-gradient-to" "#e11d48"
+
+
+{-| The tailwind class `to-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_700 : Css.Style
+to_rose_700 =
+    Css.property "--tw-gradient-to" "#be123c"
+
+
+{-| The tailwind class `to-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_800 : Css.Style
+to_rose_800 =
+    Css.property "--tw-gradient-to" "#9f1239"
+
+
+{-| The tailwind class `to-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+to_rose_900 : Css.Style
+to_rose_900 =
+    Css.property "--tw-gradient-to" "#881337"
 
 
 {-| The tailwind class `top-0`.
@@ -53526,104 +57586,24 @@ via_black =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #000, var(--tw-gradient-to, rgba(0, 0, 0, 0))"
 
 
-{-| The tailwind class `via-blue-100`.
+{-| The tailwind class `via-white`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_blue_100 : Css.Style
-via_blue_100 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #dbeafe, var(--tw-gradient-to, rgba(219, 234, 254, 0))"
+via_white : Css.Style
+via_white =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fff, var(--tw-gradient-to, rgba(255, 255, 255, 0))"
 
 
-{-| The tailwind class `via-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_200 : Css.Style
-via_blue_200 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #bfdbfe, var(--tw-gradient-to, rgba(191, 219, 254, 0))"
-
-
-{-| The tailwind class `via-blue-300`.
+{-| The tailwind class `via-transparent`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_blue_300 : Css.Style
-via_blue_300 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #93c5fd, var(--tw-gradient-to, rgba(147, 197, 253, 0))"
-
-
-{-| The tailwind class `via-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_400 : Css.Style
-via_blue_400 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #60a5fa, var(--tw-gradient-to, rgba(96, 165, 250, 0))"
-
-
-{-| The tailwind class `via-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_50 : Css.Style
-via_blue_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #eff6ff, var(--tw-gradient-to, rgba(239, 246, 255, 0))"
-
-
-{-| The tailwind class `via-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_500 : Css.Style
-via_blue_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3b82f6, var(--tw-gradient-to, rgba(59, 130, 246, 0))"
-
-
-{-| The tailwind class `via-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_600 : Css.Style
-via_blue_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #2563eb, var(--tw-gradient-to, rgba(37, 99, 235, 0))"
-
-
-{-| The tailwind class `via-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_700 : Css.Style
-via_blue_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1d4ed8, var(--tw-gradient-to, rgba(29, 78, 216, 0))"
-
-
-{-| The tailwind class `via-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_800 : Css.Style
-via_blue_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1e40af, var(--tw-gradient-to, rgba(30, 64, 175, 0))"
-
-
-{-| The tailwind class `via-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_blue_900 : Css.Style
-via_blue_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1e3a8a, var(--tw-gradient-to, rgba(30, 58, 138, 0))"
+via_transparent : Css.Style
+via_transparent =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), transparent, var(--tw-gradient-to, rgba(0, 0, 0, 0))"
 
 
 {-| The tailwind class `via-current`.
@@ -53634,6 +57614,116 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 via_current : Css.Style
 via_current =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), currentColor, var(--tw-gradient-to, rgba(255, 255, 255, 0))"
+
+
+{-| The tailwind class `via-slate-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_50 : Css.Style
+via_slate_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f8fafc, var(--tw-gradient-to, rgba(248, 250, 252, 0))"
+
+
+{-| The tailwind class `via-slate-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_100 : Css.Style
+via_slate_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f1f5f9, var(--tw-gradient-to, rgba(241, 245, 249, 0))"
+
+
+{-| The tailwind class `via-slate-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_200 : Css.Style
+via_slate_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e2e8f0, var(--tw-gradient-to, rgba(226, 232, 240, 0))"
+
+
+{-| The tailwind class `via-slate-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_300 : Css.Style
+via_slate_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #cbd5e1, var(--tw-gradient-to, rgba(203, 213, 225, 0))"
+
+
+{-| The tailwind class `via-slate-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_400 : Css.Style
+via_slate_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #94a3b8, var(--tw-gradient-to, rgba(148, 163, 184, 0))"
+
+
+{-| The tailwind class `via-slate-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_500 : Css.Style
+via_slate_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #64748b, var(--tw-gradient-to, rgba(100, 116, 139, 0))"
+
+
+{-| The tailwind class `via-slate-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_600 : Css.Style
+via_slate_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #475569, var(--tw-gradient-to, rgba(71, 85, 105, 0))"
+
+
+{-| The tailwind class `via-slate-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_700 : Css.Style
+via_slate_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #334155, var(--tw-gradient-to, rgba(51, 65, 85, 0))"
+
+
+{-| The tailwind class `via-slate-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_800 : Css.Style
+via_slate_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1e293b, var(--tw-gradient-to, rgba(30, 41, 59, 0))"
+
+
+{-| The tailwind class `via-slate-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_slate_900 : Css.Style
+via_slate_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0f172a, var(--tw-gradient-to, rgba(15, 23, 42, 0))"
+
+
+{-| The tailwind class `via-gray-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_gray_50 : Css.Style
+via_gray_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f9fafb, var(--tw-gradient-to, rgba(249, 250, 251, 0))"
 
 
 {-| The tailwind class `via-gray-100`.
@@ -53674,16 +57764,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 via_gray_400 : Css.Style
 via_gray_400 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9ca3af, var(--tw-gradient-to, rgba(156, 163, 175, 0))"
-
-
-{-| The tailwind class `via-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_gray_50 : Css.Style
-via_gray_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f9fafb, var(--tw-gradient-to, rgba(249, 250, 251, 0))"
 
 
 {-| The tailwind class `via-gray-500`.
@@ -53736,404 +57816,314 @@ via_gray_900 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #111827, var(--tw-gradient-to, rgba(17, 24, 39, 0))"
 
 
-{-| The tailwind class `via-green-100`.
+{-| The tailwind class `via-zinc-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_green_100 : Css.Style
-via_green_100 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d1fae5, var(--tw-gradient-to, rgba(209, 250, 229, 0))"
+via_zinc_50 : Css.Style
+via_zinc_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fafafa, var(--tw-gradient-to, rgba(250, 250, 250, 0))"
 
 
-{-| The tailwind class `via-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_green_200 : Css.Style
-via_green_200 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a7f3d0, var(--tw-gradient-to, rgba(167, 243, 208, 0))"
-
-
-{-| The tailwind class `via-green-300`.
+{-| The tailwind class `via-zinc-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_green_300 : Css.Style
-via_green_300 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6ee7b7, var(--tw-gradient-to, rgba(110, 231, 183, 0))"
+via_zinc_100 : Css.Style
+via_zinc_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f4f4f5, var(--tw-gradient-to, rgba(244, 244, 245, 0))"
 
 
-{-| The tailwind class `via-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_green_400 : Css.Style
-via_green_400 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #34d399, var(--tw-gradient-to, rgba(52, 211, 153, 0))"
-
-
-{-| The tailwind class `via-green-50`.
+{-| The tailwind class `via-zinc-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_green_50 : Css.Style
-via_green_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ecfdf5, var(--tw-gradient-to, rgba(236, 253, 245, 0))"
+via_zinc_200 : Css.Style
+via_zinc_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e4e4e7, var(--tw-gradient-to, rgba(228, 228, 231, 0))"
 
 
-{-| The tailwind class `via-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_green_500 : Css.Style
-via_green_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #10b981, var(--tw-gradient-to, rgba(16, 185, 129, 0))"
-
-
-{-| The tailwind class `via-green-600`.
+{-| The tailwind class `via-zinc-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_green_600 : Css.Style
-via_green_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #059669, var(--tw-gradient-to, rgba(5, 150, 105, 0))"
+via_zinc_300 : Css.Style
+via_zinc_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d4d4d8, var(--tw-gradient-to, rgba(212, 212, 216, 0))"
 
 
-{-| The tailwind class `via-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_green_700 : Css.Style
-via_green_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #047857, var(--tw-gradient-to, rgba(4, 120, 87, 0))"
-
-
-{-| The tailwind class `via-green-800`.
+{-| The tailwind class `via-zinc-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_green_800 : Css.Style
-via_green_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #065f46, var(--tw-gradient-to, rgba(6, 95, 70, 0))"
+via_zinc_400 : Css.Style
+via_zinc_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a1a1aa, var(--tw-gradient-to, rgba(161, 161, 170, 0))"
 
 
-{-| The tailwind class `via-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_green_900 : Css.Style
-via_green_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #064e3b, var(--tw-gradient-to, rgba(6, 78, 59, 0))"
-
-
-{-| The tailwind class `via-indigo-100`.
+{-| The tailwind class `via-zinc-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_indigo_100 : Css.Style
-via_indigo_100 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e0e7ff, var(--tw-gradient-to, rgba(224, 231, 255, 0))"
+via_zinc_500 : Css.Style
+via_zinc_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #71717a, var(--tw-gradient-to, rgba(113, 113, 122, 0))"
 
 
-{-| The tailwind class `via-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_indigo_200 : Css.Style
-via_indigo_200 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c7d2fe, var(--tw-gradient-to, rgba(199, 210, 254, 0))"
-
-
-{-| The tailwind class `via-indigo-300`.
+{-| The tailwind class `via-zinc-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_indigo_300 : Css.Style
-via_indigo_300 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a5b4fc, var(--tw-gradient-to, rgba(165, 180, 252, 0))"
+via_zinc_600 : Css.Style
+via_zinc_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #52525b, var(--tw-gradient-to, rgba(82, 82, 91, 0))"
 
 
-{-| The tailwind class `via-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_indigo_400 : Css.Style
-via_indigo_400 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #818cf8, var(--tw-gradient-to, rgba(129, 140, 248, 0))"
-
-
-{-| The tailwind class `via-indigo-50`.
+{-| The tailwind class `via-zinc-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_indigo_50 : Css.Style
-via_indigo_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #eef2ff, var(--tw-gradient-to, rgba(238, 242, 255, 0))"
+via_zinc_700 : Css.Style
+via_zinc_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3f3f46, var(--tw-gradient-to, rgba(63, 63, 70, 0))"
 
 
-{-| The tailwind class `via-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_indigo_500 : Css.Style
-via_indigo_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6366f1, var(--tw-gradient-to, rgba(99, 102, 241, 0))"
-
-
-{-| The tailwind class `via-indigo-600`.
+{-| The tailwind class `via-zinc-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_indigo_600 : Css.Style
-via_indigo_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4f46e5, var(--tw-gradient-to, rgba(79, 70, 229, 0))"
+via_zinc_800 : Css.Style
+via_zinc_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #27272a, var(--tw-gradient-to, rgba(39, 39, 42, 0))"
 
 
-{-| The tailwind class `via-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_indigo_700 : Css.Style
-via_indigo_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4338ca, var(--tw-gradient-to, rgba(67, 56, 202, 0))"
-
-
-{-| The tailwind class `via-indigo-800`.
+{-| The tailwind class `via-zinc-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_indigo_800 : Css.Style
-via_indigo_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3730a3, var(--tw-gradient-to, rgba(55, 48, 163, 0))"
+via_zinc_900 : Css.Style
+via_zinc_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #18181b, var(--tw-gradient-to, rgba(24, 24, 27, 0))"
 
 
-{-| The tailwind class `via-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_indigo_900 : Css.Style
-via_indigo_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #312e81, var(--tw-gradient-to, rgba(49, 46, 129, 0))"
-
-
-{-| The tailwind class `via-pink-100`.
+{-| The tailwind class `via-neutral-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_pink_100 : Css.Style
-via_pink_100 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fce7f3, var(--tw-gradient-to, rgba(252, 231, 243, 0))"
+via_neutral_50 : Css.Style
+via_neutral_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fafafa, var(--tw-gradient-to, rgba(250, 250, 250, 0))"
 
 
-{-| The tailwind class `via-pink-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_pink_200 : Css.Style
-via_pink_200 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fbcfe8, var(--tw-gradient-to, rgba(251, 207, 232, 0))"
-
-
-{-| The tailwind class `via-pink-300`.
+{-| The tailwind class `via-neutral-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_pink_300 : Css.Style
-via_pink_300 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f9a8d4, var(--tw-gradient-to, rgba(249, 168, 212, 0))"
+via_neutral_100 : Css.Style
+via_neutral_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f5f5f5, var(--tw-gradient-to, rgba(245, 245, 245, 0))"
 
 
-{-| The tailwind class `via-pink-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_pink_400 : Css.Style
-via_pink_400 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f472b6, var(--tw-gradient-to, rgba(244, 114, 182, 0))"
-
-
-{-| The tailwind class `via-pink-50`.
+{-| The tailwind class `via-neutral-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_pink_50 : Css.Style
-via_pink_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fdf2f8, var(--tw-gradient-to, rgba(253, 242, 248, 0))"
+via_neutral_200 : Css.Style
+via_neutral_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e5e5e5, var(--tw-gradient-to, rgba(229, 229, 229, 0))"
 
 
-{-| The tailwind class `via-pink-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_pink_500 : Css.Style
-via_pink_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ec4899, var(--tw-gradient-to, rgba(236, 72, 153, 0))"
-
-
-{-| The tailwind class `via-pink-600`.
+{-| The tailwind class `via-neutral-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_pink_600 : Css.Style
-via_pink_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #db2777, var(--tw-gradient-to, rgba(219, 39, 119, 0))"
+via_neutral_300 : Css.Style
+via_neutral_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d4d4d4, var(--tw-gradient-to, rgba(212, 212, 212, 0))"
 
 
-{-| The tailwind class `via-pink-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_pink_700 : Css.Style
-via_pink_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #be185d, var(--tw-gradient-to, rgba(190, 24, 93, 0))"
-
-
-{-| The tailwind class `via-pink-800`.
+{-| The tailwind class `via-neutral-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_pink_800 : Css.Style
-via_pink_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9d174d, var(--tw-gradient-to, rgba(157, 23, 77, 0))"
+via_neutral_400 : Css.Style
+via_neutral_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a3a3a3, var(--tw-gradient-to, rgba(163, 163, 163, 0))"
 
 
-{-| The tailwind class `via-pink-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_pink_900 : Css.Style
-via_pink_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #831843, var(--tw-gradient-to, rgba(131, 24, 67, 0))"
-
-
-{-| The tailwind class `via-purple-100`.
+{-| The tailwind class `via-neutral-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_100 : Css.Style
-via_purple_100 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ede9fe, var(--tw-gradient-to, rgba(237, 233, 254, 0))"
+via_neutral_500 : Css.Style
+via_neutral_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #737373, var(--tw-gradient-to, rgba(115, 115, 115, 0))"
 
 
-{-| The tailwind class `via-purple-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_purple_200 : Css.Style
-via_purple_200 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ddd6fe, var(--tw-gradient-to, rgba(221, 214, 254, 0))"
-
-
-{-| The tailwind class `via-purple-300`.
+{-| The tailwind class `via-neutral-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_300 : Css.Style
-via_purple_300 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c4b5fd, var(--tw-gradient-to, rgba(196, 181, 253, 0))"
+via_neutral_600 : Css.Style
+via_neutral_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #525252, var(--tw-gradient-to, rgba(82, 82, 82, 0))"
 
 
-{-| The tailwind class `via-purple-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_purple_400 : Css.Style
-via_purple_400 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a78bfa, var(--tw-gradient-to, rgba(167, 139, 250, 0))"
-
-
-{-| The tailwind class `via-purple-50`.
+{-| The tailwind class `via-neutral-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_50 : Css.Style
-via_purple_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f5f3ff, var(--tw-gradient-to, rgba(245, 243, 255, 0))"
+via_neutral_700 : Css.Style
+via_neutral_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #404040, var(--tw-gradient-to, rgba(64, 64, 64, 0))"
 
 
-{-| The tailwind class `via-purple-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_purple_500 : Css.Style
-via_purple_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #8b5cf6, var(--tw-gradient-to, rgba(139, 92, 246, 0))"
-
-
-{-| The tailwind class `via-purple-600`.
+{-| The tailwind class `via-neutral-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_600 : Css.Style
-via_purple_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7c3aed, var(--tw-gradient-to, rgba(124, 58, 237, 0))"
+via_neutral_800 : Css.Style
+via_neutral_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #262626, var(--tw-gradient-to, rgba(38, 38, 38, 0))"
 
 
-{-| The tailwind class `via-purple-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_purple_700 : Css.Style
-via_purple_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6d28d9, var(--tw-gradient-to, rgba(109, 40, 217, 0))"
-
-
-{-| The tailwind class `via-purple-800`.
+{-| The tailwind class `via-neutral-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_800 : Css.Style
-via_purple_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #5b21b6, var(--tw-gradient-to, rgba(91, 33, 182, 0))"
+via_neutral_900 : Css.Style
+via_neutral_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #171717, var(--tw-gradient-to, rgba(23, 23, 23, 0))"
 
 
-{-| The tailwind class `via-purple-900`.
+{-| The tailwind class `via-stone-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_purple_900 : Css.Style
-via_purple_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4c1d95, var(--tw-gradient-to, rgba(76, 29, 149, 0))"
+via_stone_50 : Css.Style
+via_stone_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fafaf9, var(--tw-gradient-to, rgba(250, 250, 249, 0))"
+
+
+{-| The tailwind class `via-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_100 : Css.Style
+via_stone_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f5f5f4, var(--tw-gradient-to, rgba(245, 245, 244, 0))"
+
+
+{-| The tailwind class `via-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_200 : Css.Style
+via_stone_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e7e5e4, var(--tw-gradient-to, rgba(231, 229, 228, 0))"
+
+
+{-| The tailwind class `via-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_300 : Css.Style
+via_stone_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d6d3d1, var(--tw-gradient-to, rgba(214, 211, 209, 0))"
+
+
+{-| The tailwind class `via-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_400 : Css.Style
+via_stone_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a8a29e, var(--tw-gradient-to, rgba(168, 162, 158, 0))"
+
+
+{-| The tailwind class `via-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_500 : Css.Style
+via_stone_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #78716c, var(--tw-gradient-to, rgba(120, 113, 108, 0))"
+
+
+{-| The tailwind class `via-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_600 : Css.Style
+via_stone_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #57534e, var(--tw-gradient-to, rgba(87, 83, 78, 0))"
+
+
+{-| The tailwind class `via-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_700 : Css.Style
+via_stone_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #44403c, var(--tw-gradient-to, rgba(68, 64, 60, 0))"
+
+
+{-| The tailwind class `via-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_800 : Css.Style
+via_stone_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #292524, var(--tw-gradient-to, rgba(41, 37, 36, 0))"
+
+
+{-| The tailwind class `via-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_stone_900 : Css.Style
+via_stone_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1c1917, var(--tw-gradient-to, rgba(28, 25, 23, 0))"
+
+
+{-| The tailwind class `via-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_red_50 : Css.Style
+via_red_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fef2f2, var(--tw-gradient-to, rgba(254, 242, 242, 0))"
 
 
 {-| The tailwind class `via-red-100`.
@@ -54174,16 +58164,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 via_red_400 : Css.Style
 via_red_400 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f87171, var(--tw-gradient-to, rgba(248, 113, 113, 0))"
-
-
-{-| The tailwind class `via-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_red_50 : Css.Style
-via_red_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fef2f2, var(--tw-gradient-to, rgba(254, 242, 242, 0))"
 
 
 {-| The tailwind class `via-red-500`.
@@ -54236,64 +58216,204 @@ via_red_900 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7f1d1d, var(--tw-gradient-to, rgba(127, 29, 29, 0))"
 
 
-{-| The tailwind class `via-transparent`.
+{-| The tailwind class `via-orange-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_transparent : Css.Style
-via_transparent =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), transparent, var(--tw-gradient-to, rgba(0, 0, 0, 0))"
+via_orange_50 : Css.Style
+via_orange_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fff7ed, var(--tw-gradient-to, rgba(255, 247, 237, 0))"
 
 
-{-| The tailwind class `via-white`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-via_white : Css.Style
-via_white =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fff, var(--tw-gradient-to, rgba(255, 255, 255, 0))"
-
-
-{-| The tailwind class `via-yellow-100`.
+{-| The tailwind class `via-orange-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_yellow_100 : Css.Style
-via_yellow_100 =
+via_orange_100 : Css.Style
+via_orange_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ffedd5, var(--tw-gradient-to, rgba(255, 237, 213, 0))"
+
+
+{-| The tailwind class `via-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_200 : Css.Style
+via_orange_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fed7aa, var(--tw-gradient-to, rgba(254, 215, 170, 0))"
+
+
+{-| The tailwind class `via-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_300 : Css.Style
+via_orange_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fdba74, var(--tw-gradient-to, rgba(253, 186, 116, 0))"
+
+
+{-| The tailwind class `via-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_400 : Css.Style
+via_orange_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fb923c, var(--tw-gradient-to, rgba(251, 146, 60, 0))"
+
+
+{-| The tailwind class `via-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_500 : Css.Style
+via_orange_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f97316, var(--tw-gradient-to, rgba(249, 115, 22, 0))"
+
+
+{-| The tailwind class `via-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_600 : Css.Style
+via_orange_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ea580c, var(--tw-gradient-to, rgba(234, 88, 12, 0))"
+
+
+{-| The tailwind class `via-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_700 : Css.Style
+via_orange_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c2410c, var(--tw-gradient-to, rgba(194, 65, 12, 0))"
+
+
+{-| The tailwind class `via-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_800 : Css.Style
+via_orange_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9a3412, var(--tw-gradient-to, rgba(154, 52, 18, 0))"
+
+
+{-| The tailwind class `via-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_orange_900 : Css.Style
+via_orange_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7c2d12, var(--tw-gradient-to, rgba(124, 45, 18, 0))"
+
+
+{-| The tailwind class `via-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_50 : Css.Style
+via_amber_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fffbeb, var(--tw-gradient-to, rgba(255, 251, 235, 0))"
+
+
+{-| The tailwind class `via-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_100 : Css.Style
+via_amber_100 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fef3c7, var(--tw-gradient-to, rgba(254, 243, 199, 0))"
 
 
-{-| The tailwind class `via-yellow-200`.
+{-| The tailwind class `via-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_yellow_200 : Css.Style
-via_yellow_200 =
+via_amber_200 : Css.Style
+via_amber_200 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fde68a, var(--tw-gradient-to, rgba(253, 230, 138, 0))"
 
 
-{-| The tailwind class `via-yellow-300`.
+{-| The tailwind class `via-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_yellow_300 : Css.Style
-via_yellow_300 =
+via_amber_300 : Css.Style
+via_amber_300 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fcd34d, var(--tw-gradient-to, rgba(252, 211, 77, 0))"
 
 
-{-| The tailwind class `via-yellow-400`.
+{-| The tailwind class `via-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-via_yellow_400 : Css.Style
-via_yellow_400 =
+via_amber_400 : Css.Style
+via_amber_400 =
     Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fbbf24, var(--tw-gradient-to, rgba(251, 191, 36, 0))"
+
+
+{-| The tailwind class `via-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_500 : Css.Style
+via_amber_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f59e0b, var(--tw-gradient-to, rgba(245, 158, 11, 0))"
+
+
+{-| The tailwind class `via-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_600 : Css.Style
+via_amber_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d97706, var(--tw-gradient-to, rgba(217, 119, 6, 0))"
+
+
+{-| The tailwind class `via-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_700 : Css.Style
+via_amber_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #b45309, var(--tw-gradient-to, rgba(180, 83, 9, 0))"
+
+
+{-| The tailwind class `via-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_800 : Css.Style
+via_amber_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #92400e, var(--tw-gradient-to, rgba(146, 64, 14, 0))"
+
+
+{-| The tailwind class `via-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_amber_900 : Css.Style
+via_amber_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #78350f, var(--tw-gradient-to, rgba(120, 53, 15, 0))"
 
 
 {-| The tailwind class `via-yellow-50`.
@@ -54303,7 +58423,47 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_50 : Css.Style
 via_yellow_50 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fffbeb, var(--tw-gradient-to, rgba(255, 251, 235, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fefce8, var(--tw-gradient-to, rgba(254, 252, 232, 0))"
+
+
+{-| The tailwind class `via-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_yellow_100 : Css.Style
+via_yellow_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fef9c3, var(--tw-gradient-to, rgba(254, 249, 195, 0))"
+
+
+{-| The tailwind class `via-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_yellow_200 : Css.Style
+via_yellow_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fef08a, var(--tw-gradient-to, rgba(254, 240, 138, 0))"
+
+
+{-| The tailwind class `via-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_yellow_300 : Css.Style
+via_yellow_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fde047, var(--tw-gradient-to, rgba(253, 224, 71, 0))"
+
+
+{-| The tailwind class `via-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_yellow_400 : Css.Style
+via_yellow_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #facc15, var(--tw-gradient-to, rgba(250, 204, 21, 0))"
 
 
 {-| The tailwind class `via-yellow-500`.
@@ -54313,7 +58473,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_500 : Css.Style
 via_yellow_500 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f59e0b, var(--tw-gradient-to, rgba(245, 158, 11, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #eab308, var(--tw-gradient-to, rgba(234, 179, 8, 0))"
 
 
 {-| The tailwind class `via-yellow-600`.
@@ -54323,7 +58483,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_600 : Css.Style
 via_yellow_600 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d97706, var(--tw-gradient-to, rgba(217, 119, 6, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ca8a04, var(--tw-gradient-to, rgba(202, 138, 4, 0))"
 
 
 {-| The tailwind class `via-yellow-700`.
@@ -54333,7 +58493,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_700 : Css.Style
 via_yellow_700 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #b45309, var(--tw-gradient-to, rgba(180, 83, 9, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a16207, var(--tw-gradient-to, rgba(161, 98, 7, 0))"
 
 
 {-| The tailwind class `via-yellow-800`.
@@ -54343,7 +58503,7 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_800 : Css.Style
 via_yellow_800 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #92400e, var(--tw-gradient-to, rgba(146, 64, 14, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #854d0e, var(--tw-gradient-to, rgba(133, 77, 14, 0))"
 
 
 {-| The tailwind class `via-yellow-900`.
@@ -54353,7 +58513,1307 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 -}
 via_yellow_900 : Css.Style
 via_yellow_900 =
-    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #78350f, var(--tw-gradient-to, rgba(120, 53, 15, 0))"
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #713f12, var(--tw-gradient-to, rgba(113, 63, 18, 0))"
+
+
+{-| The tailwind class `via-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_50 : Css.Style
+via_lime_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f7fee7, var(--tw-gradient-to, rgba(247, 254, 231, 0))"
+
+
+{-| The tailwind class `via-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_100 : Css.Style
+via_lime_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ecfccb, var(--tw-gradient-to, rgba(236, 252, 203, 0))"
+
+
+{-| The tailwind class `via-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_200 : Css.Style
+via_lime_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d9f99d, var(--tw-gradient-to, rgba(217, 249, 157, 0))"
+
+
+{-| The tailwind class `via-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_300 : Css.Style
+via_lime_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #bef264, var(--tw-gradient-to, rgba(190, 242, 100, 0))"
+
+
+{-| The tailwind class `via-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_400 : Css.Style
+via_lime_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a3e635, var(--tw-gradient-to, rgba(163, 230, 53, 0))"
+
+
+{-| The tailwind class `via-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_500 : Css.Style
+via_lime_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #84cc16, var(--tw-gradient-to, rgba(132, 204, 22, 0))"
+
+
+{-| The tailwind class `via-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_600 : Css.Style
+via_lime_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #65a30d, var(--tw-gradient-to, rgba(101, 163, 13, 0))"
+
+
+{-| The tailwind class `via-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_700 : Css.Style
+via_lime_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4d7c0f, var(--tw-gradient-to, rgba(77, 124, 15, 0))"
+
+
+{-| The tailwind class `via-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_800 : Css.Style
+via_lime_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3f6212, var(--tw-gradient-to, rgba(63, 98, 18, 0))"
+
+
+{-| The tailwind class `via-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_lime_900 : Css.Style
+via_lime_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #365314, var(--tw-gradient-to, rgba(54, 83, 20, 0))"
+
+
+{-| The tailwind class `via-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_50 : Css.Style
+via_green_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f0fdf4, var(--tw-gradient-to, rgba(240, 253, 244, 0))"
+
+
+{-| The tailwind class `via-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_100 : Css.Style
+via_green_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #dcfce7, var(--tw-gradient-to, rgba(220, 252, 231, 0))"
+
+
+{-| The tailwind class `via-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_200 : Css.Style
+via_green_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #bbf7d0, var(--tw-gradient-to, rgba(187, 247, 208, 0))"
+
+
+{-| The tailwind class `via-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_300 : Css.Style
+via_green_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #86efac, var(--tw-gradient-to, rgba(134, 239, 172, 0))"
+
+
+{-| The tailwind class `via-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_400 : Css.Style
+via_green_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4ade80, var(--tw-gradient-to, rgba(74, 222, 128, 0))"
+
+
+{-| The tailwind class `via-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_500 : Css.Style
+via_green_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #22c55e, var(--tw-gradient-to, rgba(34, 197, 94, 0))"
+
+
+{-| The tailwind class `via-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_600 : Css.Style
+via_green_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #16a34a, var(--tw-gradient-to, rgba(22, 163, 74, 0))"
+
+
+{-| The tailwind class `via-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_700 : Css.Style
+via_green_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #15803d, var(--tw-gradient-to, rgba(21, 128, 61, 0))"
+
+
+{-| The tailwind class `via-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_800 : Css.Style
+via_green_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #166534, var(--tw-gradient-to, rgba(22, 101, 52, 0))"
+
+
+{-| The tailwind class `via-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_green_900 : Css.Style
+via_green_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #14532d, var(--tw-gradient-to, rgba(20, 83, 45, 0))"
+
+
+{-| The tailwind class `via-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_50 : Css.Style
+via_emerald_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ecfdf5, var(--tw-gradient-to, rgba(236, 253, 245, 0))"
+
+
+{-| The tailwind class `via-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_100 : Css.Style
+via_emerald_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d1fae5, var(--tw-gradient-to, rgba(209, 250, 229, 0))"
+
+
+{-| The tailwind class `via-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_200 : Css.Style
+via_emerald_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a7f3d0, var(--tw-gradient-to, rgba(167, 243, 208, 0))"
+
+
+{-| The tailwind class `via-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_300 : Css.Style
+via_emerald_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6ee7b7, var(--tw-gradient-to, rgba(110, 231, 183, 0))"
+
+
+{-| The tailwind class `via-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_400 : Css.Style
+via_emerald_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #34d399, var(--tw-gradient-to, rgba(52, 211, 153, 0))"
+
+
+{-| The tailwind class `via-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_500 : Css.Style
+via_emerald_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #10b981, var(--tw-gradient-to, rgba(16, 185, 129, 0))"
+
+
+{-| The tailwind class `via-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_600 : Css.Style
+via_emerald_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #059669, var(--tw-gradient-to, rgba(5, 150, 105, 0))"
+
+
+{-| The tailwind class `via-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_700 : Css.Style
+via_emerald_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #047857, var(--tw-gradient-to, rgba(4, 120, 87, 0))"
+
+
+{-| The tailwind class `via-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_800 : Css.Style
+via_emerald_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #065f46, var(--tw-gradient-to, rgba(6, 95, 70, 0))"
+
+
+{-| The tailwind class `via-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_emerald_900 : Css.Style
+via_emerald_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #064e3b, var(--tw-gradient-to, rgba(6, 78, 59, 0))"
+
+
+{-| The tailwind class `via-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_50 : Css.Style
+via_teal_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f0fdfa, var(--tw-gradient-to, rgba(240, 253, 250, 0))"
+
+
+{-| The tailwind class `via-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_100 : Css.Style
+via_teal_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ccfbf1, var(--tw-gradient-to, rgba(204, 251, 241, 0))"
+
+
+{-| The tailwind class `via-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_200 : Css.Style
+via_teal_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #99f6e4, var(--tw-gradient-to, rgba(153, 246, 228, 0))"
+
+
+{-| The tailwind class `via-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_300 : Css.Style
+via_teal_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #5eead4, var(--tw-gradient-to, rgba(94, 234, 212, 0))"
+
+
+{-| The tailwind class `via-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_400 : Css.Style
+via_teal_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #2dd4bf, var(--tw-gradient-to, rgba(45, 212, 191, 0))"
+
+
+{-| The tailwind class `via-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_500 : Css.Style
+via_teal_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #14b8a6, var(--tw-gradient-to, rgba(20, 184, 166, 0))"
+
+
+{-| The tailwind class `via-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_600 : Css.Style
+via_teal_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0d9488, var(--tw-gradient-to, rgba(13, 148, 136, 0))"
+
+
+{-| The tailwind class `via-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_700 : Css.Style
+via_teal_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0f766e, var(--tw-gradient-to, rgba(15, 118, 110, 0))"
+
+
+{-| The tailwind class `via-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_800 : Css.Style
+via_teal_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #115e59, var(--tw-gradient-to, rgba(17, 94, 89, 0))"
+
+
+{-| The tailwind class `via-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_teal_900 : Css.Style
+via_teal_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #134e4a, var(--tw-gradient-to, rgba(19, 78, 74, 0))"
+
+
+{-| The tailwind class `via-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_50 : Css.Style
+via_cyan_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ecfeff, var(--tw-gradient-to, rgba(236, 254, 255, 0))"
+
+
+{-| The tailwind class `via-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_100 : Css.Style
+via_cyan_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #cffafe, var(--tw-gradient-to, rgba(207, 250, 254, 0))"
+
+
+{-| The tailwind class `via-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_200 : Css.Style
+via_cyan_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a5f3fc, var(--tw-gradient-to, rgba(165, 243, 252, 0))"
+
+
+{-| The tailwind class `via-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_300 : Css.Style
+via_cyan_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #67e8f9, var(--tw-gradient-to, rgba(103, 232, 249, 0))"
+
+
+{-| The tailwind class `via-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_400 : Css.Style
+via_cyan_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #22d3ee, var(--tw-gradient-to, rgba(34, 211, 238, 0))"
+
+
+{-| The tailwind class `via-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_500 : Css.Style
+via_cyan_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #06b6d4, var(--tw-gradient-to, rgba(6, 182, 212, 0))"
+
+
+{-| The tailwind class `via-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_600 : Css.Style
+via_cyan_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0891b2, var(--tw-gradient-to, rgba(8, 145, 178, 0))"
+
+
+{-| The tailwind class `via-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_700 : Css.Style
+via_cyan_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0e7490, var(--tw-gradient-to, rgba(14, 116, 144, 0))"
+
+
+{-| The tailwind class `via-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_800 : Css.Style
+via_cyan_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #155e75, var(--tw-gradient-to, rgba(21, 94, 117, 0))"
+
+
+{-| The tailwind class `via-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_cyan_900 : Css.Style
+via_cyan_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #164e63, var(--tw-gradient-to, rgba(22, 78, 99, 0))"
+
+
+{-| The tailwind class `via-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_50 : Css.Style
+via_sky_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f0f9ff, var(--tw-gradient-to, rgba(240, 249, 255, 0))"
+
+
+{-| The tailwind class `via-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_100 : Css.Style
+via_sky_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e0f2fe, var(--tw-gradient-to, rgba(224, 242, 254, 0))"
+
+
+{-| The tailwind class `via-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_200 : Css.Style
+via_sky_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #bae6fd, var(--tw-gradient-to, rgba(186, 230, 253, 0))"
+
+
+{-| The tailwind class `via-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_300 : Css.Style
+via_sky_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7dd3fc, var(--tw-gradient-to, rgba(125, 211, 252, 0))"
+
+
+{-| The tailwind class `via-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_400 : Css.Style
+via_sky_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #38bdf8, var(--tw-gradient-to, rgba(56, 189, 248, 0))"
+
+
+{-| The tailwind class `via-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_500 : Css.Style
+via_sky_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0ea5e9, var(--tw-gradient-to, rgba(14, 165, 233, 0))"
+
+
+{-| The tailwind class `via-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_600 : Css.Style
+via_sky_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0284c7, var(--tw-gradient-to, rgba(2, 132, 199, 0))"
+
+
+{-| The tailwind class `via-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_700 : Css.Style
+via_sky_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0369a1, var(--tw-gradient-to, rgba(3, 105, 161, 0))"
+
+
+{-| The tailwind class `via-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_800 : Css.Style
+via_sky_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #075985, var(--tw-gradient-to, rgba(7, 89, 133, 0))"
+
+
+{-| The tailwind class `via-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_sky_900 : Css.Style
+via_sky_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #0c4a6e, var(--tw-gradient-to, rgba(12, 74, 110, 0))"
+
+
+{-| The tailwind class `via-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_50 : Css.Style
+via_blue_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #eff6ff, var(--tw-gradient-to, rgba(239, 246, 255, 0))"
+
+
+{-| The tailwind class `via-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_100 : Css.Style
+via_blue_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #dbeafe, var(--tw-gradient-to, rgba(219, 234, 254, 0))"
+
+
+{-| The tailwind class `via-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_200 : Css.Style
+via_blue_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #bfdbfe, var(--tw-gradient-to, rgba(191, 219, 254, 0))"
+
+
+{-| The tailwind class `via-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_300 : Css.Style
+via_blue_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #93c5fd, var(--tw-gradient-to, rgba(147, 197, 253, 0))"
+
+
+{-| The tailwind class `via-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_400 : Css.Style
+via_blue_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #60a5fa, var(--tw-gradient-to, rgba(96, 165, 250, 0))"
+
+
+{-| The tailwind class `via-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_500 : Css.Style
+via_blue_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3b82f6, var(--tw-gradient-to, rgba(59, 130, 246, 0))"
+
+
+{-| The tailwind class `via-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_600 : Css.Style
+via_blue_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #2563eb, var(--tw-gradient-to, rgba(37, 99, 235, 0))"
+
+
+{-| The tailwind class `via-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_700 : Css.Style
+via_blue_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1d4ed8, var(--tw-gradient-to, rgba(29, 78, 216, 0))"
+
+
+{-| The tailwind class `via-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_800 : Css.Style
+via_blue_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1e40af, var(--tw-gradient-to, rgba(30, 64, 175, 0))"
+
+
+{-| The tailwind class `via-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_blue_900 : Css.Style
+via_blue_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #1e3a8a, var(--tw-gradient-to, rgba(30, 58, 138, 0))"
+
+
+{-| The tailwind class `via-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_50 : Css.Style
+via_indigo_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #eef2ff, var(--tw-gradient-to, rgba(238, 242, 255, 0))"
+
+
+{-| The tailwind class `via-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_100 : Css.Style
+via_indigo_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e0e7ff, var(--tw-gradient-to, rgba(224, 231, 255, 0))"
+
+
+{-| The tailwind class `via-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_200 : Css.Style
+via_indigo_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c7d2fe, var(--tw-gradient-to, rgba(199, 210, 254, 0))"
+
+
+{-| The tailwind class `via-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_300 : Css.Style
+via_indigo_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a5b4fc, var(--tw-gradient-to, rgba(165, 180, 252, 0))"
+
+
+{-| The tailwind class `via-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_400 : Css.Style
+via_indigo_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #818cf8, var(--tw-gradient-to, rgba(129, 140, 248, 0))"
+
+
+{-| The tailwind class `via-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_500 : Css.Style
+via_indigo_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6366f1, var(--tw-gradient-to, rgba(99, 102, 241, 0))"
+
+
+{-| The tailwind class `via-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_600 : Css.Style
+via_indigo_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4f46e5, var(--tw-gradient-to, rgba(79, 70, 229, 0))"
+
+
+{-| The tailwind class `via-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_700 : Css.Style
+via_indigo_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4338ca, var(--tw-gradient-to, rgba(67, 56, 202, 0))"
+
+
+{-| The tailwind class `via-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_800 : Css.Style
+via_indigo_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #3730a3, var(--tw-gradient-to, rgba(55, 48, 163, 0))"
+
+
+{-| The tailwind class `via-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_indigo_900 : Css.Style
+via_indigo_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #312e81, var(--tw-gradient-to, rgba(49, 46, 129, 0))"
+
+
+{-| The tailwind class `via-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_50 : Css.Style
+via_violet_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f5f3ff, var(--tw-gradient-to, rgba(245, 243, 255, 0))"
+
+
+{-| The tailwind class `via-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_100 : Css.Style
+via_violet_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ede9fe, var(--tw-gradient-to, rgba(237, 233, 254, 0))"
+
+
+{-| The tailwind class `via-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_200 : Css.Style
+via_violet_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ddd6fe, var(--tw-gradient-to, rgba(221, 214, 254, 0))"
+
+
+{-| The tailwind class `via-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_300 : Css.Style
+via_violet_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c4b5fd, var(--tw-gradient-to, rgba(196, 181, 253, 0))"
+
+
+{-| The tailwind class `via-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_400 : Css.Style
+via_violet_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a78bfa, var(--tw-gradient-to, rgba(167, 139, 250, 0))"
+
+
+{-| The tailwind class `via-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_500 : Css.Style
+via_violet_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #8b5cf6, var(--tw-gradient-to, rgba(139, 92, 246, 0))"
+
+
+{-| The tailwind class `via-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_600 : Css.Style
+via_violet_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7c3aed, var(--tw-gradient-to, rgba(124, 58, 237, 0))"
+
+
+{-| The tailwind class `via-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_700 : Css.Style
+via_violet_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6d28d9, var(--tw-gradient-to, rgba(109, 40, 217, 0))"
+
+
+{-| The tailwind class `via-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_800 : Css.Style
+via_violet_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #5b21b6, var(--tw-gradient-to, rgba(91, 33, 182, 0))"
+
+
+{-| The tailwind class `via-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_violet_900 : Css.Style
+via_violet_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #4c1d95, var(--tw-gradient-to, rgba(76, 29, 149, 0))"
+
+
+{-| The tailwind class `via-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_50 : Css.Style
+via_purple_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #faf5ff, var(--tw-gradient-to, rgba(250, 245, 255, 0))"
+
+
+{-| The tailwind class `via-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_100 : Css.Style
+via_purple_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f3e8ff, var(--tw-gradient-to, rgba(243, 232, 255, 0))"
+
+
+{-| The tailwind class `via-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_200 : Css.Style
+via_purple_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e9d5ff, var(--tw-gradient-to, rgba(233, 213, 255, 0))"
+
+
+{-| The tailwind class `via-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_300 : Css.Style
+via_purple_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d8b4fe, var(--tw-gradient-to, rgba(216, 180, 254, 0))"
+
+
+{-| The tailwind class `via-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_400 : Css.Style
+via_purple_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c084fc, var(--tw-gradient-to, rgba(192, 132, 252, 0))"
+
+
+{-| The tailwind class `via-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_500 : Css.Style
+via_purple_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a855f7, var(--tw-gradient-to, rgba(168, 85, 247, 0))"
+
+
+{-| The tailwind class `via-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_600 : Css.Style
+via_purple_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9333ea, var(--tw-gradient-to, rgba(147, 51, 234, 0))"
+
+
+{-| The tailwind class `via-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_700 : Css.Style
+via_purple_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #7e22ce, var(--tw-gradient-to, rgba(126, 34, 206, 0))"
+
+
+{-| The tailwind class `via-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_800 : Css.Style
+via_purple_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #6b21a8, var(--tw-gradient-to, rgba(107, 33, 168, 0))"
+
+
+{-| The tailwind class `via-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_purple_900 : Css.Style
+via_purple_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #581c87, var(--tw-gradient-to, rgba(88, 28, 135, 0))"
+
+
+{-| The tailwind class `via-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_50 : Css.Style
+via_fuchsia_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fdf4ff, var(--tw-gradient-to, rgba(253, 244, 255, 0))"
+
+
+{-| The tailwind class `via-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_100 : Css.Style
+via_fuchsia_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fae8ff, var(--tw-gradient-to, rgba(250, 232, 255, 0))"
+
+
+{-| The tailwind class `via-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_200 : Css.Style
+via_fuchsia_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f5d0fe, var(--tw-gradient-to, rgba(245, 208, 254, 0))"
+
+
+{-| The tailwind class `via-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_300 : Css.Style
+via_fuchsia_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f0abfc, var(--tw-gradient-to, rgba(240, 171, 252, 0))"
+
+
+{-| The tailwind class `via-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_400 : Css.Style
+via_fuchsia_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e879f9, var(--tw-gradient-to, rgba(232, 121, 249, 0))"
+
+
+{-| The tailwind class `via-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_500 : Css.Style
+via_fuchsia_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #d946ef, var(--tw-gradient-to, rgba(217, 70, 239, 0))"
+
+
+{-| The tailwind class `via-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_600 : Css.Style
+via_fuchsia_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #c026d3, var(--tw-gradient-to, rgba(192, 38, 211, 0))"
+
+
+{-| The tailwind class `via-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_700 : Css.Style
+via_fuchsia_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #a21caf, var(--tw-gradient-to, rgba(162, 28, 175, 0))"
+
+
+{-| The tailwind class `via-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_800 : Css.Style
+via_fuchsia_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #86198f, var(--tw-gradient-to, rgba(134, 25, 143, 0))"
+
+
+{-| The tailwind class `via-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_fuchsia_900 : Css.Style
+via_fuchsia_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #701a75, var(--tw-gradient-to, rgba(112, 26, 117, 0))"
+
+
+{-| The tailwind class `via-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_50 : Css.Style
+via_pink_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fdf2f8, var(--tw-gradient-to, rgba(253, 242, 248, 0))"
+
+
+{-| The tailwind class `via-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_100 : Css.Style
+via_pink_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fce7f3, var(--tw-gradient-to, rgba(252, 231, 243, 0))"
+
+
+{-| The tailwind class `via-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_200 : Css.Style
+via_pink_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fbcfe8, var(--tw-gradient-to, rgba(251, 207, 232, 0))"
+
+
+{-| The tailwind class `via-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_300 : Css.Style
+via_pink_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f9a8d4, var(--tw-gradient-to, rgba(249, 168, 212, 0))"
+
+
+{-| The tailwind class `via-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_400 : Css.Style
+via_pink_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f472b6, var(--tw-gradient-to, rgba(244, 114, 182, 0))"
+
+
+{-| The tailwind class `via-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_500 : Css.Style
+via_pink_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ec4899, var(--tw-gradient-to, rgba(236, 72, 153, 0))"
+
+
+{-| The tailwind class `via-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_600 : Css.Style
+via_pink_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #db2777, var(--tw-gradient-to, rgba(219, 39, 119, 0))"
+
+
+{-| The tailwind class `via-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_700 : Css.Style
+via_pink_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #be185d, var(--tw-gradient-to, rgba(190, 24, 93, 0))"
+
+
+{-| The tailwind class `via-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_800 : Css.Style
+via_pink_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9d174d, var(--tw-gradient-to, rgba(157, 23, 77, 0))"
+
+
+{-| The tailwind class `via-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_pink_900 : Css.Style
+via_pink_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #831843, var(--tw-gradient-to, rgba(131, 24, 67, 0))"
+
+
+{-| The tailwind class `via-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_50 : Css.Style
+via_rose_50 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fff1f2, var(--tw-gradient-to, rgba(255, 241, 242, 0))"
+
+
+{-| The tailwind class `via-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_100 : Css.Style
+via_rose_100 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #ffe4e6, var(--tw-gradient-to, rgba(255, 228, 230, 0))"
+
+
+{-| The tailwind class `via-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_200 : Css.Style
+via_rose_200 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fecdd3, var(--tw-gradient-to, rgba(254, 205, 211, 0))"
+
+
+{-| The tailwind class `via-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_300 : Css.Style
+via_rose_300 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fda4af, var(--tw-gradient-to, rgba(253, 164, 175, 0))"
+
+
+{-| The tailwind class `via-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_400 : Css.Style
+via_rose_400 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #fb7185, var(--tw-gradient-to, rgba(251, 113, 133, 0))"
+
+
+{-| The tailwind class `via-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_500 : Css.Style
+via_rose_500 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #f43f5e, var(--tw-gradient-to, rgba(244, 63, 94, 0))"
+
+
+{-| The tailwind class `via-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_600 : Css.Style
+via_rose_600 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #e11d48, var(--tw-gradient-to, rgba(225, 29, 72, 0))"
+
+
+{-| The tailwind class `via-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_700 : Css.Style
+via_rose_700 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #be123c, var(--tw-gradient-to, rgba(190, 18, 60, 0))"
+
+
+{-| The tailwind class `via-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_800 : Css.Style
+via_rose_800 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #9f1239, var(--tw-gradient-to, rgba(159, 18, 57, 0))"
+
+
+{-| The tailwind class `via-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+via_rose_900 : Css.Style
+via_rose_900 =
+    Css.property "--tw-gradient-stops" "var(--tw-gradient-from), #881337, var(--tw-gradient-to, rgba(136, 19, 55, 0))"
 
 
 {-| The tailwind class `visible`.
