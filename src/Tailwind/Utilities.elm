@@ -10788,7 +10788,7 @@ bg_green_100 : Css.Style
 bg_green_100 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(209, 250, 229, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(220, 252, 231, var(--tw-bg-opacity))"
         ]
 
 
@@ -10801,7 +10801,7 @@ bg_green_200 : Css.Style
 bg_green_200 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(167, 243, 208, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(187, 247, 208, var(--tw-bg-opacity))"
         ]
 
 
@@ -10814,7 +10814,7 @@ bg_green_300 : Css.Style
 bg_green_300 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(110, 231, 183, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(134, 239, 172, var(--tw-bg-opacity))"
         ]
 
 
@@ -10827,7 +10827,7 @@ bg_green_400 : Css.Style
 bg_green_400 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(52, 211, 153, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(74, 222, 128, var(--tw-bg-opacity))"
         ]
 
 
@@ -10840,7 +10840,7 @@ bg_green_50 : Css.Style
 bg_green_50 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(236, 253, 245, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(240, 253, 244, var(--tw-bg-opacity))"
         ]
 
 
@@ -10853,7 +10853,7 @@ bg_green_500 : Css.Style
 bg_green_500 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(16, 185, 129, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(34, 197, 94, var(--tw-bg-opacity))"
         ]
 
 
@@ -10866,7 +10866,7 @@ bg_green_600 : Css.Style
 bg_green_600 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(5, 150, 105, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(22, 163, 74, var(--tw-bg-opacity))"
         ]
 
 
@@ -10879,7 +10879,7 @@ bg_green_700 : Css.Style
 bg_green_700 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(4, 120, 87, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(21, 128, 61, var(--tw-bg-opacity))"
         ]
 
 
@@ -10892,7 +10892,7 @@ bg_green_800 : Css.Style
 bg_green_800 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(6, 95, 70, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(22, 101, 52, var(--tw-bg-opacity))"
         ]
 
 
@@ -10905,7 +10905,7 @@ bg_green_900 : Css.Style
 bg_green_900 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(6, 78, 59, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(20, 83, 45, var(--tw-bg-opacity))"
         ]
 
 
@@ -11388,7 +11388,7 @@ bg_purple_100 : Css.Style
 bg_purple_100 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(237, 233, 254, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(243, 232, 255, var(--tw-bg-opacity))"
         ]
 
 
@@ -11401,7 +11401,7 @@ bg_purple_200 : Css.Style
 bg_purple_200 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(221, 214, 254, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(233, 213, 255, var(--tw-bg-opacity))"
         ]
 
 
@@ -11414,7 +11414,7 @@ bg_purple_300 : Css.Style
 bg_purple_300 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(196, 181, 253, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(216, 180, 254, var(--tw-bg-opacity))"
         ]
 
 
@@ -11427,7 +11427,7 @@ bg_purple_400 : Css.Style
 bg_purple_400 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(167, 139, 250, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(192, 132, 252, var(--tw-bg-opacity))"
         ]
 
 
@@ -11440,7 +11440,7 @@ bg_purple_50 : Css.Style
 bg_purple_50 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(245, 243, 255, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(250, 245, 255, var(--tw-bg-opacity))"
         ]
 
 
@@ -11453,7 +11453,7 @@ bg_purple_500 : Css.Style
 bg_purple_500 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(139, 92, 246, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(168, 85, 247, var(--tw-bg-opacity))"
         ]
 
 
@@ -11466,7 +11466,7 @@ bg_purple_600 : Css.Style
 bg_purple_600 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(124, 58, 237, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(147, 51, 234, var(--tw-bg-opacity))"
         ]
 
 
@@ -11479,7 +11479,7 @@ bg_purple_700 : Css.Style
 bg_purple_700 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(109, 40, 217, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(126, 34, 206, var(--tw-bg-opacity))"
         ]
 
 
@@ -11492,7 +11492,7 @@ bg_purple_800 : Css.Style
 bg_purple_800 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(91, 33, 182, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(107, 33, 168, var(--tw-bg-opacity))"
         ]
 
 
@@ -11505,7 +11505,7 @@ bg_purple_900 : Css.Style
 bg_purple_900 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(76, 29, 149, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(88, 28, 135, var(--tw-bg-opacity))"
         ]
 
 
@@ -11771,7 +11771,7 @@ bg_yellow_100 : Css.Style
 bg_yellow_100 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(254, 243, 199, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(254, 249, 195, var(--tw-bg-opacity))"
         ]
 
 
@@ -11784,7 +11784,7 @@ bg_yellow_200 : Css.Style
 bg_yellow_200 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(253, 230, 138, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(254, 240, 138, var(--tw-bg-opacity))"
         ]
 
 
@@ -11797,7 +11797,7 @@ bg_yellow_300 : Css.Style
 bg_yellow_300 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(252, 211, 77, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(253, 224, 71, var(--tw-bg-opacity))"
         ]
 
 
@@ -11810,7 +11810,7 @@ bg_yellow_400 : Css.Style
 bg_yellow_400 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(251, 191, 36, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(250, 204, 21, var(--tw-bg-opacity))"
         ]
 
 
@@ -11823,7 +11823,7 @@ bg_yellow_50 : Css.Style
 bg_yellow_50 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(255, 251, 235, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(254, 252, 232, var(--tw-bg-opacity))"
         ]
 
 
@@ -11836,7 +11836,7 @@ bg_yellow_500 : Css.Style
 bg_yellow_500 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(245, 158, 11, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(234, 179, 8, var(--tw-bg-opacity))"
         ]
 
 
@@ -11849,7 +11849,7 @@ bg_yellow_600 : Css.Style
 bg_yellow_600 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(217, 119, 6, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(202, 138, 4, var(--tw-bg-opacity))"
         ]
 
 
@@ -11862,7 +11862,7 @@ bg_yellow_700 : Css.Style
 bg_yellow_700 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(180, 83, 9, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(161, 98, 7, var(--tw-bg-opacity))"
         ]
 
 
@@ -11875,7 +11875,7 @@ bg_yellow_800 : Css.Style
 bg_yellow_800 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(146, 64, 14, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(133, 77, 14, var(--tw-bg-opacity))"
         ]
 
 
@@ -11888,7 +11888,7 @@ bg_yellow_900 : Css.Style
 bg_yellow_900 =
     Css.batch
         [ Css.property "--tw-bg-opacity" "1"
-        , Css.property "background-color" "rgba(120, 53, 15, var(--tw-bg-opacity))"
+        , Css.property "background-color" "rgba(113, 63, 18, var(--tw-bg-opacity))"
         ]
 
 
@@ -12414,7 +12414,7 @@ border_green_100 : Css.Style
 border_green_100 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(209, 250, 229, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(220, 252, 231, var(--tw-border-opacity))"
         ]
 
 
@@ -12427,7 +12427,7 @@ border_green_200 : Css.Style
 border_green_200 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(167, 243, 208, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(187, 247, 208, var(--tw-border-opacity))"
         ]
 
 
@@ -12440,7 +12440,7 @@ border_green_300 : Css.Style
 border_green_300 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(110, 231, 183, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(134, 239, 172, var(--tw-border-opacity))"
         ]
 
 
@@ -12453,7 +12453,7 @@ border_green_400 : Css.Style
 border_green_400 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(52, 211, 153, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(74, 222, 128, var(--tw-border-opacity))"
         ]
 
 
@@ -12466,7 +12466,7 @@ border_green_50 : Css.Style
 border_green_50 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(236, 253, 245, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(240, 253, 244, var(--tw-border-opacity))"
         ]
 
 
@@ -12479,7 +12479,7 @@ border_green_500 : Css.Style
 border_green_500 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(16, 185, 129, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(34, 197, 94, var(--tw-border-opacity))"
         ]
 
 
@@ -12492,7 +12492,7 @@ border_green_600 : Css.Style
 border_green_600 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(5, 150, 105, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(22, 163, 74, var(--tw-border-opacity))"
         ]
 
 
@@ -12505,7 +12505,7 @@ border_green_700 : Css.Style
 border_green_700 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(4, 120, 87, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(21, 128, 61, var(--tw-border-opacity))"
         ]
 
 
@@ -12518,7 +12518,7 @@ border_green_800 : Css.Style
 border_green_800 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(6, 95, 70, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(22, 101, 52, var(--tw-border-opacity))"
         ]
 
 
@@ -12531,7 +12531,7 @@ border_green_900 : Css.Style
 border_green_900 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(6, 78, 59, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(20, 83, 45, var(--tw-border-opacity))"
         ]
 
 
@@ -13014,7 +13014,7 @@ border_purple_100 : Css.Style
 border_purple_100 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(237, 233, 254, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(243, 232, 255, var(--tw-border-opacity))"
         ]
 
 
@@ -13027,7 +13027,7 @@ border_purple_200 : Css.Style
 border_purple_200 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(221, 214, 254, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(233, 213, 255, var(--tw-border-opacity))"
         ]
 
 
@@ -13040,7 +13040,7 @@ border_purple_300 : Css.Style
 border_purple_300 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(196, 181, 253, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(216, 180, 254, var(--tw-border-opacity))"
         ]
 
 
@@ -13053,7 +13053,7 @@ border_purple_400 : Css.Style
 border_purple_400 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(167, 139, 250, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(192, 132, 252, var(--tw-border-opacity))"
         ]
 
 
@@ -13066,7 +13066,7 @@ border_purple_50 : Css.Style
 border_purple_50 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(245, 243, 255, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(250, 245, 255, var(--tw-border-opacity))"
         ]
 
 
@@ -13079,7 +13079,7 @@ border_purple_500 : Css.Style
 border_purple_500 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(139, 92, 246, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(168, 85, 247, var(--tw-border-opacity))"
         ]
 
 
@@ -13092,7 +13092,7 @@ border_purple_600 : Css.Style
 border_purple_600 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(124, 58, 237, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(147, 51, 234, var(--tw-border-opacity))"
         ]
 
 
@@ -13105,7 +13105,7 @@ border_purple_700 : Css.Style
 border_purple_700 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(109, 40, 217, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(126, 34, 206, var(--tw-border-opacity))"
         ]
 
 
@@ -13118,7 +13118,7 @@ border_purple_800 : Css.Style
 border_purple_800 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(91, 33, 182, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(107, 33, 168, var(--tw-border-opacity))"
         ]
 
 
@@ -13131,7 +13131,7 @@ border_purple_900 : Css.Style
 border_purple_900 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(76, 29, 149, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(88, 28, 135, var(--tw-border-opacity))"
         ]
 
 
@@ -13417,7 +13417,7 @@ border_yellow_100 : Css.Style
 border_yellow_100 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(254, 243, 199, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(254, 249, 195, var(--tw-border-opacity))"
         ]
 
 
@@ -13430,7 +13430,7 @@ border_yellow_200 : Css.Style
 border_yellow_200 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(253, 230, 138, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(254, 240, 138, var(--tw-border-opacity))"
         ]
 
 
@@ -13443,7 +13443,7 @@ border_yellow_300 : Css.Style
 border_yellow_300 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(252, 211, 77, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(253, 224, 71, var(--tw-border-opacity))"
         ]
 
 
@@ -13456,7 +13456,7 @@ border_yellow_400 : Css.Style
 border_yellow_400 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(251, 191, 36, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(250, 204, 21, var(--tw-border-opacity))"
         ]
 
 
@@ -13469,7 +13469,7 @@ border_yellow_50 : Css.Style
 border_yellow_50 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(255, 251, 235, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(254, 252, 232, var(--tw-border-opacity))"
         ]
 
 
@@ -13482,7 +13482,7 @@ border_yellow_500 : Css.Style
 border_yellow_500 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(245, 158, 11, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(234, 179, 8, var(--tw-border-opacity))"
         ]
 
 
@@ -13495,7 +13495,7 @@ border_yellow_600 : Css.Style
 border_yellow_600 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(217, 119, 6, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(202, 138, 4, var(--tw-border-opacity))"
         ]
 
 
@@ -13508,7 +13508,7 @@ border_yellow_700 : Css.Style
 border_yellow_700 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(180, 83, 9, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(161, 98, 7, var(--tw-border-opacity))"
         ]
 
 
@@ -13521,7 +13521,7 @@ border_yellow_800 : Css.Style
 border_yellow_800 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(146, 64, 14, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(133, 77, 14, var(--tw-border-opacity))"
         ]
 
 
@@ -13534,7 +13534,7 @@ border_yellow_900 : Css.Style
 border_yellow_900 =
     Css.batch
         [ Css.property "--tw-border-opacity" "1"
-        , Css.property "border-color" "rgba(120, 53, 15, var(--tw-border-opacity))"
+        , Css.property "border-color" "rgba(113, 63, 18, var(--tw-border-opacity))"
         ]
 
 
@@ -15404,7 +15404,7 @@ divide_green_100 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(209, 250, 229, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(220, 252, 231, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15421,7 +15421,7 @@ divide_green_200 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(167, 243, 208, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(187, 247, 208, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15438,7 +15438,7 @@ divide_green_300 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(110, 231, 183, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(134, 239, 172, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15455,7 +15455,7 @@ divide_green_400 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(52, 211, 153, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(74, 222, 128, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15472,7 +15472,7 @@ divide_green_50 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(236, 253, 245, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(240, 253, 244, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15489,7 +15489,7 @@ divide_green_500 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(16, 185, 129, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(34, 197, 94, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15506,7 +15506,7 @@ divide_green_600 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(5, 150, 105, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(22, 163, 74, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15523,7 +15523,7 @@ divide_green_700 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(4, 120, 87, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(21, 128, 61, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15540,7 +15540,7 @@ divide_green_800 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(6, 95, 70, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(22, 101, 52, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -15557,7 +15557,7 @@ divide_green_900 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(6, 78, 59, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(20, 83, 45, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16170,7 +16170,7 @@ divide_purple_100 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(237, 233, 254, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(243, 232, 255, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16187,7 +16187,7 @@ divide_purple_200 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(221, 214, 254, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(233, 213, 255, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16204,7 +16204,7 @@ divide_purple_300 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(196, 181, 253, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(216, 180, 254, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16221,7 +16221,7 @@ divide_purple_400 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(167, 139, 250, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(192, 132, 252, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16238,7 +16238,7 @@ divide_purple_50 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(245, 243, 255, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(250, 245, 255, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16255,7 +16255,7 @@ divide_purple_500 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(139, 92, 246, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(168, 85, 247, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16272,7 +16272,7 @@ divide_purple_600 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(124, 58, 237, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(147, 51, 234, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16289,7 +16289,7 @@ divide_purple_700 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(109, 40, 217, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(126, 34, 206, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16306,7 +16306,7 @@ divide_purple_800 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(91, 33, 182, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(107, 33, 168, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16323,7 +16323,7 @@ divide_purple_900 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(76, 29, 149, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(88, 28, 135, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16771,7 +16771,7 @@ divide_yellow_100 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(254, 243, 199, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(254, 249, 195, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16788,7 +16788,7 @@ divide_yellow_200 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(253, 230, 138, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(254, 240, 138, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16805,7 +16805,7 @@ divide_yellow_300 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(252, 211, 77, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(253, 224, 71, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16822,7 +16822,7 @@ divide_yellow_400 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(251, 191, 36, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(250, 204, 21, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16839,7 +16839,7 @@ divide_yellow_50 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(255, 251, 235, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(254, 252, 232, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16856,7 +16856,7 @@ divide_yellow_500 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(245, 158, 11, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(234, 179, 8, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16873,7 +16873,7 @@ divide_yellow_600 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(217, 119, 6, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(202, 138, 4, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16890,7 +16890,7 @@ divide_yellow_700 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(180, 83, 9, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(161, 98, 7, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16907,7 +16907,7 @@ divide_yellow_800 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(146, 64, 14, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(133, 77, 14, var(--tw-border-opacity))"
                 ]
             ]
         ]
@@ -16924,7 +16924,7 @@ divide_yellow_900 =
         [ Css.Global.children
             [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
                 [ Css.property "--tw-divide-opacity" "1"
-                , Css.property "border-color" "rgba(120, 53, 15, var(--tw-divide-opacity))"
+                , Css.property "border-color" "rgba(113, 63, 18, var(--tw-border-opacity))"
                 ]
             ]
         ]
