@@ -2406,47 +2406,7 @@ module Tailwind.Utilities exposing
     , place_self_start
     , place_self_stretch
     , placeholder_black
-    , placeholder_blue_100
-    , placeholder_blue_200
-    , placeholder_blue_300
-    , placeholder_blue_400
-    , placeholder_blue_50
-    , placeholder_blue_500
-    , placeholder_blue_600
-    , placeholder_blue_700
-    , placeholder_blue_800
-    , placeholder_blue_900
     , placeholder_current
-    , placeholder_gray_100
-    , placeholder_gray_200
-    , placeholder_gray_300
-    , placeholder_gray_400
-    , placeholder_gray_50
-    , placeholder_gray_500
-    , placeholder_gray_600
-    , placeholder_gray_700
-    , placeholder_gray_800
-    , placeholder_gray_900
-    , placeholder_green_100
-    , placeholder_green_200
-    , placeholder_green_300
-    , placeholder_green_400
-    , placeholder_green_50
-    , placeholder_green_500
-    , placeholder_green_600
-    , placeholder_green_700
-    , placeholder_green_800
-    , placeholder_green_900
-    , placeholder_indigo_100
-    , placeholder_indigo_200
-    , placeholder_indigo_300
-    , placeholder_indigo_400
-    , placeholder_indigo_50
-    , placeholder_indigo_500
-    , placeholder_indigo_600
-    , placeholder_indigo_700
-    , placeholder_indigo_800
-    , placeholder_indigo_900
     , placeholder_opacity_0
     , placeholder_opacity_10
     , placeholder_opacity_100
@@ -2462,48 +2422,228 @@ module Tailwind.Utilities exposing
     , placeholder_opacity_80
     , placeholder_opacity_90
     , placeholder_opacity_95
-    , placeholder_pink_100
-    , placeholder_pink_200
-    , placeholder_pink_300
-    , placeholder_pink_400
-    , placeholder_pink_50
-    , placeholder_pink_500
-    , placeholder_pink_600
-    , placeholder_pink_700
-    , placeholder_pink_800
-    , placeholder_pink_900
-    , placeholder_purple_100
-    , placeholder_purple_200
-    , placeholder_purple_300
-    , placeholder_purple_400
-    , placeholder_purple_50
-    , placeholder_purple_500
-    , placeholder_purple_600
-    , placeholder_purple_700
-    , placeholder_purple_800
-    , placeholder_purple_900
+    , placeholder_transparent
+    , placeholder_white
+    , placeholder_slate_50
+    , placeholder_slate_100
+    , placeholder_slate_200
+    , placeholder_slate_300
+    , placeholder_slate_400
+    , placeholder_slate_500
+    , placeholder_slate_600
+    , placeholder_slate_700
+    , placeholder_slate_800
+    , placeholder_slate_900
+    , placeholder_gray_50
+    , placeholder_gray_100
+    , placeholder_gray_200
+    , placeholder_gray_300
+    , placeholder_gray_400
+    , placeholder_gray_500
+    , placeholder_gray_600
+    , placeholder_gray_700
+    , placeholder_gray_800
+    , placeholder_gray_900
+    , placeholder_zinc_50
+    , placeholder_zinc_100
+    , placeholder_zinc_200
+    , placeholder_zinc_300
+    , placeholder_zinc_400
+    , placeholder_zinc_500
+    , placeholder_zinc_600
+    , placeholder_zinc_700
+    , placeholder_zinc_800
+    , placeholder_zinc_900
+    , placeholder_neutral_50
+    , placeholder_neutral_100
+    , placeholder_neutral_200
+    , placeholder_neutral_300
+    , placeholder_neutral_400
+    , placeholder_neutral_500
+    , placeholder_neutral_600
+    , placeholder_neutral_700
+    , placeholder_neutral_800
+    , placeholder_neutral_900
+    , placeholder_stone_50
+    , placeholder_stone_100
+    , placeholder_stone_200
+    , placeholder_stone_300
+    , placeholder_stone_400
+    , placeholder_stone_500
+    , placeholder_stone_600
+    , placeholder_stone_700
+    , placeholder_stone_800
+    , placeholder_stone_900
+    , placeholder_red_50
     , placeholder_red_100
     , placeholder_red_200
     , placeholder_red_300
     , placeholder_red_400
-    , placeholder_red_50
     , placeholder_red_500
     , placeholder_red_600
     , placeholder_red_700
     , placeholder_red_800
     , placeholder_red_900
-    , placeholder_transparent
-    , placeholder_white
+    , placeholder_orange_50
+    , placeholder_orange_100
+    , placeholder_orange_200
+    , placeholder_orange_300
+    , placeholder_orange_400
+    , placeholder_orange_500
+    , placeholder_orange_600
+    , placeholder_orange_700
+    , placeholder_orange_800
+    , placeholder_orange_900
+    , placeholder_amber_50
+    , placeholder_amber_100
+    , placeholder_amber_200
+    , placeholder_amber_300
+    , placeholder_amber_400
+    , placeholder_amber_500
+    , placeholder_amber_600
+    , placeholder_amber_700
+    , placeholder_amber_800
+    , placeholder_amber_900
+    , placeholder_yellow_50
     , placeholder_yellow_100
     , placeholder_yellow_200
     , placeholder_yellow_300
     , placeholder_yellow_400
-    , placeholder_yellow_50
     , placeholder_yellow_500
     , placeholder_yellow_600
     , placeholder_yellow_700
     , placeholder_yellow_800
     , placeholder_yellow_900
+    , placeholder_lime_50
+    , placeholder_lime_100
+    , placeholder_lime_200
+    , placeholder_lime_300
+    , placeholder_lime_400
+    , placeholder_lime_500
+    , placeholder_lime_600
+    , placeholder_lime_700
+    , placeholder_lime_800
+    , placeholder_lime_900
+    , placeholder_green_50
+    , placeholder_green_100
+    , placeholder_green_200
+    , placeholder_green_300
+    , placeholder_green_400
+    , placeholder_green_500
+    , placeholder_green_600
+    , placeholder_green_700
+    , placeholder_green_800
+    , placeholder_green_900
+    , placeholder_emerald_50
+    , placeholder_emerald_100
+    , placeholder_emerald_200
+    , placeholder_emerald_300
+    , placeholder_emerald_400
+    , placeholder_emerald_500
+    , placeholder_emerald_600
+    , placeholder_emerald_700
+    , placeholder_emerald_800
+    , placeholder_emerald_900
+    , placeholder_teal_50
+    , placeholder_teal_100
+    , placeholder_teal_200
+    , placeholder_teal_300
+    , placeholder_teal_400
+    , placeholder_teal_500
+    , placeholder_teal_600
+    , placeholder_teal_700
+    , placeholder_teal_800
+    , placeholder_teal_900
+    , placeholder_cyan_50
+    , placeholder_cyan_100
+    , placeholder_cyan_200
+    , placeholder_cyan_300
+    , placeholder_cyan_400
+    , placeholder_cyan_500
+    , placeholder_cyan_600
+    , placeholder_cyan_700
+    , placeholder_cyan_800
+    , placeholder_cyan_900
+    , placeholder_sky_50
+    , placeholder_sky_100
+    , placeholder_sky_200
+    , placeholder_sky_300
+    , placeholder_sky_400
+    , placeholder_sky_500
+    , placeholder_sky_600
+    , placeholder_sky_700
+    , placeholder_sky_800
+    , placeholder_sky_900
+    , placeholder_blue_50
+    , placeholder_blue_100
+    , placeholder_blue_200
+    , placeholder_blue_300
+    , placeholder_blue_400
+    , placeholder_blue_500
+    , placeholder_blue_600
+    , placeholder_blue_700
+    , placeholder_blue_800
+    , placeholder_blue_900
+    , placeholder_indigo_50
+    , placeholder_indigo_100
+    , placeholder_indigo_200
+    , placeholder_indigo_300
+    , placeholder_indigo_400
+    , placeholder_indigo_500
+    , placeholder_indigo_600
+    , placeholder_indigo_700
+    , placeholder_indigo_800
+    , placeholder_indigo_900
+    , placeholder_violet_50
+    , placeholder_violet_100
+    , placeholder_violet_200
+    , placeholder_violet_300
+    , placeholder_violet_400
+    , placeholder_violet_500
+    , placeholder_violet_600
+    , placeholder_violet_700
+    , placeholder_violet_800
+    , placeholder_violet_900
+    , placeholder_purple_50
+    , placeholder_purple_100
+    , placeholder_purple_200
+    , placeholder_purple_300
+    , placeholder_purple_400
+    , placeholder_purple_500
+    , placeholder_purple_600
+    , placeholder_purple_700
+    , placeholder_purple_800
+    , placeholder_purple_900
+    , placeholder_fuchsia_50
+    , placeholder_fuchsia_100
+    , placeholder_fuchsia_200
+    , placeholder_fuchsia_300
+    , placeholder_fuchsia_400
+    , placeholder_fuchsia_500
+    , placeholder_fuchsia_600
+    , placeholder_fuchsia_700
+    , placeholder_fuchsia_800
+    , placeholder_fuchsia_900
+    , placeholder_pink_50
+    , placeholder_pink_100
+    , placeholder_pink_200
+    , placeholder_pink_300
+    , placeholder_pink_400
+    , placeholder_pink_500
+    , placeholder_pink_600
+    , placeholder_pink_700
+    , placeholder_pink_800
+    , placeholder_pink_900
+    , placeholder_rose_50
+    , placeholder_rose_100
+    , placeholder_rose_200
+    , placeholder_rose_300
+    , placeholder_rose_400
+    , placeholder_rose_500
+    , placeholder_rose_600
+    , placeholder_rose_700
+    , placeholder_rose_800
+    , placeholder_rose_900
     , pointer_events_auto
     , pointer_events_none
     , pr_0
@@ -2714,47 +2854,7 @@ module Tailwind.Utilities exposing
     , ring_4
     , ring_8
     , ring_black
-    , ring_blue_100
-    , ring_blue_200
-    , ring_blue_300
-    , ring_blue_400
-    , ring_blue_50
-    , ring_blue_500
-    , ring_blue_600
-    , ring_blue_700
-    , ring_blue_800
-    , ring_blue_900
     , ring_current
-    , ring_gray_100
-    , ring_gray_200
-    , ring_gray_300
-    , ring_gray_400
-    , ring_gray_50
-    , ring_gray_500
-    , ring_gray_600
-    , ring_gray_700
-    , ring_gray_800
-    , ring_gray_900
-    , ring_green_100
-    , ring_green_200
-    , ring_green_300
-    , ring_green_400
-    , ring_green_50
-    , ring_green_500
-    , ring_green_600
-    , ring_green_700
-    , ring_green_800
-    , ring_green_900
-    , ring_indigo_100
-    , ring_indigo_200
-    , ring_indigo_300
-    , ring_indigo_400
-    , ring_indigo_50
-    , ring_indigo_500
-    , ring_indigo_600
-    , ring_indigo_700
-    , ring_indigo_800
-    , ring_indigo_900
     , ring_inset
     , ring_offset_0
     , ring_offset_1
@@ -2762,89 +2862,9 @@ module Tailwind.Utilities exposing
     , ring_offset_4
     , ring_offset_8
     , ring_offset_black
-    , ring_offset_blue_100
-    , ring_offset_blue_200
-    , ring_offset_blue_300
-    , ring_offset_blue_400
-    , ring_offset_blue_50
-    , ring_offset_blue_500
-    , ring_offset_blue_600
-    , ring_offset_blue_700
-    , ring_offset_blue_800
-    , ring_offset_blue_900
     , ring_offset_current
-    , ring_offset_gray_100
-    , ring_offset_gray_200
-    , ring_offset_gray_300
-    , ring_offset_gray_400
-    , ring_offset_gray_50
-    , ring_offset_gray_500
-    , ring_offset_gray_600
-    , ring_offset_gray_700
-    , ring_offset_gray_800
-    , ring_offset_gray_900
-    , ring_offset_green_100
-    , ring_offset_green_200
-    , ring_offset_green_300
-    , ring_offset_green_400
-    , ring_offset_green_50
-    , ring_offset_green_500
-    , ring_offset_green_600
-    , ring_offset_green_700
-    , ring_offset_green_800
-    , ring_offset_green_900
-    , ring_offset_indigo_100
-    , ring_offset_indigo_200
-    , ring_offset_indigo_300
-    , ring_offset_indigo_400
-    , ring_offset_indigo_50
-    , ring_offset_indigo_500
-    , ring_offset_indigo_600
-    , ring_offset_indigo_700
-    , ring_offset_indigo_800
-    , ring_offset_indigo_900
-    , ring_offset_pink_100
-    , ring_offset_pink_200
-    , ring_offset_pink_300
-    , ring_offset_pink_400
-    , ring_offset_pink_50
-    , ring_offset_pink_500
-    , ring_offset_pink_600
-    , ring_offset_pink_700
-    , ring_offset_pink_800
-    , ring_offset_pink_900
-    , ring_offset_purple_100
-    , ring_offset_purple_200
-    , ring_offset_purple_300
-    , ring_offset_purple_400
-    , ring_offset_purple_50
-    , ring_offset_purple_500
-    , ring_offset_purple_600
-    , ring_offset_purple_700
-    , ring_offset_purple_800
-    , ring_offset_purple_900
-    , ring_offset_red_100
-    , ring_offset_red_200
-    , ring_offset_red_300
-    , ring_offset_red_400
-    , ring_offset_red_50
-    , ring_offset_red_500
-    , ring_offset_red_600
-    , ring_offset_red_700
-    , ring_offset_red_800
-    , ring_offset_red_900
     , ring_offset_transparent
     , ring_offset_white
-    , ring_offset_yellow_100
-    , ring_offset_yellow_200
-    , ring_offset_yellow_300
-    , ring_offset_yellow_400
-    , ring_offset_yellow_50
-    , ring_offset_yellow_500
-    , ring_offset_yellow_600
-    , ring_offset_yellow_700
-    , ring_offset_yellow_800
-    , ring_offset_yellow_900
     , ring_opacity_0
     , ring_opacity_10
     , ring_opacity_100
@@ -2860,48 +2880,448 @@ module Tailwind.Utilities exposing
     , ring_opacity_80
     , ring_opacity_90
     , ring_opacity_95
-    , ring_pink_100
-    , ring_pink_200
-    , ring_pink_300
-    , ring_pink_400
-    , ring_pink_50
-    , ring_pink_500
-    , ring_pink_600
-    , ring_pink_700
-    , ring_pink_800
-    , ring_pink_900
-    , ring_purple_100
-    , ring_purple_200
-    , ring_purple_300
-    , ring_purple_400
-    , ring_purple_50
-    , ring_purple_500
-    , ring_purple_600
-    , ring_purple_700
-    , ring_purple_800
-    , ring_purple_900
+    , ring_transparent
+    , ring_white
+    , ring_slate_50
+    , ring_slate_100
+    , ring_slate_200
+    , ring_slate_300
+    , ring_slate_400
+    , ring_slate_500
+    , ring_slate_600
+    , ring_slate_700
+    , ring_slate_800
+    , ring_slate_900
+    , ring_gray_50
+    , ring_gray_100
+    , ring_gray_200
+    , ring_gray_300
+    , ring_gray_400
+    , ring_gray_500
+    , ring_gray_600
+    , ring_gray_700
+    , ring_gray_800
+    , ring_gray_900
+    , ring_zinc_50
+    , ring_zinc_100
+    , ring_zinc_200
+    , ring_zinc_300
+    , ring_zinc_400
+    , ring_zinc_500
+    , ring_zinc_600
+    , ring_zinc_700
+    , ring_zinc_800
+    , ring_zinc_900
+    , ring_neutral_50
+    , ring_neutral_100
+    , ring_neutral_200
+    , ring_neutral_300
+    , ring_neutral_400
+    , ring_neutral_500
+    , ring_neutral_600
+    , ring_neutral_700
+    , ring_neutral_800
+    , ring_neutral_900
+    , ring_stone_50
+    , ring_stone_100
+    , ring_stone_200
+    , ring_stone_300
+    , ring_stone_400
+    , ring_stone_500
+    , ring_stone_600
+    , ring_stone_700
+    , ring_stone_800
+    , ring_stone_900
+    , ring_red_50
     , ring_red_100
     , ring_red_200
     , ring_red_300
     , ring_red_400
-    , ring_red_50
     , ring_red_500
     , ring_red_600
     , ring_red_700
     , ring_red_800
     , ring_red_900
-    , ring_transparent
-    , ring_white
+    , ring_orange_50
+    , ring_orange_100
+    , ring_orange_200
+    , ring_orange_300
+    , ring_orange_400
+    , ring_orange_500
+    , ring_orange_600
+    , ring_orange_700
+    , ring_orange_800
+    , ring_orange_900
+    , ring_amber_50
+    , ring_amber_100
+    , ring_amber_200
+    , ring_amber_300
+    , ring_amber_400
+    , ring_amber_500
+    , ring_amber_600
+    , ring_amber_700
+    , ring_amber_800
+    , ring_amber_900
+    , ring_yellow_50
     , ring_yellow_100
     , ring_yellow_200
     , ring_yellow_300
     , ring_yellow_400
-    , ring_yellow_50
     , ring_yellow_500
     , ring_yellow_600
     , ring_yellow_700
     , ring_yellow_800
     , ring_yellow_900
+    , ring_lime_50
+    , ring_lime_100
+    , ring_lime_200
+    , ring_lime_300
+    , ring_lime_400
+    , ring_lime_500
+    , ring_lime_600
+    , ring_lime_700
+    , ring_lime_800
+    , ring_lime_900
+    , ring_green_50
+    , ring_green_100
+    , ring_green_200
+    , ring_green_300
+    , ring_green_400
+    , ring_green_500
+    , ring_green_600
+    , ring_green_700
+    , ring_green_800
+    , ring_green_900
+    , ring_emerald_50
+    , ring_emerald_100
+    , ring_emerald_200
+    , ring_emerald_300
+    , ring_emerald_400
+    , ring_emerald_500
+    , ring_emerald_600
+    , ring_emerald_700
+    , ring_emerald_800
+    , ring_emerald_900
+    , ring_teal_50
+    , ring_teal_100
+    , ring_teal_200
+    , ring_teal_300
+    , ring_teal_400
+    , ring_teal_500
+    , ring_teal_600
+    , ring_teal_700
+    , ring_teal_800
+    , ring_teal_900
+    , ring_cyan_50
+    , ring_cyan_100
+    , ring_cyan_200
+    , ring_cyan_300
+    , ring_cyan_400
+    , ring_cyan_500
+    , ring_cyan_600
+    , ring_cyan_700
+    , ring_cyan_800
+    , ring_cyan_900
+    , ring_sky_50
+    , ring_sky_100
+    , ring_sky_200
+    , ring_sky_300
+    , ring_sky_400
+    , ring_sky_500
+    , ring_sky_600
+    , ring_sky_700
+    , ring_sky_800
+    , ring_sky_900
+    , ring_blue_50
+    , ring_blue_100
+    , ring_blue_200
+    , ring_blue_300
+    , ring_blue_400
+    , ring_blue_500
+    , ring_blue_600
+    , ring_blue_700
+    , ring_blue_800
+    , ring_blue_900
+    , ring_indigo_50
+    , ring_indigo_100
+    , ring_indigo_200
+    , ring_indigo_300
+    , ring_indigo_400
+    , ring_indigo_500
+    , ring_indigo_600
+    , ring_indigo_700
+    , ring_indigo_800
+    , ring_indigo_900
+    , ring_violet_50
+    , ring_violet_100
+    , ring_violet_200
+    , ring_violet_300
+    , ring_violet_400
+    , ring_violet_500
+    , ring_violet_600
+    , ring_violet_700
+    , ring_violet_800
+    , ring_violet_900
+    , ring_purple_50
+    , ring_purple_100
+    , ring_purple_200
+    , ring_purple_300
+    , ring_purple_400
+    , ring_purple_500
+    , ring_purple_600
+    , ring_purple_700
+    , ring_purple_800
+    , ring_purple_900
+    , ring_fuchsia_50
+    , ring_fuchsia_100
+    , ring_fuchsia_200
+    , ring_fuchsia_300
+    , ring_fuchsia_400
+    , ring_fuchsia_500
+    , ring_fuchsia_600
+    , ring_fuchsia_700
+    , ring_fuchsia_800
+    , ring_fuchsia_900
+    , ring_pink_50
+    , ring_pink_100
+    , ring_pink_200
+    , ring_pink_300
+    , ring_pink_400
+    , ring_pink_500
+    , ring_pink_600
+    , ring_pink_700
+    , ring_pink_800
+    , ring_pink_900
+    , ring_rose_50
+    , ring_rose_100
+    , ring_rose_200
+    , ring_rose_300
+    , ring_rose_400
+    , ring_rose_500
+    , ring_rose_600
+    , ring_rose_700
+    , ring_rose_800
+    , ring_rose_900
+    , ring_offset_slate_50
+    , ring_offset_slate_100
+    , ring_offset_slate_200
+    , ring_offset_slate_300
+    , ring_offset_slate_400
+    , ring_offset_slate_500
+    , ring_offset_slate_600
+    , ring_offset_slate_700
+    , ring_offset_slate_800
+    , ring_offset_slate_900
+    , ring_offset_gray_50
+    , ring_offset_gray_100
+    , ring_offset_gray_200
+    , ring_offset_gray_300
+    , ring_offset_gray_400
+    , ring_offset_gray_500
+    , ring_offset_gray_600
+    , ring_offset_gray_700
+    , ring_offset_gray_800
+    , ring_offset_gray_900
+    , ring_offset_zinc_50
+    , ring_offset_zinc_100
+    , ring_offset_zinc_200
+    , ring_offset_zinc_300
+    , ring_offset_zinc_400
+    , ring_offset_zinc_500
+    , ring_offset_zinc_600
+    , ring_offset_zinc_700
+    , ring_offset_zinc_800
+    , ring_offset_zinc_900
+    , ring_offset_neutral_50
+    , ring_offset_neutral_100
+    , ring_offset_neutral_200
+    , ring_offset_neutral_300
+    , ring_offset_neutral_400
+    , ring_offset_neutral_500
+    , ring_offset_neutral_600
+    , ring_offset_neutral_700
+    , ring_offset_neutral_800
+    , ring_offset_neutral_900
+    , ring_offset_stone_50
+    , ring_offset_stone_100
+    , ring_offset_stone_200
+    , ring_offset_stone_300
+    , ring_offset_stone_400
+    , ring_offset_stone_500
+    , ring_offset_stone_600
+    , ring_offset_stone_700
+    , ring_offset_stone_800
+    , ring_offset_stone_900
+    , ring_offset_red_50
+    , ring_offset_red_100
+    , ring_offset_red_200
+    , ring_offset_red_300
+    , ring_offset_red_400
+    , ring_offset_red_500
+    , ring_offset_red_600
+    , ring_offset_red_700
+    , ring_offset_red_800
+    , ring_offset_red_900
+    , ring_offset_orange_50
+    , ring_offset_orange_100
+    , ring_offset_orange_200
+    , ring_offset_orange_300
+    , ring_offset_orange_400
+    , ring_offset_orange_500
+    , ring_offset_orange_600
+    , ring_offset_orange_700
+    , ring_offset_orange_800
+    , ring_offset_orange_900
+    , ring_offset_amber_50
+    , ring_offset_amber_100
+    , ring_offset_amber_200
+    , ring_offset_amber_300
+    , ring_offset_amber_400
+    , ring_offset_amber_500
+    , ring_offset_amber_600
+    , ring_offset_amber_700
+    , ring_offset_amber_800
+    , ring_offset_amber_900
+    , ring_offset_yellow_50
+    , ring_offset_yellow_100
+    , ring_offset_yellow_200
+    , ring_offset_yellow_300
+    , ring_offset_yellow_400
+    , ring_offset_yellow_500
+    , ring_offset_yellow_600
+    , ring_offset_yellow_700
+    , ring_offset_yellow_800
+    , ring_offset_yellow_900
+    , ring_offset_lime_50
+    , ring_offset_lime_100
+    , ring_offset_lime_200
+    , ring_offset_lime_300
+    , ring_offset_lime_400
+    , ring_offset_lime_500
+    , ring_offset_lime_600
+    , ring_offset_lime_700
+    , ring_offset_lime_800
+    , ring_offset_lime_900
+    , ring_offset_green_50
+    , ring_offset_green_100
+    , ring_offset_green_200
+    , ring_offset_green_300
+    , ring_offset_green_400
+    , ring_offset_green_500
+    , ring_offset_green_600
+    , ring_offset_green_700
+    , ring_offset_green_800
+    , ring_offset_green_900
+    , ring_offset_emerald_50
+    , ring_offset_emerald_100
+    , ring_offset_emerald_200
+    , ring_offset_emerald_300
+    , ring_offset_emerald_400
+    , ring_offset_emerald_500
+    , ring_offset_emerald_600
+    , ring_offset_emerald_700
+    , ring_offset_emerald_800
+    , ring_offset_emerald_900
+    , ring_offset_teal_50
+    , ring_offset_teal_100
+    , ring_offset_teal_200
+    , ring_offset_teal_300
+    , ring_offset_teal_400
+    , ring_offset_teal_500
+    , ring_offset_teal_600
+    , ring_offset_teal_700
+    , ring_offset_teal_800
+    , ring_offset_teal_900
+    , ring_offset_cyan_50
+    , ring_offset_cyan_100
+    , ring_offset_cyan_200
+    , ring_offset_cyan_300
+    , ring_offset_cyan_400
+    , ring_offset_cyan_500
+    , ring_offset_cyan_600
+    , ring_offset_cyan_700
+    , ring_offset_cyan_800
+    , ring_offset_cyan_900
+    , ring_offset_sky_50
+    , ring_offset_sky_100
+    , ring_offset_sky_200
+    , ring_offset_sky_300
+    , ring_offset_sky_400
+    , ring_offset_sky_500
+    , ring_offset_sky_600
+    , ring_offset_sky_700
+    , ring_offset_sky_800
+    , ring_offset_sky_900
+    , ring_offset_blue_50
+    , ring_offset_blue_100
+    , ring_offset_blue_200
+    , ring_offset_blue_300
+    , ring_offset_blue_400
+    , ring_offset_blue_500
+    , ring_offset_blue_600
+    , ring_offset_blue_700
+    , ring_offset_blue_800
+    , ring_offset_blue_900
+    , ring_offset_indigo_50
+    , ring_offset_indigo_100
+    , ring_offset_indigo_200
+    , ring_offset_indigo_300
+    , ring_offset_indigo_400
+    , ring_offset_indigo_500
+    , ring_offset_indigo_600
+    , ring_offset_indigo_700
+    , ring_offset_indigo_800
+    , ring_offset_indigo_900
+    , ring_offset_violet_50
+    , ring_offset_violet_100
+    , ring_offset_violet_200
+    , ring_offset_violet_300
+    , ring_offset_violet_400
+    , ring_offset_violet_500
+    , ring_offset_violet_600
+    , ring_offset_violet_700
+    , ring_offset_violet_800
+    , ring_offset_violet_900
+    , ring_offset_purple_50
+    , ring_offset_purple_100
+    , ring_offset_purple_200
+    , ring_offset_purple_300
+    , ring_offset_purple_400
+    , ring_offset_purple_500
+    , ring_offset_purple_600
+    , ring_offset_purple_700
+    , ring_offset_purple_800
+    , ring_offset_purple_900
+    , ring_offset_fuchsia_50
+    , ring_offset_fuchsia_100
+    , ring_offset_fuchsia_200
+    , ring_offset_fuchsia_300
+    , ring_offset_fuchsia_400
+    , ring_offset_fuchsia_500
+    , ring_offset_fuchsia_600
+    , ring_offset_fuchsia_700
+    , ring_offset_fuchsia_800
+    , ring_offset_fuchsia_900
+    , ring_offset_pink_50
+    , ring_offset_pink_100
+    , ring_offset_pink_200
+    , ring_offset_pink_300
+    , ring_offset_pink_400
+    , ring_offset_pink_500
+    , ring_offset_pink_600
+    , ring_offset_pink_700
+    , ring_offset_pink_800
+    , ring_offset_pink_900
+    , ring_offset_rose_50
+    , ring_offset_rose_100
+    , ring_offset_rose_200
+    , ring_offset_rose_300
+    , ring_offset_rose_400
+    , ring_offset_rose_500
+    , ring_offset_rose_600
+    , ring_offset_rose_700
+    , ring_offset_rose_800
+    , ring_offset_rose_900
     , rotate_0
     , rotate_1
     , rotate_12
@@ -7167,47 +7587,7 @@ This module contains
 @docs place_self_start
 @docs place_self_stretch
 @docs placeholder_black
-@docs placeholder_blue_100
-@docs placeholder_blue_200
-@docs placeholder_blue_300
-@docs placeholder_blue_400
-@docs placeholder_blue_50
-@docs placeholder_blue_500
-@docs placeholder_blue_600
-@docs placeholder_blue_700
-@docs placeholder_blue_800
-@docs placeholder_blue_900
 @docs placeholder_current
-@docs placeholder_gray_100
-@docs placeholder_gray_200
-@docs placeholder_gray_300
-@docs placeholder_gray_400
-@docs placeholder_gray_50
-@docs placeholder_gray_500
-@docs placeholder_gray_600
-@docs placeholder_gray_700
-@docs placeholder_gray_800
-@docs placeholder_gray_900
-@docs placeholder_green_100
-@docs placeholder_green_200
-@docs placeholder_green_300
-@docs placeholder_green_400
-@docs placeholder_green_50
-@docs placeholder_green_500
-@docs placeholder_green_600
-@docs placeholder_green_700
-@docs placeholder_green_800
-@docs placeholder_green_900
-@docs placeholder_indigo_100
-@docs placeholder_indigo_200
-@docs placeholder_indigo_300
-@docs placeholder_indigo_400
-@docs placeholder_indigo_50
-@docs placeholder_indigo_500
-@docs placeholder_indigo_600
-@docs placeholder_indigo_700
-@docs placeholder_indigo_800
-@docs placeholder_indigo_900
 @docs placeholder_opacity_0
 @docs placeholder_opacity_10
 @docs placeholder_opacity_100
@@ -7223,48 +7603,228 @@ This module contains
 @docs placeholder_opacity_80
 @docs placeholder_opacity_90
 @docs placeholder_opacity_95
-@docs placeholder_pink_100
-@docs placeholder_pink_200
-@docs placeholder_pink_300
-@docs placeholder_pink_400
-@docs placeholder_pink_50
-@docs placeholder_pink_500
-@docs placeholder_pink_600
-@docs placeholder_pink_700
-@docs placeholder_pink_800
-@docs placeholder_pink_900
-@docs placeholder_purple_100
-@docs placeholder_purple_200
-@docs placeholder_purple_300
-@docs placeholder_purple_400
-@docs placeholder_purple_50
-@docs placeholder_purple_500
-@docs placeholder_purple_600
-@docs placeholder_purple_700
-@docs placeholder_purple_800
-@docs placeholder_purple_900
+@docs placeholder_transparent
+@docs placeholder_white
+@docs placeholder_slate_50
+@docs placeholder_slate_100
+@docs placeholder_slate_200
+@docs placeholder_slate_300
+@docs placeholder_slate_400
+@docs placeholder_slate_500
+@docs placeholder_slate_600
+@docs placeholder_slate_700
+@docs placeholder_slate_800
+@docs placeholder_slate_900
+@docs placeholder_gray_50
+@docs placeholder_gray_100
+@docs placeholder_gray_200
+@docs placeholder_gray_300
+@docs placeholder_gray_400
+@docs placeholder_gray_500
+@docs placeholder_gray_600
+@docs placeholder_gray_700
+@docs placeholder_gray_800
+@docs placeholder_gray_900
+@docs placeholder_zinc_50
+@docs placeholder_zinc_100
+@docs placeholder_zinc_200
+@docs placeholder_zinc_300
+@docs placeholder_zinc_400
+@docs placeholder_zinc_500
+@docs placeholder_zinc_600
+@docs placeholder_zinc_700
+@docs placeholder_zinc_800
+@docs placeholder_zinc_900
+@docs placeholder_neutral_50
+@docs placeholder_neutral_100
+@docs placeholder_neutral_200
+@docs placeholder_neutral_300
+@docs placeholder_neutral_400
+@docs placeholder_neutral_500
+@docs placeholder_neutral_600
+@docs placeholder_neutral_700
+@docs placeholder_neutral_800
+@docs placeholder_neutral_900
+@docs placeholder_stone_50
+@docs placeholder_stone_100
+@docs placeholder_stone_200
+@docs placeholder_stone_300
+@docs placeholder_stone_400
+@docs placeholder_stone_500
+@docs placeholder_stone_600
+@docs placeholder_stone_700
+@docs placeholder_stone_800
+@docs placeholder_stone_900
+@docs placeholder_red_50
 @docs placeholder_red_100
 @docs placeholder_red_200
 @docs placeholder_red_300
 @docs placeholder_red_400
-@docs placeholder_red_50
 @docs placeholder_red_500
 @docs placeholder_red_600
 @docs placeholder_red_700
 @docs placeholder_red_800
 @docs placeholder_red_900
-@docs placeholder_transparent
-@docs placeholder_white
+@docs placeholder_orange_50
+@docs placeholder_orange_100
+@docs placeholder_orange_200
+@docs placeholder_orange_300
+@docs placeholder_orange_400
+@docs placeholder_orange_500
+@docs placeholder_orange_600
+@docs placeholder_orange_700
+@docs placeholder_orange_800
+@docs placeholder_orange_900
+@docs placeholder_amber_50
+@docs placeholder_amber_100
+@docs placeholder_amber_200
+@docs placeholder_amber_300
+@docs placeholder_amber_400
+@docs placeholder_amber_500
+@docs placeholder_amber_600
+@docs placeholder_amber_700
+@docs placeholder_amber_800
+@docs placeholder_amber_900
+@docs placeholder_yellow_50
 @docs placeholder_yellow_100
 @docs placeholder_yellow_200
 @docs placeholder_yellow_300
 @docs placeholder_yellow_400
-@docs placeholder_yellow_50
 @docs placeholder_yellow_500
 @docs placeholder_yellow_600
 @docs placeholder_yellow_700
 @docs placeholder_yellow_800
 @docs placeholder_yellow_900
+@docs placeholder_lime_50
+@docs placeholder_lime_100
+@docs placeholder_lime_200
+@docs placeholder_lime_300
+@docs placeholder_lime_400
+@docs placeholder_lime_500
+@docs placeholder_lime_600
+@docs placeholder_lime_700
+@docs placeholder_lime_800
+@docs placeholder_lime_900
+@docs placeholder_green_50
+@docs placeholder_green_100
+@docs placeholder_green_200
+@docs placeholder_green_300
+@docs placeholder_green_400
+@docs placeholder_green_500
+@docs placeholder_green_600
+@docs placeholder_green_700
+@docs placeholder_green_800
+@docs placeholder_green_900
+@docs placeholder_emerald_50
+@docs placeholder_emerald_100
+@docs placeholder_emerald_200
+@docs placeholder_emerald_300
+@docs placeholder_emerald_400
+@docs placeholder_emerald_500
+@docs placeholder_emerald_600
+@docs placeholder_emerald_700
+@docs placeholder_emerald_800
+@docs placeholder_emerald_900
+@docs placeholder_teal_50
+@docs placeholder_teal_100
+@docs placeholder_teal_200
+@docs placeholder_teal_300
+@docs placeholder_teal_400
+@docs placeholder_teal_500
+@docs placeholder_teal_600
+@docs placeholder_teal_700
+@docs placeholder_teal_800
+@docs placeholder_teal_900
+@docs placeholder_cyan_50
+@docs placeholder_cyan_100
+@docs placeholder_cyan_200
+@docs placeholder_cyan_300
+@docs placeholder_cyan_400
+@docs placeholder_cyan_500
+@docs placeholder_cyan_600
+@docs placeholder_cyan_700
+@docs placeholder_cyan_800
+@docs placeholder_cyan_900
+@docs placeholder_sky_50
+@docs placeholder_sky_100
+@docs placeholder_sky_200
+@docs placeholder_sky_300
+@docs placeholder_sky_400
+@docs placeholder_sky_500
+@docs placeholder_sky_600
+@docs placeholder_sky_700
+@docs placeholder_sky_800
+@docs placeholder_sky_900
+@docs placeholder_blue_50
+@docs placeholder_blue_100
+@docs placeholder_blue_200
+@docs placeholder_blue_300
+@docs placeholder_blue_400
+@docs placeholder_blue_500
+@docs placeholder_blue_600
+@docs placeholder_blue_700
+@docs placeholder_blue_800
+@docs placeholder_blue_900
+@docs placeholder_indigo_50
+@docs placeholder_indigo_100
+@docs placeholder_indigo_200
+@docs placeholder_indigo_300
+@docs placeholder_indigo_400
+@docs placeholder_indigo_500
+@docs placeholder_indigo_600
+@docs placeholder_indigo_700
+@docs placeholder_indigo_800
+@docs placeholder_indigo_900
+@docs placeholder_violet_50
+@docs placeholder_violet_100
+@docs placeholder_violet_200
+@docs placeholder_violet_300
+@docs placeholder_violet_400
+@docs placeholder_violet_500
+@docs placeholder_violet_600
+@docs placeholder_violet_700
+@docs placeholder_violet_800
+@docs placeholder_violet_900
+@docs placeholder_purple_50
+@docs placeholder_purple_100
+@docs placeholder_purple_200
+@docs placeholder_purple_300
+@docs placeholder_purple_400
+@docs placeholder_purple_500
+@docs placeholder_purple_600
+@docs placeholder_purple_700
+@docs placeholder_purple_800
+@docs placeholder_purple_900
+@docs placeholder_fuchsia_50
+@docs placeholder_fuchsia_100
+@docs placeholder_fuchsia_200
+@docs placeholder_fuchsia_300
+@docs placeholder_fuchsia_400
+@docs placeholder_fuchsia_500
+@docs placeholder_fuchsia_600
+@docs placeholder_fuchsia_700
+@docs placeholder_fuchsia_800
+@docs placeholder_fuchsia_900
+@docs placeholder_pink_50
+@docs placeholder_pink_100
+@docs placeholder_pink_200
+@docs placeholder_pink_300
+@docs placeholder_pink_400
+@docs placeholder_pink_500
+@docs placeholder_pink_600
+@docs placeholder_pink_700
+@docs placeholder_pink_800
+@docs placeholder_pink_900
+@docs placeholder_rose_50
+@docs placeholder_rose_100
+@docs placeholder_rose_200
+@docs placeholder_rose_300
+@docs placeholder_rose_400
+@docs placeholder_rose_500
+@docs placeholder_rose_600
+@docs placeholder_rose_700
+@docs placeholder_rose_800
+@docs placeholder_rose_900
 @docs pointer_events_auto
 @docs pointer_events_none
 @docs pr_0
@@ -7475,47 +8035,7 @@ This module contains
 @docs ring_4
 @docs ring_8
 @docs ring_black
-@docs ring_blue_100
-@docs ring_blue_200
-@docs ring_blue_300
-@docs ring_blue_400
-@docs ring_blue_50
-@docs ring_blue_500
-@docs ring_blue_600
-@docs ring_blue_700
-@docs ring_blue_800
-@docs ring_blue_900
 @docs ring_current
-@docs ring_gray_100
-@docs ring_gray_200
-@docs ring_gray_300
-@docs ring_gray_400
-@docs ring_gray_50
-@docs ring_gray_500
-@docs ring_gray_600
-@docs ring_gray_700
-@docs ring_gray_800
-@docs ring_gray_900
-@docs ring_green_100
-@docs ring_green_200
-@docs ring_green_300
-@docs ring_green_400
-@docs ring_green_50
-@docs ring_green_500
-@docs ring_green_600
-@docs ring_green_700
-@docs ring_green_800
-@docs ring_green_900
-@docs ring_indigo_100
-@docs ring_indigo_200
-@docs ring_indigo_300
-@docs ring_indigo_400
-@docs ring_indigo_50
-@docs ring_indigo_500
-@docs ring_indigo_600
-@docs ring_indigo_700
-@docs ring_indigo_800
-@docs ring_indigo_900
 @docs ring_inset
 @docs ring_offset_0
 @docs ring_offset_1
@@ -7523,89 +8043,9 @@ This module contains
 @docs ring_offset_4
 @docs ring_offset_8
 @docs ring_offset_black
-@docs ring_offset_blue_100
-@docs ring_offset_blue_200
-@docs ring_offset_blue_300
-@docs ring_offset_blue_400
-@docs ring_offset_blue_50
-@docs ring_offset_blue_500
-@docs ring_offset_blue_600
-@docs ring_offset_blue_700
-@docs ring_offset_blue_800
-@docs ring_offset_blue_900
 @docs ring_offset_current
-@docs ring_offset_gray_100
-@docs ring_offset_gray_200
-@docs ring_offset_gray_300
-@docs ring_offset_gray_400
-@docs ring_offset_gray_50
-@docs ring_offset_gray_500
-@docs ring_offset_gray_600
-@docs ring_offset_gray_700
-@docs ring_offset_gray_800
-@docs ring_offset_gray_900
-@docs ring_offset_green_100
-@docs ring_offset_green_200
-@docs ring_offset_green_300
-@docs ring_offset_green_400
-@docs ring_offset_green_50
-@docs ring_offset_green_500
-@docs ring_offset_green_600
-@docs ring_offset_green_700
-@docs ring_offset_green_800
-@docs ring_offset_green_900
-@docs ring_offset_indigo_100
-@docs ring_offset_indigo_200
-@docs ring_offset_indigo_300
-@docs ring_offset_indigo_400
-@docs ring_offset_indigo_50
-@docs ring_offset_indigo_500
-@docs ring_offset_indigo_600
-@docs ring_offset_indigo_700
-@docs ring_offset_indigo_800
-@docs ring_offset_indigo_900
-@docs ring_offset_pink_100
-@docs ring_offset_pink_200
-@docs ring_offset_pink_300
-@docs ring_offset_pink_400
-@docs ring_offset_pink_50
-@docs ring_offset_pink_500
-@docs ring_offset_pink_600
-@docs ring_offset_pink_700
-@docs ring_offset_pink_800
-@docs ring_offset_pink_900
-@docs ring_offset_purple_100
-@docs ring_offset_purple_200
-@docs ring_offset_purple_300
-@docs ring_offset_purple_400
-@docs ring_offset_purple_50
-@docs ring_offset_purple_500
-@docs ring_offset_purple_600
-@docs ring_offset_purple_700
-@docs ring_offset_purple_800
-@docs ring_offset_purple_900
-@docs ring_offset_red_100
-@docs ring_offset_red_200
-@docs ring_offset_red_300
-@docs ring_offset_red_400
-@docs ring_offset_red_50
-@docs ring_offset_red_500
-@docs ring_offset_red_600
-@docs ring_offset_red_700
-@docs ring_offset_red_800
-@docs ring_offset_red_900
 @docs ring_offset_transparent
 @docs ring_offset_white
-@docs ring_offset_yellow_100
-@docs ring_offset_yellow_200
-@docs ring_offset_yellow_300
-@docs ring_offset_yellow_400
-@docs ring_offset_yellow_50
-@docs ring_offset_yellow_500
-@docs ring_offset_yellow_600
-@docs ring_offset_yellow_700
-@docs ring_offset_yellow_800
-@docs ring_offset_yellow_900
 @docs ring_opacity_0
 @docs ring_opacity_10
 @docs ring_opacity_100
@@ -7621,48 +8061,448 @@ This module contains
 @docs ring_opacity_80
 @docs ring_opacity_90
 @docs ring_opacity_95
-@docs ring_pink_100
-@docs ring_pink_200
-@docs ring_pink_300
-@docs ring_pink_400
-@docs ring_pink_50
-@docs ring_pink_500
-@docs ring_pink_600
-@docs ring_pink_700
-@docs ring_pink_800
-@docs ring_pink_900
-@docs ring_purple_100
-@docs ring_purple_200
-@docs ring_purple_300
-@docs ring_purple_400
-@docs ring_purple_50
-@docs ring_purple_500
-@docs ring_purple_600
-@docs ring_purple_700
-@docs ring_purple_800
-@docs ring_purple_900
+@docs ring_transparent
+@docs ring_white
+@docs ring_slate_50
+@docs ring_slate_100
+@docs ring_slate_200
+@docs ring_slate_300
+@docs ring_slate_400
+@docs ring_slate_500
+@docs ring_slate_600
+@docs ring_slate_700
+@docs ring_slate_800
+@docs ring_slate_900
+@docs ring_gray_50
+@docs ring_gray_100
+@docs ring_gray_200
+@docs ring_gray_300
+@docs ring_gray_400
+@docs ring_gray_500
+@docs ring_gray_600
+@docs ring_gray_700
+@docs ring_gray_800
+@docs ring_gray_900
+@docs ring_zinc_50
+@docs ring_zinc_100
+@docs ring_zinc_200
+@docs ring_zinc_300
+@docs ring_zinc_400
+@docs ring_zinc_500
+@docs ring_zinc_600
+@docs ring_zinc_700
+@docs ring_zinc_800
+@docs ring_zinc_900
+@docs ring_neutral_50
+@docs ring_neutral_100
+@docs ring_neutral_200
+@docs ring_neutral_300
+@docs ring_neutral_400
+@docs ring_neutral_500
+@docs ring_neutral_600
+@docs ring_neutral_700
+@docs ring_neutral_800
+@docs ring_neutral_900
+@docs ring_stone_50
+@docs ring_stone_100
+@docs ring_stone_200
+@docs ring_stone_300
+@docs ring_stone_400
+@docs ring_stone_500
+@docs ring_stone_600
+@docs ring_stone_700
+@docs ring_stone_800
+@docs ring_stone_900
+@docs ring_red_50
 @docs ring_red_100
 @docs ring_red_200
 @docs ring_red_300
 @docs ring_red_400
-@docs ring_red_50
 @docs ring_red_500
 @docs ring_red_600
 @docs ring_red_700
 @docs ring_red_800
 @docs ring_red_900
-@docs ring_transparent
-@docs ring_white
+@docs ring_orange_50
+@docs ring_orange_100
+@docs ring_orange_200
+@docs ring_orange_300
+@docs ring_orange_400
+@docs ring_orange_500
+@docs ring_orange_600
+@docs ring_orange_700
+@docs ring_orange_800
+@docs ring_orange_900
+@docs ring_amber_50
+@docs ring_amber_100
+@docs ring_amber_200
+@docs ring_amber_300
+@docs ring_amber_400
+@docs ring_amber_500
+@docs ring_amber_600
+@docs ring_amber_700
+@docs ring_amber_800
+@docs ring_amber_900
+@docs ring_yellow_50
 @docs ring_yellow_100
 @docs ring_yellow_200
 @docs ring_yellow_300
 @docs ring_yellow_400
-@docs ring_yellow_50
 @docs ring_yellow_500
 @docs ring_yellow_600
 @docs ring_yellow_700
 @docs ring_yellow_800
 @docs ring_yellow_900
+@docs ring_lime_50
+@docs ring_lime_100
+@docs ring_lime_200
+@docs ring_lime_300
+@docs ring_lime_400
+@docs ring_lime_500
+@docs ring_lime_600
+@docs ring_lime_700
+@docs ring_lime_800
+@docs ring_lime_900
+@docs ring_green_50
+@docs ring_green_100
+@docs ring_green_200
+@docs ring_green_300
+@docs ring_green_400
+@docs ring_green_500
+@docs ring_green_600
+@docs ring_green_700
+@docs ring_green_800
+@docs ring_green_900
+@docs ring_emerald_50
+@docs ring_emerald_100
+@docs ring_emerald_200
+@docs ring_emerald_300
+@docs ring_emerald_400
+@docs ring_emerald_500
+@docs ring_emerald_600
+@docs ring_emerald_700
+@docs ring_emerald_800
+@docs ring_emerald_900
+@docs ring_teal_50
+@docs ring_teal_100
+@docs ring_teal_200
+@docs ring_teal_300
+@docs ring_teal_400
+@docs ring_teal_500
+@docs ring_teal_600
+@docs ring_teal_700
+@docs ring_teal_800
+@docs ring_teal_900
+@docs ring_cyan_50
+@docs ring_cyan_100
+@docs ring_cyan_200
+@docs ring_cyan_300
+@docs ring_cyan_400
+@docs ring_cyan_500
+@docs ring_cyan_600
+@docs ring_cyan_700
+@docs ring_cyan_800
+@docs ring_cyan_900
+@docs ring_sky_50
+@docs ring_sky_100
+@docs ring_sky_200
+@docs ring_sky_300
+@docs ring_sky_400
+@docs ring_sky_500
+@docs ring_sky_600
+@docs ring_sky_700
+@docs ring_sky_800
+@docs ring_sky_900
+@docs ring_blue_50
+@docs ring_blue_100
+@docs ring_blue_200
+@docs ring_blue_300
+@docs ring_blue_400
+@docs ring_blue_500
+@docs ring_blue_600
+@docs ring_blue_700
+@docs ring_blue_800
+@docs ring_blue_900
+@docs ring_indigo_50
+@docs ring_indigo_100
+@docs ring_indigo_200
+@docs ring_indigo_300
+@docs ring_indigo_400
+@docs ring_indigo_500
+@docs ring_indigo_600
+@docs ring_indigo_700
+@docs ring_indigo_800
+@docs ring_indigo_900
+@docs ring_violet_50
+@docs ring_violet_100
+@docs ring_violet_200
+@docs ring_violet_300
+@docs ring_violet_400
+@docs ring_violet_500
+@docs ring_violet_600
+@docs ring_violet_700
+@docs ring_violet_800
+@docs ring_violet_900
+@docs ring_purple_50
+@docs ring_purple_100
+@docs ring_purple_200
+@docs ring_purple_300
+@docs ring_purple_400
+@docs ring_purple_500
+@docs ring_purple_600
+@docs ring_purple_700
+@docs ring_purple_800
+@docs ring_purple_900
+@docs ring_fuchsia_50
+@docs ring_fuchsia_100
+@docs ring_fuchsia_200
+@docs ring_fuchsia_300
+@docs ring_fuchsia_400
+@docs ring_fuchsia_500
+@docs ring_fuchsia_600
+@docs ring_fuchsia_700
+@docs ring_fuchsia_800
+@docs ring_fuchsia_900
+@docs ring_pink_50
+@docs ring_pink_100
+@docs ring_pink_200
+@docs ring_pink_300
+@docs ring_pink_400
+@docs ring_pink_500
+@docs ring_pink_600
+@docs ring_pink_700
+@docs ring_pink_800
+@docs ring_pink_900
+@docs ring_rose_50
+@docs ring_rose_100
+@docs ring_rose_200
+@docs ring_rose_300
+@docs ring_rose_400
+@docs ring_rose_500
+@docs ring_rose_600
+@docs ring_rose_700
+@docs ring_rose_800
+@docs ring_rose_900
+@docs ring_offset_slate_50
+@docs ring_offset_slate_100
+@docs ring_offset_slate_200
+@docs ring_offset_slate_300
+@docs ring_offset_slate_400
+@docs ring_offset_slate_500
+@docs ring_offset_slate_600
+@docs ring_offset_slate_700
+@docs ring_offset_slate_800
+@docs ring_offset_slate_900
+@docs ring_offset_gray_50
+@docs ring_offset_gray_100
+@docs ring_offset_gray_200
+@docs ring_offset_gray_300
+@docs ring_offset_gray_400
+@docs ring_offset_gray_500
+@docs ring_offset_gray_600
+@docs ring_offset_gray_700
+@docs ring_offset_gray_800
+@docs ring_offset_gray_900
+@docs ring_offset_zinc_50
+@docs ring_offset_zinc_100
+@docs ring_offset_zinc_200
+@docs ring_offset_zinc_300
+@docs ring_offset_zinc_400
+@docs ring_offset_zinc_500
+@docs ring_offset_zinc_600
+@docs ring_offset_zinc_700
+@docs ring_offset_zinc_800
+@docs ring_offset_zinc_900
+@docs ring_offset_neutral_50
+@docs ring_offset_neutral_100
+@docs ring_offset_neutral_200
+@docs ring_offset_neutral_300
+@docs ring_offset_neutral_400
+@docs ring_offset_neutral_500
+@docs ring_offset_neutral_600
+@docs ring_offset_neutral_700
+@docs ring_offset_neutral_800
+@docs ring_offset_neutral_900
+@docs ring_offset_stone_50
+@docs ring_offset_stone_100
+@docs ring_offset_stone_200
+@docs ring_offset_stone_300
+@docs ring_offset_stone_400
+@docs ring_offset_stone_500
+@docs ring_offset_stone_600
+@docs ring_offset_stone_700
+@docs ring_offset_stone_800
+@docs ring_offset_stone_900
+@docs ring_offset_red_50
+@docs ring_offset_red_100
+@docs ring_offset_red_200
+@docs ring_offset_red_300
+@docs ring_offset_red_400
+@docs ring_offset_red_500
+@docs ring_offset_red_600
+@docs ring_offset_red_700
+@docs ring_offset_red_800
+@docs ring_offset_red_900
+@docs ring_offset_orange_50
+@docs ring_offset_orange_100
+@docs ring_offset_orange_200
+@docs ring_offset_orange_300
+@docs ring_offset_orange_400
+@docs ring_offset_orange_500
+@docs ring_offset_orange_600
+@docs ring_offset_orange_700
+@docs ring_offset_orange_800
+@docs ring_offset_orange_900
+@docs ring_offset_amber_50
+@docs ring_offset_amber_100
+@docs ring_offset_amber_200
+@docs ring_offset_amber_300
+@docs ring_offset_amber_400
+@docs ring_offset_amber_500
+@docs ring_offset_amber_600
+@docs ring_offset_amber_700
+@docs ring_offset_amber_800
+@docs ring_offset_amber_900
+@docs ring_offset_yellow_50
+@docs ring_offset_yellow_100
+@docs ring_offset_yellow_200
+@docs ring_offset_yellow_300
+@docs ring_offset_yellow_400
+@docs ring_offset_yellow_500
+@docs ring_offset_yellow_600
+@docs ring_offset_yellow_700
+@docs ring_offset_yellow_800
+@docs ring_offset_yellow_900
+@docs ring_offset_lime_50
+@docs ring_offset_lime_100
+@docs ring_offset_lime_200
+@docs ring_offset_lime_300
+@docs ring_offset_lime_400
+@docs ring_offset_lime_500
+@docs ring_offset_lime_600
+@docs ring_offset_lime_700
+@docs ring_offset_lime_800
+@docs ring_offset_lime_900
+@docs ring_offset_green_50
+@docs ring_offset_green_100
+@docs ring_offset_green_200
+@docs ring_offset_green_300
+@docs ring_offset_green_400
+@docs ring_offset_green_500
+@docs ring_offset_green_600
+@docs ring_offset_green_700
+@docs ring_offset_green_800
+@docs ring_offset_green_900
+@docs ring_offset_emerald_50
+@docs ring_offset_emerald_100
+@docs ring_offset_emerald_200
+@docs ring_offset_emerald_300
+@docs ring_offset_emerald_400
+@docs ring_offset_emerald_500
+@docs ring_offset_emerald_600
+@docs ring_offset_emerald_700
+@docs ring_offset_emerald_800
+@docs ring_offset_emerald_900
+@docs ring_offset_teal_50
+@docs ring_offset_teal_100
+@docs ring_offset_teal_200
+@docs ring_offset_teal_300
+@docs ring_offset_teal_400
+@docs ring_offset_teal_500
+@docs ring_offset_teal_600
+@docs ring_offset_teal_700
+@docs ring_offset_teal_800
+@docs ring_offset_teal_900
+@docs ring_offset_cyan_50
+@docs ring_offset_cyan_100
+@docs ring_offset_cyan_200
+@docs ring_offset_cyan_300
+@docs ring_offset_cyan_400
+@docs ring_offset_cyan_500
+@docs ring_offset_cyan_600
+@docs ring_offset_cyan_700
+@docs ring_offset_cyan_800
+@docs ring_offset_cyan_900
+@docs ring_offset_sky_50
+@docs ring_offset_sky_100
+@docs ring_offset_sky_200
+@docs ring_offset_sky_300
+@docs ring_offset_sky_400
+@docs ring_offset_sky_500
+@docs ring_offset_sky_600
+@docs ring_offset_sky_700
+@docs ring_offset_sky_800
+@docs ring_offset_sky_900
+@docs ring_offset_blue_50
+@docs ring_offset_blue_100
+@docs ring_offset_blue_200
+@docs ring_offset_blue_300
+@docs ring_offset_blue_400
+@docs ring_offset_blue_500
+@docs ring_offset_blue_600
+@docs ring_offset_blue_700
+@docs ring_offset_blue_800
+@docs ring_offset_blue_900
+@docs ring_offset_indigo_50
+@docs ring_offset_indigo_100
+@docs ring_offset_indigo_200
+@docs ring_offset_indigo_300
+@docs ring_offset_indigo_400
+@docs ring_offset_indigo_500
+@docs ring_offset_indigo_600
+@docs ring_offset_indigo_700
+@docs ring_offset_indigo_800
+@docs ring_offset_indigo_900
+@docs ring_offset_violet_50
+@docs ring_offset_violet_100
+@docs ring_offset_violet_200
+@docs ring_offset_violet_300
+@docs ring_offset_violet_400
+@docs ring_offset_violet_500
+@docs ring_offset_violet_600
+@docs ring_offset_violet_700
+@docs ring_offset_violet_800
+@docs ring_offset_violet_900
+@docs ring_offset_purple_50
+@docs ring_offset_purple_100
+@docs ring_offset_purple_200
+@docs ring_offset_purple_300
+@docs ring_offset_purple_400
+@docs ring_offset_purple_500
+@docs ring_offset_purple_600
+@docs ring_offset_purple_700
+@docs ring_offset_purple_800
+@docs ring_offset_purple_900
+@docs ring_offset_fuchsia_50
+@docs ring_offset_fuchsia_100
+@docs ring_offset_fuchsia_200
+@docs ring_offset_fuchsia_300
+@docs ring_offset_fuchsia_400
+@docs ring_offset_fuchsia_500
+@docs ring_offset_fuchsia_600
+@docs ring_offset_fuchsia_700
+@docs ring_offset_fuchsia_800
+@docs ring_offset_fuchsia_900
+@docs ring_offset_pink_50
+@docs ring_offset_pink_100
+@docs ring_offset_pink_200
+@docs ring_offset_pink_300
+@docs ring_offset_pink_400
+@docs ring_offset_pink_500
+@docs ring_offset_pink_600
+@docs ring_offset_pink_700
+@docs ring_offset_pink_800
+@docs ring_offset_pink_900
+@docs ring_offset_rose_50
+@docs ring_offset_rose_100
+@docs ring_offset_rose_200
+@docs ring_offset_rose_300
+@docs ring_offset_rose_400
+@docs ring_offset_rose_500
+@docs ring_offset_rose_600
+@docs ring_offset_rose_700
+@docs ring_offset_rose_800
+@docs ring_offset_rose_900
 @docs rotate_0
 @docs rotate_1
 @docs rotate_12
@@ -40888,236 +41728,6 @@ placeholder_black =
         ]
 
 
-{-| The tailwind class `placeholder-blue-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_100 : Css.Style
-placeholder_blue_100 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_200 : Css.Style
-placeholder_blue_200 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_300 : Css.Style
-placeholder_blue_300 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_400 : Css.Style
-placeholder_blue_400 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_50 : Css.Style
-placeholder_blue_50 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_500 : Css.Style
-placeholder_blue_500 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_600 : Css.Style
-placeholder_blue_600 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_700 : Css.Style
-placeholder_blue_700 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_800 : Css.Style
-placeholder_blue_800 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_blue_900 : Css.Style
-placeholder_blue_900 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
 {-| The tailwind class `placeholder-current`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
@@ -41134,696 +41744,6 @@ placeholder_current =
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "color" "currentColor"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_100 : Css.Style
-placeholder_gray_100 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_200 : Css.Style
-placeholder_gray_200 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_300 : Css.Style
-placeholder_gray_300 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_400 : Css.Style
-placeholder_gray_400 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_50 : Css.Style
-placeholder_gray_50 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_500 : Css.Style
-placeholder_gray_500 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_600 : Css.Style
-placeholder_gray_600 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_700 : Css.Style
-placeholder_gray_700 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_800 : Css.Style
-placeholder_gray_800 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-gray-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_gray_900 : Css.Style
-placeholder_gray_900 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_100 : Css.Style
-placeholder_green_100 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_200 : Css.Style
-placeholder_green_200 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_300 : Css.Style
-placeholder_green_300 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_400 : Css.Style
-placeholder_green_400 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_50 : Css.Style
-placeholder_green_50 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_500 : Css.Style
-placeholder_green_500 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_600 : Css.Style
-placeholder_green_600 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_700 : Css.Style
-placeholder_green_700 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_800 : Css.Style
-placeholder_green_800 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_green_900 : Css.Style
-placeholder_green_900 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_100 : Css.Style
-placeholder_indigo_100 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_200 : Css.Style
-placeholder_indigo_200 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_300 : Css.Style
-placeholder_indigo_300 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_400 : Css.Style
-placeholder_indigo_400 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_50 : Css.Style
-placeholder_indigo_50 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_500 : Css.Style
-placeholder_indigo_500 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_600 : Css.Style
-placeholder_indigo_600 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_700 : Css.Style
-placeholder_indigo_700 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_800 : Css.Style
-placeholder_indigo_800 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_indigo_900 : Css.Style
-placeholder_indigo_900 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -42128,462 +42048,1218 @@ placeholder_opacity_95 =
         ]
 
 
-{-| The tailwind class `placeholder-pink-100`.
+{-| The tailwind class `placeholder-transparent`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_100 : Css.Style
-placeholder_pink_100 =
+placeholder_transparent : Css.Style
+placeholder_transparent =
     Css.batch
         [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            [ Css.property "color" "transparent"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            [ Css.property "color" "transparent"
             ]
         , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            [ Css.property "color" "transparent"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-200`.
+{-| The tailwind class `placeholder-white`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_200 : Css.Style
-placeholder_pink_200 =
+placeholder_white : Css.Style
+placeholder_white =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-300`.
+{-| The tailwind class `placeholder-slate-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_300 : Css.Style
-placeholder_pink_300 =
+placeholder_slate_50 : Css.Style
+placeholder_slate_50 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(248, 250, 252, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(248, 250, 252, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(248, 250, 252, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-400`.
+{-| The tailwind class `placeholder-slate-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_400 : Css.Style
-placeholder_pink_400 =
+placeholder_slate_100 : Css.Style
+placeholder_slate_100 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(241, 245, 249, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(241, 245, 249, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(241, 245, 249, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-50`.
+{-| The tailwind class `placeholder-slate-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_50 : Css.Style
-placeholder_pink_50 =
+placeholder_slate_200 : Css.Style
+placeholder_slate_200 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(226, 232, 240, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(226, 232, 240, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(226, 232, 240, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-500`.
+{-| The tailwind class `placeholder-slate-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_500 : Css.Style
-placeholder_pink_500 =
+placeholder_slate_300 : Css.Style
+placeholder_slate_300 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(203, 213, 225, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(203, 213, 225, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(203, 213, 225, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-600`.
+{-| The tailwind class `placeholder-slate-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_600 : Css.Style
-placeholder_pink_600 =
+placeholder_slate_400 : Css.Style
+placeholder_slate_400 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(148, 163, 184, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(148, 163, 184, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(148, 163, 184, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-700`.
+{-| The tailwind class `placeholder-slate-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_700 : Css.Style
-placeholder_pink_700 =
+placeholder_slate_500 : Css.Style
+placeholder_slate_500 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(100, 116, 139, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(100, 116, 139, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(100, 116, 139, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-800`.
+{-| The tailwind class `placeholder-slate-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_800 : Css.Style
-placeholder_pink_800 =
+placeholder_slate_600 : Css.Style
+placeholder_slate_600 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(71, 85, 105, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(71, 85, 105, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(71, 85, 105, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-pink-900`.
+{-| The tailwind class `placeholder-slate-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_pink_900 : Css.Style
-placeholder_pink_900 =
+placeholder_slate_700 : Css.Style
+placeholder_slate_700 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(51, 65, 85, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(51, 65, 85, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(51, 65, 85, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-100`.
+{-| The tailwind class `placeholder-slate-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_100 : Css.Style
-placeholder_purple_100 =
+placeholder_slate_800 : Css.Style
+placeholder_slate_800 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(30, 41, 59, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(30, 41, 59, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(30, 41, 59, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-200`.
+{-| The tailwind class `placeholder-slate-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_200 : Css.Style
-placeholder_purple_200 =
+placeholder_slate_900 : Css.Style
+placeholder_slate_900 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(15, 23, 42, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(15, 23, 42, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(15, 23, 42, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-300`.
+{-| The tailwind class `placeholder-gray-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_300 : Css.Style
-placeholder_purple_300 =
+placeholder_gray_50 : Css.Style
+placeholder_gray_50 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(249, 250, 251, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-400`.
+{-| The tailwind class `placeholder-gray-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_400 : Css.Style
-placeholder_purple_400 =
+placeholder_gray_100 : Css.Style
+placeholder_gray_100 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(243, 244, 246, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-50`.
+{-| The tailwind class `placeholder-gray-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_50 : Css.Style
-placeholder_purple_50 =
+placeholder_gray_200 : Css.Style
+placeholder_gray_200 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(229, 231, 235, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-500`.
+{-| The tailwind class `placeholder-gray-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_500 : Css.Style
-placeholder_purple_500 =
+placeholder_gray_300 : Css.Style
+placeholder_gray_300 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(209, 213, 219, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-600`.
+{-| The tailwind class `placeholder-gray-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_600 : Css.Style
-placeholder_purple_600 =
+placeholder_gray_400 : Css.Style
+placeholder_gray_400 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(156, 163, 175, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-700`.
+{-| The tailwind class `placeholder-gray-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_700 : Css.Style
-placeholder_purple_700 =
+placeholder_gray_500 : Css.Style
+placeholder_gray_500 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(107, 114, 128, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-800`.
+{-| The tailwind class `placeholder-gray-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_800 : Css.Style
-placeholder_purple_800 =
+placeholder_gray_600 : Css.Style
+placeholder_gray_600 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(75, 85, 99, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-purple-900`.
+{-| The tailwind class `placeholder-gray-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_purple_900 : Css.Style
-placeholder_purple_900 =
+placeholder_gray_700 : Css.Style
+placeholder_gray_700 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(55, 65, 81, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-gray-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_gray_800 : Css.Style
+placeholder_gray_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(31, 41, 55, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-gray-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_gray_900 : Css.Style
+placeholder_gray_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 24, 39, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_50 : Css.Style
+placeholder_zinc_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_100 : Css.Style
+placeholder_zinc_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 244, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 244, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 244, 245, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_200 : Css.Style
+placeholder_zinc_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(228, 228, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(228, 228, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(228, 228, 231, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_300 : Css.Style
+placeholder_zinc_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 216, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 216, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 216, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_400 : Css.Style
+placeholder_zinc_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(161, 161, 170, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(161, 161, 170, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(161, 161, 170, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_500 : Css.Style
+placeholder_zinc_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(113, 113, 122, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(113, 113, 122, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(113, 113, 122, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_600 : Css.Style
+placeholder_zinc_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 91, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 91, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 91, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_700 : Css.Style
+placeholder_zinc_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 63, 70, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 63, 70, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 63, 70, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_800 : Css.Style
+placeholder_zinc_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(39, 39, 42, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(39, 39, 42, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(39, 39, 42, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-zinc-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_zinc_900 : Css.Style
+placeholder_zinc_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(24, 24, 27, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(24, 24, 27, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(24, 24, 27, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_50 : Css.Style
+placeholder_neutral_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 250, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_100 : Css.Style
+placeholder_neutral_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 245, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_200 : Css.Style
+placeholder_neutral_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(229, 229, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(229, 229, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(229, 229, 229, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_300 : Css.Style
+placeholder_neutral_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(212, 212, 212, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_400 : Css.Style
+placeholder_neutral_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 163, 163, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 163, 163, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 163, 163, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_500 : Css.Style
+placeholder_neutral_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(115, 115, 115, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(115, 115, 115, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(115, 115, 115, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_600 : Css.Style
+placeholder_neutral_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 82, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 82, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(82, 82, 82, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_700 : Css.Style
+placeholder_neutral_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(64, 64, 64, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(64, 64, 64, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(64, 64, 64, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_800 : Css.Style
+placeholder_neutral_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(38, 38, 38, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(38, 38, 38, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(38, 38, 38, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-neutral-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_neutral_900 : Css.Style
+placeholder_neutral_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(23, 23, 23, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(23, 23, 23, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(23, 23, 23, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_50 : Css.Style
+placeholder_stone_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 250, 249, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_100 : Css.Style
+placeholder_stone_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 244, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 244, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 245, 244, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_200 : Css.Style
+placeholder_stone_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(231, 229, 228, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(231, 229, 228, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(231, 229, 228, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_300 : Css.Style
+placeholder_stone_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(214, 211, 209, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(214, 211, 209, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(214, 211, 209, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_400 : Css.Style
+placeholder_stone_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 162, 158, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 162, 158, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 162, 158, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_500 : Css.Style
+placeholder_stone_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 113, 108, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 113, 108, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 113, 108, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_600 : Css.Style
+placeholder_stone_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(87, 83, 78, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(87, 83, 78, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(87, 83, 78, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_700 : Css.Style
+placeholder_stone_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(68, 64, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(68, 64, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(68, 64, 60, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_800 : Css.Style
+placeholder_stone_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(41, 37, 36, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(41, 37, 36, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(41, 37, 36, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_stone_900 : Css.Style
+placeholder_stone_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(28, 25, 23, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(28, 25, 23, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(28, 25, 23, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_red_50 : Css.Style
+placeholder_red_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -42676,29 +43352,6 @@ placeholder_red_400 =
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
             , Css.property "color" "rgba(248, 113, 113, var(--tw-placeholder-opacity))"
-            ]
-        ]
-
-
-{-| The tailwind class `placeholder-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-placeholder_red_50 : Css.Style
-placeholder_red_50 =
-    Css.batch
-        [ Css.pseudoElement "placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
-            ]
-        , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(254, 242, 242, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -42818,56 +43471,266 @@ placeholder_red_900 =
         ]
 
 
-{-| The tailwind class `placeholder-transparent`.
+{-| The tailwind class `placeholder-orange-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_transparent : Css.Style
-placeholder_transparent =
+placeholder_orange_50 : Css.Style
+placeholder_orange_50 =
     Css.batch
         [ Css.pseudoElement "placeholder"
-            [ Css.property "color" "transparent"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 247, 237, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
-            [ Css.property "color" "transparent"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 247, 237, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
-            [ Css.property "color" "transparent"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 247, 237, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-white`.
+{-| The tailwind class `placeholder-orange-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_white : Css.Style
-placeholder_white =
+placeholder_orange_100 : Css.Style
+placeholder_orange_100 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 237, 213, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 237, 213, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 255, 255, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(255, 237, 213, var(--tw-placeholder-opacity))"
             ]
         ]
 
 
-{-| The tailwind class `placeholder-yellow-100`.
+{-| The tailwind class `placeholder-orange-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_yellow_100 : Css.Style
-placeholder_yellow_100 =
+placeholder_orange_200 : Css.Style
+placeholder_orange_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 215, 170, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 215, 170, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 215, 170, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_300 : Css.Style
+placeholder_orange_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 186, 116, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 186, 116, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 186, 116, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_400 : Css.Style
+placeholder_orange_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 146, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 146, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 146, 60, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_500 : Css.Style
+placeholder_orange_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 115, 22, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 115, 22, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 115, 22, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_600 : Css.Style
+placeholder_orange_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(234, 88, 12, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(234, 88, 12, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(234, 88, 12, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_700 : Css.Style
+placeholder_orange_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(194, 65, 12, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(194, 65, 12, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(194, 65, 12, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_800 : Css.Style
+placeholder_orange_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(154, 52, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(154, 52, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(154, 52, 18, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_orange_900 : Css.Style
+placeholder_orange_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 45, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 45, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 45, 18, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_50 : Css.Style
+placeholder_amber_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_100 : Css.Style
+placeholder_amber_100 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
@@ -42884,13 +43747,13 @@ placeholder_yellow_100 =
         ]
 
 
-{-| The tailwind class `placeholder-yellow-200`.
+{-| The tailwind class `placeholder-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_yellow_200 : Css.Style
-placeholder_yellow_200 =
+placeholder_amber_200 : Css.Style
+placeholder_amber_200 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
@@ -42907,13 +43770,13 @@ placeholder_yellow_200 =
         ]
 
 
-{-| The tailwind class `placeholder-yellow-300`.
+{-| The tailwind class `placeholder-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_yellow_300 : Css.Style
-placeholder_yellow_300 =
+placeholder_amber_300 : Css.Style
+placeholder_amber_300 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
@@ -42930,13 +43793,13 @@ placeholder_yellow_300 =
         ]
 
 
-{-| The tailwind class `placeholder-yellow-400`.
+{-| The tailwind class `placeholder-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-placeholder_yellow_400 : Css.Style
-placeholder_yellow_400 =
+placeholder_amber_400 : Css.Style
+placeholder_amber_400 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
@@ -42949,6 +43812,121 @@ placeholder_yellow_400 =
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
             , Css.property "color" "rgba(251, 191, 36, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_500 : Css.Style
+placeholder_amber_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_600 : Css.Style
+placeholder_amber_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_700 : Css.Style
+placeholder_amber_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_800 : Css.Style
+placeholder_amber_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_amber_900 : Css.Style
+placeholder_amber_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -42963,15 +43941,107 @@ placeholder_yellow_50 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(254, 252, 232, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(254, 252, 232, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(255, 251, 235, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(254, 252, 232, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_yellow_100 : Css.Style
+placeholder_yellow_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 249, 195, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 249, 195, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 249, 195, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_yellow_200 : Css.Style
+placeholder_yellow_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 240, 138, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 240, 138, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 240, 138, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_yellow_300 : Css.Style
+placeholder_yellow_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 224, 71, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 224, 71, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 224, 71, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_yellow_400 : Css.Style
+placeholder_yellow_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 204, 21, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 204, 21, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 204, 21, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -42986,15 +44056,15 @@ placeholder_yellow_500 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(234, 179, 8, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(234, 179, 8, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(245, 158, 11, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(234, 179, 8, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -43009,15 +44079,15 @@ placeholder_yellow_600 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(202, 138, 4, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(202, 138, 4, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(217, 119, 6, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(202, 138, 4, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -43032,15 +44102,15 @@ placeholder_yellow_700 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(161, 98, 7, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(161, 98, 7, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(180, 83, 9, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(161, 98, 7, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -43055,15 +44125,15 @@ placeholder_yellow_800 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(133, 77, 14, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(133, 77, 14, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(146, 64, 14, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(133, 77, 14, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -43078,15 +44148,3005 @@ placeholder_yellow_900 =
     Css.batch
         [ Css.pseudoElement "placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(113, 63, 18, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoClass "-ms-input-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(113, 63, 18, var(--tw-placeholder-opacity))"
             ]
         , Css.pseudoElement "-moz-placeholder"
             [ Css.property "--tw-placeholder-opacity" "1"
-            , Css.property "color" "rgba(120, 53, 15, var(--tw-placeholder-opacity))"
+            , Css.property "color" "rgba(113, 63, 18, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_50 : Css.Style
+placeholder_lime_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(247, 254, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(247, 254, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(247, 254, 231, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_100 : Css.Style
+placeholder_lime_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 252, 203, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 252, 203, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 252, 203, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_200 : Css.Style
+placeholder_lime_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 249, 157, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 249, 157, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 249, 157, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_300 : Css.Style
+placeholder_lime_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 242, 100, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 242, 100, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 242, 100, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_400 : Css.Style
+placeholder_lime_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 230, 53, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 230, 53, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(163, 230, 53, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_500 : Css.Style
+placeholder_lime_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(132, 204, 22, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(132, 204, 22, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(132, 204, 22, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_600 : Css.Style
+placeholder_lime_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(101, 163, 13, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(101, 163, 13, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(101, 163, 13, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_700 : Css.Style
+placeholder_lime_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(77, 124, 15, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(77, 124, 15, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(77, 124, 15, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_800 : Css.Style
+placeholder_lime_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 98, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 98, 18, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(63, 98, 18, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_lime_900 : Css.Style
+placeholder_lime_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(54, 83, 20, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(54, 83, 20, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(54, 83, 20, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_50 : Css.Style
+placeholder_green_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 244, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 244, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 244, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_100 : Css.Style
+placeholder_green_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(220, 252, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(220, 252, 231, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(220, 252, 231, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_200 : Css.Style
+placeholder_green_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(187, 247, 208, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(187, 247, 208, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(187, 247, 208, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_300 : Css.Style
+placeholder_green_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 239, 172, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 239, 172, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 239, 172, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_400 : Css.Style
+placeholder_green_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(74, 222, 128, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(74, 222, 128, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(74, 222, 128, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_500 : Css.Style
+placeholder_green_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 197, 94, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 197, 94, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 197, 94, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_600 : Css.Style
+placeholder_green_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 163, 74, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 163, 74, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 163, 74, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_700 : Css.Style
+placeholder_green_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 128, 61, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 128, 61, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 128, 61, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_800 : Css.Style
+placeholder_green_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 101, 52, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 101, 52, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 101, 52, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_green_900 : Css.Style
+placeholder_green_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 83, 45, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 83, 45, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 83, 45, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_50 : Css.Style
+placeholder_emerald_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 253, 245, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_100 : Css.Style
+placeholder_emerald_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(209, 250, 229, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_200 : Css.Style
+placeholder_emerald_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 243, 208, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_300 : Css.Style
+placeholder_emerald_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(110, 231, 183, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_400 : Css.Style
+placeholder_emerald_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(52, 211, 153, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_500 : Css.Style
+placeholder_emerald_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(16, 185, 129, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_600 : Css.Style
+placeholder_emerald_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(5, 150, 105, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_700 : Css.Style
+placeholder_emerald_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(4, 120, 87, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_800 : Css.Style
+placeholder_emerald_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 95, 70, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_emerald_900 : Css.Style
+placeholder_emerald_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 78, 59, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_50 : Css.Style
+placeholder_teal_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 253, 250, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_100 : Css.Style
+placeholder_teal_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(204, 251, 241, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(204, 251, 241, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(204, 251, 241, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_200 : Css.Style
+placeholder_teal_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(153, 246, 228, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(153, 246, 228, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(153, 246, 228, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_300 : Css.Style
+placeholder_teal_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(94, 234, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(94, 234, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(94, 234, 212, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_400 : Css.Style
+placeholder_teal_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(45, 212, 191, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(45, 212, 191, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(45, 212, 191, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_500 : Css.Style
+placeholder_teal_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 184, 166, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 184, 166, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(20, 184, 166, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_600 : Css.Style
+placeholder_teal_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(13, 148, 136, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(13, 148, 136, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(13, 148, 136, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_700 : Css.Style
+placeholder_teal_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(15, 118, 110, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(15, 118, 110, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(15, 118, 110, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_800 : Css.Style
+placeholder_teal_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 94, 89, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 94, 89, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(17, 94, 89, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_teal_900 : Css.Style
+placeholder_teal_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(19, 78, 74, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(19, 78, 74, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(19, 78, 74, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_50 : Css.Style
+placeholder_cyan_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 254, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 254, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 254, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_100 : Css.Style
+placeholder_cyan_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(207, 250, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(207, 250, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(207, 250, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_200 : Css.Style
+placeholder_cyan_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 243, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 243, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 243, 252, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_300 : Css.Style
+placeholder_cyan_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(103, 232, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(103, 232, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(103, 232, 249, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_400 : Css.Style
+placeholder_cyan_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 211, 238, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 211, 238, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(34, 211, 238, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_500 : Css.Style
+placeholder_cyan_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 182, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 182, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(6, 182, 212, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_600 : Css.Style
+placeholder_cyan_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(8, 145, 178, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(8, 145, 178, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(8, 145, 178, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_700 : Css.Style
+placeholder_cyan_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 116, 144, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 116, 144, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 116, 144, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_800 : Css.Style
+placeholder_cyan_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 94, 117, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 94, 117, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(21, 94, 117, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_cyan_900 : Css.Style
+placeholder_cyan_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 78, 99, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 78, 99, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(22, 78, 99, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_50 : Css.Style
+placeholder_sky_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 249, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 249, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 249, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_100 : Css.Style
+placeholder_sky_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 242, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 242, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 242, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_200 : Css.Style
+placeholder_sky_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(186, 230, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(186, 230, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(186, 230, 253, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_300 : Css.Style
+placeholder_sky_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(125, 211, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(125, 211, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(125, 211, 252, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_400 : Css.Style
+placeholder_sky_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(56, 189, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(56, 189, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(56, 189, 248, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_500 : Css.Style
+placeholder_sky_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 165, 233, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 165, 233, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(14, 165, 233, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_600 : Css.Style
+placeholder_sky_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(2, 132, 199, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(2, 132, 199, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(2, 132, 199, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_700 : Css.Style
+placeholder_sky_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(3, 105, 161, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(3, 105, 161, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(3, 105, 161, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_800 : Css.Style
+placeholder_sky_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(7, 89, 133, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(7, 89, 133, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(7, 89, 133, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_sky_900 : Css.Style
+placeholder_sky_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(12, 74, 110, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(12, 74, 110, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(12, 74, 110, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_50 : Css.Style
+placeholder_blue_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(239, 246, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_100 : Css.Style
+placeholder_blue_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 234, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_200 : Css.Style
+placeholder_blue_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(191, 219, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_300 : Css.Style
+placeholder_blue_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 197, 253, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_400 : Css.Style
+placeholder_blue_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(96, 165, 250, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_500 : Css.Style
+placeholder_blue_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(59, 130, 246, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_600 : Css.Style
+placeholder_blue_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(37, 99, 235, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_700 : Css.Style
+placeholder_blue_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(29, 78, 216, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_800 : Css.Style
+placeholder_blue_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 64, 175, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_blue_900 : Css.Style
+placeholder_blue_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(30, 58, 138, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_50 : Css.Style
+placeholder_indigo_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(238, 242, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_100 : Css.Style
+placeholder_indigo_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(224, 231, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_200 : Css.Style
+placeholder_indigo_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(199, 210, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_300 : Css.Style
+placeholder_indigo_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(165, 180, 252, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_400 : Css.Style
+placeholder_indigo_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(129, 140, 248, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_500 : Css.Style
+placeholder_indigo_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(99, 102, 241, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_600 : Css.Style
+placeholder_indigo_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(79, 70, 229, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_700 : Css.Style
+placeholder_indigo_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(67, 56, 202, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_800 : Css.Style
+placeholder_indigo_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(55, 48, 163, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_indigo_900 : Css.Style
+placeholder_indigo_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(49, 46, 129, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_50 : Css.Style
+placeholder_violet_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 243, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_100 : Css.Style
+placeholder_violet_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(237, 233, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_200 : Css.Style
+placeholder_violet_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(221, 214, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_300 : Css.Style
+placeholder_violet_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(196, 181, 253, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_400 : Css.Style
+placeholder_violet_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(167, 139, 250, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_500 : Css.Style
+placeholder_violet_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(139, 92, 246, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_600 : Css.Style
+placeholder_violet_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(124, 58, 237, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_700 : Css.Style
+placeholder_violet_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(109, 40, 217, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_800 : Css.Style
+placeholder_violet_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(91, 33, 182, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_violet_900 : Css.Style
+placeholder_violet_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(76, 29, 149, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_50 : Css.Style
+placeholder_purple_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 245, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 245, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 245, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_100 : Css.Style
+placeholder_purple_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(243, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(243, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(243, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_200 : Css.Style
+placeholder_purple_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(233, 213, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(233, 213, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(233, 213, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_300 : Css.Style
+placeholder_purple_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(216, 180, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(216, 180, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(216, 180, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_400 : Css.Style
+placeholder_purple_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 132, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 132, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 132, 252, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_500 : Css.Style
+placeholder_purple_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 85, 247, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 85, 247, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(168, 85, 247, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_600 : Css.Style
+placeholder_purple_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 51, 234, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 51, 234, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(147, 51, 234, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_700 : Css.Style
+placeholder_purple_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(126, 34, 206, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(126, 34, 206, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(126, 34, 206, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_800 : Css.Style
+placeholder_purple_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(107, 33, 168, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(107, 33, 168, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(107, 33, 168, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_purple_900 : Css.Style
+placeholder_purple_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(88, 28, 135, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(88, 28, 135, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(88, 28, 135, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_50 : Css.Style
+placeholder_fuchsia_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 244, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 244, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 244, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_100 : Css.Style
+placeholder_fuchsia_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(250, 232, 255, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_200 : Css.Style
+placeholder_fuchsia_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 208, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 208, 254, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(245, 208, 254, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_300 : Css.Style
+placeholder_fuchsia_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 171, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 171, 252, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(240, 171, 252, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_400 : Css.Style
+placeholder_fuchsia_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(232, 121, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(232, 121, 249, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(232, 121, 249, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_500 : Css.Style
+placeholder_fuchsia_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 70, 239, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 70, 239, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(217, 70, 239, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_600 : Css.Style
+placeholder_fuchsia_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 38, 211, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 38, 211, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(192, 38, 211, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_700 : Css.Style
+placeholder_fuchsia_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(162, 28, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(162, 28, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(162, 28, 175, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_800 : Css.Style
+placeholder_fuchsia_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 25, 143, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 25, 143, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(134, 25, 143, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_fuchsia_900 : Css.Style
+placeholder_fuchsia_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(112, 26, 117, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(112, 26, 117, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(112, 26, 117, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_50 : Css.Style
+placeholder_pink_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 242, 248, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_100 : Css.Style
+placeholder_pink_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(252, 231, 243, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_200 : Css.Style
+placeholder_pink_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 207, 232, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_300 : Css.Style
+placeholder_pink_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(249, 168, 212, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_400 : Css.Style
+placeholder_pink_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 114, 182, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_500 : Css.Style
+placeholder_pink_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(236, 72, 153, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_600 : Css.Style
+placeholder_pink_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(219, 39, 119, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_700 : Css.Style
+placeholder_pink_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 24, 93, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_800 : Css.Style
+placeholder_pink_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(157, 23, 77, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_pink_900 : Css.Style
+placeholder_pink_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(131, 24, 67, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_50 : Css.Style
+placeholder_rose_50 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 241, 242, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 241, 242, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 241, 242, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_100 : Css.Style
+placeholder_rose_100 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 228, 230, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 228, 230, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(255, 228, 230, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_200 : Css.Style
+placeholder_rose_200 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 205, 211, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 205, 211, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(254, 205, 211, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_300 : Css.Style
+placeholder_rose_300 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 164, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 164, 175, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(253, 164, 175, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_400 : Css.Style
+placeholder_rose_400 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 113, 133, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 113, 133, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(251, 113, 133, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_500 : Css.Style
+placeholder_rose_500 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 63, 94, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 63, 94, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(244, 63, 94, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_600 : Css.Style
+placeholder_rose_600 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(225, 29, 72, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(225, 29, 72, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(225, 29, 72, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_700 : Css.Style
+placeholder_rose_700 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 18, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 18, 60, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(190, 18, 60, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_800 : Css.Style
+placeholder_rose_800 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(159, 18, 57, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(159, 18, 57, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(159, 18, 57, var(--tw-placeholder-opacity))"
+            ]
+        ]
+
+
+{-| The tailwind class `placeholder-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+placeholder_rose_900 : Css.Style
+placeholder_rose_900 =
+    Css.batch
+        [ Css.pseudoElement "placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(136, 19, 55, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoClass "-ms-input-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(136, 19, 55, var(--tw-placeholder-opacity))"
+            ]
+        , Css.pseudoElement "-moz-placeholder"
+            [ Css.property "--tw-placeholder-opacity" "1"
+            , Css.property "color" "rgba(136, 19, 55, var(--tw-placeholder-opacity))"
             ]
         ]
 
@@ -47090,136 +51150,6 @@ ring_black =
         ]
 
 
-{-| The tailwind class `ring-blue-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_100 : Css.Style
-ring_blue_100 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(219, 234, 254, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_200 : Css.Style
-ring_blue_200 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(191, 219, 254, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_300 : Css.Style
-ring_blue_300 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(147, 197, 253, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_400 : Css.Style
-ring_blue_400 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(96, 165, 250, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_50 : Css.Style
-ring_blue_50 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(239, 246, 255, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_500 : Css.Style
-ring_blue_500 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(59, 130, 246, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_600 : Css.Style
-ring_blue_600 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(37, 99, 235, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_700 : Css.Style
-ring_blue_700 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(29, 78, 216, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_800 : Css.Style
-ring_blue_800 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(30, 64, 175, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_blue_900 : Css.Style
-ring_blue_900 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(30, 58, 138, var(--tw-ring-opacity))"
-        ]
-
-
 {-| The tailwind class `ring-current`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
@@ -47228,396 +51158,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 ring_current : Css.Style
 ring_current =
     Css.property "--tw-ring-color" "currentColor"
-
-
-{-| The tailwind class `ring-gray-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_100 : Css.Style
-ring_gray_100 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(243, 244, 246, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_200 : Css.Style
-ring_gray_200 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(229, 231, 235, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_300 : Css.Style
-ring_gray_300 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(209, 213, 219, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_400 : Css.Style
-ring_gray_400 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(156, 163, 175, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_50 : Css.Style
-ring_gray_50 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(249, 250, 251, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_500 : Css.Style
-ring_gray_500 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(107, 114, 128, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_600 : Css.Style
-ring_gray_600 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(75, 85, 99, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_700 : Css.Style
-ring_gray_700 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(55, 65, 81, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_800 : Css.Style
-ring_gray_800 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(31, 41, 55, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-gray-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_gray_900 : Css.Style
-ring_gray_900 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(17, 24, 39, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_100 : Css.Style
-ring_green_100 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(209, 250, 229, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_200 : Css.Style
-ring_green_200 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(167, 243, 208, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_300 : Css.Style
-ring_green_300 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(110, 231, 183, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_400 : Css.Style
-ring_green_400 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(52, 211, 153, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_50 : Css.Style
-ring_green_50 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(236, 253, 245, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_500 : Css.Style
-ring_green_500 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(16, 185, 129, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_600 : Css.Style
-ring_green_600 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(5, 150, 105, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_700 : Css.Style
-ring_green_700 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(4, 120, 87, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_800 : Css.Style
-ring_green_800 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(6, 95, 70, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_green_900 : Css.Style
-ring_green_900 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(6, 78, 59, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_100 : Css.Style
-ring_indigo_100 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(224, 231, 255, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_200 : Css.Style
-ring_indigo_200 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(199, 210, 254, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_300 : Css.Style
-ring_indigo_300 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(165, 180, 252, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_400 : Css.Style
-ring_indigo_400 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(129, 140, 248, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_50 : Css.Style
-ring_indigo_50 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(238, 242, 255, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_500 : Css.Style
-ring_indigo_500 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(99, 102, 241, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_600 : Css.Style
-ring_indigo_600 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(79, 70, 229, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_700 : Css.Style
-ring_indigo_700 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(67, 56, 202, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_800 : Css.Style
-ring_indigo_800 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(55, 48, 163, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_indigo_900 : Css.Style
-ring_indigo_900 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(49, 46, 129, var(--tw-ring-opacity))"
-        ]
 
 
 {-| The tailwind class `ring-inset`.
@@ -47690,106 +51230,6 @@ ring_offset_black =
     Css.property "--tw-ring-offset-color" "#000"
 
 
-{-| The tailwind class `ring-offset-blue-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_100 : Css.Style
-ring_offset_blue_100 =
-    Css.property "--tw-ring-offset-color" "#dbeafe"
-
-
-{-| The tailwind class `ring-offset-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_200 : Css.Style
-ring_offset_blue_200 =
-    Css.property "--tw-ring-offset-color" "#bfdbfe"
-
-
-{-| The tailwind class `ring-offset-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_300 : Css.Style
-ring_offset_blue_300 =
-    Css.property "--tw-ring-offset-color" "#93c5fd"
-
-
-{-| The tailwind class `ring-offset-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_400 : Css.Style
-ring_offset_blue_400 =
-    Css.property "--tw-ring-offset-color" "#60a5fa"
-
-
-{-| The tailwind class `ring-offset-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_50 : Css.Style
-ring_offset_blue_50 =
-    Css.property "--tw-ring-offset-color" "#eff6ff"
-
-
-{-| The tailwind class `ring-offset-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_500 : Css.Style
-ring_offset_blue_500 =
-    Css.property "--tw-ring-offset-color" "#3b82f6"
-
-
-{-| The tailwind class `ring-offset-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_600 : Css.Style
-ring_offset_blue_600 =
-    Css.property "--tw-ring-offset-color" "#2563eb"
-
-
-{-| The tailwind class `ring-offset-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_700 : Css.Style
-ring_offset_blue_700 =
-    Css.property "--tw-ring-offset-color" "#1d4ed8"
-
-
-{-| The tailwind class `ring-offset-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_800 : Css.Style
-ring_offset_blue_800 =
-    Css.property "--tw-ring-offset-color" "#1e40af"
-
-
-{-| The tailwind class `ring-offset-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_blue_900 : Css.Style
-ring_offset_blue_900 =
-    Css.property "--tw-ring-offset-color" "#1e3a8a"
-
-
 {-| The tailwind class `ring-offset-current`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
@@ -47798,606 +51238,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 ring_offset_current : Css.Style
 ring_offset_current =
     Css.property "--tw-ring-offset-color" "currentColor"
-
-
-{-| The tailwind class `ring-offset-gray-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_100 : Css.Style
-ring_offset_gray_100 =
-    Css.property "--tw-ring-offset-color" "#f3f4f6"
-
-
-{-| The tailwind class `ring-offset-gray-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_200 : Css.Style
-ring_offset_gray_200 =
-    Css.property "--tw-ring-offset-color" "#e5e7eb"
-
-
-{-| The tailwind class `ring-offset-gray-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_300 : Css.Style
-ring_offset_gray_300 =
-    Css.property "--tw-ring-offset-color" "#d1d5db"
-
-
-{-| The tailwind class `ring-offset-gray-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_400 : Css.Style
-ring_offset_gray_400 =
-    Css.property "--tw-ring-offset-color" "#9ca3af"
-
-
-{-| The tailwind class `ring-offset-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_50 : Css.Style
-ring_offset_gray_50 =
-    Css.property "--tw-ring-offset-color" "#f9fafb"
-
-
-{-| The tailwind class `ring-offset-gray-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_500 : Css.Style
-ring_offset_gray_500 =
-    Css.property "--tw-ring-offset-color" "#6b7280"
-
-
-{-| The tailwind class `ring-offset-gray-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_600 : Css.Style
-ring_offset_gray_600 =
-    Css.property "--tw-ring-offset-color" "#4b5563"
-
-
-{-| The tailwind class `ring-offset-gray-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_700 : Css.Style
-ring_offset_gray_700 =
-    Css.property "--tw-ring-offset-color" "#374151"
-
-
-{-| The tailwind class `ring-offset-gray-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_800 : Css.Style
-ring_offset_gray_800 =
-    Css.property "--tw-ring-offset-color" "#1f2937"
-
-
-{-| The tailwind class `ring-offset-gray-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_gray_900 : Css.Style
-ring_offset_gray_900 =
-    Css.property "--tw-ring-offset-color" "#111827"
-
-
-{-| The tailwind class `ring-offset-green-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_100 : Css.Style
-ring_offset_green_100 =
-    Css.property "--tw-ring-offset-color" "#d1fae5"
-
-
-{-| The tailwind class `ring-offset-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_200 : Css.Style
-ring_offset_green_200 =
-    Css.property "--tw-ring-offset-color" "#a7f3d0"
-
-
-{-| The tailwind class `ring-offset-green-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_300 : Css.Style
-ring_offset_green_300 =
-    Css.property "--tw-ring-offset-color" "#6ee7b7"
-
-
-{-| The tailwind class `ring-offset-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_400 : Css.Style
-ring_offset_green_400 =
-    Css.property "--tw-ring-offset-color" "#34d399"
-
-
-{-| The tailwind class `ring-offset-green-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_50 : Css.Style
-ring_offset_green_50 =
-    Css.property "--tw-ring-offset-color" "#ecfdf5"
-
-
-{-| The tailwind class `ring-offset-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_500 : Css.Style
-ring_offset_green_500 =
-    Css.property "--tw-ring-offset-color" "#10b981"
-
-
-{-| The tailwind class `ring-offset-green-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_600 : Css.Style
-ring_offset_green_600 =
-    Css.property "--tw-ring-offset-color" "#059669"
-
-
-{-| The tailwind class `ring-offset-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_700 : Css.Style
-ring_offset_green_700 =
-    Css.property "--tw-ring-offset-color" "#047857"
-
-
-{-| The tailwind class `ring-offset-green-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_800 : Css.Style
-ring_offset_green_800 =
-    Css.property "--tw-ring-offset-color" "#065f46"
-
-
-{-| The tailwind class `ring-offset-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_green_900 : Css.Style
-ring_offset_green_900 =
-    Css.property "--tw-ring-offset-color" "#064e3b"
-
-
-{-| The tailwind class `ring-offset-indigo-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_100 : Css.Style
-ring_offset_indigo_100 =
-    Css.property "--tw-ring-offset-color" "#e0e7ff"
-
-
-{-| The tailwind class `ring-offset-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_200 : Css.Style
-ring_offset_indigo_200 =
-    Css.property "--tw-ring-offset-color" "#c7d2fe"
-
-
-{-| The tailwind class `ring-offset-indigo-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_300 : Css.Style
-ring_offset_indigo_300 =
-    Css.property "--tw-ring-offset-color" "#a5b4fc"
-
-
-{-| The tailwind class `ring-offset-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_400 : Css.Style
-ring_offset_indigo_400 =
-    Css.property "--tw-ring-offset-color" "#818cf8"
-
-
-{-| The tailwind class `ring-offset-indigo-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_50 : Css.Style
-ring_offset_indigo_50 =
-    Css.property "--tw-ring-offset-color" "#eef2ff"
-
-
-{-| The tailwind class `ring-offset-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_500 : Css.Style
-ring_offset_indigo_500 =
-    Css.property "--tw-ring-offset-color" "#6366f1"
-
-
-{-| The tailwind class `ring-offset-indigo-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_600 : Css.Style
-ring_offset_indigo_600 =
-    Css.property "--tw-ring-offset-color" "#4f46e5"
-
-
-{-| The tailwind class `ring-offset-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_700 : Css.Style
-ring_offset_indigo_700 =
-    Css.property "--tw-ring-offset-color" "#4338ca"
-
-
-{-| The tailwind class `ring-offset-indigo-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_800 : Css.Style
-ring_offset_indigo_800 =
-    Css.property "--tw-ring-offset-color" "#3730a3"
-
-
-{-| The tailwind class `ring-offset-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_indigo_900 : Css.Style
-ring_offset_indigo_900 =
-    Css.property "--tw-ring-offset-color" "#312e81"
-
-
-{-| The tailwind class `ring-offset-pink-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_100 : Css.Style
-ring_offset_pink_100 =
-    Css.property "--tw-ring-offset-color" "#fce7f3"
-
-
-{-| The tailwind class `ring-offset-pink-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_200 : Css.Style
-ring_offset_pink_200 =
-    Css.property "--tw-ring-offset-color" "#fbcfe8"
-
-
-{-| The tailwind class `ring-offset-pink-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_300 : Css.Style
-ring_offset_pink_300 =
-    Css.property "--tw-ring-offset-color" "#f9a8d4"
-
-
-{-| The tailwind class `ring-offset-pink-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_400 : Css.Style
-ring_offset_pink_400 =
-    Css.property "--tw-ring-offset-color" "#f472b6"
-
-
-{-| The tailwind class `ring-offset-pink-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_50 : Css.Style
-ring_offset_pink_50 =
-    Css.property "--tw-ring-offset-color" "#fdf2f8"
-
-
-{-| The tailwind class `ring-offset-pink-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_500 : Css.Style
-ring_offset_pink_500 =
-    Css.property "--tw-ring-offset-color" "#ec4899"
-
-
-{-| The tailwind class `ring-offset-pink-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_600 : Css.Style
-ring_offset_pink_600 =
-    Css.property "--tw-ring-offset-color" "#db2777"
-
-
-{-| The tailwind class `ring-offset-pink-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_700 : Css.Style
-ring_offset_pink_700 =
-    Css.property "--tw-ring-offset-color" "#be185d"
-
-
-{-| The tailwind class `ring-offset-pink-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_800 : Css.Style
-ring_offset_pink_800 =
-    Css.property "--tw-ring-offset-color" "#9d174d"
-
-
-{-| The tailwind class `ring-offset-pink-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_pink_900 : Css.Style
-ring_offset_pink_900 =
-    Css.property "--tw-ring-offset-color" "#831843"
-
-
-{-| The tailwind class `ring-offset-purple-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_100 : Css.Style
-ring_offset_purple_100 =
-    Css.property "--tw-ring-offset-color" "#ede9fe"
-
-
-{-| The tailwind class `ring-offset-purple-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_200 : Css.Style
-ring_offset_purple_200 =
-    Css.property "--tw-ring-offset-color" "#ddd6fe"
-
-
-{-| The tailwind class `ring-offset-purple-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_300 : Css.Style
-ring_offset_purple_300 =
-    Css.property "--tw-ring-offset-color" "#c4b5fd"
-
-
-{-| The tailwind class `ring-offset-purple-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_400 : Css.Style
-ring_offset_purple_400 =
-    Css.property "--tw-ring-offset-color" "#a78bfa"
-
-
-{-| The tailwind class `ring-offset-purple-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_50 : Css.Style
-ring_offset_purple_50 =
-    Css.property "--tw-ring-offset-color" "#f5f3ff"
-
-
-{-| The tailwind class `ring-offset-purple-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_500 : Css.Style
-ring_offset_purple_500 =
-    Css.property "--tw-ring-offset-color" "#8b5cf6"
-
-
-{-| The tailwind class `ring-offset-purple-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_600 : Css.Style
-ring_offset_purple_600 =
-    Css.property "--tw-ring-offset-color" "#7c3aed"
-
-
-{-| The tailwind class `ring-offset-purple-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_700 : Css.Style
-ring_offset_purple_700 =
-    Css.property "--tw-ring-offset-color" "#6d28d9"
-
-
-{-| The tailwind class `ring-offset-purple-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_800 : Css.Style
-ring_offset_purple_800 =
-    Css.property "--tw-ring-offset-color" "#5b21b6"
-
-
-{-| The tailwind class `ring-offset-purple-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_purple_900 : Css.Style
-ring_offset_purple_900 =
-    Css.property "--tw-ring-offset-color" "#4c1d95"
-
-
-{-| The tailwind class `ring-offset-red-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_100 : Css.Style
-ring_offset_red_100 =
-    Css.property "--tw-ring-offset-color" "#fee2e2"
-
-
-{-| The tailwind class `ring-offset-red-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_200 : Css.Style
-ring_offset_red_200 =
-    Css.property "--tw-ring-offset-color" "#fecaca"
-
-
-{-| The tailwind class `ring-offset-red-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_300 : Css.Style
-ring_offset_red_300 =
-    Css.property "--tw-ring-offset-color" "#fca5a5"
-
-
-{-| The tailwind class `ring-offset-red-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_400 : Css.Style
-ring_offset_red_400 =
-    Css.property "--tw-ring-offset-color" "#f87171"
-
-
-{-| The tailwind class `ring-offset-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_50 : Css.Style
-ring_offset_red_50 =
-    Css.property "--tw-ring-offset-color" "#fef2f2"
-
-
-{-| The tailwind class `ring-offset-red-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_500 : Css.Style
-ring_offset_red_500 =
-    Css.property "--tw-ring-offset-color" "#ef4444"
-
-
-{-| The tailwind class `ring-offset-red-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_600 : Css.Style
-ring_offset_red_600 =
-    Css.property "--tw-ring-offset-color" "#dc2626"
-
-
-{-| The tailwind class `ring-offset-red-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_700 : Css.Style
-ring_offset_red_700 =
-    Css.property "--tw-ring-offset-color" "#b91c1c"
-
-
-{-| The tailwind class `ring-offset-red-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_800 : Css.Style
-ring_offset_red_800 =
-    Css.property "--tw-ring-offset-color" "#991b1b"
-
-
-{-| The tailwind class `ring-offset-red-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_red_900 : Css.Style
-ring_offset_red_900 =
-    Css.property "--tw-ring-offset-color" "#7f1d1d"
 
 
 {-| The tailwind class `ring-offset-transparent`.
@@ -48418,106 +51258,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 ring_offset_white : Css.Style
 ring_offset_white =
     Css.property "--tw-ring-offset-color" "#fff"
-
-
-{-| The tailwind class `ring-offset-yellow-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_100 : Css.Style
-ring_offset_yellow_100 =
-    Css.property "--tw-ring-offset-color" "#fef3c7"
-
-
-{-| The tailwind class `ring-offset-yellow-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_200 : Css.Style
-ring_offset_yellow_200 =
-    Css.property "--tw-ring-offset-color" "#fde68a"
-
-
-{-| The tailwind class `ring-offset-yellow-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_300 : Css.Style
-ring_offset_yellow_300 =
-    Css.property "--tw-ring-offset-color" "#fcd34d"
-
-
-{-| The tailwind class `ring-offset-yellow-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_400 : Css.Style
-ring_offset_yellow_400 =
-    Css.property "--tw-ring-offset-color" "#fbbf24"
-
-
-{-| The tailwind class `ring-offset-yellow-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_50 : Css.Style
-ring_offset_yellow_50 =
-    Css.property "--tw-ring-offset-color" "#fffbeb"
-
-
-{-| The tailwind class `ring-offset-yellow-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_500 : Css.Style
-ring_offset_yellow_500 =
-    Css.property "--tw-ring-offset-color" "#f59e0b"
-
-
-{-| The tailwind class `ring-offset-yellow-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_600 : Css.Style
-ring_offset_yellow_600 =
-    Css.property "--tw-ring-offset-color" "#d97706"
-
-
-{-| The tailwind class `ring-offset-yellow-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_700 : Css.Style
-ring_offset_yellow_700 =
-    Css.property "--tw-ring-offset-color" "#b45309"
-
-
-{-| The tailwind class `ring-offset-yellow-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_800 : Css.Style
-ring_offset_yellow_800 =
-    Css.property "--tw-ring-offset-color" "#92400e"
-
-
-{-| The tailwind class `ring-offset-yellow-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_offset_yellow_900 : Css.Style
-ring_offset_yellow_900 =
-    Css.property "--tw-ring-offset-color" "#78350f"
 
 
 {-| The tailwind class `ring-opacity-0`.
@@ -48670,263 +51410,689 @@ ring_opacity_95 =
     Css.property "--tw-ring-opacity" "0.95"
 
 
-{-| The tailwind class `ring-pink-100`.
+{-| The tailwind class `ring-transparent`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_100 : Css.Style
-ring_pink_100 =
+ring_transparent : Css.Style
+ring_transparent =
+    Css.property "--tw-ring-color" "transparent"
+
+
+{-| The tailwind class `ring-white`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_white : Css.Style
+ring_white =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(252, 231, 243, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(255, 255, 255, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-200`.
+{-| The tailwind class `ring-slate-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_200 : Css.Style
-ring_pink_200 =
+ring_slate_50 : Css.Style
+ring_slate_50 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(251, 207, 232, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(248, 250, 252, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-300`.
+{-| The tailwind class `ring-slate-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_300 : Css.Style
-ring_pink_300 =
+ring_slate_100 : Css.Style
+ring_slate_100 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(249, 168, 212, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(241, 245, 249, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-400`.
+{-| The tailwind class `ring-slate-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_400 : Css.Style
-ring_pink_400 =
+ring_slate_200 : Css.Style
+ring_slate_200 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(244, 114, 182, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(226, 232, 240, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-50`.
+{-| The tailwind class `ring-slate-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_50 : Css.Style
-ring_pink_50 =
+ring_slate_300 : Css.Style
+ring_slate_300 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(253, 242, 248, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(203, 213, 225, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-500`.
+{-| The tailwind class `ring-slate-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_500 : Css.Style
-ring_pink_500 =
+ring_slate_400 : Css.Style
+ring_slate_400 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(236, 72, 153, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(148, 163, 184, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-600`.
+{-| The tailwind class `ring-slate-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_600 : Css.Style
-ring_pink_600 =
+ring_slate_500 : Css.Style
+ring_slate_500 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(219, 39, 119, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(100, 116, 139, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-700`.
+{-| The tailwind class `ring-slate-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_700 : Css.Style
-ring_pink_700 =
+ring_slate_600 : Css.Style
+ring_slate_600 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(190, 24, 93, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(71, 85, 105, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-800`.
+{-| The tailwind class `ring-slate-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_800 : Css.Style
-ring_pink_800 =
+ring_slate_700 : Css.Style
+ring_slate_700 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(157, 23, 77, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(51, 65, 85, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-pink-900`.
+{-| The tailwind class `ring-slate-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_pink_900 : Css.Style
-ring_pink_900 =
+ring_slate_800 : Css.Style
+ring_slate_800 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(131, 24, 67, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(30, 41, 59, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-100`.
+{-| The tailwind class `ring-slate-900`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_100 : Css.Style
-ring_purple_100 =
+ring_slate_900 : Css.Style
+ring_slate_900 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(237, 233, 254, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(15, 23, 42, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-200`.
+{-| The tailwind class `ring-gray-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_200 : Css.Style
-ring_purple_200 =
+ring_gray_50 : Css.Style
+ring_gray_50 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(221, 214, 254, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(249, 250, 251, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-300`.
+{-| The tailwind class `ring-gray-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_300 : Css.Style
-ring_purple_300 =
+ring_gray_100 : Css.Style
+ring_gray_100 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(196, 181, 253, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(243, 244, 246, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-400`.
+{-| The tailwind class `ring-gray-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_400 : Css.Style
-ring_purple_400 =
+ring_gray_200 : Css.Style
+ring_gray_200 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(167, 139, 250, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(229, 231, 235, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-50`.
+{-| The tailwind class `ring-gray-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_50 : Css.Style
-ring_purple_50 =
+ring_gray_300 : Css.Style
+ring_gray_300 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(245, 243, 255, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(209, 213, 219, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-500`.
+{-| The tailwind class `ring-gray-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_500 : Css.Style
-ring_purple_500 =
+ring_gray_400 : Css.Style
+ring_gray_400 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(139, 92, 246, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(156, 163, 175, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-600`.
+{-| The tailwind class `ring-gray-500`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_600 : Css.Style
-ring_purple_600 =
+ring_gray_500 : Css.Style
+ring_gray_500 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(124, 58, 237, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(107, 114, 128, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-700`.
+{-| The tailwind class `ring-gray-600`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_700 : Css.Style
-ring_purple_700 =
+ring_gray_600 : Css.Style
+ring_gray_600 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(109, 40, 217, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(75, 85, 99, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-800`.
+{-| The tailwind class `ring-gray-700`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_800 : Css.Style
-ring_purple_800 =
+ring_gray_700 : Css.Style
+ring_gray_700 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(91, 33, 182, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(55, 65, 81, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-purple-900`.
+{-| The tailwind class `ring-gray-800`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_purple_900 : Css.Style
-ring_purple_900 =
+ring_gray_800 : Css.Style
+ring_gray_800 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(76, 29, 149, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(31, 41, 55, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-gray-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_gray_900 : Css.Style
+ring_gray_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(17, 24, 39, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_50 : Css.Style
+ring_zinc_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 250, 250, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_100 : Css.Style
+ring_zinc_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(244, 244, 245, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_200 : Css.Style
+ring_zinc_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(228, 228, 231, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_300 : Css.Style
+ring_zinc_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(212, 212, 216, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_400 : Css.Style
+ring_zinc_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(161, 161, 170, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_500 : Css.Style
+ring_zinc_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(113, 113, 122, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_600 : Css.Style
+ring_zinc_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(82, 82, 91, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_700 : Css.Style
+ring_zinc_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(63, 63, 70, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_800 : Css.Style
+ring_zinc_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(39, 39, 42, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-zinc-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_zinc_900 : Css.Style
+ring_zinc_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(24, 24, 27, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_50 : Css.Style
+ring_neutral_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 250, 250, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_100 : Css.Style
+ring_neutral_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(245, 245, 245, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_200 : Css.Style
+ring_neutral_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(229, 229, 229, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_300 : Css.Style
+ring_neutral_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(212, 212, 212, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_400 : Css.Style
+ring_neutral_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(163, 163, 163, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_500 : Css.Style
+ring_neutral_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(115, 115, 115, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_600 : Css.Style
+ring_neutral_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(82, 82, 82, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_700 : Css.Style
+ring_neutral_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(64, 64, 64, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_800 : Css.Style
+ring_neutral_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(38, 38, 38, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-neutral-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_neutral_900 : Css.Style
+ring_neutral_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(23, 23, 23, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_50 : Css.Style
+ring_stone_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 250, 249, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_100 : Css.Style
+ring_stone_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(245, 245, 244, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_200 : Css.Style
+ring_stone_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(231, 229, 228, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_300 : Css.Style
+ring_stone_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(214, 211, 209, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_400 : Css.Style
+ring_stone_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(168, 162, 158, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_500 : Css.Style
+ring_stone_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(120, 113, 108, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_600 : Css.Style
+ring_stone_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(87, 83, 78, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_700 : Css.Style
+ring_stone_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(68, 64, 60, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_800 : Css.Style
+ring_stone_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(41, 37, 36, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_stone_900 : Css.Style
+ring_stone_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(28, 25, 23, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_red_50 : Css.Style
+ring_red_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(254, 242, 242, var(--tw-ring-opacity))"
         ]
 
 
@@ -48979,19 +52145,6 @@ ring_red_400 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
         , Css.property "--tw-ring-color" "rgba(248, 113, 113, var(--tw-ring-opacity))"
-        ]
-
-
-{-| The tailwind class `ring-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_red_50 : Css.Style
-ring_red_50 =
-    Css.batch
-        [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(254, 242, 242, var(--tw-ring-opacity))"
         ]
 
 
@@ -49060,78 +52213,263 @@ ring_red_900 =
         ]
 
 
-{-| The tailwind class `ring-transparent`.
+{-| The tailwind class `ring-orange-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_transparent : Css.Style
-ring_transparent =
-    Css.property "--tw-ring-color" "transparent"
-
-
-{-| The tailwind class `ring-white`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-ring_white : Css.Style
-ring_white =
+ring_orange_50 : Css.Style
+ring_orange_50 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(255, 255, 255, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(255, 247, 237, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-yellow-100`.
+{-| The tailwind class `ring-orange-100`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_yellow_100 : Css.Style
-ring_yellow_100 =
+ring_orange_100 : Css.Style
+ring_orange_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(255, 237, 213, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_200 : Css.Style
+ring_orange_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(254, 215, 170, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_300 : Css.Style
+ring_orange_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(253, 186, 116, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_400 : Css.Style
+ring_orange_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(251, 146, 60, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_500 : Css.Style
+ring_orange_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(249, 115, 22, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_600 : Css.Style
+ring_orange_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(234, 88, 12, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_700 : Css.Style
+ring_orange_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(194, 65, 12, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_800 : Css.Style
+ring_orange_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(154, 52, 18, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_orange_900 : Css.Style
+ring_orange_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(124, 45, 18, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_50 : Css.Style
+ring_amber_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(255, 251, 235, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_100 : Css.Style
+ring_amber_100 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
         , Css.property "--tw-ring-color" "rgba(254, 243, 199, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-yellow-200`.
+{-| The tailwind class `ring-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_yellow_200 : Css.Style
-ring_yellow_200 =
+ring_amber_200 : Css.Style
+ring_amber_200 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
         , Css.property "--tw-ring-color" "rgba(253, 230, 138, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-yellow-300`.
+{-| The tailwind class `ring-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_yellow_300 : Css.Style
-ring_yellow_300 =
+ring_amber_300 : Css.Style
+ring_amber_300 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
         , Css.property "--tw-ring-color" "rgba(252, 211, 77, var(--tw-ring-opacity))"
         ]
 
 
-{-| The tailwind class `ring-yellow-400`.
+{-| The tailwind class `ring-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-ring_yellow_400 : Css.Style
-ring_yellow_400 =
+ring_amber_400 : Css.Style
+ring_amber_400 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
         , Css.property "--tw-ring-color" "rgba(251, 191, 36, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_500 : Css.Style
+ring_amber_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(245, 158, 11, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_600 : Css.Style
+ring_amber_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(217, 119, 6, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_700 : Css.Style
+ring_amber_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(180, 83, 9, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_800 : Css.Style
+ring_amber_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(146, 64, 14, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_amber_900 : Css.Style
+ring_amber_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(120, 53, 15, var(--tw-ring-opacity))"
         ]
 
 
@@ -49144,7 +52482,59 @@ ring_yellow_50 : Css.Style
 ring_yellow_50 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(255, 251, 235, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(254, 252, 232, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_yellow_100 : Css.Style
+ring_yellow_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(254, 249, 195, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_yellow_200 : Css.Style
+ring_yellow_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(254, 240, 138, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_yellow_300 : Css.Style
+ring_yellow_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(253, 224, 71, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_yellow_400 : Css.Style
+ring_yellow_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 204, 21, var(--tw-ring-opacity))"
         ]
 
 
@@ -49157,7 +52547,7 @@ ring_yellow_500 : Css.Style
 ring_yellow_500 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(245, 158, 11, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(234, 179, 8, var(--tw-ring-opacity))"
         ]
 
 
@@ -49170,7 +52560,7 @@ ring_yellow_600 : Css.Style
 ring_yellow_600 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(217, 119, 6, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(202, 138, 4, var(--tw-ring-opacity))"
         ]
 
 
@@ -49183,7 +52573,7 @@ ring_yellow_700 : Css.Style
 ring_yellow_700 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(180, 83, 9, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(161, 98, 7, var(--tw-ring-opacity))"
         ]
 
 
@@ -49196,7 +52586,7 @@ ring_yellow_800 : Css.Style
 ring_yellow_800 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(146, 64, 14, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(133, 77, 14, var(--tw-ring-opacity))"
         ]
 
 
@@ -49209,8 +52599,3898 @@ ring_yellow_900 : Css.Style
 ring_yellow_900 =
     Css.batch
         [ Css.property "--tw-ring-opacity" "1"
-        , Css.property "--tw-ring-color" "rgba(120, 53, 15, var(--tw-ring-opacity))"
+        , Css.property "--tw-ring-color" "rgba(113, 63, 18, var(--tw-ring-opacity))"
         ]
+
+
+{-| The tailwind class `ring-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_50 : Css.Style
+ring_lime_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(247, 254, 231, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_100 : Css.Style
+ring_lime_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(236, 252, 203, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_200 : Css.Style
+ring_lime_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(217, 249, 157, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_300 : Css.Style
+ring_lime_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(190, 242, 100, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_400 : Css.Style
+ring_lime_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(163, 230, 53, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_500 : Css.Style
+ring_lime_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(132, 204, 22, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_600 : Css.Style
+ring_lime_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(101, 163, 13, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_700 : Css.Style
+ring_lime_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(77, 124, 15, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_800 : Css.Style
+ring_lime_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(63, 98, 18, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_lime_900 : Css.Style
+ring_lime_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(54, 83, 20, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_50 : Css.Style
+ring_green_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(240, 253, 244, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_100 : Css.Style
+ring_green_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(220, 252, 231, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_200 : Css.Style
+ring_green_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(187, 247, 208, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_300 : Css.Style
+ring_green_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(134, 239, 172, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_400 : Css.Style
+ring_green_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(74, 222, 128, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_500 : Css.Style
+ring_green_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(34, 197, 94, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_600 : Css.Style
+ring_green_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(22, 163, 74, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_700 : Css.Style
+ring_green_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(21, 128, 61, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_800 : Css.Style
+ring_green_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(22, 101, 52, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_green_900 : Css.Style
+ring_green_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(20, 83, 45, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_50 : Css.Style
+ring_emerald_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(236, 253, 245, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_100 : Css.Style
+ring_emerald_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(209, 250, 229, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_200 : Css.Style
+ring_emerald_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(167, 243, 208, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_300 : Css.Style
+ring_emerald_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(110, 231, 183, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_400 : Css.Style
+ring_emerald_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(52, 211, 153, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_500 : Css.Style
+ring_emerald_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(16, 185, 129, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_600 : Css.Style
+ring_emerald_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(5, 150, 105, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_700 : Css.Style
+ring_emerald_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(4, 120, 87, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_800 : Css.Style
+ring_emerald_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(6, 95, 70, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_emerald_900 : Css.Style
+ring_emerald_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(6, 78, 59, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_50 : Css.Style
+ring_teal_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(240, 253, 250, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_100 : Css.Style
+ring_teal_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(204, 251, 241, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_200 : Css.Style
+ring_teal_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(153, 246, 228, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_300 : Css.Style
+ring_teal_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(94, 234, 212, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_400 : Css.Style
+ring_teal_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(45, 212, 191, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_500 : Css.Style
+ring_teal_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(20, 184, 166, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_600 : Css.Style
+ring_teal_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(13, 148, 136, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_700 : Css.Style
+ring_teal_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(15, 118, 110, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_800 : Css.Style
+ring_teal_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(17, 94, 89, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_teal_900 : Css.Style
+ring_teal_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(19, 78, 74, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_50 : Css.Style
+ring_cyan_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(236, 254, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_100 : Css.Style
+ring_cyan_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(207, 250, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_200 : Css.Style
+ring_cyan_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(165, 243, 252, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_300 : Css.Style
+ring_cyan_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(103, 232, 249, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_400 : Css.Style
+ring_cyan_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(34, 211, 238, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_500 : Css.Style
+ring_cyan_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(6, 182, 212, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_600 : Css.Style
+ring_cyan_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(8, 145, 178, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_700 : Css.Style
+ring_cyan_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(14, 116, 144, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_800 : Css.Style
+ring_cyan_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(21, 94, 117, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_cyan_900 : Css.Style
+ring_cyan_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(22, 78, 99, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_50 : Css.Style
+ring_sky_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(240, 249, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_100 : Css.Style
+ring_sky_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(224, 242, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_200 : Css.Style
+ring_sky_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(186, 230, 253, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_300 : Css.Style
+ring_sky_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(125, 211, 252, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_400 : Css.Style
+ring_sky_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(56, 189, 248, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_500 : Css.Style
+ring_sky_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(14, 165, 233, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_600 : Css.Style
+ring_sky_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(2, 132, 199, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_700 : Css.Style
+ring_sky_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(3, 105, 161, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_800 : Css.Style
+ring_sky_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(7, 89, 133, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_sky_900 : Css.Style
+ring_sky_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(12, 74, 110, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_50 : Css.Style
+ring_blue_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(239, 246, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_100 : Css.Style
+ring_blue_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(219, 234, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_200 : Css.Style
+ring_blue_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(191, 219, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_300 : Css.Style
+ring_blue_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(147, 197, 253, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_400 : Css.Style
+ring_blue_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(96, 165, 250, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_500 : Css.Style
+ring_blue_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(59, 130, 246, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_600 : Css.Style
+ring_blue_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(37, 99, 235, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_700 : Css.Style
+ring_blue_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(29, 78, 216, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_800 : Css.Style
+ring_blue_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(30, 64, 175, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_blue_900 : Css.Style
+ring_blue_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(30, 58, 138, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_50 : Css.Style
+ring_indigo_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(238, 242, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_100 : Css.Style
+ring_indigo_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(224, 231, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_200 : Css.Style
+ring_indigo_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(199, 210, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_300 : Css.Style
+ring_indigo_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(165, 180, 252, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_400 : Css.Style
+ring_indigo_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(129, 140, 248, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_500 : Css.Style
+ring_indigo_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(99, 102, 241, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_600 : Css.Style
+ring_indigo_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(79, 70, 229, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_700 : Css.Style
+ring_indigo_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(67, 56, 202, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_800 : Css.Style
+ring_indigo_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(55, 48, 163, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_indigo_900 : Css.Style
+ring_indigo_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(49, 46, 129, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_50 : Css.Style
+ring_violet_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(245, 243, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_100 : Css.Style
+ring_violet_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(237, 233, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_200 : Css.Style
+ring_violet_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(221, 214, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_300 : Css.Style
+ring_violet_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(196, 181, 253, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_400 : Css.Style
+ring_violet_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(167, 139, 250, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_500 : Css.Style
+ring_violet_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(139, 92, 246, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_600 : Css.Style
+ring_violet_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(124, 58, 237, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_700 : Css.Style
+ring_violet_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(109, 40, 217, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_800 : Css.Style
+ring_violet_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(91, 33, 182, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_violet_900 : Css.Style
+ring_violet_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(76, 29, 149, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_50 : Css.Style
+ring_purple_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 245, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_100 : Css.Style
+ring_purple_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(243, 232, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_200 : Css.Style
+ring_purple_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(233, 213, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_300 : Css.Style
+ring_purple_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(216, 180, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_400 : Css.Style
+ring_purple_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(192, 132, 252, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_500 : Css.Style
+ring_purple_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(168, 85, 247, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_600 : Css.Style
+ring_purple_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(147, 51, 234, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_700 : Css.Style
+ring_purple_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(126, 34, 206, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_800 : Css.Style
+ring_purple_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(107, 33, 168, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_purple_900 : Css.Style
+ring_purple_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(88, 28, 135, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_50 : Css.Style
+ring_fuchsia_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(253, 244, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_100 : Css.Style
+ring_fuchsia_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(250, 232, 255, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_200 : Css.Style
+ring_fuchsia_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(245, 208, 254, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_300 : Css.Style
+ring_fuchsia_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(240, 171, 252, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_400 : Css.Style
+ring_fuchsia_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(232, 121, 249, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_500 : Css.Style
+ring_fuchsia_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(217, 70, 239, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_600 : Css.Style
+ring_fuchsia_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(192, 38, 211, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_700 : Css.Style
+ring_fuchsia_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(162, 28, 175, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_800 : Css.Style
+ring_fuchsia_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(134, 25, 143, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_fuchsia_900 : Css.Style
+ring_fuchsia_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(112, 26, 117, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_50 : Css.Style
+ring_pink_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(253, 242, 248, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_100 : Css.Style
+ring_pink_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(252, 231, 243, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_200 : Css.Style
+ring_pink_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(251, 207, 232, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_300 : Css.Style
+ring_pink_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(249, 168, 212, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_400 : Css.Style
+ring_pink_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(244, 114, 182, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_500 : Css.Style
+ring_pink_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(236, 72, 153, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_600 : Css.Style
+ring_pink_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(219, 39, 119, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_700 : Css.Style
+ring_pink_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(190, 24, 93, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_800 : Css.Style
+ring_pink_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(157, 23, 77, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_pink_900 : Css.Style
+ring_pink_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(131, 24, 67, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_50 : Css.Style
+ring_rose_50 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(255, 241, 242, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_100 : Css.Style
+ring_rose_100 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(255, 228, 230, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_200 : Css.Style
+ring_rose_200 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(254, 205, 211, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_300 : Css.Style
+ring_rose_300 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(253, 164, 175, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_400 : Css.Style
+ring_rose_400 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(251, 113, 133, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_500 : Css.Style
+ring_rose_500 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(244, 63, 94, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_600 : Css.Style
+ring_rose_600 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(225, 29, 72, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_700 : Css.Style
+ring_rose_700 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(190, 18, 60, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_800 : Css.Style
+ring_rose_800 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(159, 18, 57, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_rose_900 : Css.Style
+ring_rose_900 =
+    Css.batch
+        [ Css.property "--tw-ring-opacity" "1"
+        , Css.property "--tw-ring-color" "rgba(136, 19, 55, var(--tw-ring-opacity))"
+        ]
+
+
+{-| The tailwind class `ring-offset-slate-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_50 : Css.Style
+ring_offset_slate_50 =
+    Css.property "--tw-ring-offset-color" "#f8fafc"
+
+
+{-| The tailwind class `ring-offset-slate-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_100 : Css.Style
+ring_offset_slate_100 =
+    Css.property "--tw-ring-offset-color" "#f1f5f9"
+
+
+{-| The tailwind class `ring-offset-slate-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_200 : Css.Style
+ring_offset_slate_200 =
+    Css.property "--tw-ring-offset-color" "#e2e8f0"
+
+
+{-| The tailwind class `ring-offset-slate-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_300 : Css.Style
+ring_offset_slate_300 =
+    Css.property "--tw-ring-offset-color" "#cbd5e1"
+
+
+{-| The tailwind class `ring-offset-slate-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_400 : Css.Style
+ring_offset_slate_400 =
+    Css.property "--tw-ring-offset-color" "#94a3b8"
+
+
+{-| The tailwind class `ring-offset-slate-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_500 : Css.Style
+ring_offset_slate_500 =
+    Css.property "--tw-ring-offset-color" "#64748b"
+
+
+{-| The tailwind class `ring-offset-slate-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_600 : Css.Style
+ring_offset_slate_600 =
+    Css.property "--tw-ring-offset-color" "#475569"
+
+
+{-| The tailwind class `ring-offset-slate-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_700 : Css.Style
+ring_offset_slate_700 =
+    Css.property "--tw-ring-offset-color" "#334155"
+
+
+{-| The tailwind class `ring-offset-slate-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_800 : Css.Style
+ring_offset_slate_800 =
+    Css.property "--tw-ring-offset-color" "#1e293b"
+
+
+{-| The tailwind class `ring-offset-slate-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_slate_900 : Css.Style
+ring_offset_slate_900 =
+    Css.property "--tw-ring-offset-color" "#0f172a"
+
+
+{-| The tailwind class `ring-offset-gray-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_50 : Css.Style
+ring_offset_gray_50 =
+    Css.property "--tw-ring-offset-color" "#f9fafb"
+
+
+{-| The tailwind class `ring-offset-gray-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_100 : Css.Style
+ring_offset_gray_100 =
+    Css.property "--tw-ring-offset-color" "#f3f4f6"
+
+
+{-| The tailwind class `ring-offset-gray-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_200 : Css.Style
+ring_offset_gray_200 =
+    Css.property "--tw-ring-offset-color" "#e5e7eb"
+
+
+{-| The tailwind class `ring-offset-gray-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_300 : Css.Style
+ring_offset_gray_300 =
+    Css.property "--tw-ring-offset-color" "#d1d5db"
+
+
+{-| The tailwind class `ring-offset-gray-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_400 : Css.Style
+ring_offset_gray_400 =
+    Css.property "--tw-ring-offset-color" "#9ca3af"
+
+
+{-| The tailwind class `ring-offset-gray-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_500 : Css.Style
+ring_offset_gray_500 =
+    Css.property "--tw-ring-offset-color" "#6b7280"
+
+
+{-| The tailwind class `ring-offset-gray-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_600 : Css.Style
+ring_offset_gray_600 =
+    Css.property "--tw-ring-offset-color" "#4b5563"
+
+
+{-| The tailwind class `ring-offset-gray-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_700 : Css.Style
+ring_offset_gray_700 =
+    Css.property "--tw-ring-offset-color" "#374151"
+
+
+{-| The tailwind class `ring-offset-gray-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_800 : Css.Style
+ring_offset_gray_800 =
+    Css.property "--tw-ring-offset-color" "#1f2937"
+
+
+{-| The tailwind class `ring-offset-gray-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_gray_900 : Css.Style
+ring_offset_gray_900 =
+    Css.property "--tw-ring-offset-color" "#111827"
+
+
+{-| The tailwind class `ring-offset-zinc-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_50 : Css.Style
+ring_offset_zinc_50 =
+    Css.property "--tw-ring-offset-color" "#fafafa"
+
+
+{-| The tailwind class `ring-offset-zinc-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_100 : Css.Style
+ring_offset_zinc_100 =
+    Css.property "--tw-ring-offset-color" "#f4f4f5"
+
+
+{-| The tailwind class `ring-offset-zinc-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_200 : Css.Style
+ring_offset_zinc_200 =
+    Css.property "--tw-ring-offset-color" "#e4e4e7"
+
+
+{-| The tailwind class `ring-offset-zinc-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_300 : Css.Style
+ring_offset_zinc_300 =
+    Css.property "--tw-ring-offset-color" "#d4d4d8"
+
+
+{-| The tailwind class `ring-offset-zinc-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_400 : Css.Style
+ring_offset_zinc_400 =
+    Css.property "--tw-ring-offset-color" "#a1a1aa"
+
+
+{-| The tailwind class `ring-offset-zinc-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_500 : Css.Style
+ring_offset_zinc_500 =
+    Css.property "--tw-ring-offset-color" "#71717a"
+
+
+{-| The tailwind class `ring-offset-zinc-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_600 : Css.Style
+ring_offset_zinc_600 =
+    Css.property "--tw-ring-offset-color" "#52525b"
+
+
+{-| The tailwind class `ring-offset-zinc-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_700 : Css.Style
+ring_offset_zinc_700 =
+    Css.property "--tw-ring-offset-color" "#3f3f46"
+
+
+{-| The tailwind class `ring-offset-zinc-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_800 : Css.Style
+ring_offset_zinc_800 =
+    Css.property "--tw-ring-offset-color" "#27272a"
+
+
+{-| The tailwind class `ring-offset-zinc-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_zinc_900 : Css.Style
+ring_offset_zinc_900 =
+    Css.property "--tw-ring-offset-color" "#18181b"
+
+
+{-| The tailwind class `ring-offset-neutral-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_50 : Css.Style
+ring_offset_neutral_50 =
+    Css.property "--tw-ring-offset-color" "#fafafa"
+
+
+{-| The tailwind class `ring-offset-neutral-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_100 : Css.Style
+ring_offset_neutral_100 =
+    Css.property "--tw-ring-offset-color" "#f5f5f5"
+
+
+{-| The tailwind class `ring-offset-neutral-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_200 : Css.Style
+ring_offset_neutral_200 =
+    Css.property "--tw-ring-offset-color" "#e5e5e5"
+
+
+{-| The tailwind class `ring-offset-neutral-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_300 : Css.Style
+ring_offset_neutral_300 =
+    Css.property "--tw-ring-offset-color" "#d4d4d4"
+
+
+{-| The tailwind class `ring-offset-neutral-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_400 : Css.Style
+ring_offset_neutral_400 =
+    Css.property "--tw-ring-offset-color" "#a3a3a3"
+
+
+{-| The tailwind class `ring-offset-neutral-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_500 : Css.Style
+ring_offset_neutral_500 =
+    Css.property "--tw-ring-offset-color" "#737373"
+
+
+{-| The tailwind class `ring-offset-neutral-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_600 : Css.Style
+ring_offset_neutral_600 =
+    Css.property "--tw-ring-offset-color" "#525252"
+
+
+{-| The tailwind class `ring-offset-neutral-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_700 : Css.Style
+ring_offset_neutral_700 =
+    Css.property "--tw-ring-offset-color" "#404040"
+
+
+{-| The tailwind class `ring-offset-neutral-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_800 : Css.Style
+ring_offset_neutral_800 =
+    Css.property "--tw-ring-offset-color" "#262626"
+
+
+{-| The tailwind class `ring-offset-neutral-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_neutral_900 : Css.Style
+ring_offset_neutral_900 =
+    Css.property "--tw-ring-offset-color" "#171717"
+
+
+{-| The tailwind class `ring-offset-stone-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_50 : Css.Style
+ring_offset_stone_50 =
+    Css.property "--tw-ring-offset-color" "#fafaf9"
+
+
+{-| The tailwind class `ring-offset-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_100 : Css.Style
+ring_offset_stone_100 =
+    Css.property "--tw-ring-offset-color" "#f5f5f4"
+
+
+{-| The tailwind class `ring-offset-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_200 : Css.Style
+ring_offset_stone_200 =
+    Css.property "--tw-ring-offset-color" "#e7e5e4"
+
+
+{-| The tailwind class `ring-offset-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_300 : Css.Style
+ring_offset_stone_300 =
+    Css.property "--tw-ring-offset-color" "#d6d3d1"
+
+
+{-| The tailwind class `ring-offset-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_400 : Css.Style
+ring_offset_stone_400 =
+    Css.property "--tw-ring-offset-color" "#a8a29e"
+
+
+{-| The tailwind class `ring-offset-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_500 : Css.Style
+ring_offset_stone_500 =
+    Css.property "--tw-ring-offset-color" "#78716c"
+
+
+{-| The tailwind class `ring-offset-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_600 : Css.Style
+ring_offset_stone_600 =
+    Css.property "--tw-ring-offset-color" "#57534e"
+
+
+{-| The tailwind class `ring-offset-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_700 : Css.Style
+ring_offset_stone_700 =
+    Css.property "--tw-ring-offset-color" "#44403c"
+
+
+{-| The tailwind class `ring-offset-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_800 : Css.Style
+ring_offset_stone_800 =
+    Css.property "--tw-ring-offset-color" "#292524"
+
+
+{-| The tailwind class `ring-offset-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_stone_900 : Css.Style
+ring_offset_stone_900 =
+    Css.property "--tw-ring-offset-color" "#1c1917"
+
+
+{-| The tailwind class `ring-offset-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_50 : Css.Style
+ring_offset_red_50 =
+    Css.property "--tw-ring-offset-color" "#fef2f2"
+
+
+{-| The tailwind class `ring-offset-red-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_100 : Css.Style
+ring_offset_red_100 =
+    Css.property "--tw-ring-offset-color" "#fee2e2"
+
+
+{-| The tailwind class `ring-offset-red-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_200 : Css.Style
+ring_offset_red_200 =
+    Css.property "--tw-ring-offset-color" "#fecaca"
+
+
+{-| The tailwind class `ring-offset-red-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_300 : Css.Style
+ring_offset_red_300 =
+    Css.property "--tw-ring-offset-color" "#fca5a5"
+
+
+{-| The tailwind class `ring-offset-red-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_400 : Css.Style
+ring_offset_red_400 =
+    Css.property "--tw-ring-offset-color" "#f87171"
+
+
+{-| The tailwind class `ring-offset-red-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_500 : Css.Style
+ring_offset_red_500 =
+    Css.property "--tw-ring-offset-color" "#ef4444"
+
+
+{-| The tailwind class `ring-offset-red-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_600 : Css.Style
+ring_offset_red_600 =
+    Css.property "--tw-ring-offset-color" "#dc2626"
+
+
+{-| The tailwind class `ring-offset-red-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_700 : Css.Style
+ring_offset_red_700 =
+    Css.property "--tw-ring-offset-color" "#b91c1c"
+
+
+{-| The tailwind class `ring-offset-red-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_800 : Css.Style
+ring_offset_red_800 =
+    Css.property "--tw-ring-offset-color" "#991b1b"
+
+
+{-| The tailwind class `ring-offset-red-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_red_900 : Css.Style
+ring_offset_red_900 =
+    Css.property "--tw-ring-offset-color" "#7f1d1d"
+
+
+{-| The tailwind class `ring-offset-orange-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_50 : Css.Style
+ring_offset_orange_50 =
+    Css.property "--tw-ring-offset-color" "#fff7ed"
+
+
+{-| The tailwind class `ring-offset-orange-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_100 : Css.Style
+ring_offset_orange_100 =
+    Css.property "--tw-ring-offset-color" "#ffedd5"
+
+
+{-| The tailwind class `ring-offset-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_200 : Css.Style
+ring_offset_orange_200 =
+    Css.property "--tw-ring-offset-color" "#fed7aa"
+
+
+{-| The tailwind class `ring-offset-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_300 : Css.Style
+ring_offset_orange_300 =
+    Css.property "--tw-ring-offset-color" "#fdba74"
+
+
+{-| The tailwind class `ring-offset-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_400 : Css.Style
+ring_offset_orange_400 =
+    Css.property "--tw-ring-offset-color" "#fb923c"
+
+
+{-| The tailwind class `ring-offset-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_500 : Css.Style
+ring_offset_orange_500 =
+    Css.property "--tw-ring-offset-color" "#f97316"
+
+
+{-| The tailwind class `ring-offset-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_600 : Css.Style
+ring_offset_orange_600 =
+    Css.property "--tw-ring-offset-color" "#ea580c"
+
+
+{-| The tailwind class `ring-offset-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_700 : Css.Style
+ring_offset_orange_700 =
+    Css.property "--tw-ring-offset-color" "#c2410c"
+
+
+{-| The tailwind class `ring-offset-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_800 : Css.Style
+ring_offset_orange_800 =
+    Css.property "--tw-ring-offset-color" "#9a3412"
+
+
+{-| The tailwind class `ring-offset-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_orange_900 : Css.Style
+ring_offset_orange_900 =
+    Css.property "--tw-ring-offset-color" "#7c2d12"
+
+
+{-| The tailwind class `ring-offset-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_50 : Css.Style
+ring_offset_amber_50 =
+    Css.property "--tw-ring-offset-color" "#fffbeb"
+
+
+{-| The tailwind class `ring-offset-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_100 : Css.Style
+ring_offset_amber_100 =
+    Css.property "--tw-ring-offset-color" "#fef3c7"
+
+
+{-| The tailwind class `ring-offset-amber-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_200 : Css.Style
+ring_offset_amber_200 =
+    Css.property "--tw-ring-offset-color" "#fde68a"
+
+
+{-| The tailwind class `ring-offset-amber-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_300 : Css.Style
+ring_offset_amber_300 =
+    Css.property "--tw-ring-offset-color" "#fcd34d"
+
+
+{-| The tailwind class `ring-offset-amber-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_400 : Css.Style
+ring_offset_amber_400 =
+    Css.property "--tw-ring-offset-color" "#fbbf24"
+
+
+{-| The tailwind class `ring-offset-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_500 : Css.Style
+ring_offset_amber_500 =
+    Css.property "--tw-ring-offset-color" "#f59e0b"
+
+
+{-| The tailwind class `ring-offset-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_600 : Css.Style
+ring_offset_amber_600 =
+    Css.property "--tw-ring-offset-color" "#d97706"
+
+
+{-| The tailwind class `ring-offset-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_700 : Css.Style
+ring_offset_amber_700 =
+    Css.property "--tw-ring-offset-color" "#b45309"
+
+
+{-| The tailwind class `ring-offset-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_800 : Css.Style
+ring_offset_amber_800 =
+    Css.property "--tw-ring-offset-color" "#92400e"
+
+
+{-| The tailwind class `ring-offset-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_amber_900 : Css.Style
+ring_offset_amber_900 =
+    Css.property "--tw-ring-offset-color" "#78350f"
+
+
+{-| The tailwind class `ring-offset-yellow-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_50 : Css.Style
+ring_offset_yellow_50 =
+    Css.property "--tw-ring-offset-color" "#fefce8"
+
+
+{-| The tailwind class `ring-offset-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_100 : Css.Style
+ring_offset_yellow_100 =
+    Css.property "--tw-ring-offset-color" "#fef9c3"
+
+
+{-| The tailwind class `ring-offset-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_200 : Css.Style
+ring_offset_yellow_200 =
+    Css.property "--tw-ring-offset-color" "#fef08a"
+
+
+{-| The tailwind class `ring-offset-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_300 : Css.Style
+ring_offset_yellow_300 =
+    Css.property "--tw-ring-offset-color" "#fde047"
+
+
+{-| The tailwind class `ring-offset-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_400 : Css.Style
+ring_offset_yellow_400 =
+    Css.property "--tw-ring-offset-color" "#facc15"
+
+
+{-| The tailwind class `ring-offset-yellow-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_500 : Css.Style
+ring_offset_yellow_500 =
+    Css.property "--tw-ring-offset-color" "#eab308"
+
+
+{-| The tailwind class `ring-offset-yellow-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_600 : Css.Style
+ring_offset_yellow_600 =
+    Css.property "--tw-ring-offset-color" "#ca8a04"
+
+
+{-| The tailwind class `ring-offset-yellow-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_700 : Css.Style
+ring_offset_yellow_700 =
+    Css.property "--tw-ring-offset-color" "#a16207"
+
+
+{-| The tailwind class `ring-offset-yellow-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_800 : Css.Style
+ring_offset_yellow_800 =
+    Css.property "--tw-ring-offset-color" "#854d0e"
+
+
+{-| The tailwind class `ring-offset-yellow-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_yellow_900 : Css.Style
+ring_offset_yellow_900 =
+    Css.property "--tw-ring-offset-color" "#713f12"
+
+
+{-| The tailwind class `ring-offset-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_50 : Css.Style
+ring_offset_lime_50 =
+    Css.property "--tw-ring-offset-color" "#f7fee7"
+
+
+{-| The tailwind class `ring-offset-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_100 : Css.Style
+ring_offset_lime_100 =
+    Css.property "--tw-ring-offset-color" "#ecfccb"
+
+
+{-| The tailwind class `ring-offset-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_200 : Css.Style
+ring_offset_lime_200 =
+    Css.property "--tw-ring-offset-color" "#d9f99d"
+
+
+{-| The tailwind class `ring-offset-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_300 : Css.Style
+ring_offset_lime_300 =
+    Css.property "--tw-ring-offset-color" "#bef264"
+
+
+{-| The tailwind class `ring-offset-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_400 : Css.Style
+ring_offset_lime_400 =
+    Css.property "--tw-ring-offset-color" "#a3e635"
+
+
+{-| The tailwind class `ring-offset-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_500 : Css.Style
+ring_offset_lime_500 =
+    Css.property "--tw-ring-offset-color" "#84cc16"
+
+
+{-| The tailwind class `ring-offset-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_600 : Css.Style
+ring_offset_lime_600 =
+    Css.property "--tw-ring-offset-color" "#65a30d"
+
+
+{-| The tailwind class `ring-offset-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_700 : Css.Style
+ring_offset_lime_700 =
+    Css.property "--tw-ring-offset-color" "#4d7c0f"
+
+
+{-| The tailwind class `ring-offset-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_800 : Css.Style
+ring_offset_lime_800 =
+    Css.property "--tw-ring-offset-color" "#3f6212"
+
+
+{-| The tailwind class `ring-offset-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_lime_900 : Css.Style
+ring_offset_lime_900 =
+    Css.property "--tw-ring-offset-color" "#365314"
+
+
+{-| The tailwind class `ring-offset-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_50 : Css.Style
+ring_offset_green_50 =
+    Css.property "--tw-ring-offset-color" "#f0fdf4"
+
+
+{-| The tailwind class `ring-offset-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_100 : Css.Style
+ring_offset_green_100 =
+    Css.property "--tw-ring-offset-color" "#dcfce7"
+
+
+{-| The tailwind class `ring-offset-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_200 : Css.Style
+ring_offset_green_200 =
+    Css.property "--tw-ring-offset-color" "#bbf7d0"
+
+
+{-| The tailwind class `ring-offset-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_300 : Css.Style
+ring_offset_green_300 =
+    Css.property "--tw-ring-offset-color" "#86efac"
+
+
+{-| The tailwind class `ring-offset-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_400 : Css.Style
+ring_offset_green_400 =
+    Css.property "--tw-ring-offset-color" "#4ade80"
+
+
+{-| The tailwind class `ring-offset-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_500 : Css.Style
+ring_offset_green_500 =
+    Css.property "--tw-ring-offset-color" "#22c55e"
+
+
+{-| The tailwind class `ring-offset-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_600 : Css.Style
+ring_offset_green_600 =
+    Css.property "--tw-ring-offset-color" "#16a34a"
+
+
+{-| The tailwind class `ring-offset-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_700 : Css.Style
+ring_offset_green_700 =
+    Css.property "--tw-ring-offset-color" "#15803d"
+
+
+{-| The tailwind class `ring-offset-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_800 : Css.Style
+ring_offset_green_800 =
+    Css.property "--tw-ring-offset-color" "#166534"
+
+
+{-| The tailwind class `ring-offset-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_green_900 : Css.Style
+ring_offset_green_900 =
+    Css.property "--tw-ring-offset-color" "#14532d"
+
+
+{-| The tailwind class `ring-offset-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_50 : Css.Style
+ring_offset_emerald_50 =
+    Css.property "--tw-ring-offset-color" "#ecfdf5"
+
+
+{-| The tailwind class `ring-offset-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_100 : Css.Style
+ring_offset_emerald_100 =
+    Css.property "--tw-ring-offset-color" "#d1fae5"
+
+
+{-| The tailwind class `ring-offset-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_200 : Css.Style
+ring_offset_emerald_200 =
+    Css.property "--tw-ring-offset-color" "#a7f3d0"
+
+
+{-| The tailwind class `ring-offset-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_300 : Css.Style
+ring_offset_emerald_300 =
+    Css.property "--tw-ring-offset-color" "#6ee7b7"
+
+
+{-| The tailwind class `ring-offset-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_400 : Css.Style
+ring_offset_emerald_400 =
+    Css.property "--tw-ring-offset-color" "#34d399"
+
+
+{-| The tailwind class `ring-offset-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_500 : Css.Style
+ring_offset_emerald_500 =
+    Css.property "--tw-ring-offset-color" "#10b981"
+
+
+{-| The tailwind class `ring-offset-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_600 : Css.Style
+ring_offset_emerald_600 =
+    Css.property "--tw-ring-offset-color" "#059669"
+
+
+{-| The tailwind class `ring-offset-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_700 : Css.Style
+ring_offset_emerald_700 =
+    Css.property "--tw-ring-offset-color" "#047857"
+
+
+{-| The tailwind class `ring-offset-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_800 : Css.Style
+ring_offset_emerald_800 =
+    Css.property "--tw-ring-offset-color" "#065f46"
+
+
+{-| The tailwind class `ring-offset-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_emerald_900 : Css.Style
+ring_offset_emerald_900 =
+    Css.property "--tw-ring-offset-color" "#064e3b"
+
+
+{-| The tailwind class `ring-offset-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_50 : Css.Style
+ring_offset_teal_50 =
+    Css.property "--tw-ring-offset-color" "#f0fdfa"
+
+
+{-| The tailwind class `ring-offset-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_100 : Css.Style
+ring_offset_teal_100 =
+    Css.property "--tw-ring-offset-color" "#ccfbf1"
+
+
+{-| The tailwind class `ring-offset-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_200 : Css.Style
+ring_offset_teal_200 =
+    Css.property "--tw-ring-offset-color" "#99f6e4"
+
+
+{-| The tailwind class `ring-offset-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_300 : Css.Style
+ring_offset_teal_300 =
+    Css.property "--tw-ring-offset-color" "#5eead4"
+
+
+{-| The tailwind class `ring-offset-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_400 : Css.Style
+ring_offset_teal_400 =
+    Css.property "--tw-ring-offset-color" "#2dd4bf"
+
+
+{-| The tailwind class `ring-offset-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_500 : Css.Style
+ring_offset_teal_500 =
+    Css.property "--tw-ring-offset-color" "#14b8a6"
+
+
+{-| The tailwind class `ring-offset-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_600 : Css.Style
+ring_offset_teal_600 =
+    Css.property "--tw-ring-offset-color" "#0d9488"
+
+
+{-| The tailwind class `ring-offset-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_700 : Css.Style
+ring_offset_teal_700 =
+    Css.property "--tw-ring-offset-color" "#0f766e"
+
+
+{-| The tailwind class `ring-offset-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_800 : Css.Style
+ring_offset_teal_800 =
+    Css.property "--tw-ring-offset-color" "#115e59"
+
+
+{-| The tailwind class `ring-offset-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_teal_900 : Css.Style
+ring_offset_teal_900 =
+    Css.property "--tw-ring-offset-color" "#134e4a"
+
+
+{-| The tailwind class `ring-offset-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_50 : Css.Style
+ring_offset_cyan_50 =
+    Css.property "--tw-ring-offset-color" "#ecfeff"
+
+
+{-| The tailwind class `ring-offset-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_100 : Css.Style
+ring_offset_cyan_100 =
+    Css.property "--tw-ring-offset-color" "#cffafe"
+
+
+{-| The tailwind class `ring-offset-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_200 : Css.Style
+ring_offset_cyan_200 =
+    Css.property "--tw-ring-offset-color" "#a5f3fc"
+
+
+{-| The tailwind class `ring-offset-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_300 : Css.Style
+ring_offset_cyan_300 =
+    Css.property "--tw-ring-offset-color" "#67e8f9"
+
+
+{-| The tailwind class `ring-offset-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_400 : Css.Style
+ring_offset_cyan_400 =
+    Css.property "--tw-ring-offset-color" "#22d3ee"
+
+
+{-| The tailwind class `ring-offset-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_500 : Css.Style
+ring_offset_cyan_500 =
+    Css.property "--tw-ring-offset-color" "#06b6d4"
+
+
+{-| The tailwind class `ring-offset-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_600 : Css.Style
+ring_offset_cyan_600 =
+    Css.property "--tw-ring-offset-color" "#0891b2"
+
+
+{-| The tailwind class `ring-offset-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_700 : Css.Style
+ring_offset_cyan_700 =
+    Css.property "--tw-ring-offset-color" "#0e7490"
+
+
+{-| The tailwind class `ring-offset-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_800 : Css.Style
+ring_offset_cyan_800 =
+    Css.property "--tw-ring-offset-color" "#155e75"
+
+
+{-| The tailwind class `ring-offset-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_cyan_900 : Css.Style
+ring_offset_cyan_900 =
+    Css.property "--tw-ring-offset-color" "#164e63"
+
+
+{-| The tailwind class `ring-offset-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_50 : Css.Style
+ring_offset_sky_50 =
+    Css.property "--tw-ring-offset-color" "#f0f9ff"
+
+
+{-| The tailwind class `ring-offset-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_100 : Css.Style
+ring_offset_sky_100 =
+    Css.property "--tw-ring-offset-color" "#e0f2fe"
+
+
+{-| The tailwind class `ring-offset-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_200 : Css.Style
+ring_offset_sky_200 =
+    Css.property "--tw-ring-offset-color" "#bae6fd"
+
+
+{-| The tailwind class `ring-offset-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_300 : Css.Style
+ring_offset_sky_300 =
+    Css.property "--tw-ring-offset-color" "#7dd3fc"
+
+
+{-| The tailwind class `ring-offset-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_400 : Css.Style
+ring_offset_sky_400 =
+    Css.property "--tw-ring-offset-color" "#38bdf8"
+
+
+{-| The tailwind class `ring-offset-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_500 : Css.Style
+ring_offset_sky_500 =
+    Css.property "--tw-ring-offset-color" "#0ea5e9"
+
+
+{-| The tailwind class `ring-offset-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_600 : Css.Style
+ring_offset_sky_600 =
+    Css.property "--tw-ring-offset-color" "#0284c7"
+
+
+{-| The tailwind class `ring-offset-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_700 : Css.Style
+ring_offset_sky_700 =
+    Css.property "--tw-ring-offset-color" "#0369a1"
+
+
+{-| The tailwind class `ring-offset-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_800 : Css.Style
+ring_offset_sky_800 =
+    Css.property "--tw-ring-offset-color" "#075985"
+
+
+{-| The tailwind class `ring-offset-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_sky_900 : Css.Style
+ring_offset_sky_900 =
+    Css.property "--tw-ring-offset-color" "#0c4a6e"
+
+
+{-| The tailwind class `ring-offset-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_50 : Css.Style
+ring_offset_blue_50 =
+    Css.property "--tw-ring-offset-color" "#eff6ff"
+
+
+{-| The tailwind class `ring-offset-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_100 : Css.Style
+ring_offset_blue_100 =
+    Css.property "--tw-ring-offset-color" "#dbeafe"
+
+
+{-| The tailwind class `ring-offset-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_200 : Css.Style
+ring_offset_blue_200 =
+    Css.property "--tw-ring-offset-color" "#bfdbfe"
+
+
+{-| The tailwind class `ring-offset-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_300 : Css.Style
+ring_offset_blue_300 =
+    Css.property "--tw-ring-offset-color" "#93c5fd"
+
+
+{-| The tailwind class `ring-offset-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_400 : Css.Style
+ring_offset_blue_400 =
+    Css.property "--tw-ring-offset-color" "#60a5fa"
+
+
+{-| The tailwind class `ring-offset-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_500 : Css.Style
+ring_offset_blue_500 =
+    Css.property "--tw-ring-offset-color" "#3b82f6"
+
+
+{-| The tailwind class `ring-offset-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_600 : Css.Style
+ring_offset_blue_600 =
+    Css.property "--tw-ring-offset-color" "#2563eb"
+
+
+{-| The tailwind class `ring-offset-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_700 : Css.Style
+ring_offset_blue_700 =
+    Css.property "--tw-ring-offset-color" "#1d4ed8"
+
+
+{-| The tailwind class `ring-offset-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_800 : Css.Style
+ring_offset_blue_800 =
+    Css.property "--tw-ring-offset-color" "#1e40af"
+
+
+{-| The tailwind class `ring-offset-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_blue_900 : Css.Style
+ring_offset_blue_900 =
+    Css.property "--tw-ring-offset-color" "#1e3a8a"
+
+
+{-| The tailwind class `ring-offset-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_50 : Css.Style
+ring_offset_indigo_50 =
+    Css.property "--tw-ring-offset-color" "#eef2ff"
+
+
+{-| The tailwind class `ring-offset-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_100 : Css.Style
+ring_offset_indigo_100 =
+    Css.property "--tw-ring-offset-color" "#e0e7ff"
+
+
+{-| The tailwind class `ring-offset-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_200 : Css.Style
+ring_offset_indigo_200 =
+    Css.property "--tw-ring-offset-color" "#c7d2fe"
+
+
+{-| The tailwind class `ring-offset-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_300 : Css.Style
+ring_offset_indigo_300 =
+    Css.property "--tw-ring-offset-color" "#a5b4fc"
+
+
+{-| The tailwind class `ring-offset-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_400 : Css.Style
+ring_offset_indigo_400 =
+    Css.property "--tw-ring-offset-color" "#818cf8"
+
+
+{-| The tailwind class `ring-offset-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_500 : Css.Style
+ring_offset_indigo_500 =
+    Css.property "--tw-ring-offset-color" "#6366f1"
+
+
+{-| The tailwind class `ring-offset-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_600 : Css.Style
+ring_offset_indigo_600 =
+    Css.property "--tw-ring-offset-color" "#4f46e5"
+
+
+{-| The tailwind class `ring-offset-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_700 : Css.Style
+ring_offset_indigo_700 =
+    Css.property "--tw-ring-offset-color" "#4338ca"
+
+
+{-| The tailwind class `ring-offset-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_800 : Css.Style
+ring_offset_indigo_800 =
+    Css.property "--tw-ring-offset-color" "#3730a3"
+
+
+{-| The tailwind class `ring-offset-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_indigo_900 : Css.Style
+ring_offset_indigo_900 =
+    Css.property "--tw-ring-offset-color" "#312e81"
+
+
+{-| The tailwind class `ring-offset-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_50 : Css.Style
+ring_offset_violet_50 =
+    Css.property "--tw-ring-offset-color" "#f5f3ff"
+
+
+{-| The tailwind class `ring-offset-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_100 : Css.Style
+ring_offset_violet_100 =
+    Css.property "--tw-ring-offset-color" "#ede9fe"
+
+
+{-| The tailwind class `ring-offset-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_200 : Css.Style
+ring_offset_violet_200 =
+    Css.property "--tw-ring-offset-color" "#ddd6fe"
+
+
+{-| The tailwind class `ring-offset-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_300 : Css.Style
+ring_offset_violet_300 =
+    Css.property "--tw-ring-offset-color" "#c4b5fd"
+
+
+{-| The tailwind class `ring-offset-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_400 : Css.Style
+ring_offset_violet_400 =
+    Css.property "--tw-ring-offset-color" "#a78bfa"
+
+
+{-| The tailwind class `ring-offset-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_500 : Css.Style
+ring_offset_violet_500 =
+    Css.property "--tw-ring-offset-color" "#8b5cf6"
+
+
+{-| The tailwind class `ring-offset-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_600 : Css.Style
+ring_offset_violet_600 =
+    Css.property "--tw-ring-offset-color" "#7c3aed"
+
+
+{-| The tailwind class `ring-offset-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_700 : Css.Style
+ring_offset_violet_700 =
+    Css.property "--tw-ring-offset-color" "#6d28d9"
+
+
+{-| The tailwind class `ring-offset-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_800 : Css.Style
+ring_offset_violet_800 =
+    Css.property "--tw-ring-offset-color" "#5b21b6"
+
+
+{-| The tailwind class `ring-offset-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_violet_900 : Css.Style
+ring_offset_violet_900 =
+    Css.property "--tw-ring-offset-color" "#4c1d95"
+
+
+{-| The tailwind class `ring-offset-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_50 : Css.Style
+ring_offset_purple_50 =
+    Css.property "--tw-ring-offset-color" "#faf5ff"
+
+
+{-| The tailwind class `ring-offset-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_100 : Css.Style
+ring_offset_purple_100 =
+    Css.property "--tw-ring-offset-color" "#f3e8ff"
+
+
+{-| The tailwind class `ring-offset-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_200 : Css.Style
+ring_offset_purple_200 =
+    Css.property "--tw-ring-offset-color" "#e9d5ff"
+
+
+{-| The tailwind class `ring-offset-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_300 : Css.Style
+ring_offset_purple_300 =
+    Css.property "--tw-ring-offset-color" "#d8b4fe"
+
+
+{-| The tailwind class `ring-offset-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_400 : Css.Style
+ring_offset_purple_400 =
+    Css.property "--tw-ring-offset-color" "#c084fc"
+
+
+{-| The tailwind class `ring-offset-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_500 : Css.Style
+ring_offset_purple_500 =
+    Css.property "--tw-ring-offset-color" "#a855f7"
+
+
+{-| The tailwind class `ring-offset-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_600 : Css.Style
+ring_offset_purple_600 =
+    Css.property "--tw-ring-offset-color" "#9333ea"
+
+
+{-| The tailwind class `ring-offset-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_700 : Css.Style
+ring_offset_purple_700 =
+    Css.property "--tw-ring-offset-color" "#7e22ce"
+
+
+{-| The tailwind class `ring-offset-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_800 : Css.Style
+ring_offset_purple_800 =
+    Css.property "--tw-ring-offset-color" "#6b21a8"
+
+
+{-| The tailwind class `ring-offset-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_purple_900 : Css.Style
+ring_offset_purple_900 =
+    Css.property "--tw-ring-offset-color" "#581c87"
+
+
+{-| The tailwind class `ring-offset-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_50 : Css.Style
+ring_offset_fuchsia_50 =
+    Css.property "--tw-ring-offset-color" "#fdf4ff"
+
+
+{-| The tailwind class `ring-offset-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_100 : Css.Style
+ring_offset_fuchsia_100 =
+    Css.property "--tw-ring-offset-color" "#fae8ff"
+
+
+{-| The tailwind class `ring-offset-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_200 : Css.Style
+ring_offset_fuchsia_200 =
+    Css.property "--tw-ring-offset-color" "#f5d0fe"
+
+
+{-| The tailwind class `ring-offset-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_300 : Css.Style
+ring_offset_fuchsia_300 =
+    Css.property "--tw-ring-offset-color" "#f0abfc"
+
+
+{-| The tailwind class `ring-offset-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_400 : Css.Style
+ring_offset_fuchsia_400 =
+    Css.property "--tw-ring-offset-color" "#e879f9"
+
+
+{-| The tailwind class `ring-offset-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_500 : Css.Style
+ring_offset_fuchsia_500 =
+    Css.property "--tw-ring-offset-color" "#d946ef"
+
+
+{-| The tailwind class `ring-offset-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_600 : Css.Style
+ring_offset_fuchsia_600 =
+    Css.property "--tw-ring-offset-color" "#c026d3"
+
+
+{-| The tailwind class `ring-offset-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_700 : Css.Style
+ring_offset_fuchsia_700 =
+    Css.property "--tw-ring-offset-color" "#a21caf"
+
+
+{-| The tailwind class `ring-offset-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_800 : Css.Style
+ring_offset_fuchsia_800 =
+    Css.property "--tw-ring-offset-color" "#86198f"
+
+
+{-| The tailwind class `ring-offset-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_fuchsia_900 : Css.Style
+ring_offset_fuchsia_900 =
+    Css.property "--tw-ring-offset-color" "#701a75"
+
+
+{-| The tailwind class `ring-offset-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_50 : Css.Style
+ring_offset_pink_50 =
+    Css.property "--tw-ring-offset-color" "#fdf2f8"
+
+
+{-| The tailwind class `ring-offset-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_100 : Css.Style
+ring_offset_pink_100 =
+    Css.property "--tw-ring-offset-color" "#fce7f3"
+
+
+{-| The tailwind class `ring-offset-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_200 : Css.Style
+ring_offset_pink_200 =
+    Css.property "--tw-ring-offset-color" "#fbcfe8"
+
+
+{-| The tailwind class `ring-offset-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_300 : Css.Style
+ring_offset_pink_300 =
+    Css.property "--tw-ring-offset-color" "#f9a8d4"
+
+
+{-| The tailwind class `ring-offset-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_400 : Css.Style
+ring_offset_pink_400 =
+    Css.property "--tw-ring-offset-color" "#f472b6"
+
+
+{-| The tailwind class `ring-offset-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_500 : Css.Style
+ring_offset_pink_500 =
+    Css.property "--tw-ring-offset-color" "#ec4899"
+
+
+{-| The tailwind class `ring-offset-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_600 : Css.Style
+ring_offset_pink_600 =
+    Css.property "--tw-ring-offset-color" "#db2777"
+
+
+{-| The tailwind class `ring-offset-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_700 : Css.Style
+ring_offset_pink_700 =
+    Css.property "--tw-ring-offset-color" "#be185d"
+
+
+{-| The tailwind class `ring-offset-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_800 : Css.Style
+ring_offset_pink_800 =
+    Css.property "--tw-ring-offset-color" "#9d174d"
+
+
+{-| The tailwind class `ring-offset-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_pink_900 : Css.Style
+ring_offset_pink_900 =
+    Css.property "--tw-ring-offset-color" "#831843"
+
+
+{-| The tailwind class `ring-offset-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_50 : Css.Style
+ring_offset_rose_50 =
+    Css.property "--tw-ring-offset-color" "#fff1f2"
+
+
+{-| The tailwind class `ring-offset-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_100 : Css.Style
+ring_offset_rose_100 =
+    Css.property "--tw-ring-offset-color" "#ffe4e6"
+
+
+{-| The tailwind class `ring-offset-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_200 : Css.Style
+ring_offset_rose_200 =
+    Css.property "--tw-ring-offset-color" "#fecdd3"
+
+
+{-| The tailwind class `ring-offset-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_300 : Css.Style
+ring_offset_rose_300 =
+    Css.property "--tw-ring-offset-color" "#fda4af"
+
+
+{-| The tailwind class `ring-offset-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_400 : Css.Style
+ring_offset_rose_400 =
+    Css.property "--tw-ring-offset-color" "#fb7185"
+
+
+{-| The tailwind class `ring-offset-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_500 : Css.Style
+ring_offset_rose_500 =
+    Css.property "--tw-ring-offset-color" "#f43f5e"
+
+
+{-| The tailwind class `ring-offset-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_600 : Css.Style
+ring_offset_rose_600 =
+    Css.property "--tw-ring-offset-color" "#e11d48"
+
+
+{-| The tailwind class `ring-offset-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_700 : Css.Style
+ring_offset_rose_700 =
+    Css.property "--tw-ring-offset-color" "#be123c"
+
+
+{-| The tailwind class `ring-offset-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_800 : Css.Style
+ring_offset_rose_800 =
+    Css.property "--tw-ring-offset-color" "#9f1239"
+
+
+{-| The tailwind class `ring-offset-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+ring_offset_rose_900 : Css.Style
+ring_offset_rose_900 =
+    Css.property "--tw-ring-offset-color" "#881337"
 
 
 {-| The tailwind class `rotate-0`.
