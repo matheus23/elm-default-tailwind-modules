@@ -4605,6 +4605,146 @@ module Tailwind.Utilities exposing
     , to_rose_700
     , to_rose_800
     , to_rose_900
+    , text_slate_50
+    , text_slate_100
+    , text_slate_200
+    , text_slate_300
+    , text_slate_400
+    , text_slate_500
+    , text_slate_600
+    , text_slate_700
+    , text_slate_800
+    , text_slate_900
+    , text_zinc_50
+    , text_zinc_100
+    , text_zinc_200
+    , text_zinc_300
+    , text_zinc_400
+    , text_zinc_500
+    , text_zinc_600
+    , text_zinc_700
+    , text_zinc_800
+    , text_zinc_900
+    , text_neutral_50
+    , text_neutral_100
+    , text_neutral_200
+    , text_neutral_300
+    , text_neutral_400
+    , text_neutral_500
+    , text_neutral_600
+    , text_neutral_700
+    , text_neutral_800
+    , text_neutral_900
+    , text_stone_50
+    , text_stone_100
+    , text_stone_200
+    , text_stone_300
+    , text_stone_400
+    , text_stone_500
+    , text_stone_600
+    , text_stone_700
+    , text_stone_800
+    , text_stone_900
+    , text_orange_50
+    , text_orange_100
+    , text_orange_200
+    , text_orange_300
+    , text_orange_400
+    , text_orange_500
+    , text_orange_600
+    , text_orange_700
+    , text_orange_800
+    , text_orange_900
+    , text_amber_50
+    , text_amber_100
+    , text_amber_200
+    , text_amber_300
+    , text_amber_400
+    , text_amber_500
+    , text_amber_600
+    , text_amber_700
+    , text_amber_800
+    , text_amber_900
+    , text_lime_50
+    , text_lime_100
+    , text_lime_200
+    , text_lime_300
+    , text_lime_400
+    , text_lime_500
+    , text_lime_600
+    , text_lime_700
+    , text_lime_800
+    , text_lime_900
+    , text_emerald_50
+    , text_emerald_100
+    , text_emerald_200
+    , text_emerald_300
+    , text_emerald_400
+    , text_emerald_500
+    , text_emerald_600
+    , text_emerald_700
+    , text_emerald_800
+    , text_emerald_900
+    , text_teal_50
+    , text_teal_100
+    , text_teal_200
+    , text_teal_300
+    , text_teal_400
+    , text_teal_500
+    , text_teal_600
+    , text_teal_700
+    , text_teal_800
+    , text_teal_900
+    , text_cyan_50
+    , text_cyan_100
+    , text_cyan_200
+    , text_cyan_300
+    , text_cyan_400
+    , text_cyan_500
+    , text_cyan_600
+    , text_cyan_700
+    , text_cyan_800
+    , text_cyan_900
+    , text_sky_50
+    , text_sky_100
+    , text_sky_200
+    , text_sky_300
+    , text_sky_400
+    , text_sky_500
+    , text_sky_600
+    , text_sky_700
+    , text_sky_800
+    , text_sky_900
+    , text_violet_50
+    , text_violet_100
+    , text_violet_200
+    , text_violet_300
+    , text_violet_400
+    , text_violet_500
+    , text_violet_600
+    , text_violet_700
+    , text_violet_800
+    , text_violet_900
+    , text_fuchsia_50
+    , text_fuchsia_100
+    , text_fuchsia_200
+    , text_fuchsia_300
+    , text_fuchsia_400
+    , text_fuchsia_500
+    , text_fuchsia_600
+    , text_fuchsia_700
+    , text_fuchsia_800
+    , text_fuchsia_900
+    , text_rose_50
+    , text_rose_100
+    , text_rose_200
+    , text_rose_300
+    , text_rose_400
+    , text_rose_500
+    , text_rose_600
+    , text_rose_700
+    , text_rose_800
+    , text_rose_900
     )
 
 {-|
@@ -9226,6 +9366,226 @@ This module contains
 @docs to_rose_700
 @docs to_rose_800
 @docs to_rose_900
+@docs text_slate_50
+@docs text_slate_100
+@docs text_slate_200
+@docs text_slate_300
+@docs text_slate_400
+@docs text_slate_500
+@docs text_slate_600
+@docs text_slate_700
+@docs text_slate_800
+@docs text_slate_900
+@docs text_gray_50
+@docs text_gray_100
+@docs text_gray_200
+@docs text_gray_300
+@docs text_gray_400
+@docs text_gray_500
+@docs text_gray_600
+@docs text_gray_700
+@docs text_gray_800
+@docs text_gray_900
+@docs text_zinc_50
+@docs text_zinc_100
+@docs text_zinc_200
+@docs text_zinc_300
+@docs text_zinc_400
+@docs text_zinc_500
+@docs text_zinc_600
+@docs text_zinc_700
+@docs text_zinc_800
+@docs text_zinc_900
+@docs text_neutral_50
+@docs text_neutral_100
+@docs text_neutral_200
+@docs text_neutral_300
+@docs text_neutral_400
+@docs text_neutral_500
+@docs text_neutral_600
+@docs text_neutral_700
+@docs text_neutral_800
+@docs text_neutral_900
+@docs text_stone_50
+@docs text_stone_100
+@docs text_stone_200
+@docs text_stone_300
+@docs text_stone_400
+@docs text_stone_500
+@docs text_stone_600
+@docs text_stone_700
+@docs text_stone_800
+@docs text_stone_900
+@docs text_red_50
+@docs text_red_100
+@docs text_red_200
+@docs text_red_300
+@docs text_red_400
+@docs text_red_500
+@docs text_red_600
+@docs text_red_700
+@docs text_red_800
+@docs text_red_900
+@docs text_orange_50
+@docs text_orange_100
+@docs text_orange_200
+@docs text_orange_300
+@docs text_orange_400
+@docs text_orange_500
+@docs text_orange_600
+@docs text_orange_700
+@docs text_orange_800
+@docs text_orange_900
+@docs text_amber_50
+@docs text_amber_100
+@docs text_amber_200
+@docs text_amber_300
+@docs text_amber_400
+@docs text_amber_500
+@docs text_amber_600
+@docs text_amber_700
+@docs text_amber_800
+@docs text_amber_900
+@docs text_yellow_50
+@docs text_yellow_100
+@docs text_yellow_200
+@docs text_yellow_300
+@docs text_yellow_400
+@docs text_yellow_500
+@docs text_yellow_600
+@docs text_yellow_700
+@docs text_yellow_800
+@docs text_yellow_900
+@docs text_lime_50
+@docs text_lime_100
+@docs text_lime_200
+@docs text_lime_300
+@docs text_lime_400
+@docs text_lime_500
+@docs text_lime_600
+@docs text_lime_700
+@docs text_lime_800
+@docs text_lime_900
+@docs text_green_50
+@docs text_green_100
+@docs text_green_200
+@docs text_green_300
+@docs text_green_400
+@docs text_green_500
+@docs text_green_600
+@docs text_green_700
+@docs text_green_800
+@docs text_green_900
+@docs text_emerald_50
+@docs text_emerald_100
+@docs text_emerald_200
+@docs text_emerald_300
+@docs text_emerald_400
+@docs text_emerald_500
+@docs text_emerald_600
+@docs text_emerald_700
+@docs text_emerald_800
+@docs text_emerald_900
+@docs text_teal_50
+@docs text_teal_100
+@docs text_teal_200
+@docs text_teal_300
+@docs text_teal_400
+@docs text_teal_500
+@docs text_teal_600
+@docs text_teal_700
+@docs text_teal_800
+@docs text_teal_900
+@docs text_cyan_50
+@docs text_cyan_100
+@docs text_cyan_200
+@docs text_cyan_300
+@docs text_cyan_400
+@docs text_cyan_500
+@docs text_cyan_600
+@docs text_cyan_700
+@docs text_cyan_800
+@docs text_cyan_900
+@docs text_sky_50
+@docs text_sky_100
+@docs text_sky_200
+@docs text_sky_300
+@docs text_sky_400
+@docs text_sky_500
+@docs text_sky_600
+@docs text_sky_700
+@docs text_sky_800
+@docs text_sky_900
+@docs text_blue_50
+@docs text_blue_100
+@docs text_blue_200
+@docs text_blue_300
+@docs text_blue_400
+@docs text_blue_500
+@docs text_blue_600
+@docs text_blue_700
+@docs text_blue_800
+@docs text_blue_900
+@docs text_indigo_50
+@docs text_indigo_100
+@docs text_indigo_200
+@docs text_indigo_300
+@docs text_indigo_400
+@docs text_indigo_500
+@docs text_indigo_600
+@docs text_indigo_700
+@docs text_indigo_800
+@docs text_indigo_900
+@docs text_violet_50
+@docs text_violet_100
+@docs text_violet_200
+@docs text_violet_300
+@docs text_violet_400
+@docs text_violet_500
+@docs text_violet_600
+@docs text_violet_700
+@docs text_violet_800
+@docs text_violet_900
+@docs text_purple_50
+@docs text_purple_100
+@docs text_purple_200
+@docs text_purple_300
+@docs text_purple_400
+@docs text_purple_500
+@docs text_purple_600
+@docs text_purple_700
+@docs text_purple_800
+@docs text_purple_900
+@docs text_fuchsia_50
+@docs text_fuchsia_100
+@docs text_fuchsia_200
+@docs text_fuchsia_300
+@docs text_fuchsia_400
+@docs text_fuchsia_500
+@docs text_fuchsia_600
+@docs text_fuchsia_700
+@docs text_fuchsia_800
+@docs text_fuchsia_900
+@docs text_pink_50
+@docs text_pink_100
+@docs text_pink_200
+@docs text_pink_300
+@docs text_pink_400
+@docs text_pink_500
+@docs text_pink_600
+@docs text_pink_700
+@docs text_pink_800
+@docs text_pink_900
+@docs text_rose_50
+@docs text_rose_100
+@docs text_rose_200
+@docs text_rose_300
+@docs text_rose_400
+@docs text_rose_500
+@docs text_rose_600
+@docs text_rose_700
+@docs text_rose_800
+@docs text_rose_900
 
 -}
 
@@ -52513,136 +52873,6 @@ text_black =
         ]
 
 
-{-| The tailwind class `text-blue-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_100 : Css.Style
-text_blue_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(219, 234, 254, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_200 : Css.Style
-text_blue_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(191, 219, 254, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_300 : Css.Style
-text_blue_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(147, 197, 253, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_400 : Css.Style
-text_blue_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(96, 165, 250, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_50 : Css.Style
-text_blue_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(239, 246, 255, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_500 : Css.Style
-text_blue_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(59, 130, 246, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_600 : Css.Style
-text_blue_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(37, 99, 235, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_700 : Css.Style
-text_blue_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(29, 78, 216, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_800 : Css.Style
-text_blue_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(30, 64, 175, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-blue-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_blue_900 : Css.Style
-text_blue_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(30, 58, 138, var(--tw-text-opacity))"
-        ]
-
-
 {-| The tailwind class `text-center`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
@@ -52661,396 +52891,6 @@ Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs
 text_current : Css.Style
 text_current =
     Css.property "color" "currentColor"
-
-
-{-| The tailwind class `text-gray-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_100 : Css.Style
-text_gray_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(243, 244, 246, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_200 : Css.Style
-text_gray_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(229, 231, 235, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_300 : Css.Style
-text_gray_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(209, 213, 219, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_400 : Css.Style
-text_gray_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(156, 163, 175, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_50 : Css.Style
-text_gray_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(249, 250, 251, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_500 : Css.Style
-text_gray_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(107, 114, 128, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_600 : Css.Style
-text_gray_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(75, 85, 99, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_700 : Css.Style
-text_gray_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(55, 65, 81, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_800 : Css.Style
-text_gray_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(31, 41, 55, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-gray-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_gray_900 : Css.Style
-text_gray_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(17, 24, 39, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_100 : Css.Style
-text_green_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(209, 250, 229, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_200 : Css.Style
-text_green_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(167, 243, 208, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_300 : Css.Style
-text_green_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(110, 231, 183, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_400 : Css.Style
-text_green_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(52, 211, 153, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_50 : Css.Style
-text_green_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(236, 253, 245, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_500 : Css.Style
-text_green_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(16, 185, 129, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_600 : Css.Style
-text_green_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(5, 150, 105, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_700 : Css.Style
-text_green_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(4, 120, 87, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_800 : Css.Style
-text_green_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(6, 95, 70, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-green-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_green_900 : Css.Style
-text_green_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(6, 78, 59, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_100 : Css.Style
-text_indigo_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(224, 231, 255, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_200 : Css.Style
-text_indigo_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(199, 210, 254, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_300 : Css.Style
-text_indigo_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(165, 180, 252, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_400 : Css.Style
-text_indigo_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(129, 140, 248, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_50 : Css.Style
-text_indigo_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(238, 242, 255, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_500 : Css.Style
-text_indigo_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(99, 102, 241, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_600 : Css.Style
-text_indigo_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(79, 70, 229, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_700 : Css.Style
-text_indigo_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(67, 56, 202, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_800 : Css.Style
-text_indigo_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(55, 48, 163, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-indigo-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_indigo_900 : Css.Style
-text_indigo_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(49, 46, 129, var(--tw-text-opacity))"
-        ]
 
 
 {-| The tailwind class `text-justify`.
@@ -53236,396 +53076,6 @@ text_opacity_95 =
     Css.property "--tw-text-opacity" "0.95"
 
 
-{-| The tailwind class `text-pink-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_100 : Css.Style
-text_pink_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(252, 231, 243, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_200 : Css.Style
-text_pink_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(251, 207, 232, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_300 : Css.Style
-text_pink_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(249, 168, 212, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_400 : Css.Style
-text_pink_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(244, 114, 182, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_50 : Css.Style
-text_pink_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(253, 242, 248, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_500 : Css.Style
-text_pink_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(236, 72, 153, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_600 : Css.Style
-text_pink_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(219, 39, 119, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_700 : Css.Style
-text_pink_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(190, 24, 93, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_800 : Css.Style
-text_pink_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(157, 23, 77, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-pink-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_pink_900 : Css.Style
-text_pink_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(131, 24, 67, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_100 : Css.Style
-text_purple_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(237, 233, 254, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_200 : Css.Style
-text_purple_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(221, 214, 254, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_300 : Css.Style
-text_purple_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(196, 181, 253, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_400 : Css.Style
-text_purple_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(167, 139, 250, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_50 : Css.Style
-text_purple_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(245, 243, 255, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_500 : Css.Style
-text_purple_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(139, 92, 246, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_600 : Css.Style
-text_purple_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(124, 58, 237, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_700 : Css.Style
-text_purple_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(109, 40, 217, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_800 : Css.Style
-text_purple_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(91, 33, 182, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-purple-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_purple_900 : Css.Style
-text_purple_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(76, 29, 149, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-100`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_100 : Css.Style
-text_red_100 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(254, 226, 226, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-200`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_200 : Css.Style
-text_red_200 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(254, 202, 202, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-300`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_300 : Css.Style
-text_red_300 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(252, 165, 165, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-400`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_400 : Css.Style
-text_red_400 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(248, 113, 113, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-50`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_50 : Css.Style
-text_red_50 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(254, 242, 242, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-500`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_500 : Css.Style
-text_red_500 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(239, 68, 68, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-600`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_600 : Css.Style
-text_red_600 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(220, 38, 38, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-700`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_700 : Css.Style
-text_red_700 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(185, 28, 28, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-800`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_800 : Css.Style
-text_red_800 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(153, 27, 27, var(--tw-text-opacity))"
-        ]
-
-
-{-| The tailwind class `text-red-900`.
-
-Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
-
--}
-text_red_900 : Css.Style
-text_red_900 =
-    Css.batch
-        [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(127, 29, 29, var(--tw-text-opacity))"
-        ]
-
-
 {-| The tailwind class `text-right`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
@@ -53698,55 +53148,1043 @@ text_xs =
         ]
 
 
-{-| The tailwind class `text-yellow-100`.
+{-| The tailwind class `text-slate-50`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-text_yellow_100 : Css.Style
-text_yellow_100 =
+text_slate_50 : Css.Style
+text_slate_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(248, 250, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_100 : Css.Style
+text_slate_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(241, 245, 249, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_200 : Css.Style
+text_slate_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(226, 232, 240, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_300 : Css.Style
+text_slate_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(203, 213, 225, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_400 : Css.Style
+text_slate_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(148, 163, 184, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_500 : Css.Style
+text_slate_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(100, 116, 139, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_600 : Css.Style
+text_slate_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(71, 85, 105, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_700 : Css.Style
+text_slate_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(51, 65, 85, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_800 : Css.Style
+text_slate_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(30, 41, 59, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-slate-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_slate_900 : Css.Style
+text_slate_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(15, 23, 42, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_50 : Css.Style
+text_gray_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(249, 250, 251, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_100 : Css.Style
+text_gray_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(243, 244, 246, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_200 : Css.Style
+text_gray_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(229, 231, 235, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_300 : Css.Style
+text_gray_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(209, 213, 219, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_400 : Css.Style
+text_gray_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(156, 163, 175, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_500 : Css.Style
+text_gray_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(107, 114, 128, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_600 : Css.Style
+text_gray_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(75, 85, 99, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_700 : Css.Style
+text_gray_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(55, 65, 81, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_800 : Css.Style
+text_gray_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(31, 41, 55, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-gray-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_gray_900 : Css.Style
+text_gray_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(17, 24, 39, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_50 : Css.Style
+text_zinc_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 250, 250, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_100 : Css.Style
+text_zinc_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(244, 244, 245, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_200 : Css.Style
+text_zinc_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(228, 228, 231, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_300 : Css.Style
+text_zinc_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(212, 212, 216, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_400 : Css.Style
+text_zinc_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(161, 161, 170, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_500 : Css.Style
+text_zinc_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(113, 113, 122, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_600 : Css.Style
+text_zinc_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(82, 82, 91, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_700 : Css.Style
+text_zinc_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(63, 63, 70, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_800 : Css.Style
+text_zinc_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(39, 39, 42, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-zinc-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_zinc_900 : Css.Style
+text_zinc_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(24, 24, 27, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_50 : Css.Style
+text_neutral_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 250, 250, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_100 : Css.Style
+text_neutral_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(245, 245, 245, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_200 : Css.Style
+text_neutral_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(229, 229, 229, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_300 : Css.Style
+text_neutral_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(212, 212, 212, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_400 : Css.Style
+text_neutral_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(163, 163, 163, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_500 : Css.Style
+text_neutral_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(115, 115, 115, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_600 : Css.Style
+text_neutral_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(82, 82, 82, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_700 : Css.Style
+text_neutral_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(64, 64, 64, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_800 : Css.Style
+text_neutral_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(38, 38, 38, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-neutral-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_neutral_900 : Css.Style
+text_neutral_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(23, 23, 23, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_50 : Css.Style
+text_stone_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 250, 249, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_100 : Css.Style
+text_stone_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(245, 245, 244, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_200 : Css.Style
+text_stone_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(231, 229, 228, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_300 : Css.Style
+text_stone_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(214, 211, 209, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_400 : Css.Style
+text_stone_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(168, 162, 158, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_500 : Css.Style
+text_stone_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(120, 113, 108, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_600 : Css.Style
+text_stone_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(87, 83, 78, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_700 : Css.Style
+text_stone_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(68, 64, 60, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_800 : Css.Style
+text_stone_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(41, 37, 36, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-stone-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_stone_900 : Css.Style
+text_stone_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(28, 25, 23, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_50 : Css.Style
+text_red_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 242, 242, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_100 : Css.Style
+text_red_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 226, 226, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_200 : Css.Style
+text_red_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 202, 202, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_300 : Css.Style
+text_red_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(252, 165, 165, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_400 : Css.Style
+text_red_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(248, 113, 113, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_500 : Css.Style
+text_red_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(239, 68, 68, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_600 : Css.Style
+text_red_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(220, 38, 38, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_700 : Css.Style
+text_red_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(185, 28, 28, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_800 : Css.Style
+text_red_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(153, 27, 27, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-red-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_red_900 : Css.Style
+text_red_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(127, 29, 29, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_50 : Css.Style
+text_orange_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(255, 247, 237, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_100 : Css.Style
+text_orange_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(255, 237, 213, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_200 : Css.Style
+text_orange_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 215, 170, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_300 : Css.Style
+text_orange_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(253, 186, 116, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_400 : Css.Style
+text_orange_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(251, 146, 60, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_500 : Css.Style
+text_orange_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(249, 115, 22, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_600 : Css.Style
+text_orange_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(234, 88, 12, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_700 : Css.Style
+text_orange_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(194, 65, 12, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_800 : Css.Style
+text_orange_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(154, 52, 18, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-orange-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_orange_900 : Css.Style
+text_orange_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(124, 45, 18, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_50 : Css.Style
+text_amber_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(255, 251, 235, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_100 : Css.Style
+text_amber_100 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
         , Css.property "color" "rgba(254, 243, 199, var(--tw-text-opacity))"
         ]
 
 
-{-| The tailwind class `text-yellow-200`.
+{-| The tailwind class `text-amber-200`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-text_yellow_200 : Css.Style
-text_yellow_200 =
+text_amber_200 : Css.Style
+text_amber_200 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
         , Css.property "color" "rgba(253, 230, 138, var(--tw-text-opacity))"
         ]
 
 
-{-| The tailwind class `text-yellow-300`.
+{-| The tailwind class `text-amber-300`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-text_yellow_300 : Css.Style
-text_yellow_300 =
+text_amber_300 : Css.Style
+text_amber_300 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
         , Css.property "color" "rgba(252, 211, 77, var(--tw-text-opacity))"
         ]
 
 
-{-| The tailwind class `text-yellow-400`.
+{-| The tailwind class `text-amber-400`.
 
 Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
 
 -}
-text_yellow_400 : Css.Style
-text_yellow_400 =
+text_amber_400 : Css.Style
+text_amber_400 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
         , Css.property "color" "rgba(251, 191, 36, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_500 : Css.Style
+text_amber_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(245, 158, 11, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_600 : Css.Style
+text_amber_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(217, 119, 6, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_700 : Css.Style
+text_amber_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(180, 83, 9, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_800 : Css.Style
+text_amber_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(146, 64, 14, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-amber-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_amber_900 : Css.Style
+text_amber_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(120, 53, 15, var(--tw-text-opacity))"
         ]
 
 
@@ -53759,7 +54197,59 @@ text_yellow_50 : Css.Style
 text_yellow_50 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(255, 251, 235, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(254, 252, 232, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-yellow-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_yellow_100 : Css.Style
+text_yellow_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 249, 195, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-yellow-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_yellow_200 : Css.Style
+text_yellow_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 240, 138, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-yellow-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_yellow_300 : Css.Style
+text_yellow_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(253, 224, 71, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-yellow-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_yellow_400 : Css.Style
+text_yellow_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 204, 21, var(--tw-text-opacity))"
         ]
 
 
@@ -53772,7 +54262,7 @@ text_yellow_500 : Css.Style
 text_yellow_500 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(245, 158, 11, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(234, 179, 8, var(--tw-text-opacity))"
         ]
 
 
@@ -53785,7 +54275,7 @@ text_yellow_600 : Css.Style
 text_yellow_600 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(217, 119, 6, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(202, 138, 4, var(--tw-text-opacity))"
         ]
 
 
@@ -53798,7 +54288,7 @@ text_yellow_700 : Css.Style
 text_yellow_700 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(180, 83, 9, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(161, 98, 7, var(--tw-text-opacity))"
         ]
 
 
@@ -53811,7 +54301,7 @@ text_yellow_800 : Css.Style
 text_yellow_800 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(146, 64, 14, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(133, 77, 14, var(--tw-text-opacity))"
         ]
 
 
@@ -53824,7 +54314,1697 @@ text_yellow_900 : Css.Style
 text_yellow_900 =
     Css.batch
         [ Css.property "--tw-text-opacity" "1"
-        , Css.property "color" "rgba(120, 53, 15, var(--tw-text-opacity))"
+        , Css.property "color" "rgba(113, 63, 18, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_50 : Css.Style
+text_lime_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(247, 254, 231, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_100 : Css.Style
+text_lime_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(236, 252, 203, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_200 : Css.Style
+text_lime_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(217, 249, 157, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_300 : Css.Style
+text_lime_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(190, 242, 100, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_400 : Css.Style
+text_lime_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(163, 230, 53, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_500 : Css.Style
+text_lime_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(132, 204, 22, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_600 : Css.Style
+text_lime_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(101, 163, 13, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_700 : Css.Style
+text_lime_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(77, 124, 15, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_800 : Css.Style
+text_lime_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(63, 98, 18, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-lime-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_lime_900 : Css.Style
+text_lime_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(54, 83, 20, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_50 : Css.Style
+text_green_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(240, 253, 244, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_100 : Css.Style
+text_green_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(220, 252, 231, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_200 : Css.Style
+text_green_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(187, 247, 208, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_300 : Css.Style
+text_green_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(134, 239, 172, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_400 : Css.Style
+text_green_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(74, 222, 128, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_500 : Css.Style
+text_green_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(34, 197, 94, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_600 : Css.Style
+text_green_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(22, 163, 74, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_700 : Css.Style
+text_green_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(21, 128, 61, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_800 : Css.Style
+text_green_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(22, 101, 52, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-green-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_green_900 : Css.Style
+text_green_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(20, 83, 45, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_50 : Css.Style
+text_emerald_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(236, 253, 245, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_100 : Css.Style
+text_emerald_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(209, 250, 229, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_200 : Css.Style
+text_emerald_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(167, 243, 208, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_300 : Css.Style
+text_emerald_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(110, 231, 183, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_400 : Css.Style
+text_emerald_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(52, 211, 153, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_500 : Css.Style
+text_emerald_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(16, 185, 129, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_600 : Css.Style
+text_emerald_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(5, 150, 105, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_700 : Css.Style
+text_emerald_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(4, 120, 87, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_800 : Css.Style
+text_emerald_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(6, 95, 70, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-emerald-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_emerald_900 : Css.Style
+text_emerald_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(6, 78, 59, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_50 : Css.Style
+text_teal_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(240, 253, 250, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_100 : Css.Style
+text_teal_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(204, 251, 241, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_200 : Css.Style
+text_teal_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(153, 246, 228, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_300 : Css.Style
+text_teal_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(94, 234, 212, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_400 : Css.Style
+text_teal_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(45, 212, 191, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_500 : Css.Style
+text_teal_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(20, 184, 166, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_600 : Css.Style
+text_teal_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(13, 148, 136, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_700 : Css.Style
+text_teal_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(15, 118, 110, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_800 : Css.Style
+text_teal_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(17, 94, 89, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-teal-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_teal_900 : Css.Style
+text_teal_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(19, 78, 74, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_50 : Css.Style
+text_cyan_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(236, 254, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_100 : Css.Style
+text_cyan_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(207, 250, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_200 : Css.Style
+text_cyan_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(165, 243, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_300 : Css.Style
+text_cyan_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(103, 232, 249, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_400 : Css.Style
+text_cyan_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(34, 211, 238, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_500 : Css.Style
+text_cyan_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(6, 182, 212, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_600 : Css.Style
+text_cyan_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(8, 145, 178, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_700 : Css.Style
+text_cyan_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(14, 116, 144, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_800 : Css.Style
+text_cyan_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(21, 94, 117, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-cyan-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_cyan_900 : Css.Style
+text_cyan_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(22, 78, 99, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_50 : Css.Style
+text_sky_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(240, 249, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_100 : Css.Style
+text_sky_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(224, 242, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_200 : Css.Style
+text_sky_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(186, 230, 253, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_300 : Css.Style
+text_sky_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(125, 211, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_400 : Css.Style
+text_sky_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(56, 189, 248, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_500 : Css.Style
+text_sky_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(14, 165, 233, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_600 : Css.Style
+text_sky_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(2, 132, 199, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_700 : Css.Style
+text_sky_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(3, 105, 161, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_800 : Css.Style
+text_sky_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(7, 89, 133, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-sky-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_sky_900 : Css.Style
+text_sky_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(12, 74, 110, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_50 : Css.Style
+text_blue_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(239, 246, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_100 : Css.Style
+text_blue_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(219, 234, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_200 : Css.Style
+text_blue_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(191, 219, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_300 : Css.Style
+text_blue_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(147, 197, 253, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_400 : Css.Style
+text_blue_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(96, 165, 250, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_500 : Css.Style
+text_blue_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(59, 130, 246, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_600 : Css.Style
+text_blue_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(37, 99, 235, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_700 : Css.Style
+text_blue_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(29, 78, 216, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_800 : Css.Style
+text_blue_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(30, 64, 175, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-blue-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_blue_900 : Css.Style
+text_blue_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(30, 58, 138, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_50 : Css.Style
+text_indigo_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(238, 242, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_100 : Css.Style
+text_indigo_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(224, 231, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_200 : Css.Style
+text_indigo_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(199, 210, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_300 : Css.Style
+text_indigo_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(165, 180, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_400 : Css.Style
+text_indigo_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(129, 140, 248, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_500 : Css.Style
+text_indigo_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(99, 102, 241, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_600 : Css.Style
+text_indigo_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(79, 70, 229, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_700 : Css.Style
+text_indigo_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(67, 56, 202, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_800 : Css.Style
+text_indigo_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(55, 48, 163, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-indigo-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_indigo_900 : Css.Style
+text_indigo_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(49, 46, 129, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_50 : Css.Style
+text_violet_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(245, 243, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_100 : Css.Style
+text_violet_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(237, 233, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_200 : Css.Style
+text_violet_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(221, 214, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_300 : Css.Style
+text_violet_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(196, 181, 253, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_400 : Css.Style
+text_violet_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(167, 139, 250, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_500 : Css.Style
+text_violet_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(139, 92, 246, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_600 : Css.Style
+text_violet_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(124, 58, 237, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_700 : Css.Style
+text_violet_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(109, 40, 217, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_800 : Css.Style
+text_violet_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(91, 33, 182, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-violet-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_violet_900 : Css.Style
+text_violet_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(76, 29, 149, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_50 : Css.Style
+text_purple_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 245, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_100 : Css.Style
+text_purple_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(243, 232, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_200 : Css.Style
+text_purple_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(233, 213, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_300 : Css.Style
+text_purple_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(216, 180, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_400 : Css.Style
+text_purple_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(192, 132, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_500 : Css.Style
+text_purple_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(168, 85, 247, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_600 : Css.Style
+text_purple_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(147, 51, 234, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_700 : Css.Style
+text_purple_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(126, 34, 206, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_800 : Css.Style
+text_purple_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(107, 33, 168, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-purple-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_purple_900 : Css.Style
+text_purple_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(88, 28, 135, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_50 : Css.Style
+text_fuchsia_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(253, 244, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_100 : Css.Style
+text_fuchsia_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(250, 232, 255, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_200 : Css.Style
+text_fuchsia_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(245, 208, 254, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_300 : Css.Style
+text_fuchsia_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(240, 171, 252, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_400 : Css.Style
+text_fuchsia_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(232, 121, 249, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_500 : Css.Style
+text_fuchsia_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(217, 70, 239, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_600 : Css.Style
+text_fuchsia_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(192, 38, 211, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_700 : Css.Style
+text_fuchsia_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(162, 28, 175, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_800 : Css.Style
+text_fuchsia_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(134, 25, 143, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-fuchsia-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_fuchsia_900 : Css.Style
+text_fuchsia_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(112, 26, 117, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_50 : Css.Style
+text_pink_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(253, 242, 248, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_100 : Css.Style
+text_pink_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(252, 231, 243, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_200 : Css.Style
+text_pink_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(251, 207, 232, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_300 : Css.Style
+text_pink_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(249, 168, 212, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_400 : Css.Style
+text_pink_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(244, 114, 182, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_500 : Css.Style
+text_pink_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(236, 72, 153, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_600 : Css.Style
+text_pink_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(219, 39, 119, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_700 : Css.Style
+text_pink_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(190, 24, 93, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_800 : Css.Style
+text_pink_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(157, 23, 77, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-pink-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_pink_900 : Css.Style
+text_pink_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(131, 24, 67, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-50`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_50 : Css.Style
+text_rose_50 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(255, 241, 242, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-100`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_100 : Css.Style
+text_rose_100 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(255, 228, 230, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-200`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_200 : Css.Style
+text_rose_200 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(254, 205, 211, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-300`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_300 : Css.Style
+text_rose_300 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(253, 164, 175, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-400`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_400 : Css.Style
+text_rose_400 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(251, 113, 133, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-500`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_500 : Css.Style
+text_rose_500 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(244, 63, 94, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-600`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_600 : Css.Style
+text_rose_600 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(225, 29, 72, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-700`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_700 : Css.Style
+text_rose_700 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(190, 18, 60, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-800`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_800 : Css.Style
+text_rose_800 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(159, 18, 57, var(--tw-text-opacity))"
+        ]
+
+
+{-| The tailwind class `text-rose-900`.
+
+Make sure to check out the [tailwind documentation](https://tailwindcss.com/docs)!
+
+-}
+text_rose_900 : Css.Style
+text_rose_900 =
+    Css.batch
+        [ Css.property "--tw-text-opacity" "1"
+        , Css.property "color" "rgba(136, 19, 55, var(--tw-text-opacity))"
         ]
 
 
