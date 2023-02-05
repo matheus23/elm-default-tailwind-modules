@@ -19,6 +19,8 @@
     "tslib": "^2.4.0"
   },
   "scripts": {
-    "start": "node generate.js"
+    "start": "node generate.js",
+    "docs-size": "elm make --docs=docs.json && wc -c docs.json",
+    "docs-limit": "echo '768000 https://github.com/elm/package.elm-lang.org/blob/97c2e661fb988560b7d4da1dd6cdcfb3ea4b5528/src/backend/Package/Register.hs#L238'"
   }
 }

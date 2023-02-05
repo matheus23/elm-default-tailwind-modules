@@ -51,6 +51,17 @@ ${definedNames.map(c => `@docs ${c}`).join("\n")}
 
 -}
 `,
+
+    utilitiesDefinition: (_elmName, declaration) => `
+{-| The [tailwind](https://tailwindcss.com/docs) class \`${declaration.originalClassName}\`.
+-}
+`,
+
+    utilitiesParameterizedDefinition: (_name, declaration) => `
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form \`${declaration.originalClassName}\`, but with the color replaced by the first parameter.
+-}`,
+
+
 };
 
 
