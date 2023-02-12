@@ -3,10 +3,11 @@
     "name": "matheus23/elm-default-tailwind-modules",
     "summary": "The default tailwind classes as elm-css, generated using elm-tailwind-modules",
     "license": "MIT",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "exposed-modules": [
         "Tailwind.Utilities",
-        "Tailwind.Breakpoints"
+        "Tailwind.Breakpoints",
+        "Tailwind.Theme"
     ],
     "elm-version": "0.19.1 <= v <= 0.20.0",
     "dependencies": {

@@ -4211,7 +4211,7 @@ This module contains
     You can browse the documentation on
     [tailwind's website](https://tailwindcss.com/docs)
 
-These utilities were generated using [elm-tailwind-modules](https://github.com/matheus23/elm-tailwind-modules) version 0.5.0-alpha1.
+These utilities were generated using [elm-tailwind-modules](https://github.com/matheus23/elm-tailwind-modules) version 0.5.0-alpha3.
 
 @docs globalStyles
 @docs absolute

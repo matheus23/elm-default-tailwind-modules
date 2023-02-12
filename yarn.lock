@@ -258,10 +258,10 @@ electron-to-chromium@^1.4.202:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.233.tgz#aa142e45468bda111b88abc9cc59d573b75d6a60"
   integrity sha512-ejwIKXTg1wqbmkcRJh9Ur3hFGHFDZDw1POzdsVrB2WZjgRuRMHIQQKNpe64N/qh3ZtH2otEoRoS+s6arAAuAAw==
 
-elm-tailwind-modules@0.5.0-alpha1:
-  version "0.5.0-alpha1"
-  resolved "https://registry.yarnpkg.com/elm-tailwind-modules/-/elm-tailwind-modules-0.5.0-alpha1.tgz#1432dcf8a608b57f0e99ec545f55df8d3b46cfe3"
-  integrity sha512-dnBw4TkMuAbL6R6AUlfwjDlrbVzg49pMEY9ic3XveEAB/S0Ew41tO+3KS9UJSqf8o6sQYx1TOe9qnVpH8puEvA==
+elm-tailwind-modules@0.5.0-alpha3:
+  version "0.5.0-alpha3"
+  resolved "https://registry.yarnpkg.com/elm-tailwind-modules/-/elm-tailwind-modules-0.5.0-alpha3.tgz#af6f763bda44692835d430cc62ab269d587d4081"
+  integrity sha512-OCeSP22bEUPZpwTsGU4VQlTNH8p6jb2916aBAwJvc4nzPOeMQLOOhHoSn8ff9XzF2aMfmPlNg/az9RVeODbB5A==
   dependencies:
     chalk "^4.1.1"
     color-name "^1.1.4"
