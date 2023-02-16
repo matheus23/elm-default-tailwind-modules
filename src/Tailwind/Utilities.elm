@@ -516,6 +516,7 @@ module Tailwind.Utilities exposing
     , break_inside_avoid
     , break_inside_avoid_column
     , break_inside_avoid_page
+    , break_keep
     , break_normal
     , break_words
     , brightness_0
@@ -577,6 +578,7 @@ module Tailwind.Utilities exposing
     , col_start_8
     , col_start_9
     , col_start_auto
+    , collapse
     , columns_1
     , columns_10
     , columns_11
@@ -605,6 +607,7 @@ module Tailwind.Utilities exposing
     , columns_xs
     , container
     , content_around
+    , content_baseline
     , content_between
     , content_center
     , content_end
@@ -732,6 +735,7 @@ module Tailwind.Utilities exposing
     , ease_linear
     , ease_out
     , fill_color
+    , fill_none
     , filter
     , filter_none
     , fixed
@@ -1307,6 +1311,7 @@ module Tailwind.Utilities exposing
     , max_h_full
     , max_h_max
     , max_h_min
+    , max_h_none
     , max_h_px
     , max_h_screen
     , max_w_0
@@ -2093,6 +2098,11 @@ module Tailwind.Utilities exposing
     , neg_order_first
     , neg_order_last
     , neg_order_none
+    , neg_outline_offset_0
+    , neg_outline_offset_1
+    , neg_outline_offset_2
+    , neg_outline_offset_4
+    , neg_outline_offset_8
     , neg_right_0
     , neg_right_0_dot_5
     , neg_right_1
@@ -2709,7 +2719,6 @@ module Tailwind.Utilities exposing
     , outline_dashed
     , outline_dotted
     , outline_double
-    , outline_hidden
     , outline_none
     , outline_offset_0
     , outline_offset_1
@@ -2848,12 +2857,14 @@ module Tailwind.Utilities exposing
     , pl_96
     , pl_px
     , place_content_around
+    , place_content_baseline
     , place_content_between
     , place_content_center
     , place_content_end
     , place_content_evenly
     , place_content_start
     , place_content_stretch
+    , place_items_baseline
     , place_items_center
     , place_items_end
     , place_items_start
@@ -3897,6 +3908,7 @@ module Tailwind.Utilities exposing
     , stroke_1
     , stroke_2
     , stroke_color
+    , stroke_none
     , subpixel_antialiased
     , table
     , table_auto
@@ -4207,11 +4219,11 @@ This module contains
 
 1.  Tailwind's style reset in the `globalStyles` definition.
     Make sure to include this in your HTML via elm-css' `Css.Global.global` function.
-2.  All default tailwind css utility classes from **tailwind version 3.1.8.**
+2.  All default tailwind css utility classes from **tailwind version 3.2.6.**
     You can browse the documentation on
     [tailwind's website](https://tailwindcss.com/docs)
 
-These utilities were generated using [elm-tailwind-modules](https://github.com/matheus23/elm-tailwind-modules) version 0.5.0-alpha3.
+These utilities were generated using [elm-tailwind-modules](https://github.com/matheus23/elm-tailwind-modules) version 0.5.0-alpha4.
 
 @docs globalStyles
 @docs absolute
@@ -4730,6 +4742,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs break_inside_avoid
 @docs break_inside_avoid_column
 @docs break_inside_avoid_page
+@docs break_keep
 @docs break_normal
 @docs break_words
 @docs brightness_0
@@ -4791,6 +4804,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs col_start_8
 @docs col_start_9
 @docs col_start_auto
+@docs collapse
 @docs columns_1
 @docs columns_10
 @docs columns_11
@@ -4819,6 +4833,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs columns_xs
 @docs container
 @docs content_around
+@docs content_baseline
 @docs content_between
 @docs content_center
 @docs content_end
@@ -4946,6 +4961,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs ease_linear
 @docs ease_out
 @docs fill_color
+@docs fill_none
 @docs filter
 @docs filter_none
 @docs fixed
@@ -5521,6 +5537,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs max_h_full
 @docs max_h_max
 @docs max_h_min
+@docs max_h_none
 @docs max_h_px
 @docs max_h_screen
 @docs max_w_0
@@ -6307,6 +6324,11 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs neg_order_first
 @docs neg_order_last
 @docs neg_order_none
+@docs neg_outline_offset_0
+@docs neg_outline_offset_1
+@docs neg_outline_offset_2
+@docs neg_outline_offset_4
+@docs neg_outline_offset_8
 @docs neg_right_0
 @docs neg_right_0_dot_5
 @docs neg_right_1
@@ -6923,7 +6945,6 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs outline_dashed
 @docs outline_dotted
 @docs outline_double
-@docs outline_hidden
 @docs outline_none
 @docs outline_offset_0
 @docs outline_offset_1
@@ -7062,12 +7083,14 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs pl_96
 @docs pl_px
 @docs place_content_around
+@docs place_content_baseline
 @docs place_content_between
 @docs place_content_center
 @docs place_content_end
 @docs place_content_evenly
 @docs place_content_start
 @docs place_content_stretch
+@docs place_items_baseline
 @docs place_items_center
 @docs place_items_end
 @docs place_items_start
@@ -8111,6 +8134,7 @@ These utilities were generated using [elm-tailwind-modules](https://github.com/m
 @docs stroke_1
 @docs stroke_2
 @docs stroke_color
+@docs stroke_none
 @docs subpixel_antialiased
 @docs table
 @docs table_auto
@@ -8417,6 +8441,7 @@ import Css
 import Css.Animations
 import Css.Global
 import Css.Media
+import Tailwind.Color as Tw
 import Tailwind.Theme exposing (Color)
 
 
@@ -8463,6 +8488,7 @@ globalStyles =
         , Css.property "-o-tab-size" "4"
         , Css.property "tab-size" "4"
         , Css.property "font-family" "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+        , Css.property "font-feature-settings" "normal"
         ]
     , Css.Global.selector "body"
         [ Css.property "margin" "0"
@@ -8594,6 +8620,9 @@ globalStyles =
     , Css.Global.selector "img,\nvideo"
         [ Css.property "max-width" "100%"
         , Css.property "height" "auto"
+        ]
+    , Css.Global.selector "[hidden]"
+        [ Css.property "display" "none"
         ]
     , Css.Global.selector "*, ::before, ::after"
         [ Css.property "--tw-border-spacing-x" "0"
@@ -13877,6 +13906,14 @@ break_inside_avoid_page =
     Css.property "break-inside" "avoid-page"
 
 
+{-| The [tailwind](https://tailwindcss.com/docs) class `break-keep`.
+-}
+
+break_keep : Css.Style
+break_keep =
+    Css.property "word-break" "keep-all"
+
+
 {-| The [tailwind](https://tailwindcss.com/docs) class `break-normal`.
 -}
 
@@ -14393,6 +14430,14 @@ col_start_auto =
     Css.property "grid-column-start" "auto"
 
 
+{-| The [tailwind](https://tailwindcss.com/docs) class `collapse`.
+-}
+
+collapse : Css.Style
+collapse =
+    Css.property "visibility" "collapse"
+
+
 {-| The [tailwind](https://tailwindcss.com/docs) class `columns-1`.
 -}
 
@@ -14710,6 +14755,14 @@ container =
 content_around : Css.Style
 content_around =
     Css.property "align-content" "space-around"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `content-baseline`.
+-}
+
+content_baseline : Css.Style
+content_baseline =
+    Css.property "align-content" "baseline"
 
 
 {-| The [tailwind](https://tailwindcss.com/docs) class `content-between`.
@@ -15925,6 +15978,14 @@ ease_linear =
 ease_out : Css.Style
 ease_out =
     Css.property "transition-timing-function" "cubic-bezier(0, 0, 0.2, 1)"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `fill-none`.
+-}
+
+fill_none : Css.Style
+fill_none =
+    Css.property "fill" "none"
 
 
 {-| The [tailwind](https://tailwindcss.com/docs) class `filter`.
@@ -21457,6 +21518,14 @@ max_h_min =
         , Css.property "max-height" "-moz-min-content"
         , Css.property "max-height" "min-content"
         ]
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `max-h-none`.
+-}
+
+max_h_none : Css.Style
+max_h_none =
+    Css.property "max-height" "none"
 
 
 {-| The [tailwind](https://tailwindcss.com/docs) class `max-h-px`.
@@ -28713,6 +28782,46 @@ neg_order_none =
     Css.property "order" "0"
 
 
+{-| The [tailwind](https://tailwindcss.com/docs) class `-outline-offset-0`.
+-}
+
+neg_outline_offset_0 : Css.Style
+neg_outline_offset_0 =
+    Css.property "outline-offset" "-0px"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `-outline-offset-1`.
+-}
+
+neg_outline_offset_1 : Css.Style
+neg_outline_offset_1 =
+    Css.property "outline-offset" "-1px"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `-outline-offset-2`.
+-}
+
+neg_outline_offset_2 : Css.Style
+neg_outline_offset_2 =
+    Css.property "outline-offset" "-2px"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `-outline-offset-4`.
+-}
+
+neg_outline_offset_4 : Css.Style
+neg_outline_offset_4 =
+    Css.property "outline-offset" "-4px"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `-outline-offset-8`.
+-}
+
+neg_outline_offset_8 : Css.Style
+neg_outline_offset_8 =
+    Css.property "outline-offset" "-8px"
+
+
 {-| The [tailwind](https://tailwindcss.com/docs) class `-right-0`.
 -}
 
@@ -34738,14 +34847,6 @@ outline_double =
     Css.property "outline-style" "double"
 
 
-{-| The [tailwind](https://tailwindcss.com/docs) class `outline-hidden`.
--}
-
-outline_hidden : Css.Style
-outline_hidden =
-    Css.property "outline-style" "hidden"
-
-
 {-| The [tailwind](https://tailwindcss.com/docs) class `outline-none`.
 -}
 
@@ -35856,6 +35957,14 @@ place_content_around =
     Css.property "place-content" "space-around"
 
 
+{-| The [tailwind](https://tailwindcss.com/docs) class `place-content-baseline`.
+-}
+
+place_content_baseline : Css.Style
+place_content_baseline =
+    Css.property "place-content" "baseline"
+
+
 {-| The [tailwind](https://tailwindcss.com/docs) class `place-content-between`.
 -}
 
@@ -35902,6 +36011,14 @@ place_content_start =
 place_content_stretch : Css.Style
 place_content_stretch =
     Css.property "place-content" "stretch"
+
+
+{-| The [tailwind](https://tailwindcss.com/docs) class `place-items-baseline`.
+-}
+
+place_items_baseline : Css.Style
+place_items_baseline =
+    Css.property "place-items" "baseline"
 
 
 {-| The [tailwind](https://tailwindcss.com/docs) class `place-items-center`.
@@ -47787,6 +47904,14 @@ stroke_2 =
     Css.property "stroke-width" "2"
 
 
+{-| The [tailwind](https://tailwindcss.com/docs) class `stroke-none`.
+-}
+
+stroke_none : Css.Style
+stroke_none =
+    Css.property "stroke" "none"
+
+
 {-| The [tailwind](https://tailwindcss.com/docs) class `subpixel-antialiased`.
 -}
 
@@ -48755,9 +48880,9 @@ transform_none =
 transition : Css.Style
 transition =
     Css.batch
-        [ Css.property "transition-property" "color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter"
-        , Css.property "transition-property" "color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter"
-        , Css.property "transition-property" "color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter"
+        [ Css.property "transition-property" "color, background-color, border-color, outline-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter"
+        , Css.property "transition-property" "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter"
+        , Css.property "transition-property" "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter"
         , Css.property "transition-timing-function" "cubic-bezier(0.4, 0, 0.2, 1)"
         , Css.property "transition-duration" "150ms"
         ]
@@ -48781,9 +48906,9 @@ transition_all =
 transition_colors : Css.Style
 transition_colors =
     Css.batch
-        [ Css.property "transition-property" "color, background-color, border-color, fill, stroke, -webkit-text-decoration-color"
-        , Css.property "transition-property" "color, background-color, border-color, text-decoration-color, fill, stroke"
-        , Css.property "transition-property" "color, background-color, border-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color"
+        [ Css.property "transition-property" "color, background-color, border-color, outline-color, fill, stroke, -webkit-text-decoration-color"
+        , Css.property "transition-property" "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke"
+        , Css.property "transition-property" "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color"
         , Css.property "transition-timing-function" "cubic-bezier(0.4, 0, 0.2, 1)"
         , Css.property "transition-duration" "150ms"
         ]
@@ -50520,194 +50645,194 @@ z_auto =
     Css.property "z-index" "auto"
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `accent-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `accent-zinc-900`, but with the color replaced by the first parameter.
 -}
 accent_color : Color -> Css.Style
 accent_color color =
-    Tailwind.Theme.internal.propertyWithColor "accent-color" (\c -> c) Nothing color
+    Tw.propertyWithColor "accent-color" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `bg-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `bg-zinc-900`, but with the color replaced by the first parameter.
 -}
 bg_color : Color -> Css.Style
 bg_color color =
-    Tailwind.Theme.internal.propertyWithColor "background-color" (\c -> c) (Just "--tw-bg-opacity") color
+    Tw.propertyWithColor "background-color" (\c -> c) (Just "--tw-bg-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-b-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-b-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_b_color : Color -> Css.Style
 border_b_color color =
-    Tailwind.Theme.internal.propertyWithColor "border-bottom-color" (\c -> c) (Just "--tw-border-opacity") color
+    Tw.propertyWithColor "border-bottom-color" (\c -> c) (Just "--tw-border-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_color : Color -> Css.Style
 border_color color =
-    Tailwind.Theme.internal.propertyWithColor "border-color" (\c -> c) (Just "--tw-border-opacity") color
+    Tw.propertyWithColor "border-color" (\c -> c) (Just "--tw-border-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-l-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-l-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_l_color : Color -> Css.Style
 border_l_color color =
-    Tailwind.Theme.internal.propertyWithColor "border-left-color" (\c -> c) (Just "--tw-border-opacity") color
+    Tw.propertyWithColor "border-left-color" (\c -> c) (Just "--tw-border-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-r-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-r-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_r_color : Color -> Css.Style
 border_r_color color =
-    Tailwind.Theme.internal.propertyWithColor "border-right-color" (\c -> c) (Just "--tw-border-opacity") color
+    Tw.propertyWithColor "border-right-color" (\c -> c) (Just "--tw-border-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-t-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-t-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_t_color : Color -> Css.Style
 border_t_color color =
-    Tailwind.Theme.internal.propertyWithColor "border-top-color" (\c -> c) (Just "--tw-border-opacity") color
+    Tw.propertyWithColor "border-top-color" (\c -> c) (Just "--tw-border-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-x-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-x-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_x_color : Color -> Css.Style
 border_x_color color =
     Css.batch
-        [ Tailwind.Theme.internal.propertyWithColor "border-left-color" (\c -> c) (Just "--tw-border-opacity") color
-        , Tailwind.Theme.internal.propertyWithColor "border-right-color" (\c -> c) (Just "--tw-border-opacity") color
+        [ Tw.propertyWithColor "border-left-color" (\c -> c) (Just "--tw-border-opacity") color
+        , Tw.propertyWithColor "border-right-color" (\c -> c) (Just "--tw-border-opacity") color
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-y-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `border-y-zinc-900`, but with the color replaced by the first parameter.
 -}
 border_y_color : Color -> Css.Style
 border_y_color color =
     Css.batch
-        [ Tailwind.Theme.internal.propertyWithColor "border-top-color" (\c -> c) (Just "--tw-border-opacity") color
-        , Tailwind.Theme.internal.propertyWithColor "border-bottom-color" (\c -> c) (Just "--tw-border-opacity") color
+        [ Tw.propertyWithColor "border-top-color" (\c -> c) (Just "--tw-border-opacity") color
+        , Tw.propertyWithColor "border-bottom-color" (\c -> c) (Just "--tw-border-opacity") color
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `caret-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `caret-zinc-900`, but with the color replaced by the first parameter.
 -}
 caret_color : Color -> Css.Style
 caret_color color =
-    Tailwind.Theme.internal.propertyWithColor "caret-color" (\c -> c) Nothing color
+    Tw.propertyWithColor "caret-color" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `decoration-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `decoration-zinc-900`, but with the color replaced by the first parameter.
 -}
 decoration_color : Color -> Css.Style
 decoration_color color =
     Css.batch
-        [ Tailwind.Theme.internal.propertyWithColor "-webkit-text-decoration-color" (\c -> c) Nothing color
-        , Tailwind.Theme.internal.propertyWithColor "text-decoration-color" (\c -> c) Nothing color
+        [ Tw.propertyWithColor "-webkit-text-decoration-color" (\c -> c) Nothing color
+        , Tw.propertyWithColor "text-decoration-color" (\c -> c) Nothing color
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `divide-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `divide-zinc-900`, but with the color replaced by the first parameter.
 -}
 divide_color : Color -> Css.Style
 divide_color color =
     Css.Global.children
         [ Css.Global.selector ":not([hidden]) ~ :not([hidden])"
-            [ Tailwind.Theme.internal.propertyWithColor "border-color" (\c -> c) (Just "--tw-divide-opacity") color
+            [ Tw.propertyWithColor "border-color" (\c -> c) (Just "--tw-divide-opacity") color
             ]
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `fill-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `fill-zinc-900`, but with the color replaced by the first parameter.
 -}
 fill_color : Color -> Css.Style
 fill_color color =
-    Tailwind.Theme.internal.propertyWithColor "fill" (\c -> c) Nothing color
+    Tw.propertyWithColor "fill" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `from-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `from-zinc-900`, but with the color replaced by the first parameter.
 -}
 from_color : Color -> Css.Style
 from_color color =
     Css.batch
-        [ Tailwind.Theme.internal.propertyWithColor "--tw-gradient-from" (\c -> c) Nothing color
-        , Tailwind.Theme.withOpacity (Tailwind.Theme.Opacity "0") color
-            |> Tailwind.Theme.internal.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing
+        [ Tw.propertyWithColor "--tw-gradient-from" (\c -> c) Nothing color
+        , Tw.withOpacity (Tw.Opacity "0") color
+            |> Tw.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing
         , Css.property "--tw-gradient-stops" "var(--tw-gradient-from), var(--tw-gradient-to)"
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `outline-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `outline-zinc-900`, but with the color replaced by the first parameter.
 -}
 outline_color : Color -> Css.Style
 outline_color color =
-    Tailwind.Theme.internal.propertyWithColor "outline-color" (\c -> c) Nothing color
+    Tw.propertyWithColor "outline-color" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `placeholder-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `placeholder-zinc-900`, but with the color replaced by the first parameter.
 -}
 placeholder_color : Color -> Css.Style
 placeholder_color color =
     Css.batch
         [ Css.pseudoElement "placeholder"
-            [ Tailwind.Theme.internal.propertyWithColor "color" (\c -> c) (Just "--tw-placeholder-opacity") color
+            [ Tw.propertyWithColor "color" (\c -> c) (Just "--tw-placeholder-opacity") color
             ]
         , Css.pseudoElement "-moz-placeholder"
-            [ Tailwind.Theme.internal.propertyWithColor "color" (\c -> c) (Just "--tw-placeholder-opacity") color
+            [ Tw.propertyWithColor "color" (\c -> c) (Just "--tw-placeholder-opacity") color
             ]
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `ring-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `ring-zinc-900`, but with the color replaced by the first parameter.
 -}
 ring_color : Color -> Css.Style
 ring_color color =
-    Tailwind.Theme.internal.propertyWithColor "--tw-ring-color" (\c -> c) (Just "--tw-ring-opacity") color
+    Tw.propertyWithColor "--tw-ring-color" (\c -> c) (Just "--tw-ring-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `ring-offset-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `ring-offset-zinc-900`, but with the color replaced by the first parameter.
 -}
 ring_offset_color : Color -> Css.Style
 ring_offset_color color =
-    Tailwind.Theme.internal.propertyWithColor "--tw-ring-offset-color" (\c -> c) Nothing color
+    Tw.propertyWithColor "--tw-ring-offset-color" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `shadow-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `shadow-zinc-900`, but with the color replaced by the first parameter.
 -}
 shadow_color : Color -> Css.Style
 shadow_color color =
     Css.batch
-        [ Tailwind.Theme.internal.propertyWithColor "--tw-shadow-color" (\c -> c) Nothing color
+        [ Tw.propertyWithColor "--tw-shadow-color" (\c -> c) Nothing color
         , Css.property "--tw-shadow" "var(--tw-shadow-colored)"
         ]
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `stroke-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `stroke-zinc-900`, but with the color replaced by the first parameter.
 -}
 stroke_color : Color -> Css.Style
 stroke_color color =
-    Tailwind.Theme.internal.propertyWithColor "stroke" (\c -> c) Nothing color
+    Tw.propertyWithColor "stroke" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `text-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `text-zinc-900`, but with the color replaced by the first parameter.
 -}
 text_color : Color -> Css.Style
 text_color color =
-    Tailwind.Theme.internal.propertyWithColor "color" (\c -> c) (Just "--tw-text-opacity") color
+    Tw.propertyWithColor "color" (\c -> c) (Just "--tw-text-opacity") color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `to-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `to-zinc-900`, but with the color replaced by the first parameter.
 -}
 to_color : Color -> Css.Style
 to_color color =
-    Tailwind.Theme.internal.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing color
+    Tw.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing color
 
 
-{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `via-rose-900`, but with the color replaced by the first parameter.
+{-| [Tailwind](https://tailwindcss.com/docs) classes of the form `via-zinc-900`, but with the color replaced by the first parameter.
 -}
 via_color : Color -> Css.Style
 via_color color =
     Css.batch
-        [ Tailwind.Theme.withOpacity (Tailwind.Theme.Opacity "0") color
-            |> Tailwind.Theme.internal.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing
-        , Tailwind.Theme.internal.propertyWithColor "--tw-gradient-stops" (\c -> "var(--tw-gradient-from), " ++ c ++ ", var(--tw-gradient-to)") Nothing color
+        [ Tw.withOpacity (Tw.Opacity "0") color
+            |> Tw.propertyWithColor "--tw-gradient-to" (\c -> c) Nothing
+        , Tw.propertyWithColor "--tw-gradient-stops" (\c -> "var(--tw-gradient-from), " ++ c ++ ", var(--tw-gradient-to)") Nothing color
         ]
